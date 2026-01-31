@@ -726,31 +726,16 @@ def filter_insecure_configs(configs: list[str]) -> list[str]:
     return safe_configs
 
 # -------------------- GITHUB ФУНКЦИИ --------------------
-def create_subscription_file(working_configs: list) -> str:
-    """Создает файл подписки с рабочими конфигами."""
-    # Дедупликация рабочих конфигов перед созданием файла
-    config_urls = [cfg['config'] for cfg in working_configs]
-    unique_config_urls = deduplicate_configs(config_urls, show_log=False)
-    
-    # Фильтруем небезопасные конфиги
-    safe_config_urls = filter_insecure_configs(unique_config_urls)
-    
-    subscription_content = "\n".join(safe_config_urls)
+def create_subscription_file(configs: list[str]) -> str:
+    """Создает файл подписки со всеми Hysteria2 конфигами."""
+    subscription_content = "\n".join(configs)
     
     # Сохраняем локально
     subscription_file = "subscription.txt"
     with open(subscription_file, "w", encoding="utf-8") as f:
         f.write(subscription_content)
     
-    removed_duplicates = len(working_configs) - len(unique_config_urls)
-    removed_insecure = len(unique_config_urls) - len(safe_config_urls)
-    
-    if removed_duplicates > 0:
-        log(f"🔍 Удалено {removed_duplicates} дубликатов из рабочих конфигов")
-    if removed_insecure > 0:
-        log(f"🔒 Удалено {removed_insecure} небезопасных конфигов (insecure=1)")
-    
-    log(f"📝 Создан файл подписки: {subscription_file} ({len(safe_config_urls)} безопасных уникальных конфигов)")
+    log(f"📝 Создан файл подписки: {subscription_file} ({len(configs)} конфигов)")
     return subscription_file
 
 def upload_to_github(file_path: str, remote_path: str, content: str = None):
@@ -854,124 +839,26 @@ def main():
     else:
         log(f"📊 Всего найдено уникальных Hysteria2 конфигов: {len(unique_configs)}")
     
-    # Проверяем конфиги
-    log(f"🔍 Начинаем проверку {len(unique_configs)} конфигов...")
-    working_configs = []
-    checked_count = 0
-    failed_count = 0
-    
-    def check_one_config(config):
-        nonlocal checked_count, failed_count
-        try:
-            result = check_config(config)
-            checked_count += 1
-            if result:
-                working_configs.append(result)
-                log(f"✅ [{checked_count}/{len(unique_configs)}] Рабочий: {result['host']}:{result['port']} ({result['country']}) - Ping: {result['ping']}ms - Speed: {result['speed']}")
-            else:
-                failed_count += 1
-                # Показываем прогресс каждые 50 проверок для ускорения вывода
-                if checked_count % 50 == 0:
-                    progress_pct = (checked_count / len(unique_configs)) * 100
-                    log(f"📊 Прогресс: {checked_count}/{len(unique_configs)} ({progress_pct:.1f}%) | Рабочих: {len(working_configs)} | Недоступных: {failed_count}")
-            return result
-        except Exception as e:
-            checked_count += 1
-            failed_count += 1
-            return None
-    
-    # Увеличиваем количество потоков для проверки
-    max_check_workers = min(DEFAULT_MAX_WORKERS, 100)
-    log(f"⚙️ Используется {max_check_workers} параллельных потоков для проверки")
-    
-    with concurrent.futures.ThreadPoolExecutor(max_workers=max_check_workers) as executor:
-        futures = [executor.submit(check_one_config, config) for config in unique_configs]
-        for future in concurrent.futures.as_completed(futures):
-            _ = future.result()
-    
-    # Статистика
-    success_rate = (len(working_configs) / len(unique_configs) * 100) if unique_configs else 0
-    log(f"✅ Найдено рабочих конфигов: {len(working_configs)} из {len(unique_configs)} ({success_rate:.1f}%)")
-    
-    if not working_configs:
-        log("⚠️ Рабочих конфигов не найдено!")
+    if not unique_configs:
+        log("⚠️ Конфигов не найдено!")
         log("✨ Работа завершена!")
         return
     
-    # Сортируем по ping
-    working_configs.sort(key=lambda x: x['ping'])
+    # Сортируем конфиги по хосту для удобства
+    def get_sort_key(config):
+        try:
+            parsed = parse_hysteria2_url(config)
+            if parsed:
+                return (parsed['host'].lower(), parsed['port'])
+            return (config.lower(), 0)
+        except:
+            return (config.lower(), 0)
     
-    # Статистика по странам
-    countries = {}
-    for config in working_configs:
-        country = config['country']
-        countries[country] = countries.get(country, 0) + 1
-    
-    # Статистика по скорости
-    speeds = {}
-    for config in working_configs:
-        speed = config['speed']
-        speeds[speed] = speeds.get(speed, 0) + 1
-    
-    # Сохраняем результаты
-    tz = get_timezone()
-    if tz:
-        timestamp = datetime.now(tz).strftime("%Y%m%d_%H%M%S")
-        date_str = datetime.now(tz).strftime('%d.%m.%Y %H:%M:%S')
-    else:
-        timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
-        date_str = datetime.utcnow().strftime('%d.%m.%Y %H:%M:%S')
-    output_file = f"results/hysteria2_results_{timestamp}.txt"
-    
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write("=" * 80 + "\n")
-        f.write("HYSTERIA2 CONFIG CHECKER - РЕЗУЛЬТАТЫ ПРОВЕРКИ\n")
-        f.write("=" * 80 + "\n")
-        f.write(f"Дата проверки: {date_str}\n")
-        f.write(f"Всего проверено: {len(unique_configs)}\n")
-        f.write(f"Рабочих конфигов: {len(working_configs)} ({success_rate:.1f}%)\n")
-        f.write(f"Недоступных: {failed_count}\n")
-        f.write("\n")
-        
-        # Статистика по странам
-        if countries:
-            f.write("СТАТИСТИКА ПО СТРАНАМ:\n")
-            f.write("-" * 80 + "\n")
-            for country, count in sorted(countries.items(), key=lambda x: x[1], reverse=True):
-                f.write(f"  {country}: {count} конфигов\n")
-            f.write("\n")
-        
-        # Статистика по скорости
-        if speeds:
-            f.write("СТАТИСТИКА ПО СКОРОСТИ:\n")
-            f.write("-" * 80 + "\n")
-            for speed, count in sorted(speeds.items(), key=lambda x: x[1], reverse=True):
-                f.write(f"  {speed}: {count} конфигов\n")
-            f.write("\n")
-        
-        f.write("=" * 80 + "\n")
-        f.write("ДЕТАЛЬНЫЕ РЕЗУЛЬТАТЫ (отсортированы по ping):\n")
-        f.write("=" * 80 + "\n\n")
-        
-        for i, config_info in enumerate(working_configs, 1):
-            f.write(f"{i}. Конфиг: {config_info['config']}\n")
-            f.write(f"   Хост: {config_info['host']}:{config_info['port']}\n")
-            f.write(f"   Страна: {config_info['country']}\n")
-            f.write(f"   Ping: {config_info['ping']} ms\n")
-            f.write(f"   Скорость: {config_info['speed']}\n")
-            if config_info.get('connection_time'):
-                f.write(f"   Время соединения: {config_info['connection_time']} сек\n")
-            if config_info.get('transfer_time'):
-                f.write(f"   Время передачи: {config_info['transfer_time']} сек\n")
-            if config_info.get('total_time'):
-                f.write(f"   Общее время: {config_info['total_time']} сек\n")
-            f.write("\n")
-    
-    log(f"💾 Результаты сохранены в {output_file}")
-    log(f"📊 Статистика: {len(countries)} стран, {len(speeds)} категорий скорости")
+    unique_configs.sort(key=get_sort_key)
+    log(f"✅ Всего уникальных Hysteria2 конфигов: {len(unique_configs)}")
     
     # Создаем файл подписки
-    subscription_file = create_subscription_file(working_configs)
+    subscription_file = create_subscription_file(unique_configs)
     
     # Загружаем в GitHub если настроено
     if GITHUB_TOKEN and GITHUB_REPO_NAME:
@@ -984,17 +871,20 @@ def main():
         upload_to_github(subscription_file, "subscription.txt", subscription_content)
         
         # Создаем README с информацией о подписке
-        readme_content = f"""# Hysteria2 Working Configs
+        tz = get_timezone()
+        if tz:
+            date_str = datetime.now(tz).strftime('%d.%m.%Y %H:%M:%S')
+        else:
+            date_str = datetime.utcnow().strftime('%d.%m.%Y %H:%M:%S')
+        
+        readme_content = f"""# Hysteria2 Configs Subscription
 
-Автоматически обновляемая подписка с проверенными рабочими Hysteria2 конфигами.
+Автоматически обновляемая подписка с Hysteria2 конфигами из различных источников.
 
 ## 📊 Статистика последнего обновления
 
 - **Дата обновления:** {date_str}
-- **Всего проверено:** {len(unique_configs)} конфигов
-- **Рабочих конфигов:** {len(working_configs)} ({success_rate:.1f}%)
-- **Стран:** {len(countries)}
-- **Категорий скорости:** {len(speeds)}
+- **Всего конфигов:** {len(unique_configs)}
 
 ## 🔗 Ссылка на подписку
 
@@ -1014,21 +904,9 @@ https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/subscriptio
 ### Вручную
 Скачайте файл `subscription.txt` и импортируйте конфиги в ваш клиент.
 
-## 📈 Статистика по странам
-
-"""
-        for country, count in sorted(countries.items(), key=lambda x: x[1], reverse=True):
-            readme_content += f"- {country}: {count} конфигов\n"
-        
-        readme_content += "\n## ⚡ Статистика по скорости\n\n"
-        for speed, count in sorted(speeds.items(), key=lambda x: x[1], reverse=True):
-            readme_content += f"- {speed}: {count} конфигов\n"
-        
-        readme_content += f"""
-
 ## 🔄 Автоматическое обновление
 
-Этот репозиторий автоматически обновляется каждый час с проверенными рабочими конфигами.
+Этот репозиторий автоматически обновляется каждый час с новыми конфигами из 70+ источников.
 
 ---
 *Последнее обновление: {date_str}*
