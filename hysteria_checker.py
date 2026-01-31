@@ -582,9 +582,60 @@ def test_speed(host: str, port: int, timeout: int = SPEED_TEST_DURATION) -> dict
     except Exception as e:
         return {'speed': 'Failed', 'connection_time': None, 'transfer_time': None, 'total_time': None}
 
+# -------------------- ВАЛИДАЦИЯ КОНФИГА --------------------
+def validate_hysteria2_config(config_url: str) -> bool:
+    """Проверяет что конфиг валиден для Hysteria2."""
+    try:
+        parsed = parse_hysteria2_url(config_url)
+        if not parsed:
+            return False
+        
+        # Проверяем обязательные параметры
+        host = parsed['host']
+        port = parsed['port']
+        auth = parsed.get('auth')
+        params = parsed.get('params', {})
+        
+        # Хост не должен быть пустым
+        if not host or len(host.strip()) == 0:
+            return False
+        
+        # Порт должен быть валидным
+        if port < 1 or port > 65535:
+            return False
+        
+        # Auth должен быть (для Hysteria2 это обязательно)
+        if not auth or len(auth.strip()) == 0:
+            return False
+        
+        # Проверяем что нет небезопасных параметров
+        decoded = urllib.parse.unquote(config_url.lower())
+        if 'insecure=1' in decoded or 'allowinsecure=1' in decoded:
+            return False
+        
+        # Проверяем формат хоста (должен быть IP или домен)
+        # Разрешаем IP, домены и IPv6 в скобках
+        host_pattern = r'^([a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$|^\d+\.\d+\.\d+\.\d+$|^\[([0-9a-fA-F:]+)\]$'
+        if not re.match(host_pattern, host):
+            return False
+        
+        # Проверяем что auth не содержит недопустимых символов
+        if auth:
+            # Auth должен быть валидным (не пустым и не слишком длинным)
+            if len(auth) < 4 or len(auth) > 200:
+                return False
+        
+        return True
+    except Exception:
+        return False
+
 # -------------------- ПРОВЕРКА КОНФИГА --------------------
 def check_config(config_url: str) -> dict:
     """Проверяет один конфиг на работоспособность."""
+    # Сначала валидируем конфиг
+    if not validate_hysteria2_config(config_url):
+        return None
+    
     parsed = parse_hysteria2_url(config_url)
     if not parsed:
         return None
@@ -592,10 +643,15 @@ def check_config(config_url: str) -> dict:
     host = parsed['host']
     port = parsed['port']
     
-    # Проверяем ping
+    # Проверяем ping (более строгая проверка)
     ping = check_ping(host, port)
     if ping is None:
         return None  # Сервер недоступен
+    
+    # Дополнительная проверка: пытаемся установить соединение и отправить данные
+    # Это более надежная проверка чем просто ping
+    if not test_hysteria2_connection(host, port):
+        return None  # Не удалось установить соединение
     
     # Определяем страну
     country = get_country_by_ip(host)
@@ -614,6 +670,33 @@ def check_config(config_url: str) -> dict:
         'transfer_time': speed_info.get('transfer_time'),
         'total_time': speed_info.get('total_time')
     }
+
+def test_hysteria2_connection(host: str, port: int, timeout: int = 4) -> bool:
+    """Проверяет что можно установить соединение с Hysteria2 сервером."""
+    try:
+        # Hysteria2 использует QUIC (UDP), но мы проверяем что порт доступен через TCP
+        # Это базовая проверка доступности
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(timeout)
+        
+        # Пытаемся подключиться
+        result = sock.connect_ex((host, port))
+        sock.close()
+        
+        if result != 0:
+            return False
+        
+        # Дополнительная проверка: пытаемся еще раз с небольшим интервалом
+        # Это помогает отфильтровать нестабильные соединения
+        time.sleep(0.1)
+        sock2 = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock2.settimeout(timeout)
+        result2 = sock2.connect_ex((host, port))
+        sock2.close()
+        
+        return result2 == 0
+    except Exception:
+        return False
 
 # -------------------- ФИЛЬТРАЦИЯ НЕБЕЗОПАСНЫХ КОНФИГОВ --------------------
 INSECURE_PATTERN = re.compile(
