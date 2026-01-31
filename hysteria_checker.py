@@ -615,6 +615,33 @@ def check_config(config_url: str) -> dict:
         'total_time': speed_info.get('total_time')
     }
 
+# -------------------- ФИЛЬТРАЦИЯ НЕБЕЗОПАСНЫХ КОНФИГОВ --------------------
+INSECURE_PATTERN = re.compile(
+    r'(?:[?&;]|3%[Bb])(allowinsecure|allow_insecure|insecure)=(?:1|true|yes)(?:[&;#]|$|(?=\s|$))',
+    re.IGNORECASE
+)
+
+def filter_insecure_configs(configs: list[str]) -> list[str]:
+    """Фильтрует конфиги с insecure=1 или allowInsecure=1."""
+    safe_configs = []
+    filtered_count = 0
+    
+    for config in configs:
+        # Декодируем URL для проверки
+        decoded = urllib.parse.unquote(config)
+        
+        # Проверяем на наличие insecure параметров
+        if INSECURE_PATTERN.search(decoded):
+            filtered_count += 1
+            continue
+        
+        safe_configs.append(config)
+    
+    if filtered_count > 0:
+        log(f"🔒 Отфильтровано {filtered_count} небезопасных конфигов (insecure=1)")
+    
+    return safe_configs
+
 # -------------------- GITHUB ФУНКЦИИ --------------------
 def create_subscription_file(working_configs: list) -> str:
     """Создает файл подписки с рабочими конфигами."""
@@ -622,17 +649,25 @@ def create_subscription_file(working_configs: list) -> str:
     config_urls = [cfg['config'] for cfg in working_configs]
     unique_config_urls = deduplicate_configs(config_urls, show_log=False)
     
-    subscription_content = "\n".join(unique_config_urls)
+    # Фильтруем небезопасные конфиги
+    safe_config_urls = filter_insecure_configs(unique_config_urls)
+    
+    subscription_content = "\n".join(safe_config_urls)
     
     # Сохраняем локально
     subscription_file = "subscription.txt"
     with open(subscription_file, "w", encoding="utf-8") as f:
         f.write(subscription_content)
     
-    removed = len(working_configs) - len(unique_config_urls)
-    if removed > 0:
-        log(f"🔍 Удалено {removed} дубликатов из рабочих конфигов перед созданием подписки")
-    log(f"📝 Создан файл подписки: {subscription_file} ({len(unique_config_urls)} уникальных конфигов)")
+    removed_duplicates = len(working_configs) - len(unique_config_urls)
+    removed_insecure = len(unique_config_urls) - len(safe_config_urls)
+    
+    if removed_duplicates > 0:
+        log(f"🔍 Удалено {removed_duplicates} дубликатов из рабочих конфигов")
+    if removed_insecure > 0:
+        log(f"🔒 Удалено {removed_insecure} небезопасных конфигов (insecure=1)")
+    
+    log(f"📝 Создан файл подписки: {subscription_file} ({len(safe_config_urls)} безопасных уникальных конфигов)")
     return subscription_file
 
 def upload_to_github(file_path: str, remote_path: str, content: str = None):
