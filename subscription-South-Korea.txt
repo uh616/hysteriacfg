@@ -1,2 +1,2 @@
-hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@193.122.102.11:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
+hysteria2://fbf28ef0-3981-4ac6-ab33-95e599afdd99@kr2.miyazono-kaori.com:42329?insecure=1&obfs=salamander&obfs-password=rVYx28ncsHBinunc&sni=kr2.miyazono-kaori.com#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.3MB%2Fs
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sr1.mangshe.xyz:2056?security=tls&insecure=1&sni=sr1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
