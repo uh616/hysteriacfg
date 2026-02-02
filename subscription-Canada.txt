@@ -1,0 +1,5 @@
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@140.238.132.152:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇨🇦%20CA%20down
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@140.238.137.165:30102?insecure=1&sni=du.wish.ml#🔒
+hy2://3119106b-df7c-4a28-af3d-88af9dbea193@141.195.112.28:9988?insecure=1#🔒
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@68.183.199.224:10001?sni=CA.1010520.shop#🔒
+hysteria2://6d68ba2c-89b9-475d-a193-1cd65571e037@jnd.dabache.top:443?insecure=1&sni=jnd.dabache.top#%E6%9C%AA%E7%9F%A5_0202236171
