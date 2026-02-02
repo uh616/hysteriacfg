@@ -63,10 +63,11 @@ CHROME_UA = (
     "Chrome/143.0.0.0 Safari/537.36"
 )
 
-DEFAULT_MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "50"))  # Увеличено для быстрой проверки
-TIMEOUT = 10
+DEFAULT_MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "30"))  # Уменьшено для стабильности
+TIMEOUT = 8  # Уменьшено для более быстрой обработки
 PING_TIMEOUT = 3  # Уменьшено для быстрой проверки недоступных серверов
 SPEED_TEST_DURATION = 3  # Уменьшено для быстрой проверки скорости
+MAX_FETCH_TIME = 15  # Максимальное время на один запрос (секунды)
 
 # URL источников конфигов
 CONFIG_URLS = [
@@ -208,7 +209,7 @@ def _build_session(max_pool_size: int) -> requests.Session:
 REQUESTS_SESSION = _build_session(max_pool_size=max(DEFAULT_MAX_WORKERS, len(ALL_URLS)))
 
 # -------------------- ЗАГРУЗКА ДАННЫХ --------------------
-def fetch_data(url: str, timeout: int = TIMEOUT, max_attempts: int = 3) -> str:
+def fetch_data(url: str, timeout: int = TIMEOUT, max_attempts: int = 2) -> str:
     """Загружает данные по URL с повторными попытками."""
     for attempt in range(1, max_attempts + 1):
         try:
@@ -217,20 +218,36 @@ def fetch_data(url: str, timeout: int = TIMEOUT, max_attempts: int = 3) -> str:
 
             if attempt == 2:
                 verify = False
-            elif attempt == 3:
-                parsed = urllib.parse.urlparse(url)
-                if parsed.scheme == "https":
-                    modified_url = parsed._replace(scheme="http").geturl()
-                verify = False
+                # Для второй попытки используем более короткий таймаут
+                timeout = min(timeout, 5)
 
-            response = REQUESTS_SESSION.get(modified_url, timeout=timeout, verify=verify)
+            # Используем более короткий таймаут для избежания зависаний
+            actual_timeout = min(timeout, MAX_FETCH_TIME)
+            
+            response = REQUESTS_SESSION.get(modified_url, timeout=actual_timeout, verify=verify)
             response.raise_for_status()
+            
+            # Ограничиваем размер ответа (максимум 10MB)
+            if len(response.content) > 10 * 1024 * 1024:
+                log(f"⚠️ Ответ слишком большой от {url}, пропускаем")
+                return ""
+            
             return response.text
 
+        except requests.exceptions.Timeout:
+            if attempt < max_attempts:
+                continue
+            log(f"⏱️ Таймаут при загрузке {url}")
+            return ""
         except requests.exceptions.RequestException as exc:
             if attempt < max_attempts:
                 continue
             log(f"⚠️ Ошибка при загрузке {url}: {str(exc)[:100]}")
+            return ""
+        except Exception as exc:
+            if attempt < max_attempts:
+                continue
+            log(f"⚠️ Неожиданная ошибка при загрузке {url}: {str(exc)[:100]}")
             return ""
 
 # -------------------- ПАРСИНГ КОНФИГОВ --------------------
@@ -496,8 +513,17 @@ def check_ping(host: str, port: int, timeout: int = PING_TIMEOUT) -> float | Non
         return None
 
 # -------------------- ОПРЕДЕЛЕНИЕ СТРАНЫ --------------------
-def get_country_by_ip(host: str) -> str:
-    """Определяет страну по IP адресу."""
+_COUNTRY_CACHE = {}
+_COUNTRY_CACHE_LOCK = threading.Lock()
+
+def get_country_by_ip(host: str, use_cache: bool = True) -> str:
+    """Определяет страну по IP адресу с кэшированием."""
+    # Проверяем кэш
+    if use_cache:
+        with _COUNTRY_CACHE_LOCK:
+            if host in _COUNTRY_CACHE:
+                return _COUNTRY_CACHE[host]
+    
     try:
         # Пытаемся получить IP из хоста
         try:
@@ -505,24 +531,83 @@ def get_country_by_ip(host: str) -> str:
         except:
             # Если это уже IP
             if not re.match(r'^\d+\.\d+\.\d+\.\d+$', host):
-                return "Unknown"
+                country = "Unknown"
+                if use_cache:
+                    with _COUNTRY_CACHE_LOCK:
+                        _COUNTRY_CACHE[host] = country
+                return country
             ip = host
         
         # Используем бесплатный API для определения страны
         try:
             response = REQUESTS_SESSION.get(
                 f"http://ip-api.com/json/{ip}?fields=country",
-                timeout=5
+                timeout=3
             )
             if response.status_code == 200:
                 data = response.json()
-                return data.get('country', 'Unknown')
+                country = data.get('country', 'Unknown')
+                if use_cache:
+                    with _COUNTRY_CACHE_LOCK:
+                        _COUNTRY_CACHE[host] = country
+                return country
         except:
             pass
         
-        return "Unknown"
+        country = "Unknown"
+        if use_cache:
+            with _COUNTRY_CACHE_LOCK:
+                _COUNTRY_CACHE[host] = country
+        return country
     except Exception as e:
-        return "Unknown"
+        country = "Unknown"
+        if use_cache:
+            with _COUNTRY_CACHE_LOCK:
+                _COUNTRY_CACHE[host] = country
+        return country
+
+def get_countries_for_configs(configs: list[str]) -> dict[str, list[str]]:
+    """Определяет страны для всех конфигов и группирует их."""
+    configs_by_country = {}
+    total = len(configs)
+    processed = 0
+    
+    def process_config(config):
+        nonlocal processed
+        try:
+            parsed = parse_hysteria2_url(config)
+            if not parsed:
+                return None, "Unknown"
+            
+            host = parsed['host']
+            country = get_country_by_ip(host)
+            processed += 1
+            
+            if processed % 50 == 0:
+                log(f"🌍 Определение стран: {processed}/{total} ({processed*100//total}%)")
+            
+            return config, country
+        except:
+            processed += 1
+            return None, "Unknown"
+    
+    log(f"🌍 Определение стран для {total} конфигов...")
+    
+    # Используем параллельную обработку для определения стран
+    with concurrent.futures.ThreadPoolExecutor(max_workers=min(20, total)) as executor:
+        futures = [executor.submit(process_config, config) for config in configs]
+        for future in concurrent.futures.as_completed(futures):
+            try:
+                config, country = future.result(timeout=10)
+                if config:
+                    if country not in configs_by_country:
+                        configs_by_country[country] = []
+                    configs_by_country[country].append(config)
+            except:
+                pass
+    
+    log(f"✅ Определение стран завершено: найдено {len(configs_by_country)} стран")
+    return configs_by_country
 
 # -------------------- ПРОВЕРКА СКОРОСТИ --------------------
 def test_speed(host: str, port: int, timeout: int = SPEED_TEST_DURATION) -> dict:
@@ -726,17 +811,209 @@ def filter_insecure_configs(configs: list[str]) -> list[str]:
     return safe_configs
 
 # -------------------- GITHUB ФУНКЦИИ --------------------
-def create_subscription_file(configs: list[str]) -> str:
+def create_subscription_file(configs: list[str], filename: str = "subscription.txt") -> str:
     """Создает файл подписки со всеми Hysteria2 конфигами."""
     subscription_content = "\n".join(configs)
     
     # Сохраняем локально
-    subscription_file = "subscription.txt"
-    with open(subscription_file, "w", encoding="utf-8") as f:
+    with open(filename, "w", encoding="utf-8") as f:
         f.write(subscription_content)
     
-    log(f"📝 Создан файл подписки: {subscription_file} ({len(configs)} конфигов)")
-    return subscription_file
+    log(f"📝 Создан файл подписки: {filename} ({len(configs)} конфигов)")
+    return filename
+
+def get_country_flag_emoji(country: str) -> str:
+    """Возвращает эмодзи флага для страны."""
+    # Расширенный список стран с эмодзи флагами
+    flags = {
+        "United States": "🇺🇸", "US": "🇺🇸",
+        "Russia": "🇷🇺", "RU": "🇷🇺",
+        "China": "🇨🇳", "CN": "🇨🇳",
+        "Japan": "🇯🇵", "JP": "🇯🇵",
+        "South Korea": "🇰🇷", "KR": "🇰🇷",
+        "Germany": "🇩🇪", "DE": "🇩🇪",
+        "United Kingdom": "🇬🇧", "GB": "🇬🇧",
+        "France": "🇫🇷", "FR": "🇫🇷",
+        "Singapore": "🇸🇬", "SG": "🇸🇬",
+        "Netherlands": "🇳🇱", "NL": "🇳🇱",
+        "Canada": "🇨🇦", "CA": "🇨🇦",
+        "Australia": "🇦🇺", "AU": "🇦🇺",
+        "India": "🇮🇳", "IN": "🇮🇳",
+        "Brazil": "🇧🇷", "BR": "🇧🇷",
+        "Turkey": "🇹🇷", "TR": "🇹🇷",
+        "Italy": "🇮🇹", "IT": "🇮🇹",
+        "Spain": "🇪🇸", "ES": "🇪🇸",
+        "Sweden": "🇸🇪", "SE": "🇸🇪",
+        "Switzerland": "🇨🇭", "CH": "🇨🇭",
+        "Poland": "🇵🇱", "PL": "🇵🇱",
+        "Ukraine": "🇺🇦", "UA": "🇺🇦",
+        "Taiwan": "🇹🇼", "TW": "🇹🇼",
+        "Hong Kong": "🇭🇰", "HK": "🇭🇰",
+        "Thailand": "🇹🇭", "TH": "🇹🇭",
+        "Vietnam": "🇻🇳", "VN": "🇻🇳",
+        "Indonesia": "🇮🇩", "ID": "🇮🇩",
+        "Malaysia": "🇲🇾", "MY": "🇲🇾",
+        "Philippines": "🇵🇭", "PH": "🇵🇭",
+        "Israel": "🇮🇱", "IL": "🇮🇱",
+        "Saudi Arabia": "🇸🇦", "SA": "🇸🇦",
+        "United Arab Emirates": "🇦🇪", "AE": "🇦🇪",
+        "Egypt": "🇪🇬", "EG": "🇪🇬",
+        "South Africa": "🇿🇦", "ZA": "🇿🇦",
+        "Mexico": "🇲🇽", "MX": "🇲🇽",
+        "Argentina": "🇦🇷", "AR": "🇦🇷",
+        "Chile": "🇨🇱", "CL": "🇨🇱",
+        "Colombia": "🇨🇴", "CO": "🇨🇴",
+        "Peru": "🇵🇪", "PE": "🇵🇪",
+        "Venezuela": "🇻🇪", "VE": "🇻🇪",
+        "Belgium": "🇧🇪", "BE": "🇧🇪",
+        "Austria": "🇦🇹", "AT": "🇦🇹",
+        "Czech Republic": "🇨🇿", "CZ": "🇨🇿",
+        "Denmark": "🇩🇰", "DK": "🇩🇰",
+        "Finland": "🇫🇮", "FI": "🇫🇮",
+        "Greece": "🇬🇷", "GR": "🇬🇷",
+        "Hungary": "🇭🇺", "HU": "🇭🇺",
+        "Ireland": "🇮🇪", "IE": "🇮🇪",
+        "Norway": "🇳🇴", "NO": "🇳🇴",
+        "Portugal": "🇵🇹", "PT": "🇵🇹",
+        "Romania": "🇷🇴", "RO": "🇷🇴",
+        "Bulgaria": "🇧🇬", "BG": "🇧🇬",
+        "Croatia": "🇭🇷", "HR": "🇭🇷",
+        "Serbia": "🇷🇸", "RS": "🇷🇸",
+        "Slovakia": "🇸🇰", "SK": "🇸🇰",
+        "Slovenia": "🇸🇮", "SI": "🇸🇮",
+        "Kazakhstan": "🇰🇿", "KZ": "🇰🇿",
+        "Belarus": "🇧🇾", "BY": "🇧🇾",
+        "Unknown": "🌐"
+    }
+    return flags.get(country, "🌐")
+
+def create_readme(configs_by_country: dict[str, list[str]], total_configs: int) -> str:
+    """Создает красивый README с статистикой по странам."""
+    tz = get_timezone()
+    if tz:
+        date_str = datetime.now(tz).strftime('%d.%m.%Y %H:%M:%S')
+    else:
+        date_str = datetime.utcnow().strftime('%d.%m.%Y %H:%M:%S')
+    
+    # Сортируем страны по количеству конфигов
+    sorted_countries = sorted(
+        configs_by_country.items(),
+        key=lambda x: len(x[1]),
+        reverse=True
+    )
+    
+    # Формируем статистику по странам
+    country_stats = []
+    for country, configs in sorted_countries:
+        flag = get_country_flag_emoji(country)
+        count = len(configs)
+        percentage = (count * 100) // total_configs if total_configs > 0 else 0
+        country_stats.append(f"| {flag} {country} | {count} | {percentage}% |")
+    
+    country_stats_text = "\n".join(country_stats)
+    
+    # Формируем ссылки на подписки по странам
+    subscription_links = []
+    for country, configs in sorted_countries:
+        flag = get_country_flag_emoji(country)
+        # Создаем безопасное имя файла (убираем пробелы и спецсимволы)
+        safe_country = country.replace(" ", "-").replace("/", "-")
+        filename = f"subscription-{safe_country}.txt"
+        subscription_links.append(
+            f"- {flag} **{country}** ({len(configs)} конфигов): "
+            f"`https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{filename}`"
+        )
+    
+    subscription_links_text = "\n".join(subscription_links)
+    
+    readme_content = f"""# 🚀 Hysteria2 Configs Subscription
+
+<div align="center">
+
+### 🌍 Автоматически обновляемая подписка с Hysteria2 конфигами
+
+[![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/{GITHUB_REPO_NAME}/actions)
+[![Total Configs](https://img.shields.io/badge/Total-{total_configs}-blue)](./subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-{date_str.replace(' ', '_')}-orange)](./subscription.txt)
+
+</div>
+
+---
+
+## 📊 Статистика последнего обновления
+
+- **📅 Дата обновления:** `{date_str}`
+- **📦 Всего конфигов:** `{total_configs}`
+- **🌍 Стран:** `{len(configs_by_country)}`
+
+## 📈 Распределение по странам
+
+| Страна | Конфигов | Процент |
+|--------|----------|---------|
+{country_stats_text}
+
+---
+
+## 🔗 Ссылки на подписки
+
+### 📥 Все конфиги
+
+```
+https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/subscription.txt
+```
+
+### 🌍 Подписки по странам
+
+{subscription_links_text}
+
+---
+
+## 📥 Как использовать
+
+### Hysteria2 клиент
+
+1. Откройте настройки клиента
+2. Добавьте подписку (выберите нужную ссылку выше)
+3. Конфиги будут автоматически обновляться
+
+### V2RayN / Nekoray / Clash
+
+1. Скопируйте ссылку на подписку
+2. Вставьте в настройках подписок
+3. Обновите подписку
+
+---
+
+## 🔄 Автоматическое обновление
+
+Этот репозиторий автоматически обновляется **каждый час** с новыми конфигами из **70+ источников**.
+
+- ⏰ **Расписание:** Каждый час (00:00 UTC)
+- 🔍 **Источники:** 70+ публичных репозиториев
+- 🧹 **Дедупликация:** Автоматическое удаление дубликатов
+- 🌍 **Группировка:** По странам для удобства
+
+---
+
+## ⚡ Быстрый старт
+
+1. Выберите подписку из списка выше (все конфиги или по стране)
+2. Скопируйте ссылку
+3. Добавьте в ваш клиент Hysteria2
+4. Готово! 🎉
+
+---
+
+<div align="center">
+
+**⭐ Если проект полезен, поставьте звезду!**
+
+*Последнее обновление: {date_str}*
+
+</div>
+"""
+    
+    return readme_content
 
 def upload_to_github(file_path: str, remote_path: str, content: str = None):
     """Загружает файл в GitHub репозиторий."""
@@ -814,7 +1091,6 @@ def main():
         try:
             data = fetch_data(url)
             if not data:
-                log(f"⚠️ Пустой ответ от {url}")
                 return []
             configs = extract_hysteria2_configs(data)
             if configs:
@@ -824,11 +1100,27 @@ def main():
             log(f"⚠️ Ошибка при обработке {url.split('/')[-1]}: {str(e)[:100]}")
             return []
     
-    with concurrent.futures.ThreadPoolExecutor(max_workers=min(DEFAULT_MAX_WORKERS, len(ALL_URLS))) as executor:
-        futures = [executor.submit(download_and_extract, url) for url in ALL_URLS]
+    # Используем более консервативное количество воркеров
+    max_workers = min(DEFAULT_MAX_WORKERS, len(ALL_URLS), 30)
+    log(f"📥 Используется {max_workers} параллельных потоков")
+    
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {executor.submit(download_and_extract, url): url for url in ALL_URLS}
+        
+        completed = 0
         for future in concurrent.futures.as_completed(futures):
-            configs = future.result()
-            all_configs.extend(configs)
+            completed += 1
+            try:
+                configs = future.result(timeout=30)  # Таймаут на результат
+                all_configs.extend(configs)
+            except concurrent.futures.TimeoutError:
+                log(f"⏱️ Таймаут при обработке {futures[future].split('/')[-1]}")
+            except Exception as e:
+                log(f"⚠️ Ошибка при получении результата: {str(e)[:100]}")
+            
+            # Показываем прогресс каждые 10 URL
+            if completed % 10 == 0:
+                log(f"📊 Прогресс: {completed}/{len(ALL_URLS)} источников обработано, найдено {len(all_configs)} конфигов")
     
     # Умная дедупликация
     log(f"🔍 Найдено конфигов до дедупликации: {len(all_configs)}")
@@ -857,66 +1149,47 @@ def main():
     unique_configs.sort(key=get_sort_key)
     log(f"✅ Всего уникальных Hysteria2 конфигов: {len(unique_configs)}")
     
-    # Создаем файл подписки
-    subscription_file = create_subscription_file(unique_configs)
+    # Определяем страны для всех конфигов
+    configs_by_country = get_countries_for_configs(unique_configs)
+    
+    # Создаем основной файл подписки со всеми конфигами
+    subscription_file = create_subscription_file(unique_configs, "subscription.txt")
     
     # Загружаем в GitHub если настроено
     if GITHUB_TOKEN and GITHUB_REPO_NAME:
         log("📤 Загрузка файлов в GitHub...")
         
-        # Загружаем файл подписки
+        # Загружаем основной файл подписки
         with open(subscription_file, "r", encoding="utf-8") as f:
             subscription_content = f.read()
         
         upload_to_github(subscription_file, "subscription.txt", subscription_content)
         
-        # Создаем README с информацией о подписке
-        tz = get_timezone()
-        if tz:
-            date_str = datetime.now(tz).strftime('%d.%m.%Y %H:%M:%S')
-        else:
-            date_str = datetime.utcnow().strftime('%d.%m.%Y %H:%M:%S')
+        # Создаем файлы подписок по странам
+        log(f"🌍 Создание подписок по странам ({len(configs_by_country)} стран)...")
+        for country, configs in configs_by_country.items():
+            # Создаем безопасное имя файла
+            safe_country = country.replace(" ", "-").replace("/", "-")
+            country_filename = f"subscription-{safe_country}.txt"
+            
+            # Создаем файл подписки для страны
+            create_subscription_file(configs, country_filename)
+            
+            # Загружаем в GitHub
+            with open(country_filename, "r", encoding="utf-8") as f:
+                country_content = f.read()
+            
+            upload_to_github(country_filename, country_filename, country_content)
+            log(f"  ✅ {country}: {len(configs)} конфигов → {country_filename}")
         
-        readme_content = f"""# Hysteria2 Configs Subscription
-
-Автоматически обновляемая подписка с Hysteria2 конфигами из различных источников.
-
-## 📊 Статистика последнего обновления
-
-- **Дата обновления:** {date_str}
-- **Всего конфигов:** {len(unique_configs)}
-
-## 🔗 Ссылка на подписку
-
-Используйте эту ссылку для автоматического обновления конфигов:
-
-```
-https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/subscription.txt
-```
-
-## 📥 Как использовать
-
-### Hysteria2 клиент
-1. Откройте настройки клиента
-2. Добавьте подписку: `https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/subscription.txt`
-3. Конфиги будут автоматически обновляться
-
-### Вручную
-Скачайте файл `subscription.txt` и импортируйте конфиги в ваш клиент.
-
-## 🔄 Автоматическое обновление
-
-Этот репозиторий автоматически обновляется каждый час с новыми конфигами из 70+ источников.
-
----
-*Последнее обновление: {date_str}*
-"""
-        
+        # Создаем красивый README
+        readme_content = create_readme(configs_by_country, len(unique_configs))
         upload_to_github("README.md", "README.md", readme_content)
         
         # Формируем URL подписки
         subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/subscription.txt"
-        log(f"🔗 URL подписки: {subscription_url}")
+        log(f"🔗 URL основной подписки: {subscription_url}")
+        log(f"🌍 Создано {len(configs_by_country)} подписок по странам")
     else:
         log("ℹ️ GitHub не настроен. Для автоматической загрузки установите переменные окружения:")
         log("   GITHUB_TOKEN=your_token")

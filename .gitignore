@@ -7,6 +7,7 @@ ENV/
 results/
 *.txt
 !subscription.txt
+!subscription-*.txt
 
 # Python
 __pycache__/

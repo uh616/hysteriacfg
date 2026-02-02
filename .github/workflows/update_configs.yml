@@ -12,25 +12,30 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 30  # Максимальное время выполнения
     permissions:
       contents: write  # Необходимо для коммита и пуша
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0  # Полная история для правильного rebase
+      continue-on-error: false
       
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
+      continue-on-error: false
         
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+      continue-on-error: false
+      timeout-minutes: 5
         
     - name: Run Hysteria2 Checker
       env:
@@ -39,29 +44,52 @@ jobs:
         GITHUB_BRANCH: main
       run: |
         python hysteria_checker.py
-        
+      continue-on-error: false
+      timeout-minutes: 20
+      
     - name: Commit and push if changed
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        set -e
+        
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
         # Получаем последние изменения из репозитория
         git fetch origin main || true
+        
+        # Пробуем синхронизироваться с удаленным репозиторием
         git pull origin main --rebase || git pull origin main || true
         
-        # Добавляем изменения
-        git add subscription.txt README.md || true
+        # Проверяем наличие файлов перед добавлением
+        if [ -f "subscription.txt" ]; then
+          git add subscription.txt || true
+        fi
+        if [ -f "README.md" ]; then
+          git add README.md || true
+        fi
+        # Добавляем все файлы подписок по странам
+        git add subscription-*.txt || true
         
         # Коммитим только если есть изменения
         if ! git diff --staged --quiet; then
-          git commit -m "🔄 Автоматическое обновление конфигов: $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "🔄 Автоматическое обновление конфигов: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || exit 0
           
-          # Пробуем push с rebase если нужно
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main || \
-          (git pull origin main --rebase && git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main)
+          # Пробуем push несколько раз с задержкой
+          for i in 1 2 3; do
+            if git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main; then
+              echo "✅ Push успешно выполнен"
+              break
+            else
+              echo "⚠️ Попытка $i не удалась, пробуем синхронизироваться..."
+              git pull origin main --rebase || git pull origin main || true
+              sleep 2
+            fi
+          done
         else
-          echo "Нет изменений для коммита"
+          echo "ℹ️ Нет изменений для коммита"
         fi
+      continue-on-error: true
+      timeout-minutes: 5
 
