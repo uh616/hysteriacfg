@@ -1,4 +1,4 @@
-name: Update Hysteria2 Configs
+name: Update Proxy Configs
 
 on:
   schedule:
@@ -37,13 +37,13 @@ jobs:
       continue-on-error: false
       timeout-minutes: 5
         
-    - name: Run Hysteria2 Checker
+    - name: Run Config Collector
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_REPO_NAME: ${{ github.repository }}
         GITHUB_BRANCH: main
       run: |
-        python hysteria_checker.py
+        python config_collector.py
       continue-on-error: false
       timeout-minutes: 20
       
@@ -62,15 +62,10 @@ jobs:
         # Пробуем синхронизироваться с удаленным репозиторием
         git pull origin main --rebase || git pull origin main || true
         
-        # Проверяем наличие файлов перед добавлением
-        if [ -f "subscription.txt" ]; then
-          git add subscription.txt || true
-        fi
-        if [ -f "README.md" ]; then
-          git add README.md || true
-        fi
-        # Добавляем все файлы подписок по странам
-        git add subscription-*.txt || true
+        # Добавляем все файлы из папок протоколов
+        git add */subscription.txt */subscription-*.txt */best-*.txt */qr-codes/*.png || true
+        # Добавляем README и другие файлы
+        git add README.md config_collector.py requirements.txt || true
         
         # Коммитим только если есть изменения
         if ! git diff --staged --quiet; then

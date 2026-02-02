@@ -1,6 +1,6 @@
 """
-Hysteria2 Config Checker
-Скрипт для проверки работоспособности Hysteria2 конфигов
+Multi-Protocol Config Collector
+Скрипт для сбора и организации конфигов различных протоколов (Hysteria2, VLESS, VMESS, Shadowsocks, Trojan)
 """
 
 from requests.adapters import HTTPAdapter
@@ -429,7 +429,7 @@ def extract_trojan_configs(data: str) -> list[str]:
 def normalize_config_url(config_url: str) -> str:
     """Нормализует URL конфига для сравнения (универсальная для всех протоколов)."""
     try:
-        # Для не-Hysteria2 протоколов просто возвращаем как есть (можно улучшить позже)
+        # Для других протоколов просто возвращаем как есть (можно улучшить позже)
         if not config_url.startswith(('hysteria2://', 'hy2://', 'vless://', 'vmess://', 'ss://', 'shadowsocks://', 'trojan://')):
             return config_url
         
@@ -1120,7 +1120,7 @@ def create_numbered_subscriptions(configs: list[str], protocol_folder: str, max_
 
 # -------------------- GITHUB ФУНКЦИИ --------------------
 def create_subscription_file(configs: list[str], filename: str = "subscription.txt") -> str:
-    """Создает файл подписки со всеми Hysteria2 конфигами."""
+    """Создает файл подписки со всеми конфигами."""
     subscription_content = "\n".join(configs)
     
     # Сохраняем локально
@@ -1237,7 +1237,7 @@ def create_readme(configs_by_country: dict[str, list[str]], total_configs: int) 
     
     subscription_links_text = "\n".join(subscription_links)
     
-    readme_content = f"""# 🚀 Hysteria2 Configs Subscription
+    readme_content = f"""# ⚡ REBORN CFG
 
 <div align="center">
 
@@ -1369,7 +1369,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
             reverse=True
         )
         
-        # Таблица по странам
+        # Таблица по странам (топ 10)
         country_table = []
         for country, configs in sorted_countries[:10]:  # Топ 10 стран
             flag = get_country_flag_emoji(country)
@@ -1380,6 +1380,17 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
             country_table.append(f"| {flag} {country} | {count} | {percentage}% | [📥]({subscription_url}) |")
         
         country_table_text = "\n".join(country_table) if country_table else "| - | - | - | - |"
+        
+        # Полный список стран для спойлера
+        all_countries_list = []
+        for country, configs in sorted_countries:
+            flag = get_country_flag_emoji(country)
+            count = len(configs)
+            safe_country = country.replace(" ", "-").replace("/", "-")
+            subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
+            all_countries_list.append(f"- {flag} **{country}** ({count} конфигов): `{subscription_url}`")
+        
+        all_countries_text = "\n".join(all_countries_list) if all_countries_list else "- Нет конфигов"
         
         # Основная ссылка на подписку
         main_subscription = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription.txt"
@@ -1413,18 +1424,25 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 |--------|----------|---------|----------|
 {country_table_text}
 
+<details>
+<summary>🌍 Все страны ({len(sorted_countries)} стран) - нажмите чтобы развернуть</summary>
+
+{all_countries_text}
+
+</details>
+
 """
         protocol_sections.append(protocol_section)
     
     protocol_sections_text = "\n".join(protocol_sections)
     
-    readme_content = f"""# 🚀 Proxy Configs Subscription
+    readme_content = f"""# ⚡ REBORN CFG
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/Untitled_without_bg.png" alt="Logo" width="200" style="margin-bottom: 20px;">
 
-### 🌍 Автоматически обновляемая подписка с конфигами прокси
+### 🌅 Перерождение • Новая жизнь • Свобода без границ
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/{GITHUB_REPO_NAME}/actions)
 [![Total Configs](https://img.shields.io/badge/Total-{total_configs}-blue)](./hysteria2/subscription.txt)
@@ -1468,8 +1486,6 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 ### 🕐 616 минут
 
 [![Telegram](https://img.shields.io/badge/Telegram-616%20минут-0088cc?style=for-the-badge&logo=telegram)](https://t.me/solnechniyre6enok)
-
-**📢 [Telegram канал](https://t.me/solnechniyre6enok)**
 
 </div>
 
@@ -1562,7 +1578,7 @@ def upload_to_github(file_path: str, remote_path: str, content: str = None, is_b
 
 # -------------------- ОСНОВНАЯ ФУНКЦИЯ --------------------
 def main():
-    log("🚀 Начало работы Hysteria2 Checker")
+    log("🚀 Начало работы Multi-Protocol Config Collector")
     
     # Создаем директорию для результатов
     if not os.path.exists("results"):
