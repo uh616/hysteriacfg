@@ -1,0 +1,2 @@
+hysteria2://767ed51d-2358-4981-9447-a807c1419e93@103.62.49.132:55000?insecure=1&sni=fastcdn.hoyoverse.com#JP5%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@217.142.225.38:443?insecure=1&sni=www.bing.com#🔒
