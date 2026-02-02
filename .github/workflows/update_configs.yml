@@ -63,7 +63,7 @@ jobs:
         git pull origin main --rebase || git pull origin main || true
         
         # Добавляем все файлы из папок протоколов
-        git add */subscription.txt */subscription-*.txt */best-*.txt */qr-codes/*.png || true
+        git add */subscription.txt */subscription-*.txt */best-*.txt */subscription-qr.png || true
         # Добавляем README и другие файлы
         git add README.md config_collector.py requirements.txt || true
         

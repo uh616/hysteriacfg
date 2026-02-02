@@ -1,3 +1,0 @@
-hy2://2d347be7-909b-4410-af92-95a1abf7e531@158.179.18.251:35000?insecure=1&sni=api.push.apple.com#🔒
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.164.54:443?insecure=1&sni=www.bing.com#🔒

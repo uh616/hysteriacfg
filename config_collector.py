@@ -1063,33 +1063,11 @@ def generate_qr_code(config_url: str, output_path: str) -> bool:
     except Exception:
         return False
 
-def generate_qr_codes_for_subscription(subscription_file: str, qr_folder: str = "qr-codes") -> int:
-    """Генерирует QR-коды для всех конфигов в подписке."""
+def generate_qr_for_subscription_url(subscription_url: str, output_path: str) -> bool:
+    """Генерирует QR-код для ссылки на подписку."""
     if not QRCODE_AVAILABLE:
-        return 0
-    
-    try:
-        os.makedirs(qr_folder, exist_ok=True)
-        
-        with open(subscription_file, "r", encoding="utf-8") as f:
-            configs = [line.strip() for line in f if line.strip()]
-        
-        generated = 0
-        for i, config in enumerate(configs[:100], 1):  # Ограничиваем до 100 QR-кодов
-            # Создаем безопасное имя файла
-            safe_name = f"config-{i:03d}.png"
-            qr_path = os.path.join(qr_folder, safe_name)
-            
-            if generate_qr_code(config, qr_path):
-                generated += 1
-        
-        if generated > 0:
-            log(f"📱 Сгенерировано {generated} QR-кодов в {qr_folder}/")
-        
-        return generated
-    except Exception as e:
-        log(f"⚠️ Ошибка при генерации QR-кодов: {str(e)[:100]}")
-        return 0
+        return False
+    return generate_qr_code(subscription_url, output_path)
 
 # -------------------- НУМЕРОВАННЫЕ ПОДПИСКИ --------------------
 def create_numbered_subscriptions(configs: list[str], protocol_folder: str, max_subscriptions: int = 10) -> list[str]:
@@ -1395,6 +1373,10 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         # Основная ссылка на подписку
         main_subscription = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription.txt"
         
+        # QR код для основной подписки
+        qr_filename = f"{protocol_folder}/subscription-qr.png"
+        qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
+        
         # Рекомендуемые нумерованные подписки (best-1, best-2, best-3)
         recommended_subs = []
         for i in [1, 2, 3]:
@@ -1413,10 +1395,12 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 {main_subscription}
 ```
 
+**📱 QR-код подписки:**
+
+<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">
+
 **⭐ Рекомендуемые подписки:**
 {recommended_text}
-
-**📱 QR-коды:** [Просмотр](https://github.com/{GITHUB_REPO_NAME}/tree/main/{protocol_folder}/qr-codes)
 
 **📊 Топ стран:**
 
@@ -1725,17 +1709,13 @@ def main():
             if numbered_subs:
                 log(f"  📋 Создано {len(numbered_subs)} нумерованных подписок")
             
-            # Генерируем QR-коды для основной подписки
-            qr_folder = f"{protocol_folder}/qr-codes"
-            qr_generated = generate_qr_codes_for_subscription(subscription_file, qr_folder)
+            # Генерируем QR-код для основной подписки
+            qr_filename = f"{protocol_folder}/subscription-qr.png"
+            subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{subscription_file}"
             
-            # Загружаем QR-коды в GitHub
-            if qr_generated > 0:
-                for qr_file in os.listdir(qr_folder):
-                    if qr_file.endswith('.png'):
-                        qr_path = os.path.join(qr_folder, qr_file)
-                        qr_remote = os.path.join(qr_folder, qr_file)
-                        upload_to_github(qr_path, qr_remote, is_binary=True)
+            if generate_qr_for_subscription_url(subscription_url, qr_filename):
+                upload_to_github(qr_filename, qr_filename, is_binary=True)
+                log(f"  📱 QR-код для основной подписки создан")
             
             # Создаем файлы подписок по странам
             configs_by_country = stats['by_country']

@@ -1,6 +1,0 @@
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.145.203.148:2052?insecure=1&sni=bl1.mangshe.xyz#🔒
-hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.145.212.30:443?mport=21000-26000&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-141.145.212.30:443
-hy2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=con.bitplatform-servers.com#🔒
-hy2://9974b6a7-9c0e-423b-a77b-87ac90465d81@38.242.215.250:11924?obfs=salamander&obfs-password=HxAZoyubMe5ADvIs&sni=con.shellcorp.ir#🔒
-hy2://f40b1e441addaec3@45.76.44.57:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@37.187.197.252:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA1

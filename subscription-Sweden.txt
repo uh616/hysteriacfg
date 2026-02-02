@@ -1,6 +1,0 @@
-hy2://undefined@193.188.21.227:28188?insecure=1&sni=ir.ir.ir.speedtest.net.iririr.monster#🔒
-hy2://SaGzcLS4pP@193.233.115.211:443?obfs=salamander&obfs-password=3fhqoeu51pqm&insecure=1#hysteria2
-hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@45.8.147.250:53038?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=mobile.ir#🔒
-hy2://d2e21fabfe6ddb83@70.34.205.24:443?obfs=salamander&obfs-password=ca39a177&insecure=1&sni=www.apple.com#🔒
-hy2://18240b2dfdd76484@70.34.207.153:443?obfs=salamander&obfs-password=d2648ec2&insecure=1&sni=70.34.207.153#🔒
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20943842

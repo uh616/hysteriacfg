@@ -1,2 +1,0 @@
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA4

@@ -1,2 +1,0 @@
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@81.208.175.184:2052?insecure=1&sni=jd1.mangshe.xyz#🔒
-hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2056?security=tls&insecure=1&sni=jd1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇦%20SA%20down
