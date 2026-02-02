@@ -517,7 +517,7 @@ _COUNTRY_CACHE = {}
 _COUNTRY_CACHE_LOCK = threading.Lock()
 
 def get_country_by_ip(host: str, use_cache: bool = True) -> str:
-    """Определяет страну по IP адресу с кэшированием."""
+    """Определяет страну по IP адресу с кэшированием и несколькими API."""
     # Проверяем кэш
     if use_cache:
         with _COUNTRY_CACHE_LOCK:
@@ -526,31 +526,77 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
     
     try:
         # Пытаемся получить IP из хоста
+        ip = None
         try:
             ip = socket.gethostbyname(host)
         except:
             # Если это уже IP
-            if not re.match(r'^\d+\.\d+\.\d+\.\d+$', host):
-                country = "Unknown"
-                if use_cache:
-                    with _COUNTRY_CACHE_LOCK:
-                        _COUNTRY_CACHE[host] = country
-                return country
-            ip = host
+            if re.match(r'^\d+\.\d+\.\d+\.\d+$', host):
+                ip = host
+            else:
+                # Пробуем еще раз с большим таймаутом
+                try:
+                    socket.setdefaulttimeout(5)
+                    ip = socket.gethostbyname(host)
+                except:
+                    pass
         
-        # Используем бесплатный API для определения страны
+        if not ip:
+            country = "Unknown"
+            if use_cache:
+                with _COUNTRY_CACHE_LOCK:
+                    _COUNTRY_CACHE[host] = country
+            return country
+        
+        # Пробуем несколько API для определения страны
+        apis = [
+            # ip-api.com (бесплатный, до 45 запросов/минуту)
+            (f"http://ip-api.com/json/{ip}?fields=country", "country", 5),
+            # ipapi.co (бесплатный, до 1000 запросов/день)
+            (f"https://ipapi.co/{ip}/country_name/", None, 5),
+            # ip-api.com с другим форматом
+            (f"https://ip-api.com/json/{ip}?fields=country", "country", 5),
+        ]
+        
+        for api_url, json_key, timeout in apis:
+            try:
+                response = REQUESTS_SESSION.get(api_url, timeout=timeout)
+                if response.status_code == 200:
+                    if json_key:
+                        # JSON ответ
+                        data = response.json()
+                        country = data.get(json_key, '').strip()
+                        if country and country != 'Unknown' and country != '':
+                            if use_cache:
+                                with _COUNTRY_CACHE_LOCK:
+                                    _COUNTRY_CACHE[host] = country
+                            return country
+                    else:
+                        # Текстовый ответ
+                        country = response.text.strip()
+                        if country and country != 'Unknown' and country != '' and len(country) < 100:
+                            if use_cache:
+                                with _COUNTRY_CACHE_LOCK:
+                                    _COUNTRY_CACHE[host] = country
+                            return country
+            except:
+                continue
+        
+        # Если все API не сработали, пробуем еще раз с ip-api.com (основной)
         try:
             response = REQUESTS_SESSION.get(
-                f"http://ip-api.com/json/{ip}?fields=country",
-                timeout=3
+                f"http://ip-api.com/json/{ip}?fields=country,status",
+                timeout=8
             )
             if response.status_code == 200:
                 data = response.json()
-                country = data.get('country', 'Unknown')
-                if use_cache:
-                    with _COUNTRY_CACHE_LOCK:
-                        _COUNTRY_CACHE[host] = country
-                return country
+                if data.get('status') == 'success':
+                    country = data.get('country', 'Unknown')
+                    if country and country != 'Unknown':
+                        if use_cache:
+                            with _COUNTRY_CACHE_LOCK:
+                                _COUNTRY_CACHE[host] = country
+                        return country
         except:
             pass
         
@@ -594,11 +640,13 @@ def get_countries_for_configs(configs: list[str]) -> dict[str, list[str]]:
     log(f"🌍 Определение стран для {total} конфигов...")
     
     # Используем параллельную обработку для определения стран
-    with concurrent.futures.ThreadPoolExecutor(max_workers=min(20, total)) as executor:
+    # Уменьшаем количество воркеров чтобы не превысить лимиты API (45 запросов/минуту для ip-api.com)
+    max_workers = min(10, total)  # Уменьшено с 20 до 10
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [executor.submit(process_config, config) for config in configs]
         for future in concurrent.futures.as_completed(futures):
             try:
-                config, country = future.result(timeout=10)
+                config, country = future.result(timeout=15)  # Увеличено с 10 до 15
                 if config:
                     if country not in configs_by_country:
                         configs_by_country[country] = []
@@ -902,13 +950,16 @@ def create_readme(configs_by_country: dict[str, list[str]], total_configs: int) 
         reverse=True
     )
     
-    # Формируем статистику по странам
+    # Формируем статистику по странам с ссылками
     country_stats = []
     for country, configs in sorted_countries:
         flag = get_country_flag_emoji(country)
         count = len(configs)
         percentage = (count * 100) // total_configs if total_configs > 0 else 0
-        country_stats.append(f"| {flag} {country} | {count} | {percentage}% |")
+        safe_country = country.replace(" ", "-").replace("/", "-")
+        filename = f"subscription-{safe_country}.txt"
+        subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{filename}"
+        country_stats.append(f"| {flag} {country} | {count} | {percentage}% | [📥 Подписка]({subscription_url}) |")
     
     country_stats_text = "\n".join(country_stats)
     
@@ -930,6 +981,8 @@ def create_readme(configs_by_country: dict[str, list[str]], total_configs: int) 
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/Untitled_without_bg.png" alt="Logo" width="200" style="margin-bottom: 20px;">
+
 ### 🌍 Автоматически обновляемая подписка с Hysteria2 конфигами
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/{GITHUB_REPO_NAME}/actions)
@@ -948,8 +1001,8 @@ def create_readme(configs_by_country: dict[str, list[str]], total_configs: int) 
 
 ## 📈 Распределение по странам
 
-| Страна | Конфигов | Процент |
-|--------|----------|---------|
+| Страна | Конфигов | Процент | Подписка |
+|--------|----------|---------|----------|
 {country_stats_text}
 
 ---
@@ -984,23 +1037,26 @@ https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/subscriptio
 
 ---
 
-## 🔄 Автоматическое обновление
-
-Этот репозиторий автоматически обновляется **каждый час** с новыми конфигами из **70+ источников**.
-
-- ⏰ **Расписание:** Каждый час (00:00 UTC)
-- 🔍 **Источники:** 70+ публичных репозиториев
-- 🧹 **Дедупликация:** Автоматическое удаление дубликатов
-- 🌍 **Группировка:** По странам для удобства
-
----
-
 ## ⚡ Быстрый старт
 
 1. Выберите подписку из списка выше (все конфиги или по стране)
 2. Скопируйте ссылку
 3. Добавьте в ваш клиент Hysteria2
 4. Готово! 🎉
+
+---
+
+## 👤 Автор
+
+<div align="center">
+
+### 🕐 616 минут
+
+[![Telegram](https://img.shields.io/badge/Telegram-616%20минут-0088cc?style=for-the-badge&logo=telegram)](https://t.me/solnechniyre6enok)
+
+**📢 [Telegram канал](https://t.me/solnechniyre6enok)**
+
+</div>
 
 ---
 
@@ -1015,7 +1071,7 @@ https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/subscriptio
     
     return readme_content
 
-def upload_to_github(file_path: str, remote_path: str, content: str = None):
+def upload_to_github(file_path: str, remote_path: str, content: str = None, is_binary: bool = False):
     """Загружает файл в GitHub репозиторий."""
     if not GITHUB_AVAILABLE:
         log("⚠️ PyGithub не установлен. Установите: pip install PyGithub")
@@ -1029,10 +1085,24 @@ def upload_to_github(file_path: str, remote_path: str, content: str = None):
         g = Github(auth=Auth.Token(GITHUB_TOKEN))
         repo = g.get_repo(GITHUB_REPO_NAME)
         
+        # Определяем, является ли файл бинарным
+        if not is_binary and content is None:
+            # Проверяем по расширению
+            binary_extensions = {'.png', '.jpg', '.jpeg', '.gif', '.ico', '.svg', '.pdf', '.zip', '.exe', '.dll', '.so', '.dylib'}
+            file_ext = os.path.splitext(file_path)[1].lower()
+            is_binary = file_ext in binary_extensions
+        
         # Читаем содержимое файла если не передано
         if content is None:
-            with open(file_path, "r", encoding="utf-8") as f:
-                content = f.read()
+            if is_binary:
+                # Читаем бинарный файл и кодируем в base64
+                with open(file_path, "rb") as f:
+                    binary_content = f.read()
+                    content = base64.b64encode(binary_content).decode('utf-8')
+            else:
+                # Читаем текстовый файл
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read()
         
         # Пытаемся получить существующий файл
         try:
@@ -1064,7 +1134,7 @@ def upload_to_github(file_path: str, remote_path: str, content: str = None):
             
             repo.create_file(
                 path=remote_path,
-                message=f"🆕 Создан файл подписки: {timestamp}",
+                message=f"🆕 Создан файл: {timestamp}",
                 content=content,
                 branch=GITHUB_BRANCH
             )
@@ -1181,6 +1251,23 @@ def main():
             
             upload_to_github(country_filename, country_filename, country_content)
             log(f"  ✅ {country}: {len(configs)} конфигов → {country_filename}")
+        
+        # Загружаем логотип один раз, если его еще нет в репозитории
+        logo_path = "Untitled_without_bg.png"
+        if os.path.exists(logo_path) and GITHUB_AVAILABLE:
+            try:
+                g = Github(auth=Auth.Token(GITHUB_TOKEN))
+                repo = g.get_repo(GITHUB_REPO_NAME)
+                # Проверяем, существует ли файл в репозитории
+                try:
+                    repo.get_contents(logo_path, ref=GITHUB_BRANCH)
+                    # Файл уже существует, не загружаем
+                except Exception:
+                    # Файла нет, загружаем один раз
+                    log("🖼️ Загрузка логотипа в GitHub (первый раз)...")
+                    upload_to_github(logo_path, logo_path, is_binary=True)
+            except Exception as e:
+                log(f"⚠️ Не удалось проверить/загрузить логотип: {str(e)[:100]}")
         
         # Создаем красивый README
         readme_content = create_readme(configs_by_country, len(unique_configs))
