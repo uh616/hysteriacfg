@@ -1,0 +1,12 @@
+hy2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=google.com#🔒
+hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@141.148.200.80:2052?insecure=1&sni=in1.xiaoliyu.us#🔒
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.201.7:2052?insecure=1&sni=mm2.mangshe.xyz#🔒
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.204.183:2052?insecure=1&sni=mm1.mangshe.xyz#🔒
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@141.148.208.213:443?insecure=1&sni=www.bing.com#🔒
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@141.148.223.173:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@142.93.215.128:10001?sni=IN.1010520.shop#🔒
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.24.101.176:30102?insecure=1&sni=in4.wish.ml#🔒
+hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@144.24.129.30:2052?insecure=1&sni=ch1.xiaoliyu.us#🔒
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.145.69:2052?insecure=1&sni=hdlb1.mangshe.xyz#🔒
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.153.219:443?insecure=1&sni=www.bing.com#🔒
+hy2://sysadmin.sysadmin@170.205.54.5:443?insecure=1#🔒
