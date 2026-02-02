@@ -74,7 +74,13 @@ jobs:
         
         # Коммитим только если есть изменения
         if ! git diff --staged --quiet; then
-          git commit -m "🔄 Автоматическое обновление конфигов: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || exit 0
+          # Вычисляем версию на основе количества коммитов
+          COMMIT_COUNT=$(git rev-list --count HEAD)
+          VERSION_MINOR=$((COMMIT_COUNT % 10))
+          VERSION_PATCH=$((COMMIT_COUNT / 10 % 10))
+          VERSION_MAJOR=$((COMMIT_COUNT / 100 + 1))
+          VERSION="v${VERSION_MAJOR}.${VERSION_PATCH}.${VERSION_MINOR}"
+          git commit -m "616 ${VERSION}" || exit 0
           
           # Пробуем push несколько раз с задержкой
           for i in 1 2 3; do
