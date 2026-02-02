@@ -1,0 +1,1 @@
+hy2://81ea378b37931b23@77.221.158.52:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=www.google.com#🔒
