@@ -1,2 +1,2 @@
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@103.241.65.25:443?mport=22000-22999#🔒
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
+hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2056?security=tls&insecure=1&sni=ld1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇬🇧%20GB%20down
