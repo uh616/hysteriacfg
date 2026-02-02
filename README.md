@@ -6,7 +6,7 @@
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/uh616/HYSTERIACFG/actions)
 [![Total Configs](https://img.shields.io/badge/Total-940-blue)](./subscription.txt)
-[![Last Update](https://img.shields.io/badge/Last_Update-03.02.2026_02:28:36-orange)](./subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-03.02.2026_02:30:33-orange)](./subscription.txt)
 
 </div>
 
@@ -14,32 +14,30 @@
 
 ## 📊 Статистика последнего обновления
 
-- **📅 Дата обновления:** `03.02.2026 02:28:36`
+- **📅 Дата обновления:** `03.02.2026 02:30:33`
 - **📦 Всего конфигов:** `940`
-- **🌍 Стран:** `18`
+- **🌍 Стран:** `16`
 
 ## 📈 Распределение по странам
 
 | Страна | Конфигов | Процент |
 |--------|----------|---------|
-| 🌐 Unknown | 843 | 89% |
-| 🇺🇸 United States | 30 | 3% |
-| 🇹🇼 Taiwan | 13 | 1% |
-| 🇩🇪 Germany | 10 | 1% |
-| 🇸🇬 Singapore | 9 | 0% |
+| 🌐 Unknown | 840 | 89% |
+| 🇺🇸 United States | 40 | 4% |
+| 🇹🇼 Taiwan | 16 | 1% |
+| 🇸🇬 Singapore | 12 | 1% |
+| 🇯🇵 Japan | 7 | 0% |
 | 🇭🇰 Hong Kong | 7 | 0% |
-| 🇯🇵 Japan | 6 | 0% |
-| 🇧🇷 Brazil | 3 | 0% |
+| 🇮🇳 India | 3 | 0% |
+| 🇨🇳 China | 3 | 0% |
 | 🇷🇺 Russia | 3 | 0% |
-| 🌐 The Netherlands | 3 | 0% |
-| 🇮🇳 India | 2 | 0% |
 | 🇬🇧 United Kingdom | 2 | 0% |
-| 🇦🇺 Australia | 2 | 0% |
-| 🌐 Türkiye | 2 | 0% |
 | 🇰🇷 South Korea | 2 | 0% |
-| 🇳🇱 Netherlands | 1 | 0% |
+| 🇩🇪 Germany | 1 | 0% |
+| 🇫🇷 France | 1 | 0% |
 | 🇵🇱 Poland | 1 | 0% |
-| 🌐 Lithuania | 1 | 0% |
+| 🇧🇷 Brazil | 1 | 0% |
+| 🌐 Türkiye | 1 | 0% |
 
 ---
 
@@ -53,24 +51,22 @@ https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription.txt
 
 ### 🌍 Подписки по странам
 
-- 🌐 **Unknown** (843 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Unknown.txt`
-- 🇺🇸 **United States** (30 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-United-States.txt`
-- 🇹🇼 **Taiwan** (13 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Taiwan.txt`
-- 🇩🇪 **Germany** (10 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Germany.txt`
-- 🇸🇬 **Singapore** (9 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Singapore.txt`
+- 🌐 **Unknown** (840 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Unknown.txt`
+- 🇺🇸 **United States** (40 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-United-States.txt`
+- 🇹🇼 **Taiwan** (16 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Taiwan.txt`
+- 🇸🇬 **Singapore** (12 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Singapore.txt`
+- 🇯🇵 **Japan** (7 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Japan.txt`
 - 🇭🇰 **Hong Kong** (7 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Hong-Kong.txt`
-- 🇯🇵 **Japan** (6 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Japan.txt`
-- 🇧🇷 **Brazil** (3 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Brazil.txt`
+- 🇮🇳 **India** (3 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-India.txt`
+- 🇨🇳 **China** (3 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-China.txt`
 - 🇷🇺 **Russia** (3 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Russia.txt`
-- 🌐 **The Netherlands** (3 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-The-Netherlands.txt`
-- 🇮🇳 **India** (2 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-India.txt`
 - 🇬🇧 **United Kingdom** (2 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-United-Kingdom.txt`
-- 🇦🇺 **Australia** (2 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Australia.txt`
-- 🌐 **Türkiye** (2 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Türkiye.txt`
 - 🇰🇷 **South Korea** (2 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-South-Korea.txt`
-- 🇳🇱 **Netherlands** (1 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Netherlands.txt`
+- 🇩🇪 **Germany** (1 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Germany.txt`
+- 🇫🇷 **France** (1 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-France.txt`
 - 🇵🇱 **Poland** (1 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Poland.txt`
-- 🌐 **Lithuania** (1 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Lithuania.txt`
+- 🇧🇷 **Brazil** (1 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Brazil.txt`
+- 🌐 **Türkiye** (1 конфигов): `https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription-Türkiye.txt`
 
 ---
 
@@ -114,6 +110,6 @@ https://raw.githubusercontent.com/uh616/HYSTERIACFG/main/subscription.txt
 
 **⭐ Если проект полезен, поставьте звезду!**
 
-*Последнее обновление: 03.02.2026 02:28:36*
+*Последнее обновление: 03.02.2026 02:30:33*
 
 </div>
