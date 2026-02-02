@@ -53,6 +53,15 @@ try:
 except ImportError:
     GITHUB_AVAILABLE = False
 
+# QR Code (опционально)
+QRCODE_AVAILABLE = False
+try:
+    import qrcode
+    from PIL import Image
+    QRCODE_AVAILABLE = True
+except ImportError:
+    QRCODE_AVAILABLE = False
+
 # Отключаем предупреждения SSL
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -296,61 +305,185 @@ def extract_hysteria2_configs(data: str) -> list[str]:
     unique_configs = list(dict.fromkeys(cleaned_configs))
     return unique_configs
 
-def normalize_config_url(config_url: str) -> str:
-    """Нормализует URL конфига для сравнения (убирает лишние параметры, сортирует параметры)."""
+def extract_vless_configs(data: str) -> list[str]:
+    """Извлекает все VLESS конфиги из текста."""
+    configs = []
+    data = re.sub(r'<[^>]+>', '', data)
+    patterns = [
+        r'vless://[^\s\n<>"\'\)]+',
+    ]
+    for pattern in patterns:
+        matches = re.findall(pattern, data, re.IGNORECASE)
+        configs.extend(matches)
+    # Base64 декодирование
     try:
-        if not config_url.startswith(('hysteria2://', 'hy2://')):
+        for padding in ['', '=', '==', '===']:
+            try:
+                decoded = base64.b64decode(data + padding).decode('utf-8', errors='ignore')
+                for pattern in patterns:
+                    matches = re.findall(pattern, decoded, re.IGNORECASE)
+                    configs.extend(matches)
+                break
+            except:
+                continue
+    except:
+        pass
+    cleaned_configs = []
+    for cfg in configs:
+        cfg = cfg.rstrip('.,;:!?)\'"')
+        if len(cfg) > 10 and ('://' in cfg):
+            cleaned_configs.append(cfg)
+    return list(dict.fromkeys(cleaned_configs))
+
+def extract_vmess_configs(data: str) -> list[str]:
+    """Извлекает все VMESS конфиги из текста."""
+    configs = []
+    data = re.sub(r'<[^>]+>', '', data)
+    patterns = [
+        r'vmess://[^\s\n<>"\'\)]+',
+    ]
+    for pattern in patterns:
+        matches = re.findall(pattern, data, re.IGNORECASE)
+        configs.extend(matches)
+    # Base64 декодирование
+    try:
+        for padding in ['', '=', '==', '===']:
+            try:
+                decoded = base64.b64decode(data + padding).decode('utf-8', errors='ignore')
+                for pattern in patterns:
+                    matches = re.findall(pattern, decoded, re.IGNORECASE)
+                    configs.extend(matches)
+                break
+            except:
+                continue
+    except:
+        pass
+    cleaned_configs = []
+    for cfg in configs:
+        cfg = cfg.rstrip('.,;:!?)\'"')
+        if len(cfg) > 10 and ('://' in cfg):
+            cleaned_configs.append(cfg)
+    return list(dict.fromkeys(cleaned_configs))
+
+def extract_shadowsocks_configs(data: str) -> list[str]:
+    """Извлекает все Shadowsocks конфиги из текста."""
+    configs = []
+    data = re.sub(r'<[^>]+>', '', data)
+    patterns = [
+        r'ss://[^\s\n<>"\'\)]+',
+        r'shadowsocks://[^\s\n<>"\'\)]+',
+    ]
+    for pattern in patterns:
+        matches = re.findall(pattern, data, re.IGNORECASE)
+        configs.extend(matches)
+    # Base64 декодирование
+    try:
+        for padding in ['', '=', '==', '===']:
+            try:
+                decoded = base64.b64decode(data + padding).decode('utf-8', errors='ignore')
+                for pattern in patterns:
+                    matches = re.findall(pattern, decoded, re.IGNORECASE)
+                    configs.extend(matches)
+                break
+            except:
+                continue
+    except:
+        pass
+    cleaned_configs = []
+    for cfg in configs:
+        cfg = cfg.rstrip('.,;:!?)\'"')
+        if len(cfg) > 10 and ('://' in cfg):
+            cleaned_configs.append(cfg)
+    return list(dict.fromkeys(cleaned_configs))
+
+def extract_trojan_configs(data: str) -> list[str]:
+    """Извлекает все Trojan конфиги из текста."""
+    configs = []
+    data = re.sub(r'<[^>]+>', '', data)
+    patterns = [
+        r'trojan://[^\s\n<>"\'\)]+',
+    ]
+    for pattern in patterns:
+        matches = re.findall(pattern, data, re.IGNORECASE)
+        configs.extend(matches)
+    # Base64 декодирование
+    try:
+        for padding in ['', '=', '==', '===']:
+            try:
+                decoded = base64.b64decode(data + padding).decode('utf-8', errors='ignore')
+                for pattern in patterns:
+                    matches = re.findall(pattern, decoded, re.IGNORECASE)
+                    configs.extend(matches)
+                break
+            except:
+                continue
+    except:
+        pass
+    cleaned_configs = []
+    for cfg in configs:
+        cfg = cfg.rstrip('.,;:!?)\'"')
+        if len(cfg) > 10 and ('://' in cfg):
+            cleaned_configs.append(cfg)
+    return list(dict.fromkeys(cleaned_configs))
+
+def normalize_config_url(config_url: str) -> str:
+    """Нормализует URL конфига для сравнения (универсальная для всех протоколов)."""
+    try:
+        # Для не-Hysteria2 протоколов просто возвращаем как есть (можно улучшить позже)
+        if not config_url.startswith(('hysteria2://', 'hy2://', 'vless://', 'vmess://', 'ss://', 'shadowsocks://', 'trojan://')):
             return config_url
         
-        # Нормализуем префикс
-        if config_url.startswith('hy2://'):
-            config_url = config_url.replace('hy2://', 'hysteria2://', 1)
-        
-        # Разделяем на части
-        url_part = config_url.split('://', 1)[1]
-        
-        # Убираем фрагмент (#...)
-        if '#' in url_part:
-            url_part = url_part.split('#')[0]
-        
-        # Разделяем на auth@host:port и параметры
-        if '@' in url_part:
-            auth_part, rest = url_part.split('@', 1)
-        else:
-            auth_part, rest = None, url_part
-        
-        # Разделяем host:port и параметры
-        if '?' in rest:
-            host_port, params_str = rest.split('?', 1)
-        else:
-            host_port, params_str = rest, ""
-        
-        # Нормализуем host:port (убираем лишние пробелы, приводим к нижнему регистру)
-        host_port = host_port.strip().lower()
-        
-        # Парсим и сортируем параметры для единообразия
-        params = {}
-        if params_str:
-            for param in params_str.split('&'):
-                if '=' in param:
-                    key, value = param.split('=', 1)
-                    key = key.strip().lower()
-                    value = urllib.parse.unquote(value).strip()
-                    # Игнорируем некоторые параметры которые не влияют на уникальность
-                    if key not in ['remarks', 'name', 'description', 'tag']:
-                        params[key] = value
-        
-        # Собираем обратно
-        normalized = f"hysteria2://"
-        if auth_part:
-            normalized += f"{auth_part}@"
-        normalized += host_port
-        if params:
-            sorted_params = sorted(params.items())
-            param_str = '&'.join([f"{k}={urllib.parse.quote(v)}" for k, v in sorted_params])
-            normalized += f"?{param_str}"
-        
-        return normalized
+        # Hysteria2 - полная нормализация
+        if config_url.startswith(('hysteria2://', 'hy2://')):
+            # Нормализуем префикс
+            if config_url.startswith('hy2://'):
+                config_url = config_url.replace('hy2://', 'hysteria2://', 1)
+            
+            # Разделяем на части
+            url_part = config_url.split('://', 1)[1]
+            
+            # Убираем фрагмент (#...)
+            if '#' in url_part:
+                url_part = url_part.split('#')[0]
+            
+            # Разделяем на auth@host:port и параметры
+            if '@' in url_part:
+                auth_part, rest = url_part.split('@', 1)
+            else:
+                auth_part, rest = None, url_part
+            
+            # Разделяем host:port и параметры
+            if '?' in rest:
+                host_port, params_str = rest.split('?', 1)
+            else:
+                host_port, params_str = rest, ""
+            
+            # Нормализуем host:port (убираем лишние пробелы, приводим к нижнему регистру)
+            host_port = host_port.strip().lower()
+            
+            # Парсим и сортируем параметры для единообразия
+            params = {}
+            if params_str:
+                for param in params_str.split('&'):
+                    if '=' in param:
+                        key, value = param.split('=', 1)
+                        key = key.strip().lower()
+                        value = urllib.parse.unquote(value).strip()
+                        # Игнорируем некоторые параметры которые не влияют на уникальность
+                        if key not in ['remarks', 'name', 'description', 'tag']:
+                            params[key] = value
+            
+            # Собираем обратно
+            normalized = f"hysteria2://"
+            if auth_part:
+                normalized += f"{auth_part}@"
+            normalized += host_port
+            if params:
+                sorted_params = sorted(params.items())
+                param_str = '&'.join([f"{k}={urllib.parse.quote(v)}" for k, v in sorted_params])
+                normalized += f"?{param_str}"
+            
+            return normalized
     except Exception:
         return config_url
 
@@ -375,11 +508,11 @@ def deduplicate_configs(configs: list[str], show_log: bool = True) -> list[str]:
             duplicates_full += 1
             continue
         
-        # Парсим для проверки host:port
-        parsed = parse_hysteria2_url(config)
-        if parsed:
-            host = parsed['host'].lower().strip()
-            port = parsed['port']
+        # Парсим для проверки host:port (универсально для всех протоколов)
+        host_port = extract_host_from_config(config)
+        if host_port:
+            host, port = host_port
+            host = host.lower().strip()
             hostport_key = f"{host}:{port}"
             
             # Проверяем дубликат по host:port
@@ -491,6 +624,55 @@ def parse_hysteria2_url(config_url: str) -> dict:
             'original': config_url
         }
     except Exception as e:
+        return None
+
+def extract_host_from_config(config_url: str) -> tuple[str, int] | None:
+    """Универсальная функция для извлечения хоста и порта из любого типа конфига."""
+    try:
+        # Hysteria2
+        if config_url.startswith(('hysteria2://', 'hy2://')):
+            parsed = parse_hysteria2_url(config_url)
+            if parsed:
+                return (parsed['host'], parsed['port'])
+        
+        # VLESS, VMESS, Trojan - формат protocol://uuid@host:port?params
+        elif config_url.startswith(('vless://', 'vmess://', 'trojan://')):
+            url_part = config_url.split('://', 1)[1]
+            if '#' in url_part:
+                url_part = url_part.split('#')[0]
+            if '@' in url_part:
+                _, rest = url_part.rsplit('@', 1)
+                if '?' in rest:
+                    host_port = rest.split('?')[0]
+                else:
+                    host_port = rest
+                if '[' in host_port and ']' in host_port:
+                    match = re.match(r'\[([^\]]+)\]:(\d+)', host_port)
+                    if match:
+                        return (match.group(1), int(match.group(2)))
+                elif ':' in host_port:
+                    parts = host_port.rsplit(':', 1)
+                    if len(parts) == 2 and parts[1].isdigit():
+                        return (parts[0], int(parts[1]))
+        
+        # Shadowsocks - формат ss://base64@host:port или ss://method:password@host:port
+        elif config_url.startswith('ss://'):
+            url_part = config_url.split('://', 1)[1]
+            if '#' in url_part:
+                url_part = url_part.split('#')[0]
+            if '@' in url_part:
+                _, rest = url_part.rsplit('@', 1)
+                if '[' in rest and ']' in rest:
+                    match = re.match(r'\[([^\]]+)\]:(\d+)', rest)
+                    if match:
+                        return (match.group(1), int(match.group(2)))
+                elif ':' in rest:
+                    parts = rest.rsplit(':', 1)
+                    if len(parts) == 2 and parts[1].isdigit():
+                        return (parts[0], int(parts[1]))
+        
+        return None
+    except:
         return None
 
 # -------------------- ПРОВЕРКА ПИНГА --------------------
@@ -613,7 +795,7 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
         return country
 
 def get_countries_for_configs(configs: list[str]) -> dict[str, list[str]]:
-    """Определяет страны для всех конфигов и группирует их."""
+    """Определяет страны для всех конфигов и группирует их (универсальная для всех протоколов)."""
     configs_by_country = {}
     total = len(configs)
     processed = 0
@@ -621,11 +803,12 @@ def get_countries_for_configs(configs: list[str]) -> dict[str, list[str]]:
     def process_config(config):
         nonlocal processed
         try:
-            parsed = parse_hysteria2_url(config)
-            if not parsed:
+            host_port = extract_host_from_config(config)
+            if not host_port:
+                processed += 1
                 return None, "Unknown"
             
-            host = parsed['host']
+            host, _ = host_port
             country = get_country_by_ip(host)
             processed += 1
             
@@ -858,6 +1041,83 @@ def filter_insecure_configs(configs: list[str]) -> list[str]:
     
     return safe_configs
 
+# -------------------- QR CODE ФУНКЦИИ --------------------
+def generate_qr_code(config_url: str, output_path: str) -> bool:
+    """Генерирует QR-код для конфига."""
+    if not QRCODE_AVAILABLE:
+        return False
+    
+    try:
+        qr = qrcode.QRCode(
+            version=1,
+            error_correction=qrcode.constants.ERROR_CORRECT_L,
+            box_size=10,
+            border=4,
+        )
+        qr.add_data(config_url)
+        qr.make(fit=True)
+        
+        img = qr.make_image(fill_color="black", back_color="white")
+        img.save(output_path)
+        return True
+    except Exception:
+        return False
+
+def generate_qr_codes_for_subscription(subscription_file: str, qr_folder: str = "qr-codes") -> int:
+    """Генерирует QR-коды для всех конфигов в подписке."""
+    if not QRCODE_AVAILABLE:
+        return 0
+    
+    try:
+        os.makedirs(qr_folder, exist_ok=True)
+        
+        with open(subscription_file, "r", encoding="utf-8") as f:
+            configs = [line.strip() for line in f if line.strip()]
+        
+        generated = 0
+        for i, config in enumerate(configs[:100], 1):  # Ограничиваем до 100 QR-кодов
+            # Создаем безопасное имя файла
+            safe_name = f"config-{i:03d}.png"
+            qr_path = os.path.join(qr_folder, safe_name)
+            
+            if generate_qr_code(config, qr_path):
+                generated += 1
+        
+        if generated > 0:
+            log(f"📱 Сгенерировано {generated} QR-кодов в {qr_folder}/")
+        
+        return generated
+    except Exception as e:
+        log(f"⚠️ Ошибка при генерации QR-кодов: {str(e)[:100]}")
+        return 0
+
+# -------------------- НУМЕРОВАННЫЕ ПОДПИСКИ --------------------
+def create_numbered_subscriptions(configs: list[str], protocol_folder: str, max_subscriptions: int = 10) -> list[str]:
+    """Создает нумерованные подписки (best-1.txt, best-2.txt и т.д.) с лучшими конфигами."""
+    if not configs:
+        return []
+    
+    # Разделяем конфиги на группы примерно равного размера
+    configs_per_sub = max(1, len(configs) // max_subscriptions)
+    subscriptions = []
+    
+    for i in range(max_subscriptions):
+        start_idx = i * configs_per_sub
+        end_idx = start_idx + configs_per_sub if i < max_subscriptions - 1 else len(configs)
+        
+        if start_idx >= len(configs):
+            break
+        
+        subset = configs[start_idx:end_idx]
+        if not subset:
+            continue
+        
+        filename = f"{protocol_folder}/best-{i+1}.txt"
+        create_subscription_file(subset, filename)
+        subscriptions.append(filename)
+    
+    return subscriptions
+
 # -------------------- GITHUB ФУНКЦИИ --------------------
 def create_subscription_file(configs: list[str], filename: str = "subscription.txt") -> str:
     """Создает файл подписки со всеми Hysteria2 конфигами."""
@@ -1071,6 +1331,161 @@ https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/subscriptio
     
     return readme_content
 
+def create_readme_multi_protocol(protocol_stats: dict) -> str:
+    """Создает красивый README с информацией о всех протоколах."""
+    tz = get_timezone()
+    if tz:
+        date_str = datetime.now(tz).strftime('%d.%m.%Y %H:%M:%S')
+    else:
+        date_str = datetime.utcnow().strftime('%d.%m.%Y %H:%M:%S')
+    
+    # Названия протоколов с эмодзи
+    protocol_names = {
+        'hysteria2': '🚀 Hysteria2',
+        'vless': '⚡ VLESS',
+        'vmess': '🔷 VMESS',
+        'shadowsocks': '🔰 Shadowsocks',
+        'trojan': '🎯 Trojan'
+    }
+    
+    total_configs = sum(s['total'] for s in protocol_stats.values())
+    total_countries = set()
+    for stats in protocol_stats.values():
+        total_countries.update(stats['by_country'].keys())
+    
+    # Формируем секции для каждого протокола
+    protocol_sections = []
+    
+    for protocol, stats in protocol_stats.items():
+        protocol_name = protocol_names.get(protocol, protocol.upper())
+        protocol_folder = protocol
+        total = stats['total']
+        configs_by_country = stats['by_country']
+        
+        # Сортируем страны по количеству конфигов
+        sorted_countries = sorted(
+            configs_by_country.items(),
+            key=lambda x: len(x[1]),
+            reverse=True
+        )
+        
+        # Таблица по странам
+        country_table = []
+        for country, configs in sorted_countries[:10]:  # Топ 10 стран
+            flag = get_country_flag_emoji(country)
+            count = len(configs)
+            percentage = (count * 100) // total if total > 0 else 0
+            safe_country = country.replace(" ", "-").replace("/", "-")
+            subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
+            country_table.append(f"| {flag} {country} | {count} | {percentage}% | [📥]({subscription_url}) |")
+        
+        country_table_text = "\n".join(country_table) if country_table else "| - | - | - | - |"
+        
+        # Основная ссылка на подписку
+        main_subscription = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription.txt"
+        
+        # Рекомендуемые нумерованные подписки (best-1, best-2, best-3)
+        recommended_subs = []
+        for i in [1, 2, 3]:
+            best_sub = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/best-{i}.txt"
+            recommended_subs.append(f"`{best_sub}`")
+        
+        recommended_text = "\n".join([f"{i+1}. {sub}" for i, sub in enumerate(recommended_subs)])
+        
+        protocol_section = f"""
+### {protocol_name}
+
+**📦 Всего конфигов:** `{total}` | **🌍 Стран:** `{len(configs_by_country)}`
+
+**📥 Основная подписка:**
+```
+{main_subscription}
+```
+
+**⭐ Рекомендуемые подписки:**
+{recommended_text}
+
+**📱 QR-коды:** [Просмотр](https://github.com/{GITHUB_REPO_NAME}/tree/main/{protocol_folder}/qr-codes)
+
+**📊 Топ стран:**
+
+| Страна | Конфигов | Процент | Подписка |
+|--------|----------|---------|----------|
+{country_table_text}
+
+"""
+        protocol_sections.append(protocol_section)
+    
+    protocol_sections_text = "\n".join(protocol_sections)
+    
+    readme_content = f"""# 🚀 Proxy Configs Subscription
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/Untitled_without_bg.png" alt="Logo" width="200" style="margin-bottom: 20px;">
+
+### 🌍 Автоматически обновляемая подписка с конфигами прокси
+
+[![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/{GITHUB_REPO_NAME}/actions)
+[![Total Configs](https://img.shields.io/badge/Total-{total_configs}-blue)](./hysteria2/subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-{date_str.replace(' ', '_')}-orange)](./hysteria2/subscription.txt)
+
+</div>
+
+---
+
+## 📊 Статистика последнего обновления
+
+- **📅 Дата обновления:** `{date_str}`
+- **📦 Всего конфигов:** `{total_configs}`
+- **🌍 Всего стран:** `{len(total_countries)}`
+- **🔌 Протоколов:** `{len(protocol_stats)}`
+
+---
+
+## 🔌 Подписки по протоколам
+
+{protocol_sections_text}
+
+---
+
+## 📥 Как использовать
+
+### V2RayN / Nekoray / Clash / Hysteria2 клиент
+
+1. Выберите нужный протокол выше
+2. Скопируйте ссылку на подписку (все конфиги или по стране)
+3. Добавьте в настройках подписок вашего клиента
+4. Обновите подписку
+5. Готово! 🎉
+
+---
+
+## 👤 Автор
+
+<div align="center">
+
+### 🕐 616 минут
+
+[![Telegram](https://img.shields.io/badge/Telegram-616%20минут-0088cc?style=for-the-badge&logo=telegram)](https://t.me/solnechniyre6enok)
+
+**📢 [Telegram канал](https://t.me/solnechniyre6enok)**
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Если проект полезен, поставьте звезду!**
+
+*Последнее обновление: {date_str}*
+
+</div>
+"""
+    
+    return readme_content
+
 def upload_to_github(file_path: str, remote_path: str, content: str = None, is_binary: bool = False):
     """Загружает файл в GitHub репозиторий."""
     if not GITHUB_AVAILABLE:
@@ -1158,21 +1573,42 @@ def main():
     all_configs = []
     
     def download_and_extract(url):
+        """Извлекает все типы конфигов из URL."""
         try:
             data = fetch_data(url)
             if not data:
-                return []
-            configs = extract_hysteria2_configs(data)
-            if configs:
-                log(f"✅ {url.split('/')[-1]}: найдено {len(configs)} Hysteria2 конфигов")
-            return configs
+                return {}
+            
+            result = {
+                'hysteria2': extract_hysteria2_configs(data),
+                'vless': extract_vless_configs(data),
+                'vmess': extract_vmess_configs(data),
+                'shadowsocks': extract_shadowsocks_configs(data),
+                'trojan': extract_trojan_configs(data),
+            }
+            
+            total = sum(len(v) for v in result.values())
+            if total > 0:
+                found = [f"{k}:{len(v)}" for k, v in result.items() if len(v) > 0]
+                log(f"✅ {url.split('/')[-1]}: найдено {total} конфигов ({', '.join(found)})")
+            
+            return result
         except Exception as e:
             log(f"⚠️ Ошибка при обработке {url.split('/')[-1]}: {str(e)[:100]}")
-            return []
+            return {}
     
     # Используем более консервативное количество воркеров
     max_workers = min(DEFAULT_MAX_WORKERS, len(ALL_URLS), 30)
     log(f"📥 Используется {max_workers} параллельных потоков")
+    
+    # Словарь для хранения конфигов по типам протоколов
+    configs_by_protocol = {
+        'hysteria2': [],
+        'vless': [],
+        'vmess': [],
+        'shadowsocks': [],
+        'trojan': []
+    }
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {executor.submit(download_and_extract, url): url for url in ALL_URLS}
@@ -1181,8 +1617,9 @@ def main():
         for future in concurrent.futures.as_completed(futures):
             completed += 1
             try:
-                configs = future.result(timeout=30)  # Таймаут на результат
-                all_configs.extend(configs)
+                result = future.result(timeout=30)
+                for protocol, configs in result.items():
+                    configs_by_protocol[protocol].extend(configs)
             except concurrent.futures.TimeoutError:
                 log(f"⏱️ Таймаут при обработке {futures[future].split('/')[-1]}")
             except Exception as e:
@@ -1190,67 +1627,115 @@ def main():
             
             # Показываем прогресс каждые 10 URL
             if completed % 10 == 0:
-                log(f"📊 Прогресс: {completed}/{len(ALL_URLS)} источников обработано, найдено {len(all_configs)} конфигов")
+                total = sum(len(v) for v in configs_by_protocol.values())
+                log(f"📊 Прогресс: {completed}/{len(ALL_URLS)} источников обработано, найдено {total} конфигов")
     
-    # Умная дедупликация
-    log(f"🔍 Найдено конфигов до дедупликации: {len(all_configs)}")
-    unique_configs = deduplicate_configs(all_configs, show_log=True)
-    removed = len(all_configs) - len(unique_configs)
-    if removed > 0:
-        log(f"📊 После дедупликации: {len(unique_configs)} уникальных конфигов (удалено {removed} дубликатов)")
-    else:
-        log(f"📊 Всего найдено уникальных Hysteria2 конфигов: {len(unique_configs)}")
+    # Обрабатываем каждый тип протокола
+    protocol_stats = {}
     
-    if not unique_configs:
+    for protocol, configs in configs_by_protocol.items():
+        if not configs:
+            continue
+        
+        log(f"\n🔍 Обработка {protocol.upper()} конфигов...")
+        log(f"📊 Найдено {len(configs)} конфигов до дедупликации")
+        
+        # Дедупликация
+        unique_configs = deduplicate_configs(configs, show_log=True)
+        removed = len(configs) - len(unique_configs)
+        if removed > 0:
+            log(f"📊 После дедупликации: {len(unique_configs)} уникальных конфигов (удалено {removed} дубликатов)")
+        
+        if not unique_configs:
+            continue
+        
+        # Сортируем конфиги
+        def get_sort_key(config):
+            try:
+                host_port = extract_host_from_config(config)
+                if host_port:
+                    return (host_port[0].lower(), host_port[1])
+                return (config.lower(), 0)
+            except:
+                return (config.lower(), 0)
+        
+        unique_configs.sort(key=get_sort_key)
+        
+        # Определяем страны
+        configs_by_country = get_countries_for_configs(unique_configs)
+        
+        protocol_stats[protocol] = {
+            'total': len(unique_configs),
+            'by_country': configs_by_country
+        }
+        
+        log(f"✅ {protocol.upper()}: {len(unique_configs)} уникальных конфигов, {len(configs_by_country)} стран")
+    
+    if not protocol_stats:
         log("⚠️ Конфигов не найдено!")
         log("✨ Работа завершена!")
         return
     
-    # Сортируем конфиги по хосту для удобства
-    def get_sort_key(config):
-        try:
-            parsed = parse_hysteria2_url(config)
-            if parsed:
-                return (parsed['host'].lower(), parsed['port'])
-            return (config.lower(), 0)
-        except:
-            return (config.lower(), 0)
-    
-    unique_configs.sort(key=get_sort_key)
-    log(f"✅ Всего уникальных Hysteria2 конфигов: {len(unique_configs)}")
-    
-    # Определяем страны для всех конфигов
-    configs_by_country = get_countries_for_configs(unique_configs)
-    
-    # Создаем основной файл подписки со всеми конфигами
-    subscription_file = create_subscription_file(unique_configs, "subscription.txt")
-    
     # Загружаем в GitHub если настроено
     if GITHUB_TOKEN and GITHUB_REPO_NAME:
-        log("📤 Загрузка файлов в GitHub...")
+        log("\n📤 Загрузка файлов в GitHub...")
         
-        # Загружаем основной файл подписки
-        with open(subscription_file, "r", encoding="utf-8") as f:
-            subscription_content = f.read()
-        
-        upload_to_github(subscription_file, "subscription.txt", subscription_content)
-        
-        # Создаем файлы подписок по странам
-        log(f"🌍 Создание подписок по странам ({len(configs_by_country)} стран)...")
-        for country, configs in configs_by_country.items():
-            # Создаем безопасное имя файла
-            safe_country = country.replace(" ", "-").replace("/", "-")
-            country_filename = f"subscription-{safe_country}.txt"
+        # Обрабатываем каждый протокол
+        for protocol, stats in protocol_stats.items():
+            protocol_folder = protocol
+            unique_configs = []
+            for country_configs in stats['by_country'].values():
+                unique_configs.extend(country_configs)
             
-            # Создаем файл подписки для страны
-            create_subscription_file(configs, country_filename)
+            log(f"\n📁 Обработка {protocol.upper()}...")
             
-            # Загружаем в GitHub
-            with open(country_filename, "r", encoding="utf-8") as f:
-                country_content = f.read()
+            # Создаем основной файл подписки для протокола
+            subscription_file = f"{protocol_folder}/subscription.txt"
+            os.makedirs(protocol_folder, exist_ok=True)
+            create_subscription_file(unique_configs, subscription_file)
             
-            upload_to_github(country_filename, country_filename, country_content)
-            log(f"  ✅ {country}: {len(configs)} конфигов → {country_filename}")
+            with open(subscription_file, "r", encoding="utf-8") as f:
+                subscription_content = f.read()
+            
+            upload_to_github(subscription_file, subscription_file, subscription_content)
+            
+            # Создаем нумерованные подписки (best-1.txt, best-2.txt и т.д.)
+            numbered_subs = create_numbered_subscriptions(unique_configs, protocol_folder, max_subscriptions=10)
+            for numbered_sub in numbered_subs:
+                with open(numbered_sub, "r", encoding="utf-8") as f:
+                    numbered_content = f.read()
+                upload_to_github(numbered_sub, numbered_sub, numbered_content)
+            
+            if numbered_subs:
+                log(f"  📋 Создано {len(numbered_subs)} нумерованных подписок")
+            
+            # Генерируем QR-коды для основной подписки
+            qr_folder = f"{protocol_folder}/qr-codes"
+            qr_generated = generate_qr_codes_for_subscription(subscription_file, qr_folder)
+            
+            # Загружаем QR-коды в GitHub
+            if qr_generated > 0:
+                for qr_file in os.listdir(qr_folder):
+                    if qr_file.endswith('.png'):
+                        qr_path = os.path.join(qr_folder, qr_file)
+                        qr_remote = os.path.join(qr_folder, qr_file)
+                        upload_to_github(qr_path, qr_remote, is_binary=True)
+            
+            # Создаем файлы подписок по странам
+            configs_by_country = stats['by_country']
+            if configs_by_country:
+                log(f"🌍 Создание подписок по странам для {protocol.upper()} ({len(configs_by_country)} стран)...")
+                for country, configs in configs_by_country.items():
+                    safe_country = country.replace(" ", "-").replace("/", "-")
+                    country_filename = f"{protocol_folder}/subscription-{safe_country}.txt"
+                    
+                    create_subscription_file(configs, country_filename)
+                    
+                    with open(country_filename, "r", encoding="utf-8") as f:
+                        country_content = f.read()
+                    
+                    upload_to_github(country_filename, country_filename, country_content)
+                    log(f"  ✅ {country}: {len(configs)} конфигов")
         
         # Загружаем логотип один раз, если его еще нет в репозитории
         logo_path = "Untitled_without_bg.png"
@@ -1258,25 +1743,20 @@ def main():
             try:
                 g = Github(auth=Auth.Token(GITHUB_TOKEN))
                 repo = g.get_repo(GITHUB_REPO_NAME)
-                # Проверяем, существует ли файл в репозитории
                 try:
                     repo.get_contents(logo_path, ref=GITHUB_BRANCH)
-                    # Файл уже существует, не загружаем
                 except Exception:
-                    # Файла нет, загружаем один раз
                     log("🖼️ Загрузка логотипа в GitHub (первый раз)...")
                     upload_to_github(logo_path, logo_path, is_binary=True)
             except Exception as e:
                 log(f"⚠️ Не удалось проверить/загрузить логотип: {str(e)[:100]}")
         
-        # Создаем красивый README
-        readme_content = create_readme(configs_by_country, len(unique_configs))
+        # Создаем красивый README со всеми протоколами
+        readme_content = create_readme_multi_protocol(protocol_stats)
         upload_to_github("README.md", "README.md", readme_content)
         
-        # Формируем URL подписки
-        subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/subscription.txt"
-        log(f"🔗 URL основной подписки: {subscription_url}")
-        log(f"🌍 Создано {len(configs_by_country)} подписок по странам")
+        total_configs = sum(s['total'] for s in protocol_stats.values())
+        log(f"\n✅ Всего загружено: {total_configs} конфигов по {len(protocol_stats)} протоколам")
     else:
         log("ℹ️ GitHub не настроен. Для автоматической загрузки установите переменные окружения:")
         log("   GITHUB_TOKEN=your_token")
