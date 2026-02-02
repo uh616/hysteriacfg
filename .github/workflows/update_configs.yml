@@ -74,12 +74,11 @@ jobs:
         
         # Коммитим только если есть изменения
         if ! git diff --staged --quiet; then
-          # Вычисляем версию на основе количества коммитов
+          # Вычисляем версию: 1=v1.0.1, 10=v1.1.0, 20=v1.2.0, 103=v1.10.3
           COMMIT_COUNT=$(git rev-list --count HEAD)
-          VERSION_MINOR=$((COMMIT_COUNT % 10))
-          VERSION_PATCH=$((COMMIT_COUNT / 10 % 10))
-          VERSION_MAJOR=$((COMMIT_COUNT / 100 + 1))
-          VERSION="v${VERSION_MAJOR}.${VERSION_PATCH}.${VERSION_MINOR}"
+          VERSION_MINOR=$((COMMIT_COUNT / 10))
+          VERSION_PATCH=$((COMMIT_COUNT % 10))
+          VERSION="v1.${VERSION_MINOR}.${VERSION_PATCH}"
           git commit -m "616 ${VERSION}" || exit 0
           
           # Пробуем push несколько раз с задержкой
