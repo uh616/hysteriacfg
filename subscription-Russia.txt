@@ -1,0 +1,2 @@
+hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamander&obfs-password=vpnxw#🔒
+hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
