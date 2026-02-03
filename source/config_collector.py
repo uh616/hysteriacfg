@@ -1742,15 +1742,18 @@ def main():
         
         unique_configs.sort(key=get_sort_key)
         
-        # Определяем страны
-        configs_by_country = get_countries_for_configs(unique_configs)
+        # Определяем страны (только если конфигов меньше 5000)
+        if len(unique_configs) < 5000:
+            configs_by_country = get_countries_for_configs(unique_configs)
+            log(f"✅ {protocol.upper()}: {len(unique_configs)} уникальных конфигов, {len(configs_by_country)} стран")
+        else:
+            configs_by_country = {}
+            log(f"✅ {protocol.upper()}: {len(unique_configs)} уникальных конфигов (определение стран пропущено, конфигов >= 5000)")
         
         protocol_stats[protocol] = {
             'total': len(unique_configs),
             'by_country': configs_by_country
         }
-        
-        log(f"✅ {protocol.upper()}: {len(unique_configs)} уникальных конфигов, {len(configs_by_country)} стран")
     
     if not protocol_stats:
         log("⚠️ Конфигов не найдено!")
