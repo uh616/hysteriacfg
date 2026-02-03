@@ -588,7 +588,7 @@ trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro000.instconn.com:443?allowIn
 trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro003.instconn.com:443?sni=login-staticjpc.jasmine-douyin.top&peer=login-staticjpc.jasmine-douyin.top&security=tls#JP
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro006.instconn.com:443?allowInsecure=1&sni=torontorm1.686911.xyz#CA1%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?allowInsecure=1&sni=frankfurtrm2.686911.xyz#DE24%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro011.instconn.com:40130?type=raw&headerType=none&security=tls&sni=cntwbta.686911.xyz#[🇹🇼]
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro011.instconn.com:40130?allowInsecure=0&sni=cntwbta.686911.xyz#%F0%9F%87%B8%F0%9F%87%AC%20SG
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw01.trojanyyds.xyz:443#🇺🇸US_174
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw02.trojanyyds.xyz:443#Relay_%F0%9F%87%AF%F0%9F%87%B5JP-%F0%9F%87%BA%F0%9F%87%B8US_137%20%7C%209.87Mb
 trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@tw2.233235.xyz:777?allowInsecure=0#@Hope_Net-join-us-on-Telegram
