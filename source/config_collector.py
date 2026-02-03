@@ -1363,36 +1363,56 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         total = stats['total']
         configs_by_country = stats['by_country']
         
-        # Сортируем страны по количеству конфигов
-        sorted_countries = sorted(
-            configs_by_country.items(),
-            key=lambda x: len(x[1]),
-            reverse=True
-        )
-        
-        # Таблица по странам (топ 10)
-        country_table = []
-        for country, configs in sorted_countries[:10]:  # Топ 10 стран
-            flag = get_country_flag_emoji(country)
-            count = len(configs)
-            percentage = (count * 100) // total if total > 0 else 0
-            safe_country = country.replace(" ", "-").replace("/", "-")
-            subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
-            country_table.append(f"| {flag} {country} | {count} | {percentage}% | [📥]({subscription_url}) |")
-        
-        country_table_text = "\n".join(country_table) if country_table else "| - | - | - | - |"
-        
-        # Полный список стран для спойлера (в формате таблицы, как "Топ стран")
-        all_countries_table = []
-        for country, configs in sorted_countries:
-            flag = get_country_flag_emoji(country)
-            count = len(configs)
-            percentage = (count * 100) // total if total > 0 else 0
-            safe_country = country.replace(" ", "-").replace("/", "-")
-            subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
-            all_countries_table.append(f"| {flag} {country} | {count} | {percentage}% | [📥]({subscription_url}) |")
-        
-        all_countries_text = "\n".join(all_countries_table) if all_countries_table else "| - | - | - | - |"
+        # Сортируем страны по количеству конфигов (только если конфигов меньше 5000)
+        if total < 5000:
+            sorted_countries = sorted(
+                configs_by_country.items(),
+                key=lambda x: len(x[1]),
+                reverse=True
+            )
+            
+            # Таблица по странам (топ 10)
+            country_table = []
+            for country, configs in sorted_countries[:10]:  # Топ 10 стран
+                flag = get_country_flag_emoji(country)
+                count = len(configs)
+                percentage = (count * 100) // total if total > 0 else 0
+                safe_country = country.replace(" ", "-").replace("/", "-")
+                subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
+                country_table.append(f"| {flag} {country} | {count} | {percentage}% | [📥]({subscription_url}) |")
+            
+            country_table_text = "\n".join(country_table) if country_table else "| - | - | - | - |"
+            
+            # Полный список стран для спойлера (в формате таблицы, как "Топ стран")
+            all_countries_table = []
+            for country, configs in sorted_countries:
+                flag = get_country_flag_emoji(country)
+                count = len(configs)
+                percentage = (count * 100) // total if total > 0 else 0
+                safe_country = country.replace(" ", "-").replace("/", "-")
+                subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
+                all_countries_table.append(f"| {flag} {country} | {count} | {percentage}% | [📥]({subscription_url}) |")
+            
+            all_countries_text = "\n".join(all_countries_table) if all_countries_table else "| - | - | - | - |"
+            countries_section = f"""
+**📊 Топ стран:**
+
+| Страна | Конфигов | Процент | Подписка |
+|--------|----------|---------|----------|
+{country_table_text}
+
+<details>
+<summary>🌍 Все страны ({len(sorted_countries)} стран) - нажмите чтобы развернуть</summary>
+
+| Страна | Конфигов | Процент | Подписка |
+|--------|----------|---------|----------|
+{all_countries_text}
+
+</details>
+"""
+        else:
+            # Если конфигов >= 5000, не показываем таблицы стран
+            countries_section = ""
         
         # Основная ссылка на подписку
         main_subscription = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription.txt"
@@ -1423,21 +1443,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 **⭐ Рекомендуемые подписки:**
 {recommended_text}
-
-**📊 Топ стран:**
-
-| Страна | Конфигов | Процент | Подписка |
-|--------|----------|---------|----------|
-{country_table_text}
-
-<details>
-<summary>🌍 Все страны ({len(sorted_countries)} стран) - нажмите чтобы развернуть</summary>
-
-| Страна | Конфигов | Процент | Подписка |
-|--------|----------|---------|----------|
-{all_countries_text}
-
-</details>
+{countries_section}
 
 """
         protocol_sections.append(protocol_section)
