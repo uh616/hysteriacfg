@@ -1,0 +1,2 @@
+trojan://your_password@3.29.95.54:443?security=tls&sni=aws-uae-1.f1rocketnode.com&allowInsecure=1&type=tcp#4Nika-4804
+trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#⚡
