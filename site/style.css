@@ -104,6 +104,39 @@ body {
     margin-bottom: 40px;
 }
 
+.hero-logo {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-link {
+    display: inline-block;
+    transition: transform 0.3s ease, filter 0.3s ease;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.logo-link:hover {
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 20px rgba(255, 0, 110, 0.5));
+}
+
+.logo-image {
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
+    border: 2px solid transparent;
+    transition: border-color 0.3s ease;
+}
+
+.logo-link:hover .logo-image {
+    border-color: var(--accent-pink);
+}
+
 .hero-title {
     font-size: 32px;
     font-weight: 700;
