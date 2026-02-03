@@ -1,0 +1,1 @@
+trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#⚡
