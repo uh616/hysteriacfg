@@ -1415,11 +1415,22 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         # Основная ссылка на подписку
         main_subscription = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription.txt"
         
-        # QR код для основной подписки - используем прямой URL (надежнее чем base64)
+        # QR код для основной подписки - встраиваем как base64
         qr_filename = f"{protocol_folder}/subscription-qr.png"
-        qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
-        # Используем прямой URL, так как файл уже загружен в GitHub
-        qr_image_html = f'<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
+        qr_image_html = ""
+        if os.path.exists(qr_filename):
+            try:
+                with open(qr_filename, "rb") as f:
+                    qr_image_data = base64.b64encode(f.read()).decode('utf-8')
+                    qr_image_html = f'<img src="data:image/png;base64,{qr_image_data}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
+            except Exception as e:
+                # Если не удалось прочитать, используем URL как запасной вариант
+                qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
+                qr_image_html = f'<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
+        else:
+            # Если файл не существует, используем URL
+            qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
+            qr_image_html = f'<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
         
         # Рекомендуемые нумерованные подписки (best-1, best-2, best-3)
         recommended_subs = []
@@ -1775,9 +1786,13 @@ def main():
             subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{subscription_file}"
             
             if generate_qr_for_subscription_url(subscription_url, qr_filename):
-                # Сохраняем файл локально, чтобы он был доступен при создании README
-                upload_to_github(qr_filename, qr_filename, is_binary=True)
-                log(f"  📱 QR-код для основной подписки создан")
+                # Проверяем что файл создан локально
+                if os.path.exists(qr_filename):
+                    # Сохраняем файл локально, чтобы он был доступен при создании README
+                    upload_to_github(qr_filename, qr_filename, is_binary=True)
+                    log(f"  📱 QR-код для основной подписки создан (локально: {qr_filename})")
+                else:
+                    log(f"  ⚠️ QR-код не создан локально: {qr_filename}")
             
             # Создаем файлы подписок по странам
             configs_by_country = stats['by_country']
