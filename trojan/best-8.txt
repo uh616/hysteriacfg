@@ -1,3 +1,5 @@
+trojan://blue2024@159.112.235.208:443/?type=ws&host=tb.promote.icu&path=%2F%3Fed&security=tls&sni=b.promote.icu#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@159.246.55.142:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://blue2024@160.153.0.167:443/?type=tcp&security=tls&sni=b.promote.icu#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
 trojan://blue2024@162.159.0.198:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@162.159.128.104:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -703,5 +705,3 @@ trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443/?type=tcp&securi
 trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://f2191442-1436-3d79-801e-80d8de896c73@172.67.164.181:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id#%40V2rayNGVPN
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40manzariyeh_rasht%20%5B16%5D
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=tcp&security=tls&sni=vpn.stupidworld.web.id#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
