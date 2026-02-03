@@ -1445,9 +1445,15 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         recommended_text = "\n".join([f"{i+1}. {sub}" for i, sub in enumerate(recommended_subs)])
         
         protocol_section = f"""
-### {protocol_name}
+---
+
+## {protocol_name}
+
+<div align="center">
 
 **📦 Всего конфигов:** `{total}` | **🌍 Стран:** `{len(configs_by_country)}`
+
+</div>
 
 **📥 Основная подписка:**
 ```
@@ -1503,6 +1509,12 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 ---
 
 ## 🔌 Подписки по протоколам
+
+<div align="center">
+
+*Выберите протокол для просмотра подписок*
+
+</div>
 
 {protocol_sections_text}
 
