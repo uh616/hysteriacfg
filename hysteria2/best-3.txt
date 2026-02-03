@@ -64,7 +64,6 @@ hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://sysadmin.sysadmin@154.7.183.57:443?insecure=1#🔒
-hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443?insecure=1&sni=hy5.hy2yydsapi.top#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20799825
 hy2://a741df90@156.229.163.98:22222?insecure=1&sni=www.bing.com#🔒
 hy2://HK-CN2.2454lksdgfhdkgndh@156.251.248.197:443?sni=hk.world--speed.com#🔒
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒
@@ -93,3 +92,4 @@ hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.b
 hysteria2://smart%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252540-PhVxMdT5OVnjtTecU-kZoej@161.132.51.133:20045?insecure=1&sni=www.cloudflare.com#%E7%A7%98%E9%B2%81_020318002
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@164.92.254.56:10001?sni=de.1010520.shop#🔒
