@@ -1,0 +1,2 @@
+trojan://NISHIKUITAN111@31.22.116.151:443?#🔒
+trojan://blue2024@31.22.116.89:443?sni=b.promote.icu#🔒
