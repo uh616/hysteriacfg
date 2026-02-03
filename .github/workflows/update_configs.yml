@@ -56,12 +56,15 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
+        # Устанавливаем правильный remote URL
+        git remote set-url origin https://github.com/${{ github.repository }}.git
+        
         # Получаем последние изменения из репозитория
         git fetch origin main || true
         
         # Сбрасываем локальные изменения и синхронизируемся
         git reset --hard origin/main || true
-        git pull origin main --no-rebase || git pull origin main || true
+        git pull origin main --rebase || git pull origin main || true
         
         # Добавляем все файлы из папок протоколов (с принудительным добавлением)
         git add -f */subscription.txt */subscription-*.txt */best-*.txt */subscription-qr.png || true
@@ -86,7 +89,8 @@ jobs:
               break
             else
               echo "⚠️ Попытка $i не удалась, пробуем синхронизироваться..."
-              git pull origin main --rebase || git pull origin main || true
+              git fetch origin main || true
+              git rebase origin/main || git reset --hard origin/main || true
               sleep 2
             fi
           done
