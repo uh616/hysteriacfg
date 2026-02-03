@@ -59,13 +59,14 @@ jobs:
         # Получаем последние изменения из репозитория
         git fetch origin main || true
         
-        # Пробуем синхронизироваться с удаленным репозиторием
-        git pull origin main --rebase || git pull origin main || true
+        # Сбрасываем локальные изменения и синхронизируемся
+        git reset --hard origin/main || true
+        git pull origin main --no-rebase || git pull origin main || true
         
-        # Добавляем все файлы из папок протоколов
-        git add */subscription.txt */subscription-*.txt */best-*.txt */subscription-qr.png || true
+        # Добавляем все файлы из папок протоколов (с принудительным добавлением)
+        git add -f */subscription.txt */subscription-*.txt */best-*.txt */subscription-qr.png || true
         # Добавляем README и другие файлы
-        git add README.md config_collector.py requirements.txt || true
+        git add -f README.md config_collector.py requirements.txt || true
         
         # Коммитим только если есть изменения
         if ! git diff --staged --quiet; then

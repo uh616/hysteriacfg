@@ -5,9 +5,14 @@ ENV/
 
 # Results
 results/
+
+# Игнорируем все .txt кроме подписок
 *.txt
 !subscription.txt
 !subscription-*.txt
+!*/subscription.txt
+!*/subscription-*.txt
+!*/best-*.txt
 
 # Python
 __pycache__/

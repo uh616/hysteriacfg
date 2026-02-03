@@ -1538,8 +1538,8 @@ def upload_to_github(file_path: str, remote_path: str, content: str = None, is_b
                 branch=GITHUB_BRANCH
             )
             log(f"✅ Обновлен файл {remote_path} в GitHub")
-        except Exception:
-            # Файл не существует, создаем новый
+        except Exception as e:
+            # Файл не существует или ошибка получения SHA, создаем/обновляем
             tz = get_timezone()
             if tz:
                 now = datetime.now(tz)
@@ -1547,13 +1547,30 @@ def upload_to_github(file_path: str, remote_path: str, content: str = None, is_b
                 now = datetime.utcnow()
             timestamp = now.strftime('%Y-%m-%d %H:%M:%S')
             
-            repo.create_file(
-                path=remote_path,
-                message=f"🆕 Создан файл: {timestamp}",
-                content=content,
-                branch=GITHUB_BRANCH
-            )
-            log(f"✅ Создан файл {remote_path} в GitHub")
+            # Пробуем создать файл (если не существует) или обновить (если существует но SHA недоступен)
+            try:
+                repo.create_file(
+                    path=remote_path,
+                    message=f"🆕 Создан файл: {timestamp}",
+                    content=content,
+                    branch=GITHUB_BRANCH
+                )
+                log(f"✅ Создан файл {remote_path} в GitHub")
+            except Exception as create_error:
+                # Если файл существует, пробуем получить его снова и обновить
+                try:
+                    file_in_repo = repo.get_contents(remote_path, ref=GITHUB_BRANCH)
+                    repo.update_file(
+                        path=remote_path,
+                        message=f"🔄 Автоматическое обновление: {timestamp}",
+                        content=content,
+                        sha=file_in_repo.sha,
+                        branch=GITHUB_BRANCH
+                    )
+                    log(f"✅ Обновлен файл {remote_path} в GitHub (повторная попытка)")
+                except Exception as update_error:
+                    log(f"⚠️ Не удалось создать/обновить файл {remote_path}: {str(update_error)[:100]}")
+                    return False
         
         return True
     except Exception as e:
