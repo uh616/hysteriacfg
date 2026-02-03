@@ -1439,7 +1439,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/Untitled_without_bg.png" alt="Logo" width="200" style="margin-bottom: 20px;">
 
-### 🌅 Перерождение • Новая жизнь • Свобода без границ
+### ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/{GITHUB_REPO_NAME}/actions)
 [![Total Configs](https://img.shields.io/badge/Total-{total_configs}-blue)](./hysteria2/subscription.txt)
