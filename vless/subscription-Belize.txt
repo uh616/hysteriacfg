@@ -1,14 +1,1 @@
-vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.209.155:80?type=ws#🔒
-vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.208.16:80?type=ws#🔒
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.210.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#VL-0327-017
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.211.128:2083?security=tls&sni=PPal03.YoSIf-jAhriEl.wOrkERS.dev&type=ws&host=PPAl03.yosIf-jaHriel.WORKerS.DeV&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#
-vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.211.129:80?type=ws#🔒
-vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.210.91:80?type=ws#🔒
-vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.7.100:80?type=ws#🔒
-vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.6.222:80?type=ws#🔒
-vless://05214830-5d65-4ee1-a3d4-68f36cbea637@45.131.211.210:443?encryption=none&security=tls&sni=api5.htve.ir&alpn=h2,http/1.1&fp=chrome&type=ws&host=api5.htve.ir&path=/#🔥Join+Telegram:@Farah_VPN🟣
-vless://4c3dd5be-d0bc-4bc5-a4f1-c00b95533556@45.131.7.7:8443?security=tls&sni=akilelaxub.eessgrgrgrgr.cloudns.nz&type=ws&host=akilelaxub.eessgrgrgrgr.cloudns.nz&path=%2Fuhfuiheuifhefeeeeeeee&fp=chrome#🔒
-vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@45.131.7.7:8080?security=none&sni=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&type=ws&host=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒
-vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.6.131:80?type=ws#🔒
-vless://a35455ae-1b58-4b62-bf8f-562dce2e0403@45.131.6.53:80?type=ws#🔒
-vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.7.166:80?type=ws#🔒
+vless://76e2a322-1c23-4c91-b2e1-40944d23fc48@www.s2pp.ir:8443?path=/path&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=damn.norino.store#🔥Join+Telegram:@Farah_VPN🟣
