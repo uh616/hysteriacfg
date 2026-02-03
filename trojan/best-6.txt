@@ -1,5 +1,3 @@
-trojan://3df56fd0-d1b7-4793-b877-acd356d960f3@172.66.44.56:443/?type=ws&host=aestingdownloadupload.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.38.29:443/?type=tcp&security=tls&sni=jus2.jsjc.sbs&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.39.163:443/?type=tcp&security=tls&sni=jde1.jsjc.sbs&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.39.36:443/?type=tcp&security=tls&sni=jsg1.jsjc.sbs&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://3febb05ea76a940f@60.249.3.125:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.125-2351
@@ -705,3 +703,4 @@ trojan://Aimer@188.164.159.248:2053/?type=tcp&security=tls&sni=agepy.ambercc.fil
 trojan://Aimer@188.164.159.25:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram%20vless%3A%2F%2F7fc99
 trojan://Aimer@188.164.159.45:8443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@188.164.159.49:2087/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.49-2023
+trojan://Aimer@188.164.159.55:2096/?type=tcp&security=tls&sni=epcco.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
