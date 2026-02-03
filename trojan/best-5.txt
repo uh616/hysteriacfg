@@ -143,7 +143,7 @@ trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10834?security=tls&
 trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@sg.stablize.top:443?security=tls
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg01.trojanyyds.xyz:443?security=tls#4Kian-4282
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&amp;type=tcp&amp;headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls#⚡
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#⚡
 trojan://26af88d0-fc72-43b3-8108-521a7b12aa45@sg1.421421.xyz:20230?type=tcp&sni=421421.xyz&allowInsecure=1#4Kian-3484
 trojan://46d69a7e-9002-44a3-99c1-01c412f29726@sg1.djjsvip.cfd:443?security=tls&sni=download.xn--mes358a9urctx.com&allowInsecure=1&type=tcp#4Kian-3569
@@ -234,7 +234,7 @@ trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&secur
 trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#%F0%9F%87%A7%F0%9F%87%B7BR-144.22.250.122-1617
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=
-trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#@Vip_Security
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20929822
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-3844
 trojan://02XtoczO7V@creativecommons.org:443/?type=ws&host=mooshali.arshiacomplus.dpdns.org&path=%2Fhishhhh123&security=tls&sni=mooshali.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2ray_sub%20%5B77%5D
 trojan://030ba667-fde3-498d-99bb-9a0187519dcf@192.142.4.64:40387/?type=tcp&security=tls&sni=
