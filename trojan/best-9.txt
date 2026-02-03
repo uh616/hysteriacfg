@@ -51,11 +51,11 @@ trojan://humanity@104.18.9.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassign
 trojan://humanity@172.64.152.23:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%40NETMelliAnti
 trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#@icv2ray
 trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;insecure=0&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#@icv2ray
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@freeOnlineVPN#🇫🇷
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@freeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com&note=@freeOnlineVPN#🇫🇷
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱[openproxylist.com]
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@icv2ray
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&host=www.gossipglove.com&path=/assignment&note=@freeOnlineVPN#@v2rays_ha
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&host=www.gossipglove.com&path=/assignment&note=@freeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&host=www.gossipglove.com&path=/assignment¬e=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.79ms
 trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%ADCH%28AzadNet.t.me%29
@@ -647,7 +647,7 @@ trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&securi
 trojan://q5r6s7t8-9012-3bcd-4abc-5678abcdef90@104.21.25.190:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://qCfu8t$s%7B2m%3BsTxm@172.66.44.194:2053/?type=ws&path=%2Ftrj9FI2oIGn7dZc4g3%3Fed%3D2560&security=tls&sni=JOinMaHdISeRvEr-C1C.PaGES.dEV#%F0%9F%8F%81RELAY-172.66.44.194-1203
 trojan://QkxJPTkWg3@lqoo.xyz:60006/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-2642
-trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AIS
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20301453
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B8%20IS-2
 trojan://QmxV21qnHf@104.21.71.8:443/?type=ws&path=%2F14755%2F%3Fed%3D2048&security=tls&sni=tabnak.ITN24.IR#%40Hope_Net-join-us-on-Telegram
 trojan://qQE5Yl3oU5@104.21.48.6:2087/?type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=iran.farsonline24.ir&fp=chrome#%40Hope_Net-join-us-on-Telegram
