@@ -1240,7 +1240,9 @@ def create_readme(configs_by_country: dict[str, list[str]], total_configs: int) 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/Untitled_without_bg.png" alt="Logo" width="200" style="margin-bottom: 20px;">
+<a href="https://t.me/solnechniyre6enok" target="_blank">
+  <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/source/Untitled_without_bg.png" alt="Logo" width="200" style="margin-bottom: 20px;">
+</a>
 
 ### 🌍 Автоматически обновляемая подписка с Hysteria2 конфигами
 
@@ -1446,7 +1448,9 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/Untitled_without_bg.png" alt="Logo" width="200" style="margin-bottom: 20px;">
+<a href="https://t.me/solnechniyre6enok" target="_blank">
+  <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/source/Untitled_without_bg.png" alt="Logo" width="200" style="margin-bottom: 20px;">
+</a>
 
 ### ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.
 
@@ -1797,7 +1801,7 @@ def main():
                     log(f"  ✅ {country}: {len(configs)} конфигов")
         
         # Загружаем логотип один раз, если его еще нет в репозитории
-        logo_path = "Untitled_without_bg.png"
+        logo_path = "source/Untitled_without_bg.png"
         if os.path.exists(logo_path) and GITHUB_AVAILABLE:
             try:
                 g = Github(auth=Auth.Token(GITHUB_TOKEN))
