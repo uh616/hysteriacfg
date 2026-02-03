@@ -487,10 +487,10 @@ def normalize_config_url(config_url: str) -> str:
     except Exception:
         return config_url
 
-def deduplicate_configs(configs: list[str], show_log: bool = True) -> list[str]:
-    """Умная дедупликация конфигов по host:port и полному URL."""
+def deduplicate_configs(configs: list[str], protocol: str = None, show_log: bool = True) -> list[str]:
+    """Умная дедупликация конфигов по host:port и полному URL с учетом протокола."""
     seen_full = set()  # Полные нормализованные URL
-    seen_hostport = set()  # host:port для проверки дубликатов
+    seen_hostport = set()  # host:port для проверки дубликатов (с учетом протокола)
     unique_configs = []
     duplicates_full = 0  # Дубликаты по полному URL
     duplicates_hostport = 0  # Дубликаты по host:port
@@ -508,14 +508,31 @@ def deduplicate_configs(configs: list[str], show_log: bool = True) -> list[str]:
             duplicates_full += 1
             continue
         
+        # Определяем протокол из конфига, если не передан
+        config_protocol = protocol
+        if not config_protocol:
+            if config.startswith(('hysteria2://', 'hy2://')):
+                config_protocol = 'hysteria2'
+            elif config.startswith('vless://'):
+                config_protocol = 'vless'
+            elif config.startswith('vmess://'):
+                config_protocol = 'vmess'
+            elif config.startswith('ss://'):
+                config_protocol = 'shadowsocks'
+            elif config.startswith('trojan://'):
+                config_protocol = 'trojan'
+            else:
+                config_protocol = 'unknown'
+        
         # Парсим для проверки host:port (универсально для всех протоколов)
         host_port = extract_host_from_config(config)
         if host_port:
             host, port = host_port
             host = host.lower().strip()
-            hostport_key = f"{host}:{port}"
+            # Включаем протокол в ключ, чтобы разные протоколы с одинаковым host:port не считались дубликатами
+            hostport_key = f"{config_protocol}:{host}:{port}"
             
-            # Проверяем дубликат по host:port
+            # Проверяем дубликат по host:port (только для того же протокола)
             if hostport_key in seen_hostport:
                 duplicates_hostport += 1
                 continue
@@ -1359,36 +1376,25 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         
         country_table_text = "\n".join(country_table) if country_table else "| - | - | - | - |"
         
-        # Полный список стран для спойлера
+        # Полный список стран для спойлера (более компактный формат)
         all_countries_list = []
         for country, configs in sorted_countries:
             flag = get_country_flag_emoji(country)
             count = len(configs)
             safe_country = country.replace(" ", "-").replace("/", "-")
             subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
-            all_countries_list.append(f"- {flag} **{country}** ({count} конфигов): `{subscription_url}`")
+            all_countries_list.append(f"{flag} **{country}** ({count}): [`{subscription_url}`]({subscription_url})")
         
         all_countries_text = "\n".join(all_countries_list) if all_countries_list else "- Нет конфигов"
         
         # Основная ссылка на подписку
         main_subscription = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription.txt"
         
-        # QR код для основной подписки - встраиваем как base64
+        # QR код для основной подписки - используем прямой URL (надежнее чем base64)
         qr_filename = f"{protocol_folder}/subscription-qr.png"
-        qr_image_html = ""
-        if os.path.exists(qr_filename):
-            try:
-                with open(qr_filename, "rb") as f:
-                    qr_image_data = base64.b64encode(f.read()).decode('utf-8')
-                    qr_image_html = f'<img src="data:image/png;base64,{qr_image_data}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
-            except Exception:
-                # Если не удалось прочитать, используем URL
-                qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
-                qr_image_html = f'<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
-        else:
-            # Если файл не существует, используем URL
-            qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
-            qr_image_html = f'<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
+        qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
+        # Используем прямой URL, так как файл уже загружен в GitHub
+        qr_image_html = f'<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
         
         # Рекомендуемые нумерованные подписки (best-1, best-2, best-3)
         recommended_subs = []
@@ -1670,8 +1676,8 @@ def main():
         log(f"\n🔍 Обработка {protocol.upper()} конфигов...")
         log(f"📊 Найдено {len(configs)} конфигов до дедупликации")
         
-        # Дедупликация
-        unique_configs = deduplicate_configs(configs, show_log=True)
+        # Дедупликация с учетом протокола
+        unique_configs = deduplicate_configs(configs, protocol=protocol, show_log=True)
         removed = len(configs) - len(unique_configs)
         if removed > 0:
             log(f"📊 После дедупликации: {len(unique_configs)} уникальных конфигов (удалено {removed} дубликатов)")
@@ -1744,6 +1750,7 @@ def main():
             subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{subscription_file}"
             
             if generate_qr_for_subscription_url(subscription_url, qr_filename):
+                # Сохраняем файл локально, чтобы он был доступен при создании README
                 upload_to_github(qr_filename, qr_filename, is_binary=True)
                 log(f"  📱 QR-код для основной подписки создан")
             
@@ -1777,7 +1784,7 @@ def main():
             except Exception as e:
                 log(f"⚠️ Не удалось проверить/загрузить логотип: {str(e)[:100]}")
         
-        # Создаем красивый README со всеми протоколами
+        # Создаем красивый README со всеми протоколами (после того как все QR-коды созданы)
         readme_content = create_readme_multi_protocol(protocol_stats)
         upload_to_github("README.md", "README.md", readme_content)
         
