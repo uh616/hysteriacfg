@@ -1,0 +1,5 @@
+trojan://bpb-trojan@185.174.138.239:443?sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr#🔒
+trojan://xsN5qXcwQ2u61ZpcYQhyBujA3gWTrtNV@195.133.11.229:443?security=tls&sni=get.fragmentary.info&type=tcp#🔒
+trojan://gW2L4C6TS3@195.133.52.153:2087?security=tls&sni=ru2.all-connections.ir&type=http&path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&fp=chrome&alpn=h3,h2,http/1.1#🔒
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%5BBL%5D
+trojan://freedom@mci.buzzmuzzpanel.online:443?security=tls&sni=054.ElEcTROcelLcO-cF-054.WORkErs.dEV&alpn=http%2F1.1&fp=chrome&type=ws&host=054.electrocellco-cf-054.workers.dev&path=%2FeyJqdW5rIjoicFI5bkF2UEdIMElWIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-2137
