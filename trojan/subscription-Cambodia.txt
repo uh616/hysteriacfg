@@ -1,0 +1,1 @@
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&insecure=0&allowInsecure=0&type=ws&host=hsdgbuys.pages.dev&path=%2F#%F0%9F%9A%8022%40STR_BYPASS
