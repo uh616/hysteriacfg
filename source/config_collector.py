@@ -1548,22 +1548,49 @@ def upload_to_github(file_path: str, remote_path: str, content: str = None, is_b
         # Пытаемся получить существующий файл
         try:
             file_in_repo = repo.get_contents(remote_path, ref=GITHUB_BRANCH)
-            # Обновляем файл
-            tz = get_timezone()
-            if tz:
-                now = datetime.now(tz)
+            # Для бинарных файлов всегда удаляем и создаем заново, чтобы гарантировать правильную загрузку
+            if is_binary:
+                tz = get_timezone()
+                if tz:
+                    now = datetime.now(tz)
+                else:
+                    now = datetime.utcnow()
+                timestamp = now.strftime('%Y-%m-%d %H:%M:%S')
+                
+                # Удаляем старый файл
+                repo.delete_file(
+                    path=remote_path,
+                    message=f"🔄 Исправление: перезагрузка бинарного файла",
+                    sha=file_in_repo.sha,
+                    branch=GITHUB_BRANCH
+                )
+                log(f"🗑️ Удален старый файл {remote_path} для перезагрузки")
+                
+                # Создаем файл заново
+                repo.create_file(
+                    path=remote_path,
+                    message=f"🆕 Создан файл: {timestamp}",
+                    content=content,
+                    branch=GITHUB_BRANCH
+                )
+                log(f"✅ Пересоздан бинарный файл {remote_path} в GitHub")
             else:
-                now = datetime.utcnow()
-            timestamp = now.strftime('%Y-%m-%d %H:%M:%S')
-            
-            repo.update_file(
-                path=remote_path,
-                message=f"🔄 Автоматическое обновление: {timestamp}",
-                content=content,
-                sha=file_in_repo.sha,
-                branch=GITHUB_BRANCH
-            )
-            log(f"✅ Обновлен файл {remote_path} в GitHub")
+                # Для текстовых файлов просто обновляем
+                tz = get_timezone()
+                if tz:
+                    now = datetime.now(tz)
+                else:
+                    now = datetime.utcnow()
+                timestamp = now.strftime('%Y-%m-%d %H:%M:%S')
+                
+                repo.update_file(
+                    path=remote_path,
+                    message=f"🔄 Автоматическое обновление: {timestamp}",
+                    content=content,
+                    sha=file_in_repo.sha,
+                    branch=GITHUB_BRANCH
+                )
+                log(f"✅ Обновлен файл {remote_path} в GitHub")
         except Exception as e:
             # Файл не существует или ошибка получения SHA, создаем/обновляем
             tz = get_timezone()
@@ -1766,30 +1793,12 @@ def main():
         upload_to_github("README.md", "README.md", readme_content)
         
         # Загружаем файлы сайта (если они есть локально)
-        site_files = ['site/index.html', 'site/style.css', 'site/script.js', 'site/rebornsite.png']
+        # rebornsite.png не загружаем автоматически - загружается один раз вручную
+        site_files = ['site/index.html', 'site/style.css', 'site/script.js']
         for site_file in site_files:
             if os.path.exists(site_file):
                 log(f"🌐 Загрузка файла сайта: {site_file}")
-                # Для бинарных файлов (изображений) сначала удаляем старый файл, если он был загружен неправильно
-                if (site_file.endswith('.jpg') or site_file.endswith('.png')) and GITHUB_AVAILABLE:
-                    try:
-                        g = Github(auth=Auth.Token(GITHUB_TOKEN))
-                        repo = g.get_repo(GITHUB_REPO_NAME)
-                        try:
-                            old_file = repo.get_contents(site_file, ref=GITHUB_BRANCH)
-                            # Удаляем файл и загружаем заново как бинарный
-                            repo.delete_file(
-                                path=site_file,
-                                message="🔄 Исправление: перезагрузка бинарного файла",
-                                sha=old_file.sha,
-                                branch=GITHUB_BRANCH
-                            )
-                            log(f"🗑️ Удален старый файл {site_file} для перезагрузки")
-                        except Exception:
-                            pass  # Файл не существует или уже удален
-                    except Exception as e:
-                        log(f"⚠️ Не удалось удалить старый файл {site_file}: {str(e)[:100]}")
-                upload_to_github(site_file, site_file, is_binary=(site_file.endswith('.jpg') or site_file.endswith('.png')))
+                upload_to_github(site_file, site_file, is_binary=False)
         
         total_configs = sum(s['total'] for s in protocol_stats.values())
         log(f"\n✅ Всего загружено: {total_configs} конфигов по {len(protocol_stats)} протоколам")
