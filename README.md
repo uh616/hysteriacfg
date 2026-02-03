@@ -4,11 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/uh616/REBORNCFG/main/Untitled_without_bg.png" alt="Logo" width="200" style="margin-bottom: 20px;">
 
-### 🌅 Перерождение • Новая жизнь • Свобода без границ
+### ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/uh616/REBORNCFG/actions)
 [![Total Configs](https://img.shields.io/badge/Total-944-blue)](./hysteria2/subscription.txt)
-[![Last Update](https://img.shields.io/badge/Last_Update-03.02.2026_03:22:12-orange)](./hysteria2/subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-03.02.2026_03:27:49-orange)](./hysteria2/subscription.txt)
 
 </div>
 
@@ -16,9 +16,9 @@
 
 ## 📊 Статистика последнего обновления
 
-- **📅 Дата обновления:** `03.02.2026 03:22:12`
+- **📅 Дата обновления:** `03.02.2026 03:27:49`
 - **📦 Всего конфигов:** `944`
-- **🌍 Всего стран:** `30`
+- **🌍 Всего стран:** `29`
 - **🔌 Протоколов:** `5`
 
 ---
@@ -28,7 +28,7 @@
 
 ### 🚀 Hysteria2
 
-**📦 Всего конфигов:** `940` | **🌍 Стран:** `30`
+**📦 Всего конфигов:** `940` | **🌍 Стран:** `29`
 
 **📥 Основная подписка:**
 ```
@@ -48,50 +48,49 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 | Страна | Конфигов | Процент | Подписка |
 |--------|----------|---------|----------|
-| 🌐 Unknown | 630 | 67% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Unknown.txt) |
-| 🇺🇸 United States | 91 | 9% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-States.txt) |
-| 🇸🇬 Singapore | 34 | 3% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Singapore.txt) |
-| 🇯🇵 Japan | 33 | 3% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Japan.txt) |
-| 🇭🇰 Hong Kong | 19 | 2% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Hong-Kong.txt) |
-| 🇷🇺 Russia | 19 | 2% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Russia.txt) |
-| 🇹🇼 Taiwan | 17 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Taiwan.txt) |
-| 🌐 The Netherlands | 15 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-The-Netherlands.txt) |
+| 🌐 Unknown | 661 | 70% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Unknown.txt) |
+| 🇺🇸 United States | 73 | 7% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-States.txt) |
+| 🇭🇰 Hong Kong | 21 | 2% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Hong-Kong.txt) |
+| 🇷🇺 Russia | 20 | 2% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Russia.txt) |
+| 🌐 The Netherlands | 19 | 2% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-The-Netherlands.txt) |
+| 🇸🇬 Singapore | 17 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Singapore.txt) |
+| 🇹🇼 Taiwan | 16 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Taiwan.txt) |
 | 🇩🇪 Germany | 14 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Germany.txt) |
-| 🇫🇷 France | 12 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-France.txt) |
+| 🇮🇳 India | 13 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-India.txt) |
+| 🇫🇷 France | 13 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-France.txt) |
 
 <details>
-<summary>🌍 Все страны (30 стран) - нажмите чтобы развернуть</summary>
+<summary>🌍 Все страны (29 стран) - нажмите чтобы развернуть</summary>
 
-- 🌐 **Unknown** (630 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Unknown.txt`
-- 🇺🇸 **United States** (91 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-States.txt`
-- 🇸🇬 **Singapore** (34 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Singapore.txt`
-- 🇯🇵 **Japan** (33 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Japan.txt`
-- 🇭🇰 **Hong Kong** (19 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Hong-Kong.txt`
-- 🇷🇺 **Russia** (19 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Russia.txt`
-- 🇹🇼 **Taiwan** (17 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Taiwan.txt`
-- 🌐 **The Netherlands** (15 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-The-Netherlands.txt`
+- 🌐 **Unknown** (661 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Unknown.txt`
+- 🇺🇸 **United States** (73 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-States.txt`
+- 🇭🇰 **Hong Kong** (21 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Hong-Kong.txt`
+- 🇷🇺 **Russia** (20 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Russia.txt`
+- 🌐 **The Netherlands** (19 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-The-Netherlands.txt`
+- 🇸🇬 **Singapore** (17 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Singapore.txt`
+- 🇹🇼 **Taiwan** (16 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Taiwan.txt`
 - 🇩🇪 **Germany** (14 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Germany.txt`
-- 🇫🇷 **France** (12 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-France.txt`
-- 🇬🇧 **United Kingdom** (9 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-Kingdom.txt`
-- 🇮🇳 **India** (7 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-India.txt`
-- 🇸🇪 **Sweden** (7 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Sweden.txt`
-- 🇦🇪 **United Arab Emirates** (5 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-Arab-Emirates.txt`
-- 🇨🇦 **Canada** (4 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Canada.txt`
-- 🇨🇳 **China** (3 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-China.txt`
-- 🇰🇷 **South Korea** (3 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-South-Korea.txt`
+- 🇮🇳 **India** (13 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-India.txt`
+- 🇫🇷 **France** (13 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-France.txt`
+- 🇰🇷 **South Korea** (11 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-South-Korea.txt`
+- 🇬🇧 **United Kingdom** (10 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-Kingdom.txt`
+- 🇧🇷 **Brazil** (10 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Brazil.txt`
+- 🇯🇵 **Japan** (9 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Japan.txt`
+- 🇸🇪 **Sweden** (6 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Sweden.txt`
+- 🇪🇸 **Spain** (4 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Spain.txt`
+- 🇦🇺 **Australia** (4 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Australia.txt`
+- 🇦🇪 **United Arab Emirates** (4 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-Arab-Emirates.txt`
+- 🇨🇦 **Canada** (3 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Canada.txt`
 - 🌐 **Lithuania** (2 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Lithuania.txt`
-- 🇦🇺 **Australia** (2 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Australia.txt`
-- 🇳🇱 **Netherlands** (2 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Netherlands.txt`
-- 🌐 **Türkiye** (2 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Türkiye.txt`
 - 🇸🇰 **Slovakia** (2 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Slovakia.txt`
-- 🇧🇷 **Brazil** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Brazil.txt`
 - 🇲🇽 **Mexico** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Mexico.txt`
-- 🌐 **Czechia** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Czechia.txt`
-- 🇵🇱 **Poland** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Poland.txt`
+- 🇳🇱 **Netherlands** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Netherlands.txt`
+- 🇨🇭 **Switzerland** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Switzerland.txt`
+- 🇵🇪 **Peru** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Peru.txt`
 - 🇹🇭 **Thailand** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Thailand.txt`
 - 🇫🇮 **Finland** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Finland.txt`
-- 🇪🇸 **Spain** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Spain.txt`
 - 🇸🇦 **Saudi Arabia** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Saudi-Arabia.txt`
+- 🌐 **Türkiye** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Türkiye.txt`
 
 </details>
 
@@ -99,7 +98,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 ### ⚡ VLESS
 
-**📦 Всего конфигов:** `1` | **🌍 Стран:** `0`
+**📦 Всего конфигов:** `1` | **🌍 Стран:** `1`
 
 **📥 Основная подписка:**
 ```
@@ -119,12 +118,12 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 | Страна | Конфигов | Процент | Подписка |
 |--------|----------|---------|----------|
-| - | - | - | - |
+| 🌐 Unknown | 1 | 100% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription-Unknown.txt) |
 
 <details>
-<summary>🌍 Все страны (0 стран) - нажмите чтобы развернуть</summary>
+<summary>🌍 Все страны (1 стран) - нажмите чтобы развернуть</summary>
 
-- Нет конфигов
+- 🌐 **Unknown** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription-Unknown.txt`
 
 </details>
 
@@ -165,7 +164,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 ### 🔰 Shadowsocks
 
-**📦 Всего конфигов:** `1` | **🌍 Стран:** `1`
+**📦 Всего конфигов:** `1` | **🌍 Стран:** `0`
 
 **📥 Основная подписка:**
 ```
@@ -185,12 +184,12 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 | Страна | Конфигов | Процент | Подписка |
 |--------|----------|---------|----------|
-| 🌐 Unknown | 1 | 100% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription-Unknown.txt) |
+| - | - | - | - |
 
 <details>
-<summary>🌍 Все страны (1 стран) - нажмите чтобы развернуть</summary>
+<summary>🌍 Все страны (0 стран) - нажмите чтобы развернуть</summary>
 
-- 🌐 **Unknown** (1 конфигов): `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription-Unknown.txt`
+- Нет конфигов
 
 </details>
 
@@ -259,6 +258,6 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
 
 **⭐ Если проект полезен, поставьте звезду!**
 
-*Последнее обновление: 03.02.2026 03:22:12*
+*Последнее обновление: 03.02.2026 03:27:49*
 
 </div>
