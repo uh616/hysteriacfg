@@ -1373,9 +1373,22 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         # Основная ссылка на подписку
         main_subscription = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription.txt"
         
-        # QR код для основной подписки
+        # QR код для основной подписки - встраиваем как base64
         qr_filename = f"{protocol_folder}/subscription-qr.png"
-        qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
+        qr_image_html = ""
+        if os.path.exists(qr_filename):
+            try:
+                with open(qr_filename, "rb") as f:
+                    qr_image_data = base64.b64encode(f.read()).decode('utf-8')
+                    qr_image_html = f'<img src="data:image/png;base64,{qr_image_data}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
+            except Exception:
+                # Если не удалось прочитать, используем URL
+                qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
+                qr_image_html = f'<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
+        else:
+            # Если файл не существует, используем URL
+            qr_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{qr_filename}"
+            qr_image_html = f'<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">'
         
         # Рекомендуемые нумерованные подписки (best-1, best-2, best-3)
         recommended_subs = []
@@ -1397,7 +1410,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 **📱 QR-код подписки:**
 
-<img src="{qr_url}" alt="QR Code" width="200" style="display: block; margin: 0 auto;">
+{qr_image_html}
 
 **⭐ Рекомендуемые подписки:**
 {recommended_text}
