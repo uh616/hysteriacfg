@@ -1,1 +1,1 @@
-hy2://maniubi@129.148.33.28:60800?insecure=1&sni=www.bing.com#🔒
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@132.226.162.10:30102?insecure=1&sni=br3.wish.ml#🔒
