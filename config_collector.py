@@ -1550,6 +1550,20 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 ---
 
+## 💰 Поддержать автора
+
+<div align="center">
+
+### 💎 TON кошелек
+
+```
+UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
+```
+
+</div>
+
+---
+
 <div align="center">
 
 **⭐ Если проект полезен, поставьте звезду!**
