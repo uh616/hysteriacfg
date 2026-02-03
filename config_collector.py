@@ -429,7 +429,6 @@ def extract_trojan_configs(data: str) -> list[str]:
 def normalize_config_url(config_url: str) -> str:
     """Нормализует URL конфига для сравнения (универсальная для всех протоколов)."""
     try:
-        # Для других протоколов просто возвращаем как есть (можно улучшить позже)
         if not config_url.startswith(('hysteria2://', 'hy2://', 'vless://', 'vmess://', 'ss://', 'shadowsocks://', 'trojan://')):
             return config_url
         
@@ -484,6 +483,27 @@ def normalize_config_url(config_url: str) -> str:
                 normalized += f"?{param_str}"
             
             return normalized
+        
+        # Для других протоколов - базовая нормализация (убираем фрагменты, нормализуем регистр протокола)
+        protocol_prefix = None
+        if config_url.startswith('vless://'):
+            protocol_prefix = 'vless://'
+        elif config_url.startswith('vmess://'):
+            protocol_prefix = 'vmess://'
+        elif config_url.startswith(('ss://', 'shadowsocks://')):
+            protocol_prefix = 'ss://'
+        elif config_url.startswith('trojan://'):
+            protocol_prefix = 'trojan://'
+        
+        if protocol_prefix:
+            url_part = config_url.split('://', 1)[1]
+            # Убираем фрагмент (#...)
+            if '#' in url_part:
+                url_part = url_part.split('#')[0]
+            # Возвращаем нормализованный URL (без фрагментов)
+            return f"{protocol_prefix}{url_part}"
+        
+        return config_url
     except Exception:
         return config_url
 
@@ -498,14 +518,6 @@ def deduplicate_configs(configs: list[str], protocol: str = None, show_log: bool
     for config in configs:
         config = config.strip()
         if not config:
-            continue
-        
-        # Нормализуем URL
-        normalized = normalize_config_url(config)
-        
-        # Проверяем полное совпадение
-        if normalized in seen_full:
-            duplicates_full += 1
             continue
         
         # Определяем протокол из конфига, если не передан
@@ -524,6 +536,15 @@ def deduplicate_configs(configs: list[str], protocol: str = None, show_log: bool
             else:
                 config_protocol = 'unknown'
         
+        # Для Hysteria2 используем полную нормализацию и проверку по полному URL
+        # Для других протоколов проверяем только по host:port (так как полная нормализация может быть слишком агрессивной)
+        if config_protocol == 'hysteria2':
+            normalized = normalize_config_url(config)
+            if normalized in seen_full:
+                duplicates_full += 1
+                continue
+            seen_full.add(normalized)
+        
         # Парсим для проверки host:port (универсально для всех протоколов)
         host_port = extract_host_from_config(config)
         if host_port:
@@ -539,10 +560,14 @@ def deduplicate_configs(configs: list[str], protocol: str = None, show_log: bool
             
             seen_hostport.add(hostport_key)
         else:
-            # Если не удалось распарсить, все равно добавляем в seen_full
-            pass
+            # Если не удалось распарсить, проверяем по полному URL (только для других протоколов)
+            if config_protocol != 'hysteria2':
+                normalized = normalize_config_url(config)
+                if normalized in seen_full:
+                    duplicates_full += 1
+                    continue
+                seen_full.add(normalized)
         
-        seen_full.add(normalized)
         unique_configs.append(config)
     
     total_duplicates = duplicates_full + duplicates_hostport
