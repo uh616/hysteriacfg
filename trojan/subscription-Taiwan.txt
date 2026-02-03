@@ -1,0 +1,8 @@
+trojan://aadebd6c-5714-4e8d-886d-a442eb39950c@36.231.122.107:443?type=tcp&sni=20-212-60-88.nhost.00cdn.com&allowInsecure=1#4Nika-4149
+trojan://3c4e10af98c30972@60.248.114.184:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#4Nika-3536
+trojan://7ac49a893e0bd10c@60.249.3.226:3389?security=tls#⚡
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#4Nika-3948
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#⚡
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#⚡
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#⚡
+trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@tw2.233235.xyz:777?allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
