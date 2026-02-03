@@ -752,15 +752,17 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
         # Пытаемся получить IP из хоста
         ip = None
         try:
+            # Уменьшаем таймаут DNS резолвинга для ускорения
+            socket.setdefaulttimeout(2)
             ip = socket.gethostbyname(host)
         except:
             # Если это уже IP
             if re.match(r'^\d+\.\d+\.\d+\.\d+$', host):
                 ip = host
             else:
-                # Пробуем еще раз с большим таймаутом
+                # Пробуем еще раз с меньшим таймаутом
                 try:
-                    socket.setdefaulttimeout(5)
+                    socket.setdefaulttimeout(2)
                     ip = socket.gethostbyname(host)
                 except:
                     pass
@@ -772,14 +774,12 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
                     _COUNTRY_CACHE[host] = country
             return country
         
-        # Пробуем несколько API для определения страны
+        # Пробуем несколько API для определения страны (уменьшены таймауты для скорости)
         apis = [
             # ip-api.com (бесплатный, до 45 запросов/минуту)
-            (f"http://ip-api.com/json/{ip}?fields=country", "country", 5),
+            (f"http://ip-api.com/json/{ip}?fields=country", "country", 2),
             # ipapi.co (бесплатный, до 1000 запросов/день)
-            (f"https://ipapi.co/{ip}/country_name/", None, 5),
-            # ip-api.com с другим форматом
-            (f"https://ip-api.com/json/{ip}?fields=country", "country", 5),
+            (f"https://ipapi.co/{ip}/country_name/", None, 2),
         ]
         
         for api_url, json_key, timeout in apis:
@@ -806,11 +806,11 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
             except:
                 continue
         
-        # Если все API не сработали, пробуем еще раз с ip-api.com (основной)
+        # Если все API не сработали, пробуем еще раз с ip-api.com (основной, уменьшен таймаут)
         try:
             response = REQUESTS_SESSION.get(
                 f"http://ip-api.com/json/{ip}?fields=country,status",
-                timeout=8
+                timeout=3
             )
             if response.status_code == 200:
                 data = response.json()
@@ -865,13 +865,13 @@ def get_countries_for_configs(configs: list[str]) -> dict[str, list[str]]:
     log(f"🌍 Определение стран для {total} конфигов...")
     
     # Используем параллельную обработку для определения стран
-    # Уменьшаем количество воркеров чтобы не превысить лимиты API (45 запросов/минуту для ip-api.com)
-    max_workers = min(10, total)  # Уменьшено с 20 до 10
+    # Увеличено количество воркеров для ускорения (с учетом лимитов API)
+    max_workers = min(25, total)  # Увеличено с 10 до 25 для ускорения
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [executor.submit(process_config, config) for config in configs]
         for future in concurrent.futures.as_completed(futures):
             try:
-                config, country = future.result(timeout=15)  # Увеличено с 10 до 15
+                config, country = future.result(timeout=5)  # Уменьшено с 15 до 5 секунд для ускорения
                 if config:
                     if country not in configs_by_country:
                         configs_by_country[country] = []
