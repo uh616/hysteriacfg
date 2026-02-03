@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⚡ REBORN CFG - Автоматические VPN конфиги</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <span class="logo-icon">⚡</span>
+                    <span class="logo-text">REBORN CFG</span>
+                </div>
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Обновление</span>
+                        <span class="stat-value" id="updateTime">каждый час</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Hero Section -->
+        <section class="hero">
+            <h1 class="hero-title">ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.</h1>
+            <p class="hero-subtitle">Автоматические VPN конфиги • Hysteria2 • VLESS • VMESS • Shadowsocks • Trojan</p>
+            <div class="hero-steps">
+                <div class="step">
+                    <div class="step-icon">📋</div>
+                    <div class="step-text">Скопируй ссылку</div>
+                </div>
+                <div class="step-arrow">→</div>
+                <div class="step">
+                    <div class="step-icon">📥</div>
+                    <div class="step-text">Импортируй в клиент</div>
+                </div>
+                <div class="step-arrow">→</div>
+                <div class="step">
+                    <div class="step-icon">🚀</div>
+                    <div class="step-text">Подключись</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Tabs -->
+        <div class="tabs">
+            <button class="tab-btn active" data-tab="lists">📋 Списки</button>
+            <button class="tab-btn" data-tab="qr">📱 QR-коды</button>
+        </div>
+
+        <!-- Filters -->
+        <div class="filters">
+            <input type="text" id="searchInput" class="search-input" placeholder="🔍 Найти по протоколу или стране...">
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">Все</button>
+                <button class="filter-btn" data-filter="recommended">⭐ Рекомендованные</button>
+                <button class="filter-btn" data-filter="hysteria2">🚀 Hysteria2</button>
+                <button class="filter-btn" data-filter="vless">⚡ VLESS</button>
+                <button class="filter-btn" data-filter="vmess">🔷 VMESS</button>
+                <button class="filter-btn" data-filter="shadowsocks">🔰 Shadowsocks</button>
+                <button class="filter-btn" data-filter="trojan">🎯 Trojan</button>
+            </div>
+        </div>
+
+        <!-- Lists Tab Content -->
+        <div class="tab-content active" id="listsTab">
+            <div class="configs-grid" id="configsGrid">
+                <!-- Конфиги будут загружены через JS -->
+            </div>
+            <div class="loading" id="loading">Загрузка конфигов...</div>
+            <div class="empty-state" id="emptyState" style="display: none;">
+                <div class="empty-icon">😢</div>
+                <div class="empty-text">Ничего не найдено</div>
+            </div>
+        </div>
+
+        <!-- QR Codes Tab Content -->
+        <div class="tab-content" id="qrTab">
+            <div class="qr-grid" id="qrGrid">
+                <!-- QR-коды будут загружены через JS -->
+            </div>
+        </div>
+
+        <!-- Support Section -->
+        <section class="support">
+            <h2 class="support-title">💰 Поддержать автора</h2>
+            <div class="support-content">
+                <div class="support-item">
+                    <div class="support-label">💎 TON кошелек</div>
+                    <div class="support-address" id="tonAddress" onclick="copyToClipboard('UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe')">
+                        UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
+                        <span class="copy-icon">📋</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="footer-author">
+                    <span>🕐 616 минут</span>
+                    <a href="https://t.me/solnechniyre6enok" target="_blank" class="footer-link">Telegram</a>
+                </div>
+                <div class="footer-license">
+                    © 2024 REBORN CFG • Developed by 616 минут
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

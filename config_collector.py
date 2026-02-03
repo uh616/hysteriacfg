@@ -1469,6 +1469,18 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 ---
 
+<div align="center">
+
+<a href="https://uh616.github.io/REBORNCFG/" target="_blank">
+  <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/rebornsite.jpg" alt="REBORN CFG Site" style="max-width: 100%; border-radius: 12px; border: 2px solid #ff006e;">
+</a>
+
+**🌐 [Открыть сайт](https://uh616.github.io/REBORNCFG/)**
+
+</div>
+
+---
+
 ## 📊 Статистика последнего обновления
 
 - **📅 Дата обновления:** `{date_str}`
@@ -1812,6 +1824,13 @@ def main():
         # Создаем красивый README со всеми протоколами
         readme_content = create_readme_multi_protocol(protocol_stats)
         upload_to_github("README.md", "README.md", readme_content)
+        
+        # Загружаем файлы сайта (если они есть локально)
+        site_files = ['index.html', 'style.css', 'script.js', 'rebornsite.jpg']
+        for site_file in site_files:
+            if os.path.exists(site_file):
+                log(f"🌐 Загрузка файла сайта: {site_file}")
+                upload_to_github(site_file, site_file, is_binary=(site_file.endswith('.jpg')))
         
         total_configs = sum(s['total'] for s in protocol_stats.values())
         log(f"\n✅ Всего загружено: {total_configs} конфигов по {len(protocol_stats)} протоколам")
