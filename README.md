@@ -19,7 +19,7 @@
 <div align="center">
 
 <a href="https://uh616.github.io/REBORNCFG/" target="_blank">
-  <img src="https://raw.githubusercontent.com/uh616/REBORNCFG/main/site/rebornsite.jpg" alt="REBORN CFG Site" style="max-width: 100%; border-radius: 12px; border: 2px solid #ff006e;">
+  <img src="https://raw.githubusercontent.com/uh616/REBORNCFG/main/site/rebornsite.png" alt="REBORN CFG Site" style="max-width: 100%; border-radius: 12px; border: 2px solid #ff006e;">
 </a>
 
 **🌐 [Открыть сайт](https://uh616.github.io/REBORNCFG/)**
@@ -229,6 +229,14 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
 ```
 UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 ```
+
+### 🎁 Boosty донат
+
+<a href="https://boosty.to/6i6/donate" target="_blank">
+  <img src="https://img.shields.io/badge/🎁_Boosty-Поддержать%20автора-FF006E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkYwMDZFIi8+Cjwvc3ZnPgo=&labelColor=8338EC" alt="Boosty Donate" style="border-radius: 8px; margin: 10px 0;">
+</a>
+
+**🔗 [Перейти на Boosty](https://boosty.to/6i6/donate)**
 
 </div>
 

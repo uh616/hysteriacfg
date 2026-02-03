@@ -181,7 +181,7 @@ function renderConfigs() {
             </div>
             <div class="config-url">${config.url}</div>
             <div class="config-time">${new Date().toLocaleString('ru-RU')}</div>
-            <button class="copy-btn" onclick="copyConfig('${config.url}')">
+            <button class="copy-btn" onclick="copyConfig('${config.url.replace(/'/g, "\\'")}')">
                 📋 Копировать ссылку
             </button>
         </div>

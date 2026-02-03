@@ -287,6 +287,76 @@ body {
     display: block;
 }
 
+/* Protocols Section */
+.protocols-section {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.protocols-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 10px;
+}
+
+.protocols-subtitle {
+    font-size: 16px;
+    color: var(--text-secondary);
+    margin-bottom: 25px;
+}
+
+.protocols-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+.protocol-link {
+    display: inline-block;
+    padding: 12px 24px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.protocol-link:hover {
+    border-color: var(--accent-pink);
+    background: linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(131, 56, 236, 0.1));
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255, 0, 110, 0.3);
+}
+
+.protocol-section {
+    margin-bottom: 50px;
+    scroll-margin-top: 100px;
+}
+
+.protocol-section-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.protocol-configs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
 /* Configs Grid */
 .configs-grid {
     display: grid;
@@ -452,6 +522,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    text-decoration: none;
 }
 
 .support-address:hover {
@@ -463,6 +534,35 @@ body {
     font-size: 16px;
     opacity: 0.6;
 }
+
+.boosty-button {
+    background: var(--bg-card);
+    border: 1px solid var(--accent-pink);
+    border-radius: 8px;
+    padding: 14px 20px;
+    font-size: 14px;
+    color: var(--accent-pink);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-weight: 500;
+}
+
+.boosty-button:hover {
+    background: linear-gradient(135deg, rgba(255, 0, 110, 0.15) 0%, rgba(131, 56, 236, 0.15) 100%);
+    border-color: var(--accent-pink);
+    color: var(--text-primary);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255, 0, 110, 0.3);
+}
+
+.boosty-button span:first-child {
+    font-size: 18px;
+}
+
 
 /* Footer */
 .footer {

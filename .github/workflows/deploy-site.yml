@@ -8,7 +8,7 @@ on:
       - 'site/index.html'
       - 'site/style.css'
       - 'site/script.js'
-      - 'site/rebornsite.jpg'
+      - 'site/rebornsite.png'
       - 'source/Untitled_without_bg.png'
   workflow_dispatch:
 

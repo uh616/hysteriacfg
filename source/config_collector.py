@@ -1350,9 +1350,6 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
     }
     
     total_configs = sum(s['total'] for s in protocol_stats.values())
-    total_countries = set()
-    for stats in protocol_stats.values():
-        total_countries.update(stats['by_country'].keys())
     
     # Формируем секции для каждого протокола
     protocol_sections = []
@@ -1361,58 +1358,6 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         protocol_name = protocol_names.get(protocol, protocol.upper())
         protocol_folder = protocol
         total = stats['total']
-        configs_by_country = stats['by_country']
-        
-        # Сортируем страны по количеству конфигов (только если конфигов меньше 5000)
-        if total < 5000:
-            sorted_countries = sorted(
-                configs_by_country.items(),
-                key=lambda x: len(x[1]),
-                reverse=True
-            )
-            
-            # Таблица по странам (топ 10)
-            country_table = []
-            for country, configs in sorted_countries[:10]:  # Топ 10 стран
-                flag = get_country_flag_emoji(country)
-                count = len(configs)
-                percentage = (count * 100) // total if total > 0 else 0
-                safe_country = country.replace(" ", "-").replace("/", "-")
-                subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
-                country_table.append(f"| {flag} {country} | {count} | {percentage}% | [📥]({subscription_url}) |")
-            
-            country_table_text = "\n".join(country_table) if country_table else "| - | - | - | - |"
-            
-            # Полный список стран для спойлера (в формате таблицы, как "Топ стран")
-            all_countries_table = []
-            for country, configs in sorted_countries:
-                flag = get_country_flag_emoji(country)
-                count = len(configs)
-                percentage = (count * 100) // total if total > 0 else 0
-                safe_country = country.replace(" ", "-").replace("/", "-")
-                subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
-                all_countries_table.append(f"| {flag} {country} | {count} | {percentage}% | [📥]({subscription_url}) |")
-            
-            all_countries_text = "\n".join(all_countries_table) if all_countries_table else "| - | - | - | - |"
-            countries_section = f"""
-**📊 Топ стран:**
-
-| Страна | Конфигов | Процент | Подписка |
-|--------|----------|---------|----------|
-{country_table_text}
-
-<details>
-<summary>🌍 Все страны ({len(sorted_countries)} стран) - нажмите чтобы развернуть</summary>
-
-| Страна | Конфигов | Процент | Подписка |
-|--------|----------|---------|----------|
-{all_countries_text}
-
-</details>
-"""
-        else:
-            # Если конфигов >= 5000, не показываем таблицы стран
-            countries_section = ""
         
         # Основная ссылка на подписку
         main_subscription = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription.txt"
@@ -1425,14 +1370,18 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         
         recommended_text = "\n".join([f"{i+1}. {sub}" for i, sub in enumerate(recommended_subs)])
         
+        # Создаем якорь для ссылки (убираем эмодзи и пробелы, делаем нижний регистр)
+        anchor = protocol.replace('_', '-').lower()
+        
         protocol_section = f"""
 ---
 
+<a id="{anchor}"></a>
 ## {protocol_name}
 
 <div align="center">
 
-**📦 Всего конфигов:** `{total}` | **🌍 Стран:** `{len(configs_by_country)}`
+**📦 Всего конфигов:** `{total}`
 
 </div>
 
@@ -1443,7 +1392,6 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 **⭐ Рекомендуемые подписки:**
 {recommended_text}
-{countries_section}
 
 """
         protocol_sections.append(protocol_section)
@@ -1471,7 +1419,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 <div align="center">
 
 <a href="https://uh616.github.io/REBORNCFG/" target="_blank">
-  <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/site/rebornsite.jpg" alt="REBORN CFG Site" style="max-width: 100%; border-radius: 12px; border: 2px solid #ff006e;">
+  <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/site/rebornsite.png" alt="REBORN CFG Site" style="max-width: 100%; border-radius: 12px; border: 2px solid #ff006e;">
 </a>
 
 **🌐 [Открыть сайт](https://uh616.github.io/REBORNCFG/)**
@@ -1484,7 +1432,6 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 - **📅 Дата обновления:** `{date_str}`
 - **📦 Всего конфигов:** `{total_configs}`
-- **🌍 Всего стран:** `{len(total_countries)}`
 - **🔌 Протоколов:** `{len(protocol_stats)}`
 
 ---
@@ -1497,6 +1444,13 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 </div>
 
+**Протоколы:**
+- [🚀 Hysteria2](#hysteria2)
+- [⚡ VLESS](#vless)
+- [🔷 VMESS](#vmess)
+- [🔰 Shadowsocks](#shadowsocks)
+- [🎯 Trojan](#trojan)
+
 {protocol_sections_text}
 
 ---
@@ -1506,7 +1460,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 ### V2RayN / Nekoray / Clash / Hysteria2 клиент
 
 1. Выберите нужный протокол выше
-2. Скопируйте ссылку на подписку (все конфиги или по стране)
+2. Скопируйте ссылку на подписку
 3. Добавьте в настройках подписок вашего клиента
 4. Обновите подписку
 5. Готово! 🎉
@@ -1534,6 +1488,14 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 ```
 UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 ```
+
+### 🎁 Boosty донат
+
+<a href="https://boosty.to/6i6/donate" target="_blank">
+  <img src="https://img.shields.io/badge/🎁_Boosty-Поддержать%20автора-FF006E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkYwMDZFIi8+Cjwvc3ZnPgo=&labelColor=8338EC" alt="Boosty Donate" style="border-radius: 8px; margin: 10px 0;">
+</a>
+
+**🔗 [Перейти на Boosty](https://boosty.to/6i6/donate)**
 
 </div>
 
@@ -1742,17 +1704,11 @@ def main():
         
         unique_configs.sort(key=get_sort_key)
         
-        # Определяем страны (только если конфигов меньше 5000)
-        if len(unique_configs) < 5000:
-            configs_by_country = get_countries_for_configs(unique_configs)
-            log(f"✅ {protocol.upper()}: {len(unique_configs)} уникальных конфигов, {len(configs_by_country)} стран")
-        else:
-            configs_by_country = {}
-            log(f"✅ {protocol.upper()}: {len(unique_configs)} уникальных конфигов (определение стран пропущено, конфигов >= 5000)")
+        log(f"✅ {protocol.upper()}: {len(unique_configs)} уникальных конфигов")
         
         protocol_stats[protocol] = {
             'total': len(unique_configs),
-            'by_country': configs_by_country
+            'configs': unique_configs
         }
     
     if not protocol_stats:
@@ -1767,9 +1723,7 @@ def main():
         # Обрабатываем каждый протокол
         for protocol, stats in protocol_stats.items():
             protocol_folder = protocol
-            unique_configs = []
-            for country_configs in stats['by_country'].values():
-                unique_configs.extend(country_configs)
+            unique_configs = stats['configs']
             
             log(f"\n📁 Обработка {protocol.upper()}...")
             
@@ -1792,24 +1746,6 @@ def main():
             
             if numbered_subs:
                 log(f"  📋 Создано {len(numbered_subs)} нумерованных подписок")
-            
-            # Создаем файлы подписок по странам (только если конфигов меньше 5000)
-            configs_by_country = stats['by_country']
-            if len(unique_configs) < 5000 and configs_by_country:
-                log(f"🌍 Создание подписок по странам для {protocol.upper()} ({len(configs_by_country)} стран)...")
-                for country, configs in configs_by_country.items():
-                    safe_country = country.replace(" ", "-").replace("/", "-")
-                    country_filename = f"{protocol_folder}/subscription-{safe_country}.txt"
-                    
-                    create_subscription_file(configs, country_filename)
-                    
-                    with open(country_filename, "r", encoding="utf-8") as f:
-                        country_content = f.read()
-                    
-                    upload_to_github(country_filename, country_filename, country_content)
-                    log(f"  ✅ {country}: {len(configs)} конфигов")
-            elif len(unique_configs) >= 5000:
-                log(f"  ⚠️ Пропущено создание подписок по странам для {protocol.upper()} (конфигов >= 5000)")
         
         # Загружаем логотип один раз, если его еще нет в репозитории
         logo_path = "source/Untitled_without_bg.png"
@@ -1830,11 +1766,30 @@ def main():
         upload_to_github("README.md", "README.md", readme_content)
         
         # Загружаем файлы сайта (если они есть локально)
-        site_files = ['site/index.html', 'site/style.css', 'site/script.js', 'site/rebornsite.jpg']
+        site_files = ['site/index.html', 'site/style.css', 'site/script.js', 'site/rebornsite.png']
         for site_file in site_files:
             if os.path.exists(site_file):
                 log(f"🌐 Загрузка файла сайта: {site_file}")
-                upload_to_github(site_file, site_file, is_binary=(site_file.endswith('.jpg')))
+                # Для бинарных файлов (изображений) сначала удаляем старый файл, если он был загружен неправильно
+                if (site_file.endswith('.jpg') or site_file.endswith('.png')) and GITHUB_AVAILABLE:
+                    try:
+                        g = Github(auth=Auth.Token(GITHUB_TOKEN))
+                        repo = g.get_repo(GITHUB_REPO_NAME)
+                        try:
+                            old_file = repo.get_contents(site_file, ref=GITHUB_BRANCH)
+                            # Удаляем файл и загружаем заново как бинарный
+                            repo.delete_file(
+                                path=site_file,
+                                message="🔄 Исправление: перезагрузка бинарного файла",
+                                sha=old_file.sha,
+                                branch=GITHUB_BRANCH
+                            )
+                            log(f"🗑️ Удален старый файл {site_file} для перезагрузки")
+                        except Exception:
+                            pass  # Файл не существует или уже удален
+                    except Exception as e:
+                        log(f"⚠️ Не удалось удалить старый файл {site_file}: {str(e)[:100]}")
+                upload_to_github(site_file, site_file, is_binary=(site_file.endswith('.jpg') or site_file.endswith('.png')))
         
         total_configs = sum(s['total'] for s in protocol_stats.values())
         log(f"\n✅ Всего загружено: {total_configs} конфигов по {len(protocol_stats)} протоколам")
