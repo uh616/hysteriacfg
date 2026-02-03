@@ -13,6 +13,8 @@ results/
 !*/subscription.txt
 !*/subscription-*.txt
 !*/best-*.txt
+!requirements.txt
+!source/requirements.txt
 
 # Python
 __pycache__/

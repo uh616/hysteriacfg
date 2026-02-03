@@ -40,9 +40,6 @@ function initTabs() {
             document.getElementById(`${tab}Tab`).classList.add('active');
             
             currentTab = tab;
-            if (tab === 'qr') {
-                loadQRCodes();
-            }
         });
     });
 }
@@ -189,23 +186,6 @@ function renderConfigs() {
             </button>
         </div>
     `).join('');
-}
-
-// Загрузка QR-кодов
-function loadQRCodes() {
-    const grid = document.getElementById('qrGrid');
-    
-    grid.innerHTML = allConfigs
-        .filter(config => config.type === 'recommended')
-        .map(config => {
-            const qrUrl = `https://raw.githubusercontent.com/${REPO_NAME}/${BRANCH}/${config.protocol}/subscription-qr.png`;
-            return `
-                <div class="qr-card">
-                    <img src="${qrUrl}" alt="${config.name}" class="qr-image" onerror="this.style.display='none'">
-                    <div class="qr-label">${config.name}</div>
-                </div>
-            `;
-        }).join('');
 }
 
 // Копирование конфига

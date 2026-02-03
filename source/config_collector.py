@@ -734,7 +734,7 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
                     ip = host
                 else:
                     # Уменьшаем таймаут DNS резолвинга для ускорения
-                    socket.setdefaulttimeout(1)  # Уменьшено с 2 до 1 секунды
+                    socket.setdefaulttimeout(0.5)  # Уменьшено до 0.5 секунды для максимальной скорости
                     ip = socket.gethostbyname(host)
                 
                 # Кешируем IP
@@ -759,45 +759,12 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
                     _COUNTRY_CACHE[host] = country  # Кешируем и для host
                     return country
         
-        # Пробуем несколько API для определения страны (уменьшены таймауты для максимальной скорости)
-        apis = [
-            # ip-api.com (бесплатный, до 45 запросов/минуту) - самый быстрый
-            (f"http://ip-api.com/json/{ip}?fields=country", "country", 1),
-            # ipapi.co (бесплатный, до 1000 запросов/день)
-            (f"https://ipapi.co/{ip}/country_name/", None, 1),
-        ]
-        
-        for api_url, json_key, timeout in apis:
-            try:
-                response = REQUESTS_SESSION.get(api_url, timeout=timeout)
-                if response.status_code == 200:
-                    if json_key:
-                        # JSON ответ
-                        data = response.json()
-                        country = data.get(json_key, '').strip()
-                        if country and country != 'Unknown' and country != '':
-                            if use_cache:
-                                with _COUNTRY_CACHE_LOCK:
-                                    _IP_COUNTRY_CACHE[ip] = country  # Кешируем по IP
-                                    _COUNTRY_CACHE[host] = country  # Кешируем по host
-                            return country
-                    else:
-                        # Текстовый ответ
-                        country = response.text.strip()
-                        if country and country != 'Unknown' and country != '' and len(country) < 100:
-                            if use_cache:
-                                with _COUNTRY_CACHE_LOCK:
-                                    _IP_COUNTRY_CACHE[ip] = country  # Кешируем по IP
-                                    _COUNTRY_CACHE[host] = country  # Кешируем по host
-                            return country
-            except:
-                continue
-        
-        # Если все API не сработали, пробуем еще раз с ip-api.com (основной, уменьшен таймаут)
+        # ОПТИМИЗАЦИЯ: Используем только самый быстрый API (ip-api.com) с минимальным таймаутом
+        # Убрали fallback'и для максимальной скорости
         try:
             response = REQUESTS_SESSION.get(
                 f"http://ip-api.com/json/{ip}?fields=country,status",
-                timeout=2  # Уменьшено с 3 до 2 секунд
+                timeout=0.5  # Уменьшено до 0.5 секунды для максимальной скорости
             )
             if response.status_code == 200:
                 data = response.json()
@@ -828,46 +795,68 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
 def get_countries_for_configs(configs: list[str]) -> dict[str, list[str]]:
     """Определяет страны для всех конфигов и группирует их (универсальная для всех протоколов)."""
     configs_by_country = {}
-    total = len(configs)
-    processed = 0
     
-    def process_config(config):
+    # ОПТИМИЗАЦИЯ: Группируем конфиги по host:port, чтобы не проверять один host несколько раз
+    host_to_configs = {}
+    configs_without_host = []
+    
+    for config in configs:
+        host_port = extract_host_from_config(config)
+        if host_port:
+            host, _ = host_port
+            host_key = host.lower().strip()
+            if host_key not in host_to_configs:
+                host_to_configs[host_key] = []
+            host_to_configs[host_key].append(config)
+        else:
+            configs_without_host.append(config)
+    
+    # Теперь проверяем только уникальные хосты
+    unique_hosts = list(host_to_configs.keys())
+    total_hosts = len(unique_hosts)
+    processed = 0
+    host_to_country = {}
+    
+    def process_host(host):
         nonlocal processed
         try:
-            host_port = extract_host_from_config(config)
-            if not host_port:
-                processed += 1
-                return None, "Unknown"
-            
-            host, _ = host_port
             country = get_country_by_ip(host)
             processed += 1
             
-            if processed % 50 == 0:
-                log(f"🌍 Определение стран: {processed}/{total} ({processed*100//total}%)")
+            if processed % 100 == 0:
+                log(f"🌍 Определение стран: {processed}/{total_hosts} хостов ({processed*100//total_hosts if total_hosts > 0 else 0}%)")
             
-            return config, country
+            return host, country
         except:
             processed += 1
-            return None, "Unknown"
+            return host, "Unknown"
     
-    log(f"🌍 Определение стран для {total} конфигов...")
+    log(f"🌍 Определение стран для {len(configs)} конфигов ({total_hosts} уникальных хостов)...")
     
-    # Используем параллельную обработку для определения стран
-    # Максимальное количество воркеров для ускорения (с учетом лимитов API ~45 req/min для ip-api.com)
-    # Используем 50-100 воркеров для максимальной скорости (API лимиты распределяются по времени)
-    max_workers = min(80, total)  # Увеличено с 25 до 80 для максимального ускорения
+    # Увеличиваем параллелизм до 150-200 для максимальной скорости
+    # API лимиты распределяются по времени, поэтому можно использовать больше воркеров
+    max_workers = min(150, total_hosts)  # Увеличено с 80 до 150 для максимального ускорения
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = [executor.submit(process_config, config) for config in configs]
+        futures = [executor.submit(process_host, host) for host in unique_hosts]
         for future in concurrent.futures.as_completed(futures):
             try:
-                config, country = future.result(timeout=3)  # Уменьшено с 5 до 3 секунд для ускорения
-                if config:
-                    if country not in configs_by_country:
-                        configs_by_country[country] = []
-                    configs_by_country[country].append(config)
+                host, country = future.result(timeout=1.5)  # Уменьшено с 3 до 1.5 секунд
+                host_to_country[host] = country
             except:
                 pass
+    
+    # Теперь распределяем конфиги по странам на основе результатов проверки хостов
+    for host, configs_list in host_to_configs.items():
+        country = host_to_country.get(host, "Unknown")
+        if country not in configs_by_country:
+            configs_by_country[country] = []
+        configs_by_country[country].extend(configs_list)
+    
+    # Конфиги без хоста идут в Unknown
+    if configs_without_host:
+        if "Unknown" not in configs_by_country:
+            configs_by_country["Unknown"] = []
+        configs_by_country["Unknown"].extend(configs_without_host)
     
     log(f"✅ Определение стран завершено: найдено {len(configs_by_country)} стран")
     return configs_by_country
@@ -1472,7 +1461,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 <div align="center">
 
 <a href="https://uh616.github.io/REBORNCFG/" target="_blank">
-  <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/rebornsite.jpg" alt="REBORN CFG Site" style="max-width: 100%; border-radius: 12px; border: 2px solid #ff006e;">
+  <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/site/rebornsite.jpg" alt="REBORN CFG Site" style="max-width: 100%; border-radius: 12px; border: 2px solid #ff006e;">
 </a>
 
 **🌐 [Открыть сайт](https://uh616.github.io/REBORNCFG/)**
@@ -1826,7 +1815,7 @@ def main():
         upload_to_github("README.md", "README.md", readme_content)
         
         # Загружаем файлы сайта (если они есть локально)
-        site_files = ['index.html', 'style.css', 'script.js', 'rebornsite.jpg']
+        site_files = ['site/index.html', 'site/style.css', 'site/script.js', 'site/rebornsite.jpg']
         for site_file in site_files:
             if os.path.exists(site_file):
                 log(f"🌐 Загрузка файла сайта: {site_file}")

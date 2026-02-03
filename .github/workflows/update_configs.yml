@@ -33,7 +33,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install -r source/requirements.txt
       continue-on-error: false
       timeout-minutes: 5
         
@@ -43,7 +43,7 @@ jobs:
         GITHUB_REPO_NAME: ${{ github.repository }}
         GITHUB_BRANCH: main
       run: |
-        python config_collector.py
+        python source/config_collector.py
       continue-on-error: false
       timeout-minutes: 80  # Увеличено для обработки большого количества конфигов и определения стран
       
@@ -69,7 +69,7 @@ jobs:
         # Добавляем все файлы из папок протоколов (с принудительным добавлением)
         git add -f */subscription.txt */subscription-*.txt */best-*.txt || true
         # Добавляем README и другие файлы
-        git add -f README.md config_collector.py requirements.txt || true
+        git add -f README.md source/config_collector.py source/requirements.txt || true
         
         # Коммитим только если есть изменения
         if ! git diff --staged --quiet; then

@@ -352,40 +352,6 @@ body {
     transform: scale(0.98);
 }
 
-/* QR Grid */
-.qr-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 20px;
-    margin-bottom: 40px;
-}
-
-.qr-card {
-    background: var(--bg-card);
-    border: 1px solid var(--border-color);
-    border-radius: 12px;
-    padding: 20px;
-    text-align: center;
-    transition: all 0.3s ease;
-}
-
-.qr-card:hover {
-    border-color: var(--accent-pink);
-    transform: translateY(-2px);
-}
-
-.qr-image {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin-bottom: 12px;
-}
-
-.qr-label {
-    font-size: 14px;
-    color: var(--text-secondary);
-}
-
 /* Loading & Empty States */
 .loading, .empty-state {
     text-align: center;

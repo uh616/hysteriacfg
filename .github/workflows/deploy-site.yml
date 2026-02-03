@@ -5,11 +5,11 @@ on:
     branches:
       - main
     paths:
-      - 'index.html'
-      - 'style.css'
-      - 'script.js'
-      - 'rebornsite.jpg'
-      - 'Untitled_without_bg.png'
+      - 'site/index.html'
+      - 'site/style.css'
+      - 'site/script.js'
+      - 'site/rebornsite.jpg'
+      - 'source/Untitled_without_bg.png'
   workflow_dispatch:
 
 permissions:
@@ -37,7 +37,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: 'site'
           exclude: |
             .git
             .github
@@ -51,6 +51,7 @@ jobs:
             vmess
             shadowsocks
             trojan
+            source
             Untitled_without_bg.png
             config_collector.py
       
