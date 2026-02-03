@@ -1790,9 +1790,9 @@ def main():
             if numbered_subs:
                 log(f"  📋 Создано {len(numbered_subs)} нумерованных подписок")
             
-            # Создаем файлы подписок по странам
+            # Создаем файлы подписок по странам (только если конфигов меньше 5000)
             configs_by_country = stats['by_country']
-            if configs_by_country:
+            if len(unique_configs) < 5000 and configs_by_country:
                 log(f"🌍 Создание подписок по странам для {protocol.upper()} ({len(configs_by_country)} стран)...")
                 for country, configs in configs_by_country.items():
                     safe_country = country.replace(" ", "-").replace("/", "-")
@@ -1805,6 +1805,8 @@ def main():
                     
                     upload_to_github(country_filename, country_filename, country_content)
                     log(f"  ✅ {country}: {len(configs)} конфигов")
+            elif len(unique_configs) >= 5000:
+                log(f"  ⚠️ Пропущено создание подписок по странам для {protocol.upper()} (конфигов >= 5000)")
         
         # Загружаем логотип один раз, если его еще нет в репозитории
         logo_path = "source/Untitled_without_bg.png"
