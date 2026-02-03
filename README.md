@@ -9,8 +9,8 @@
 ### ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/uh616/REBORNCFG/actions)
-[![Total Configs](https://img.shields.io/badge/Total-114772-blue)](./hysteria2/subscription.txt)
-[![Last Update](https://img.shields.io/badge/Last_Update-03.02.2026_20:09:48-orange)](./hysteria2/subscription.txt)
+[![Total Configs](https://img.shields.io/badge/Total-114513-blue)](./hysteria2/subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-03.02.2026_22:08:40-orange)](./hysteria2/subscription.txt)
 
 </div>
 
@@ -30,8 +30,8 @@
 
 ## 📊 Статистика последнего обновления
 
-- **📅 Дата обновления:** `03.02.2026 20:09:48`
-- **📦 Всего конфигов:** `114772`
+- **📅 Дата обновления:** `03.02.2026 22:08:40`
+- **📦 Всего конфигов:** `114513`
 - **🔌 Протоколов:** `5`
 
 ---
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-**📦 Всего конфигов:** `964`
+**📦 Всего конфигов:** `972`
 
 </div>
 
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**📦 Всего конфигов:** `25834`
+**📦 Всего конфигов:** `25767`
 
 </div>
 
@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `14718`
+**📦 Всего конфигов:** `14511`
 
 </div>
 
@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `66174`
+**📦 Всего конфигов:** `66178`
 
 </div>
 
@@ -151,7 +151,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**📦 Всего конфигов:** `7082`
+**📦 Всего конфигов:** `7085`
 
 </div>
 
@@ -219,6 +219,6 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 **⭐ Если проект полезен, поставьте звезду!**
 
-*Последнее обновление: 03.02.2026 20:09:48*
+*Последнее обновление: 03.02.2026 22:08:40*
 
 </div>
