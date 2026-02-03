@@ -1421,16 +1421,17 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         
         country_table_text = "\n".join(country_table) if country_table else "| - | - | - | - |"
         
-        # Полный список стран для спойлера (более компактный формат)
-        all_countries_list = []
+        # Полный список стран для спойлера (в формате таблицы, как "Топ стран")
+        all_countries_table = []
         for country, configs in sorted_countries:
             flag = get_country_flag_emoji(country)
             count = len(configs)
+            percentage = (count * 100) // total if total > 0 else 0
             safe_country = country.replace(" ", "-").replace("/", "-")
             subscription_url = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription-{safe_country}.txt"
-            all_countries_list.append(f"{flag} **{country}** ({count}): [`{subscription_url}`]({subscription_url})")
+            all_countries_table.append(f"| {flag} {country} | {count} | {percentage}% | [📥]({subscription_url}) |")
         
-        all_countries_text = "\n".join(all_countries_list) if all_countries_list else "- Нет конфигов"
+        all_countries_text = "\n".join(all_countries_table) if all_countries_table else "| - | - | - | - |"
         
         # Основная ссылка на подписку
         main_subscription = f"https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/{protocol_folder}/subscription.txt"
@@ -1465,6 +1466,8 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 <details>
 <summary>🌍 Все страны ({len(sorted_countries)} стран) - нажмите чтобы развернуть</summary>
 
+| Страна | Конфигов | Процент | Подписка |
+|--------|----------|---------|----------|
 {all_countries_text}
 
 </details>
