@@ -1,0 +1,9 @@
+trojan://114514@168.138.176.18:443?security=tls&allowInsecure=1&type=tcp#4Nika-3406
+trojan://iyinglong@18.140.67.76:443?security=tls#⚡
+trojan://3c4e10af98c30972@185.230.245.211:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#4Nika-3534
+trojan://dQUWbcwECl@20.191.138.47:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=automq4-proxy.automq-sg.com#@Venom_Servers
+trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#⚡
+trojan://0c6a3341e8d5ab17@5.44.249.42:3389?security=tls&allowInsecure=1&type=tcp#4Nika-3374
+trojan://o2XA8dydWM@free.tharuwa.store:2020?path=/FREE
+trojan://auto@www.ddwhm.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩
+trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp
