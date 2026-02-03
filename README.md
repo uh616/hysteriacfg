@@ -10,7 +10,7 @@
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/uh616/REBORNCFG/actions)
 [![Total Configs](https://img.shields.io/badge/Total-114667-blue)](./hysteria2/subscription.txt)
-[![Last Update](https://img.shields.io/badge/Last_Update-03.02.2026_06:44:32-orange)](./hysteria2/subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-03.02.2026_06:46:27-orange)](./hysteria2/subscription.txt)
 
 </div>
 
@@ -30,9 +30,9 @@
 
 ## 📊 Статистика последнего обновления
 
-- **📅 Дата обновления:** `03.02.2026 06:44:32`
+- **📅 Дата обновления:** `03.02.2026 06:46:27`
 - **📦 Всего конфигов:** `114667`
-- **🌍 Всего стран:** `12`
+- **🌍 Всего стран:** `24`
 - **🔌 Протоколов:** `5`
 
 ---
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-**📦 Всего конфигов:** `947` | **🌍 Стран:** `12`
+**📦 Всего конфигов:** `947` | **🌍 Стран:** `9`
 
 </div>
 
@@ -70,34 +70,30 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 | Страна | Конфигов | Процент | Подписка |
 |--------|----------|---------|----------|
-| 🌐 Unknown | 898 | 94% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Unknown.txt) |
-| 🇺🇸 United States | 17 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-States.txt) |
-| 🇹🇼 Taiwan | 7 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Taiwan.txt) |
-| 🇩🇪 Germany | 6 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Germany.txt) |
-| 🇸🇬 Singapore | 5 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Singapore.txt) |
-| 🇭🇰 Hong Kong | 3 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Hong-Kong.txt) |
-| 🇮🇳 India | 3 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-India.txt) |
-| 🇫🇷 France | 2 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-France.txt) |
+| 🌐 Unknown | 897 | 94% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Unknown.txt) |
+| 🇺🇸 United States | 22 | 2% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-States.txt) |
+| 🇹🇼 Taiwan | 15 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Taiwan.txt) |
+| 🇭🇰 Hong Kong | 6 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Hong-Kong.txt) |
 | 🇯🇵 Japan | 2 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Japan.txt) |
-| 🇦🇪 United Arab Emirates | 2 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-Arab-Emirates.txt) |
+| 🇸🇬 Singapore | 2 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Singapore.txt) |
+| 🇬🇧 United Kingdom | 1 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-Kingdom.txt) |
+| 🇩🇪 Germany | 1 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Germany.txt) |
+| 🇮🇳 India | 1 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-India.txt) |
 
 <details>
-<summary>🌍 Все страны (12 стран) - нажмите чтобы развернуть</summary>
+<summary>🌍 Все страны (9 стран) - нажмите чтобы развернуть</summary>
 
 | Страна | Конфигов | Процент | Подписка |
 |--------|----------|---------|----------|
-| 🌐 Unknown | 898 | 94% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Unknown.txt) |
-| 🇺🇸 United States | 17 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-States.txt) |
-| 🇹🇼 Taiwan | 7 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Taiwan.txt) |
-| 🇩🇪 Germany | 6 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Germany.txt) |
-| 🇸🇬 Singapore | 5 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Singapore.txt) |
-| 🇭🇰 Hong Kong | 3 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Hong-Kong.txt) |
-| 🇮🇳 India | 3 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-India.txt) |
-| 🇫🇷 France | 2 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-France.txt) |
+| 🌐 Unknown | 897 | 94% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Unknown.txt) |
+| 🇺🇸 United States | 22 | 2% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-States.txt) |
+| 🇹🇼 Taiwan | 15 | 1% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Taiwan.txt) |
+| 🇭🇰 Hong Kong | 6 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Hong-Kong.txt) |
 | 🇯🇵 Japan | 2 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Japan.txt) |
-| 🇦🇪 United Arab Emirates | 2 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-Arab-Emirates.txt) |
-| 🇵🇱 Poland | 1 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Poland.txt) |
-| 🇧🇷 Brazil | 1 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Brazil.txt) |
+| 🇸🇬 Singapore | 2 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Singapore.txt) |
+| 🇬🇧 United Kingdom | 1 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-United-Kingdom.txt) |
+| 🇩🇪 Germany | 1 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-Germany.txt) |
+| 🇮🇳 India | 1 | 0% | [📥](https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription-India.txt) |
 
 </details>
 
@@ -110,7 +106,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**📦 Всего конфигов:** `25900` | **🌍 Стран:** `0`
+**📦 Всего конфигов:** `25900` | **🌍 Стран:** `11`
 
 </div>
 
@@ -133,7 +129,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `14565` | **🌍 Стран:** `0`
+**📦 Всего конфигов:** `14565` | **🌍 Стран:** `5`
 
 </div>
 
@@ -156,7 +152,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `66242` | **🌍 Стран:** `0`
+**📦 Всего конфигов:** `66242` | **🌍 Стран:** `9`
 
 </div>
 
@@ -179,7 +175,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**📦 Всего конфигов:** `7013` | **🌍 Стран:** `0`
+**📦 Всего конфигов:** `7013` | **🌍 Стран:** `10`
 
 </div>
 
@@ -240,6 +236,6 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 **⭐ Если проект полезен, поставьте звезду!**
 
-*Последнее обновление: 03.02.2026 06:44:32*
+*Последнее обновление: 03.02.2026 06:46:27*
 
 </div>
