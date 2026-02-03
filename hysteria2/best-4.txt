@@ -87,7 +87,7 @@ hysteria2://767ed51d-2358-4981-9447-a807c1419e93@193.122.12.150:50000?insecure=1
 hy2://sysadmin.sysadmin@193.123.229.162:8443?insecure=1#🔒
 hy2://ab228da0-a064-4381-8f81-d185b9c50d8a@193.123.229.26:443?insecure=1&sni=ftp.chillwaze.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.76.141:30102?insecure=1&sni=joinBede.ELiV2ray.net#🔒
-hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?insecure=1&sni=www.apple.com#KV%204%20%28%40Outline_Vpn%29%20free
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443?security=tls&insecure=1&mport=35000-39000&sni=www.apple.com#KV%204%20%28%40Outline_Vpn%29%20freevless://b5920b52-504c-4835-978c-fbc4110d5840@france-paris.hostinger.kcartik-vps.com:80?path=%2Fvless&security=none&encryption=none&host=france-paris.hostinger.kcartik-vps.com&type=ws#KV%205%20%28%40Outline_Vpn%29%20free
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@193.123.76.84:35000?insecure=1&sni=www.apple.com#🔒
 hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102?insecure=1&sni=du.wish.ml#🔒
