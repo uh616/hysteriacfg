@@ -9,6 +9,7 @@ on:
       - 'style.css'
       - 'script.js'
       - 'rebornsite.jpg'
+      - 'Untitled_without_bg.png'
   workflow_dispatch:
 
 permissions:
@@ -50,6 +51,8 @@ jobs:
             vmess
             shadowsocks
             trojan
+            Untitled_without_bg.png
+            config_collector.py
       
       - name: Deploy to GitHub Pages
         id: deployment
