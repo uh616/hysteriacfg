@@ -1,0 +1,2 @@
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.88:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2FTelegram%3A%40AZARBAYJAB1%3Fed%3D2560#4Nika-5190
+vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sni=yahoo.com&sid=816473be23c2#[🇮🇸]
