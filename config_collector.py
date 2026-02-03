@@ -737,35 +737,42 @@ def check_ping(host: str, port: int, timeout: int = PING_TIMEOUT) -> float | Non
         return None
 
 # -------------------- ОПРЕДЕЛЕНИЕ СТРАНЫ --------------------
-_COUNTRY_CACHE = {}
+_COUNTRY_CACHE = {}  # host -> country
+_IP_CACHE = {}  # host -> ip (для ускорения DNS резолвинга)
+_IP_COUNTRY_CACHE = {}  # ip -> country (чтобы не делать повторные запросы для одного IP)
 _COUNTRY_CACHE_LOCK = threading.Lock()
 
 def get_country_by_ip(host: str, use_cache: bool = True) -> str:
-    """Определяет страну по IP адресу с кэшированием и несколькими API."""
-    # Проверяем кэш
+    """Определяет страну по IP адресу с кэшированием и несколькими API (оптимизированная версия)."""
+    # Проверяем кэш по host
     if use_cache:
         with _COUNTRY_CACHE_LOCK:
             if host in _COUNTRY_CACHE:
                 return _COUNTRY_CACHE[host]
     
     try:
-        # Пытаемся получить IP из хоста
+        # Пытаемся получить IP из хоста (с кешированием)
         ip = None
-        try:
-            # Уменьшаем таймаут DNS резолвинга для ускорения
-            socket.setdefaulttimeout(2)
-            ip = socket.gethostbyname(host)
-        except:
-            # Если это уже IP
-            if re.match(r'^\d+\.\d+\.\d+\.\d+$', host):
-                ip = host
-            else:
-                # Пробуем еще раз с меньшим таймаутом
-                try:
-                    socket.setdefaulttimeout(2)
+        with _COUNTRY_CACHE_LOCK:
+            if host in _IP_CACHE:
+                ip = _IP_CACHE[host]
+        
+        if not ip:
+            try:
+                # Если это уже IP
+                if re.match(r'^\d+\.\d+\.\d+\.\d+$', host):
+                    ip = host
+                else:
+                    # Уменьшаем таймаут DNS резолвинга для ускорения
+                    socket.setdefaulttimeout(1)  # Уменьшено с 2 до 1 секунды
                     ip = socket.gethostbyname(host)
-                except:
-                    pass
+                
+                # Кешируем IP
+                if use_cache and ip:
+                    with _COUNTRY_CACHE_LOCK:
+                        _IP_CACHE[host] = ip
+            except:
+                pass
         
         if not ip:
             country = "Unknown"
@@ -774,12 +781,20 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
                     _COUNTRY_CACHE[host] = country
             return country
         
-        # Пробуем несколько API для определения страны (уменьшены таймауты для скорости)
+        # Проверяем кеш по IP (чтобы не делать повторные запросы для одного IP)
+        if use_cache:
+            with _COUNTRY_CACHE_LOCK:
+                if ip in _IP_COUNTRY_CACHE:
+                    country = _IP_COUNTRY_CACHE[ip]
+                    _COUNTRY_CACHE[host] = country  # Кешируем и для host
+                    return country
+        
+        # Пробуем несколько API для определения страны (уменьшены таймауты для максимальной скорости)
         apis = [
-            # ip-api.com (бесплатный, до 45 запросов/минуту)
-            (f"http://ip-api.com/json/{ip}?fields=country", "country", 2),
+            # ip-api.com (бесплатный, до 45 запросов/минуту) - самый быстрый
+            (f"http://ip-api.com/json/{ip}?fields=country", "country", 1),
             # ipapi.co (бесплатный, до 1000 запросов/день)
-            (f"https://ipapi.co/{ip}/country_name/", None, 2),
+            (f"https://ipapi.co/{ip}/country_name/", None, 1),
         ]
         
         for api_url, json_key, timeout in apis:
@@ -793,7 +808,8 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
                         if country and country != 'Unknown' and country != '':
                             if use_cache:
                                 with _COUNTRY_CACHE_LOCK:
-                                    _COUNTRY_CACHE[host] = country
+                                    _IP_COUNTRY_CACHE[ip] = country  # Кешируем по IP
+                                    _COUNTRY_CACHE[host] = country  # Кешируем по host
                             return country
                     else:
                         # Текстовый ответ
@@ -801,7 +817,8 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
                         if country and country != 'Unknown' and country != '' and len(country) < 100:
                             if use_cache:
                                 with _COUNTRY_CACHE_LOCK:
-                                    _COUNTRY_CACHE[host] = country
+                                    _IP_COUNTRY_CACHE[ip] = country  # Кешируем по IP
+                                    _COUNTRY_CACHE[host] = country  # Кешируем по host
                             return country
             except:
                 continue
@@ -810,7 +827,7 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
         try:
             response = REQUESTS_SESSION.get(
                 f"http://ip-api.com/json/{ip}?fields=country,status",
-                timeout=3
+                timeout=2  # Уменьшено с 3 до 2 секунд
             )
             if response.status_code == 200:
                 data = response.json()
@@ -819,7 +836,8 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
                     if country and country != 'Unknown':
                         if use_cache:
                             with _COUNTRY_CACHE_LOCK:
-                                _COUNTRY_CACHE[host] = country
+                                _IP_COUNTRY_CACHE[ip] = country  # Кешируем по IP
+                                _COUNTRY_CACHE[host] = country  # Кешируем по host
                         return country
         except:
             pass
@@ -827,7 +845,8 @@ def get_country_by_ip(host: str, use_cache: bool = True) -> str:
         country = "Unknown"
         if use_cache:
             with _COUNTRY_CACHE_LOCK:
-                _COUNTRY_CACHE[host] = country
+                _IP_COUNTRY_CACHE[ip] = country  # Кешируем по IP
+                _COUNTRY_CACHE[host] = country  # Кешируем по host
         return country
     except Exception as e:
         country = "Unknown"
@@ -865,13 +884,14 @@ def get_countries_for_configs(configs: list[str]) -> dict[str, list[str]]:
     log(f"🌍 Определение стран для {total} конфигов...")
     
     # Используем параллельную обработку для определения стран
-    # Увеличено количество воркеров для ускорения (с учетом лимитов API)
-    max_workers = min(25, total)  # Увеличено с 10 до 25 для ускорения
+    # Максимальное количество воркеров для ускорения (с учетом лимитов API ~45 req/min для ip-api.com)
+    # Используем 50-100 воркеров для максимальной скорости (API лимиты распределяются по времени)
+    max_workers = min(80, total)  # Увеличено с 25 до 80 для максимального ускорения
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [executor.submit(process_config, config) for config in configs]
         for future in concurrent.futures.as_completed(futures):
             try:
-                config, country = future.result(timeout=5)  # Уменьшено с 15 до 5 секунд для ускорения
+                config, country = future.result(timeout=3)  # Уменьшено с 5 до 3 секунд для ускорения
                 if config:
                     if country not in configs_by_country:
                         configs_by_country[country] = []
