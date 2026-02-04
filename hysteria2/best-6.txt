@@ -1,5 +1,5 @@
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com:443?security=tls&insecure=1&sni=22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com#%F0%9F%A5%9085%40unvisible_drops
-hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com:443/?insecure=1&sni=22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com#%3E%3E%40oneclickvpnkeys%3A%3AHK
+hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com:443/?insecure=1&sni=22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com#Hong%20Kong🇭🇰
 hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3041?sni=uk.bydk.xyz#🔒
 hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3043?sni=uk.bydk.xyz#🔒
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@23.247.137.67:3074?insecure=1&sni=TG.%40WangCai2#🔒
