@@ -540,6 +540,7 @@ body {
     font-size: 14px;
     color: var(--text-secondary);
     margin-bottom: 8px;
+    white-space: nowrap;
 }
 
 .support-address {
@@ -585,6 +586,11 @@ body {
     align-items: center;
     gap: 10px;
     font-weight: 500;
+    white-space: nowrap;
+}
+
+.boosty-button span {
+    white-space: nowrap;
 }
 
 .boosty-button:hover {
@@ -709,6 +715,22 @@ body {
     
     .support {
         padding: 20px 15px;
+    }
+    
+    .support-label {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .boosty-button {
+        white-space: nowrap;
+        padding: 12px 16px;
+        font-size: 13px;
+    }
+    
+    .boosty-button span {
+        white-space: nowrap;
     }
 }
 
