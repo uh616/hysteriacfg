@@ -9,8 +9,8 @@
 ### ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/uh616/REBORNCFG/actions)
-[![Total Configs](https://img.shields.io/badge/Total-114737-blue)](./hysteria2/subscription.txt)
-[![Last Update](https://img.shields.io/badge/Last_Update-04.02.2026_08:58:51-orange)](./hysteria2/subscription.txt)
+[![Total Configs](https://img.shields.io/badge/Total-114754-blue)](./hysteria2/subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-04.02.2026_09:11:12-orange)](./hysteria2/subscription.txt)
 
 </div>
 
@@ -22,21 +22,23 @@
   <img src="https://raw.githubusercontent.com/uh616/REBORNCFG/main/site/rebornsite.png" alt="REBORN CFG Site" style="max-width: 100%; border-radius: 12px; border: 2px solid #ff006e;">
 </a>
 
-**🌐 [Открыть сайт](https://uh616.github.io/REBORNCFG/)**
+**🌐 [Открыть сайт / Open website](https://uh616.github.io/REBORNCFG/)**
 
 </div>
 
 ---
 
-## 📊 Статистика последнего обновления
+## 🇷🇺 Русский
 
-- **📅 Дата обновления:** `04.02.2026 08:58:51`
-- **📦 Всего конфигов:** `114737`
+### 📊 Статистика последнего обновления
+
+- **📅 Дата обновления:** `04.02.2026 09:11:12`
+- **📦 Всего конфигов:** `114754`
 - **🔌 Протоколов:** `5`
 
 ---
 
-## 🔌 Подписки по протоколам
+### 🔌 Подписки по протоколам
 
 <div align="center">
 
@@ -82,7 +84,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**📦 Всего конфигов:** `25936`
+**📦 Всего конфигов:** `25938`
 
 </div>
 
@@ -105,7 +107,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `14184`
+**📦 Всего конфигов:** `14189`
 
 </div>
 
@@ -128,7 +130,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `66584`
+**📦 Всего конфигов:** `66596`
 
 </div>
 
@@ -151,7 +153,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**📦 Всего конфигов:** `7073`
+**📦 Всего конфигов:** `7071`
 
 </div>
 
@@ -169,9 +171,9 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
 
 ---
 
-## 📥 Как использовать
+### 📥 Как использовать
 
-### V2RayN / Nekoray / Clash / Hysteria2 клиент
+#### V2RayN / Nekoray / Clash / Hysteria2 клиент
 
 1. Выберите нужный протокол выше
 2. Скопируйте ссылку на подписку
@@ -181,7 +183,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
 
 ---
 
-## 👤 Автор
+### 👤 Автор
 
 <div align="center">
 
@@ -193,17 +195,17 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
 
 ---
 
-## 💰 Поддержать автора
+### 💰 Поддержать автора
 
 <div align="center">
 
-### 💎 TON кошелек
+#### 💎 TON кошелек
 
 ```
 UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 ```
 
-### 🎁 Boosty донат
+#### 🎁 Boosty донат
 
 <a href="https://boosty.to/6i6/donate" target="_blank">
   <img src="https://img.shields.io/badge/🎁_Boosty-Поддержать%20автора-FF006E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkYwMDZFIi8+Cjwvc3ZnPgo=&labelColor=8338EC" alt="Boosty Donate" style="border-radius: 8px; margin: 10px 0;">
@@ -215,10 +217,199 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 ---
 
+## 🇬🇧 English
+
+### 📊 Last Update Statistics
+
+- **📅 Update date:** `04.02.2026 09:11:12`
+- **📦 Total configs:** `114754`
+- **🔌 Protocols:** `5`
+
+---
+
+### 🔌 Subscriptions by Protocol
+
 <div align="center">
 
-**⭐ Если проект полезен, поставьте звезду!**
+*Select a protocol to view subscriptions*
 
-*Последнее обновление: 04.02.2026 08:58:51*
+</div>
+
+**Protocols:**
+- [🚀 Hysteria2](#hysteria2-en)
+- [⚡ VLESS](#vless-en)
+- [🔷 VMESS](#vmess-en)
+- [🔰 Shadowsocks](#shadowsocks-en)
+- [🎯 Trojan](#trojan-en)
+
+
+---
+
+<a id="hysteria2-en"></a>
+## 🚀 Hysteria2
+
+<div align="center">
+
+**📦 Total configs:** `960`
+
+</div>
+
+**📥 Main subscription:**
+```
+https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.txt
+```
+
+**⭐ Recommended subscriptions:**
+1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-1.txt`
+2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-2.txt`
+3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/best-3.txt`
+
+
+
+---
+
+<a id="vless-en"></a>
+## ⚡ VLESS
+
+<div align="center">
+
+**📦 Total configs:** `25938`
+
+</div>
+
+**📥 Main subscription:**
+```
+https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/subscription.txt
+```
+
+**⭐ Recommended subscriptions:**
+1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-1.txt`
+2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-2.txt`
+3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vless/best-3.txt`
+
+
+
+---
+
+<a id="vmess-en"></a>
+## 🔷 VMESS
+
+<div align="center">
+
+**📦 Total configs:** `14189`
+
+</div>
+
+**📥 Main subscription:**
+```
+https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
+```
+
+**⭐ Recommended subscriptions:**
+1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-1.txt`
+2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-2.txt`
+3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/best-3.txt`
+
+
+
+---
+
+<a id="shadowsocks-en"></a>
+## 🔰 Shadowsocks
+
+<div align="center">
+
+**📦 Total configs:** `66596`
+
+</div>
+
+**📥 Main subscription:**
+```
+https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.txt
+```
+
+**⭐ Recommended subscriptions:**
+1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-1.txt`
+2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-2.txt`
+3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/best-3.txt`
+
+
+
+---
+
+<a id="trojan-en"></a>
+## 🎯 Trojan
+
+<div align="center">
+
+**📦 Total configs:** `7071`
+
+</div>
+
+**📥 Main subscription:**
+```
+https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/subscription.txt
+```
+
+**⭐ Recommended subscriptions:**
+1. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-1.txt`
+2. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-2.txt`
+3. `https://raw.githubusercontent.com/uh616/REBORNCFG/main/trojan/best-3.txt`
+
+
+
+---
+
+### 📥 How to Use
+
+#### V2RayN / Nekoray / Clash / Hysteria2 Client
+
+1. Select the desired protocol above
+2. Copy the subscription link
+3. Add it to your client's subscription settings
+4. Update the subscription
+5. Done! 🎉
+
+---
+
+### 👤 Author
+
+<div align="center">
+
+### 🕐 616 минут
+
+[![Telegram](https://img.shields.io/badge/Telegram-616%20минут-0088cc?style=for-the-badge&logo=telegram)](https://t.me/solnechniyre6enok)
+
+</div>
+
+---
+
+### 💰 Support the Author
+
+<div align="center">
+
+#### 💎 TON Wallet
+
+```
+UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
+```
+
+#### 🎁 Boosty Donation
+
+<a href="https://boosty.to/6i6/donate" target="_blank">
+  <img src="https://img.shields.io/badge/🎁_Boosty-Support%20the%20author-FF006E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkYwMDZFIi8+Cjwvc3ZnPgo=&labelColor=8338EC" alt="Boosty Donate" style="border-radius: 8px; margin: 10px 0;">
+</a>
+
+**🔗 [Go to Boosty](https://boosty.to/6i6/donate)**
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If the project is useful, please give it a star!**
+
+*Last update: 04.02.2026 09:11:12*
 
 </div>
