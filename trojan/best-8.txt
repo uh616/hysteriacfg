@@ -1,3 +1,6 @@
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@dejs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@frjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@hkjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@in.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@jp.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@nljs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -264,7 +267,6 @@ trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@108.162.196.69:443/?type=tcp&secur
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@108.162.198.165:443/?type=tcp&security=tls&sni=
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@108.162.198.165:443/?type=tcp&security=tls&sni=ssp1.100896.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@108.162.198.165:443/?type=tcp&security=tls&sni=ssp1.100896.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443/?type=tcp&security=tls&sni=
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443/?type=tcp&security=tls&sni=ssp2.100896.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@172.67.153.59:443/?type=tcp&security=tls&sni=ssp1.100896.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@188.114.97.58:443/?type=tcp&security=tls&sni=ssp1.100896.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -472,6 +474,3 @@ trojan://Aimer@104.17.20.103:443/?type=tcp&security=tls&sni=epccn.ambercc.filege
 trojan://Aimer@104.17.24.109:443/?type=tcp&security=tls&sni=epccu.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://Aimer@104.17.28.186:443/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me&packetEncoding=xudp#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://Aimer@104.18.45.18:443/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://Aimer@104.18.69.27:443/?type=tcp&security=tls&sni=epccu.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://Aimer@104.18.79.176:443/?type=tcp&security=tls&sni=epccu.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://Aimer@104.19.144.135:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
