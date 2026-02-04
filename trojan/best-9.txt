@@ -1,3 +1,6 @@
+trojan://Aimer@104.18.69.27:443/?type=tcp&security=tls&sni=epccu.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://Aimer@104.18.79.176:443/?type=tcp&security=tls&sni=epccu.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://Aimer@104.19.144.135:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://Aimer@104.19.145.75:443/?type=tcp&security=tls&sni=epccj.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://Aimer@104.19.159.14:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://Aimer@104.26.15.138:2053/?type=tcp&security=t...%20#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -471,7 +474,3 @@ trojan://ce2c0460-561f-11ef-b79c-1239d0255272@15.204.234.166:443/?type=tcp&secur
 trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725/?type=tcp&amp;security=tls#ℹ️31%
 trojan://chslToBpxJ@209.200.246.248:22086/?type=grpc&amp;serviceName=&amp;authority=&amp;security=reality&amp;pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&amp;fp=chrome&amp;sni=www.cloudflare.com&amp;sid=4f69441f911943&amp;spx=/#SCP|CA
 trojan://chslToBpxJ@209.200.246.248:22086/?type=grpc&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&sid=4f69441f911943#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11842
-trojan://CjqK8GFZ
-trojan://CZC2eFReAwaON4nzF3zY7XC9nB3IqIaT3Eaa8S7D3B5Y3XuSEp8Z0ygl08S3SSxy6wDRC@blender.appagent.net:28332/?type=tcp&security=tls&sni=blender.appagent.net&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.36:30534/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%B3CN%28AzadNet.t.me%29
