@@ -2,27 +2,123 @@
 const REPO_NAME = 'uh616/REBORNCFG';
 const BRANCH = 'main';
 const PROTOCOLS = ['hysteria2', 'vless', 'vmess', 'shadowsocks', 'trojan'];
-const PROTOCOL_NAMES = {
-    'hysteria2': '🚀 Hysteria2',
-    'vless': '⚡ VLESS',
-    'vmess': '🔷 VMESS',
-    'shadowsocks': '🔰 Shadowsocks',
-    'trojan': '🎯 Trojan'
-};
+function getProtocolNames() {
+    const langData = translations[currentLang] || translations.ru;
+    return {
+        'hysteria2': langData.hysteria2,
+        'vless': langData.vless,
+        'vmess': langData.vmess,
+        'shadowsocks': langData.shadowsocks,
+        'trojan': langData.trojan
+    };
+}
 
 // Состояние
 let allConfigs = [];
 let filteredConfigs = [];
 let currentFilter = 'all';
 let currentTab = 'lists';
+let currentLang = localStorage.getItem('lang') || 'ru';
 
 // Инициализация
 document.addEventListener('DOMContentLoaded', () => {
+    initLanguage();
     initTabs();
     initFilters();
     initSearch();
     loadConfigs();
 });
+
+// Инициализация языка
+function initLanguage() {
+    // Устанавливаем язык из localStorage или по умолчанию ru
+    currentLang = localStorage.getItem('lang') || 'ru';
+    document.getElementById('htmlLang').setAttribute('lang', currentLang);
+    
+    // Обновляем заголовок страницы
+    updatePageTitle();
+    
+    // Обновляем переводы
+    updateTranslations();
+    
+    // Инициализируем переключатель языков
+    const langBtns = document.querySelectorAll('.lang-btn');
+    langBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const lang = btn.dataset.lang;
+            currentLang = lang;
+            localStorage.setItem('lang', lang);
+            document.getElementById('htmlLang').setAttribute('lang', lang);
+            
+            // Обновляем активную кнопку
+            langBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            
+            // Обновляем заголовок страницы
+            updatePageTitle();
+            
+            // Обновляем переводы
+            updateTranslations();
+        });
+        
+        // Устанавливаем активную кнопку
+        if (btn.dataset.lang === currentLang) {
+            btn.classList.add('active');
+        }
+    });
+}
+
+// Обновление переводов
+function updateTranslations() {
+    const langData = translations[currentLang];
+    if (!langData) return;
+    
+    // Обновляем элементы с data-i18n
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.getAttribute('data-i18n');
+        if (langData[key]) {
+            el.textContent = langData[key];
+        }
+    });
+    
+    // Обновляем placeholder
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+        const key = el.getAttribute('data-i18n-placeholder');
+        if (langData[key]) {
+            el.placeholder = langData[key];
+        }
+    });
+    
+    // Обновляем названия протоколов в фильтрах
+    const protocolNames = {
+        'hysteria2': langData.hysteria2,
+        'vless': langData.vless,
+        'vmess': langData.vmess,
+        'shadowsocks': langData.shadowsocks,
+        'trojan': langData.trojan
+    };
+    
+    document.querySelectorAll('.filter-btn[data-filter]').forEach(btn => {
+        const filter = btn.dataset.filter;
+        if (filter !== 'all' && filter !== 'recommended' && protocolNames[filter]) {
+            btn.textContent = protocolNames[filter];
+        }
+    });
+    
+    // Обновляем конфиги если они уже загружены
+    if (allConfigs.length > 0) {
+        renderConfigs();
+    }
+}
+
+// Обновление заголовка страницы
+function updatePageTitle() {
+    if (currentLang === 'en') {
+        document.title = '⚡ REBORN CFG - Automatic VPN configs';
+    } else {
+        document.title = '⚡ REBORN CFG - Автоматические VPN конфиги';
+    }
+}
 
 // Инициализация табов
 function initTabs() {
@@ -81,6 +177,9 @@ async function loadConfigs() {
         let configId = 1;
         
         // Загружаем конфиги для каждого протокола
+        const PROTOCOL_NAMES = getProtocolNames();
+        const langData = translations[currentLang] || translations.ru;
+        
         for (const protocol of PROTOCOLS) {
             // Основные подписки (best-1, best-2, best-3)
             for (let i = 1; i <= 3; i++) {
@@ -113,7 +212,7 @@ async function loadConfigs() {
                         protocolName: PROTOCOL_NAMES[protocol],
                         url: mainUrl,
                         type: 'main',
-                        name: `${PROTOCOL_NAMES[protocol]} Все конфиги`
+                        name: `${PROTOCOL_NAMES[protocol]} ${langData.allConfigs}`
                     });
                 }
             } catch (e) {
@@ -125,7 +224,8 @@ async function loadConfigs() {
         applyFilters();
     } catch (error) {
         console.error('Ошибка загрузки конфигов:', error);
-        loading.textContent = 'Ошибка загрузки конфигов';
+        const langData = translations[currentLang] || translations.ru;
+        loading.textContent = langData.loading || 'Ошибка загрузки конфигов';
     }
 }
 
@@ -160,6 +260,7 @@ function applyFilters() {
 function renderConfigs() {
     const grid = document.getElementById('configsGrid');
     const emptyState = document.getElementById('emptyState');
+    const langData = translations[currentLang] || translations.ru;
     
     if (filteredConfigs.length === 0) {
         grid.style.display = 'none';
@@ -170,19 +271,21 @@ function renderConfigs() {
     grid.style.display = 'grid';
     emptyState.style.display = 'none';
     
+    const locale = currentLang === 'en' ? 'en-US' : 'ru-RU';
+    
     grid.innerHTML = filteredConfigs.map(config => `
         <div class="config-card">
             <div class="config-header">
                 <div class="config-id">#${config.id}</div>
                 <div class="config-badges">
-                    ${config.type === 'recommended' ? '<span class="badge recommended">⭐ Рекомендованный</span>' : ''}
+                    ${config.type === 'recommended' ? `<span class="badge recommended">${langData.recommendedBadge}</span>` : ''}
                     <span class="badge protocol">${config.protocolName}</span>
                 </div>
             </div>
             <div class="config-url">${config.url}</div>
-            <div class="config-time">${new Date().toLocaleString('ru-RU')}</div>
+            <div class="config-time">${new Date().toLocaleString(locale)}</div>
             <button class="copy-btn" onclick="copyConfig('${config.url.replace(/'/g, "\\'")}')">
-                📋 Копировать ссылку
+                ${langData.copyLink}
             </button>
         </div>
     `).join('');
@@ -190,8 +293,9 @@ function renderConfigs() {
 
 // Копирование конфига
 function copyConfig(url) {
+    const langData = translations[currentLang] || translations.ru;
     navigator.clipboard.writeText(url).then(() => {
-        showToast('✅ Ссылка скопирована!');
+        showToast(langData.linkCopied);
     }).catch(() => {
         // Fallback для старых браузеров
         const textarea = document.createElement('textarea');
@@ -200,14 +304,15 @@ function copyConfig(url) {
         textarea.select();
         document.execCommand('copy');
         document.body.removeChild(textarea);
-        showToast('✅ Ссылка скопирована!');
+        showToast(langData.linkCopied);
     });
 }
 
 // Копирование TON адреса
 function copyToClipboard(text) {
+    const langData = translations[currentLang] || translations.ru;
     navigator.clipboard.writeText(text).then(() => {
-        showToast('✅ Адрес скопирован!');
+        showToast(langData.addressCopied);
     }).catch(() => {
         const textarea = document.createElement('textarea');
         textarea.value = text;
@@ -215,7 +320,7 @@ function copyToClipboard(text) {
         textarea.select();
         document.execCommand('copy');
         document.body.removeChild(textarea);
-        showToast('✅ Адрес скопирован!');
+        showToast(langData.addressCopied);
     });
 }
 

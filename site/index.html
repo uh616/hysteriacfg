@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru" id="htmlLang">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,8 +23,12 @@
                 </div>
                 <div class="header-stats">
                     <div class="stat-item">
-                        <span class="stat-label">Обновление</span>
-                        <span class="stat-value" id="updateTime">каждый час</span>
+                        <span class="stat-label" data-i18n="update">Обновление</span>
+                        <span class="stat-value" id="updateTime" data-i18n="updateTime">каждый час</span>
+                    </div>
+                    <div class="lang-switcher">
+                        <button class="lang-btn active" data-lang="ru">RU</button>
+                        <button class="lang-btn" data-lang="en">EN</button>
                     </div>
                 </div>
             </div>
@@ -38,36 +42,36 @@
                 </a>
             </div>
             <h1 class="hero-title">ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.</h1>
-            <p class="hero-subtitle">Автоматические VPN конфиги • Hysteria2 • VLESS • VMESS • Shadowsocks • Trojan</p>
+            <p class="hero-subtitle" data-i18n="heroSubtitle">Автоматические VPN конфиги • Hysteria2 • VLESS • VMESS • Shadowsocks • Trojan</p>
             <div class="hero-steps">
                 <div class="step">
                     <div class="step-icon">📋</div>
-                    <div class="step-text">Скопируй ссылку</div>
+                    <div class="step-text" data-i18n="step1">Скопируй ссылку</div>
                 </div>
                 <div class="step-arrow">→</div>
                 <div class="step">
                     <div class="step-icon">📥</div>
-                    <div class="step-text">Импортируй в клиент</div>
+                    <div class="step-text" data-i18n="step2">Импортируй в клиент</div>
                 </div>
                 <div class="step-arrow">→</div>
                 <div class="step">
                     <div class="step-icon">🚀</div>
-                    <div class="step-text">Подключись</div>
+                    <div class="step-text" data-i18n="step3">Подключись</div>
                 </div>
             </div>
         </section>
 
         <!-- Tabs -->
         <div class="tabs">
-            <button class="tab-btn active" data-tab="lists">📋 Списки</button>
+            <button class="tab-btn active" data-tab="lists" data-i18n="lists">📋 Списки</button>
         </div>
 
         <!-- Filters -->
         <div class="filters">
-            <input type="text" id="searchInput" class="search-input" placeholder="🔍 Найти по протоколу или стране...">
+            <input type="text" id="searchInput" class="search-input" data-i18n-placeholder="searchPlaceholder" placeholder="🔍 Найти по протоколу или стране...">
             <div class="filter-buttons">
-                <button class="filter-btn active" data-filter="all">Все</button>
-                <button class="filter-btn" data-filter="recommended">⭐ Рекомендованные</button>
+                <button class="filter-btn active" data-filter="all" data-i18n="all">Все</button>
+                <button class="filter-btn" data-filter="recommended" data-i18n="recommended">⭐ Рекомендованные</button>
                 <button class="filter-btn" data-filter="hysteria2">🚀 Hysteria2</button>
                 <button class="filter-btn" data-filter="vless">⚡ VLESS</button>
                 <button class="filter-btn" data-filter="vmess">🔷 VMESS</button>
@@ -81,29 +85,29 @@
             <div class="configs-grid" id="configsGrid">
                 <!-- Конфиги будут загружены через JS -->
             </div>
-            <div class="loading" id="loading">Загрузка конфигов...</div>
+            <div class="loading" id="loading" data-i18n="loading">Загрузка конфигов...</div>
             <div class="empty-state" id="emptyState" style="display: none;">
                 <div class="empty-icon">😢</div>
-                <div class="empty-text">Ничего не найдено</div>
+                <div class="empty-text" data-i18n="emptyState">Ничего не найдено</div>
             </div>
         </div>
 
         <!-- Support Section -->
         <section class="support">
-            <h2 class="support-title">💰 Поддержать автора</h2>
+            <h2 class="support-title" data-i18n="supportTitle">💰 Поддержать автора</h2>
             <div class="support-content">
                 <div class="support-item">
-                    <div class="support-label">💎 TON кошелек</div>
+                    <div class="support-label" data-i18n="tonWallet">💎 TON кошелек</div>
                     <div class="support-address" id="tonAddress" onclick="copyToClipboard('UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe')">
                         UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
                         <span class="copy-icon">📋</span>
                     </div>
                 </div>
                 <div class="support-item">
-                    <div class="support-label">🎁 Boosty донат</div>
+                    <div class="support-label" data-i18n="boostyDonate">🎁 Boosty донат</div>
                     <a href="https://boosty.to/6i6/donate" target="_blank" class="boosty-button">
                         <span>🎁</span>
-                        <span>Поддержать на Boosty</span>
+                        <span data-i18n="supportOnBoosty">Поддержать на Boosty</span>
                     </a>
                 </div>
             </div>
@@ -116,13 +120,14 @@
                     <span>🕐 616 минут</span>
                     <a href="https://t.me/solnechniyre6enok" target="_blank" class="footer-link">Telegram</a>
                 </div>
-                <div class="footer-license">
+                <div class="footer-license" data-i18n="footerLicense">
                     © 2026 REBORN CFG • Developed by 616 минут
                 </div>
             </div>
         </footer>
     </div>
 
+    <script src="translations.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

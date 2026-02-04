@@ -1373,7 +1373,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
         # Создаем якорь для ссылки (убираем эмодзи и пробелы, делаем нижний регистр)
         anchor = protocol.replace('_', '-').lower()
         
-        protocol_section = f"""
+        protocol_section_ru = f"""
 ---
 
 <a id="{anchor}"></a>
@@ -1394,9 +1394,33 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 {recommended_text}
 
 """
-        protocol_sections.append(protocol_section)
+        
+        protocol_section_en = f"""
+---
+
+<a id="{anchor}-en"></a>
+## {protocol_name}
+
+<div align="center">
+
+**📦 Total configs:** `{total}`
+
+</div>
+
+**📥 Main subscription:**
+```
+{main_subscription}
+```
+
+**⭐ Recommended subscriptions:**
+{recommended_text}
+
+"""
+        
+        protocol_sections.append((protocol_section_ru, protocol_section_en))
     
-    protocol_sections_text = "\n".join(protocol_sections)
+    protocol_sections_ru = "\n".join([s[0] for s in protocol_sections])
+    protocol_sections_en = "\n".join([s[1] for s in protocol_sections])
     
     readme_content = f"""# ⚡ REBORN CFG
 
@@ -1422,13 +1446,15 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
   <img src="https://raw.githubusercontent.com/{GITHUB_REPO_NAME}/{GITHUB_BRANCH}/site/rebornsite.png" alt="REBORN CFG Site" style="max-width: 100%; border-radius: 12px; border: 2px solid #ff006e;">
 </a>
 
-**🌐 [Открыть сайт](https://uh616.github.io/REBORNCFG/)**
+**🌐 [Открыть сайт / Open website](https://uh616.github.io/REBORNCFG/)**
 
 </div>
 
 ---
 
-## 📊 Статистика последнего обновления
+## 🇷🇺 Русский
+
+### 📊 Статистика последнего обновления
 
 - **📅 Дата обновления:** `{date_str}`
 - **📦 Всего конфигов:** `{total_configs}`
@@ -1436,7 +1462,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 ---
 
-## 🔌 Подписки по протоколам
+### 🔌 Подписки по протоколам
 
 <div align="center">
 
@@ -1451,13 +1477,13 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 - [🔰 Shadowsocks](#shadowsocks)
 - [🎯 Trojan](#trojan)
 
-{protocol_sections_text}
+{protocol_sections_ru}
 
 ---
 
-## 📥 Как использовать
+### 📥 Как использовать
 
-### V2RayN / Nekoray / Clash / Hysteria2 клиент
+#### V2RayN / Nekoray / Clash / Hysteria2 клиент
 
 1. Выберите нужный протокол выше
 2. Скопируйте ссылку на подписку
@@ -1467,7 +1493,7 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 ---
 
-## 👤 Автор
+### 👤 Автор
 
 <div align="center">
 
@@ -1479,17 +1505,17 @@ def create_readme_multi_protocol(protocol_stats: dict) -> str:
 
 ---
 
-## 💰 Поддержать автора
+### 💰 Поддержать автора
 
 <div align="center">
 
-### 💎 TON кошелек
+#### 💎 TON кошелек
 
 ```
 UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 ```
 
-### 🎁 Boosty донат
+#### 🎁 Boosty донат
 
 <a href="https://boosty.to/6i6/donate" target="_blank">
   <img src="https://img.shields.io/badge/🎁_Boosty-Поддержать%20автора-FF006E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkYwMDZFIi8+Cjwvc3ZnPgo=&labelColor=8338EC" alt="Boosty Donate" style="border-radius: 8px; margin: 10px 0;">
@@ -1501,11 +1527,86 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 ---
 
+## 🇬🇧 English
+
+### 📊 Last Update Statistics
+
+- **📅 Update date:** `{date_str}`
+- **📦 Total configs:** `{total_configs}`
+- **🔌 Protocols:** `{len(protocol_stats)}`
+
+---
+
+### 🔌 Subscriptions by Protocol
+
 <div align="center">
 
-**⭐ Если проект полезен, поставьте звезду!**
+*Select a protocol to view subscriptions*
 
-*Последнее обновление: {date_str}*
+</div>
+
+**Protocols:**
+- [🚀 Hysteria2](#hysteria2-en)
+- [⚡ VLESS](#vless-en)
+- [🔷 VMESS](#vmess-en)
+- [🔰 Shadowsocks](#shadowsocks-en)
+- [🎯 Trojan](#trojan-en)
+
+{protocol_sections_en}
+
+---
+
+### 📥 How to Use
+
+#### V2RayN / Nekoray / Clash / Hysteria2 Client
+
+1. Select the desired protocol above
+2. Copy the subscription link
+3. Add it to your client's subscription settings
+4. Update the subscription
+5. Done! 🎉
+
+---
+
+### 👤 Author
+
+<div align="center">
+
+### 🕐 616 минут
+
+[![Telegram](https://img.shields.io/badge/Telegram-616%20минут-0088cc?style=for-the-badge&logo=telegram)](https://t.me/solnechniyre6enok)
+
+</div>
+
+---
+
+### 💰 Support the Author
+
+<div align="center">
+
+#### 💎 TON Wallet
+
+```
+UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
+```
+
+#### 🎁 Boosty Donation
+
+<a href="https://boosty.to/6i6/donate" target="_blank">
+  <img src="https://img.shields.io/badge/🎁_Boosty-Support%20the%20author-FF006E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkYwMDZFIi8+Cjwvc3ZnPgo=&labelColor=8338EC" alt="Boosty Donate" style="border-radius: 8px; margin: 10px 0;">
+</a>
+
+**🔗 [Go to Boosty](https://boosty.to/6i6/donate)**
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If the project is useful, please give it a star!**
+
+*Last update: {date_str}*
 
 </div>
 """
@@ -1794,7 +1895,7 @@ def main():
         
         # Загружаем файлы сайта (если они есть локально)
         # rebornsite.png не загружаем автоматически - загружается один раз вручную
-        site_files = ['site/index.html', 'site/style.css', 'site/script.js']
+        site_files = ['site/index.html', 'site/style.css', 'site/script.js', 'site/translations.js']
         for site_file in site_files:
             if os.path.exists(site_file):
                 log(f"🌐 Загрузка файла сайта: {site_file}")
