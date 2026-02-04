@@ -704,4 +704,3 @@ trojan://blue2024@141.101.115.240:443/?type=tcp&security=tls&sni=hb.lii2010.us.k
 trojan://blue2024@141.101.115.34:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@141.101.120.231:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@141.101.121.90:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@146.19.21.106:443/?type=tcp&security=tls&sni=b.promote.icu#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29
