@@ -229,7 +229,7 @@ trojan://blue2024@104.17.96.65:443?sni=td.promote.icu#🔒
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20124385
 trojan://humanity@104.18.0.55:443?type=ws&path=/assignment&security=tls&sni=www.gossipglove.com&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20337727
 trojan://NISHIKUITAN111@104.18.1.1:443?#🔒
-trojan://a9570330-769d-11ef-90dc-1577c1651679@104.18.1.196:443?sni=sg-trojan.andfree.my.id&type=ws&path=%2Fwelcome&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_6%7C2.1MB%2Fs
+trojan://a9570330-769d-11ef-90dc-1577c1651679@104.18.1.196:443?allowInsecure=0&sni=sg-trojan.andfree.my.id&ws=1&wspath=%2Fwelcome#SG_4%20%7C%20%E2%AC%87%EF%B8%8F%205.1MB%2Fs
 trojan://humanity@104.18.10.110:443?type=ws&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20692666
 trojan://whyvpn-7dayaktif@104.18.10.39:443?security=tls&sni=do3.kitu.xyz&allowInsecure=1&type=tcp#4Mohsen-4740
 trojan://blue2024@104.18.102.177:443?sni=td.promote.icu#🔒
@@ -284,7 +284,7 @@ trojan://91d237a0-8a03-11ee-b32f-1239d0255272@104.18.23.136:443?security=tls&sni
 trojan://NISHIKUITAN111@104.18.255.98:443?#🔒
 trojan://Telegram-DailyConfigs@104.18.3.11:2096?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir#🔒
 trojan://blue2024@104.18.31.239:443?sni=ta.promote.icu#🔒
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#@Vip_Security
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087?security=tls&sni=subhiddify.mmdv2.host&type=ws&host=subhiddify.mmdv2.host&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&type=ws&host=poORiaReD--PErsePOlIs.PagES.DEv#🔒
 trojan://bpb-trojan@104.18.34.21:2053?security=tls&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&fp=randomized&alpn=http/1.1#🔒
@@ -301,7 +301,7 @@ trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&sni=
 trojan://trojan@104.18.5.250:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560#🔒
 trojan://NISHIKUITAN111@104.18.58.44:443?#🔒
 trojan://blue2024@104.18.69.126:443?sni=ha.lii2010.us.kg#🔒
-trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
+trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#🔥Join+Telegram:@Farah_VPN🟣
 trojan://blue2024@104.18.78.33:443?sni=td.promote.icu#🔒
 trojan://blue2024@104.18.79.171:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
 trojan://bpb-trojan@104.18.8.215:443?security=tls&sni=fcspring.ggff.net&type=tcp#🔒
@@ -459,7 +459,7 @@ trojan://blue2024@104.21.32.1:443?sni=ta.promote.icu&allowInsecure=0#🔒
 trojan://jagoanssh-Aweqdcc@104.21.32.17:443?security=tls&sni=to.ruangguru.com&allowInsecure=1&type=tcp#4Mohsen-4526
 trojan://NISHIKUITAN111@104.21.33.65:443?#🔒
 trojan://2d068083-2cb0-4ae3-a44a-6fc82f3039cc@104.21.38.90:443?security=tls&sni=
-trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#@Vip_Security
 trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#4Mohsen-3516
 trojan://yZOZ8GWc8K@104.21.44.126:443?security=tls&sni=de.vpncustomize.website&type=tcp#4Mohsen-4766
 trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#⚡
@@ -696,7 +696,7 @@ trojan://BZjkHMao@112.16.228.119:443?allowInsecure=1#中转节点-7.49MB/s
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#🔒
 trojan://0da5acca-b556-3ed3-b6bf-645bd45d017e@112.84.125.208:55108?allowInsecure=1&sni=
 trojan://c1d83c0c7d57cead4379ba14a82df69b@116.80.60.36:443?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://c1d83c0c7d57cead4379ba14a82df69b@116.80.76.130:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://c1d83c0c7d57cead4379ba14a82df69b@116.80.76.130:443?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%201.6MB%2Fs
 trojan://3f29ee90-8567-4671-8d99-9875874e472f@116.fastea.top:53316?security=tls&type=tcp&headerType=none
 trojan://b21af1e78d194c2093aabbee770c8529@118.142.17.238:443?security=tls&sni=www.gpt123.one&allowInsecure=1&type=tcp#4Mohsen-4151
 trojan://2b9f96246284482db6c8c64c562ac174@118.142.55.62:443?security=tls&allowInsecure=1&type=tcp#4Mohsen-3519
