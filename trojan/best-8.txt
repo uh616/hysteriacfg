@@ -1,3 +1,4 @@
+trojan://299beacf-37f0-41c6-a122-9260c75731bf@hgc.node-is.green:42133/?type=tcp&security=tls&sni=hk12.bilibili.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://299beacf-37f0-41c6-a122-9260c75731bf@hgc.node-is.green:45374/?type=tcp&security=tls&sni=hk12.bilibili.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://299beacf-37f0-41c6-a122-9260c75731bf@hgc.node-is.green:49205/?type=tcp&security=tls&sni=hk12.bilibili.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.2.133:443/?type=ws&host=fonmelo.com&security=tls&sni=
@@ -467,4 +468,3 @@ trojan://Aimer@104.19.159.14:443/?type=tcp&security=tls&sni=epcca.ambercc.filege
 trojan://Aimer@104.26.15.138:2053/?type=tcp&security=t...%20#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://Aimer@162.159.38.101:2096/?type=tcp&security=...#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://aTArbZ2F0E@172.66.168.223:443/?type=tcp&security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.16.16.16:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
