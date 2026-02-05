@@ -26,7 +26,7 @@ trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls#
 trojan://6711c6cf-847a-4177-b059-55f519b09de4@103.173.155.72:38000?security=tls#⚡
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&sni=sbank.ir#4Kian-3684
 trojan://52a98419-efab-4c34-b4cc-4e2a7bc37029@103.173.255.127:28000?allowInsecure=1&sni=
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?security=tls&sni=sbank.ir#⚡
+trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.173.255.21:443?sni=glc.hruqoaw.cn#default_namessr://MTE2LjE2Mi4xMjAuNTk6NTY1OmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1OVEU0TURrNk1URXhNVEV4JnJlbWFya3M9OEorSHFQQ2ZoN05mUTA1ZjVMaXQ1WnU5TFQ3d240ZTY4SitIdUY5VlUxL252bzdsbTcwPQ==trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.173.255.127:443?sni=glc.hruqoaw.cn#default_name------------------------------------------必进：【TG全网导航】
 trojan://52a98419-efab-4c34-b4cc-4e2a7bc37029@103.173.255.21:28000?allowInsecure=1&sni=
 trojan://52a98419-efab-4c34-b4cc-4e2a7bc37029@103.173.255.228:28000?allowInsecure=1&sni=
 trojan://5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc@103.173.255.228:28443?security=tls&type=tcp&headerType=none
@@ -51,7 +51,6 @@ trojan://NISHIKUITAN111@104.129.164.50:443?security=tls&sni=zb.ylks.xyz&type=ws&
 trojan://blue2024@104.129.164.93:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed#🔒
 trojan://blue2024@104.129.166.244:443?sni=ta.promote.icu&allowInsecure=1#🔒
 trojan://blue2024@104.129.167.128:443?sni=ta.promote.icu#🔒
-trojan://cMPgdc}!QMFOMC1(@104.16.0.161:8443?type=ws&host=empty-silence-fe90.ho3ein-tjk7.workers.dev&path=%2FeyJqdW5rIjoib3FQV1Ryd1l2IiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http%2F1.1&fp=chrome&sni=EMPty-SiLEnce-fE90.HO3Ein-tjK7.WOrkeRS.dEv#[🇩🇪]
 trojan://blue2024@104.16.10.12:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒
 trojan://blue2024@104.16.104.65:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
 trojan://blue2024@104.16.105.39:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
@@ -172,7 +171,7 @@ trojan://b75b5cd5-9acf-5556-a65b-b5c59b2d5813@104.17.156.42:2087?security=tls&sn
 trojan://NISHIKUITAN111@104.17.157.109:443?#🔒
 trojan://bpb-trojan@104.17.159.75:443?security=tls&sni=fcspring.ggff.net&type=tcp#🔒
 trojan://blue2024@104.17.16.170:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒
-trojan://u2k1jh0og5vn@104.17.162.123:8443?security=tls&amp;type=ws&amp;sni=oq788320mz7kfruyec7b0q1l4bojfire1bp9lmu7.zjde5.de5.net#WZ%206%20%40Outline_Vpn
+trojan://u2k1jh0og5vn@104.17.162.123:8443?security=tls&type=ws&sni=oq788320mz7kfruyec7b0q1l4bojfire1bp9lmu7.zjde5.de5.net#WZ
 trojan://wz2vh0awz8iw@104.17.163.123:8443?path=/?ed=2560&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#20724
 trojan://blue2024@104.17.165.253:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
 trojan://blue2024@104.17.168.184:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
@@ -468,3 +467,4 @@ trojan://2d068083-2cb0-4ae3-a44a-6fc82f3039cc@104.21.38.90:443?security=tls&sni=
 trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#4Kian-3528
 trojan://yZOZ8GWc8K@104.21.44.126:443?security=tls&sni=de.vpncustomize.website&type=tcp#4Kian-4787
+trojan://dreDeMpIQpnv@104.21.44.185:2053?security=tls&sni=aryanews.onetwothree123.ir#⚡
