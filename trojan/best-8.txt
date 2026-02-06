@@ -1,3 +1,10 @@
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443/?type=tcp&security=tls&sni=jobscareertoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443/?type=tcp&security=tls&sni=avianrecruit.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443/?type=tcp&security=tls&sni=jobscareertoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443/?type=ws&host=jobscareertoday.com&path=
+trojan://2e65577e-8fdb-4bb1-a495-96f3122099a7@172.67.191.174:443/?type=tcp&security=tls&sni=
+trojan://2e65577e-8fdb-4bb1-a495-96f3122099a7@172.67.191.174:443/?type=tcp&security=tls&sni=zzzZZZZz.222769.XYZ#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://2e665e3f-9e57-4ee1-9e8d-a7728c39a4c0@eaff1678-af6f-6bf0-fb76-494149bcda59.iran2035.dpdns.org:443/?type=ws&host=eAfF1678-AF6f-6bF0-fb76-494149bcDA59.iRAN2035.dPDns.Org&path=
 trojan://2e665e3f-9e57-4ee1-9e8d-a7728c39a4c0@ggggggghhyu.19890614.qzz.io:443/?type=ws&host=gGGGGGghHyu.19890614.qZZ.IO&path=
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@198.41.223.133:443/?type=tcp&security=tls&sni=2us4.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@198.41.223.83:443/?type=tcp&security=tls&sni=2us3.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -461,11 +468,3 @@ trojan://auto@104.20.22.31:443/?type=tcp&security=tls&sni=b96ef9ae.trojanfree-76
 trojan://auto@104.21.21.129:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.21.31.51:443/?type=tcp&security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.21.35.43:443/?type=tcp&security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.21.35.43:443/?type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.21.72.108:443/?type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.21.90.210:443/?type=tcp&security=tls...%20#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.26.9.160:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.27.206.92:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.27.207.92:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@108.162.195.148:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@108.162.195.154:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
