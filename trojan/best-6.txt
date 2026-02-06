@@ -1,6 +1,3 @@
-trojan://3747000103274291200@195.133.93.135:443/?type=tcp&security=tls&sni=epic-weasel.treefrog761.one#%F0%9F%9A%8037%40oneclickvpnkeys
-trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=
-trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=dear-sunbeam.treefrog761.one#%40Hope_Net-join-us-on-Telegram
 trojan://3763495982449565696@77.73.70.64:443/?type=tcp&security=tls&sni=
 trojan://3763495982449565696@77.73.70.64:443/?type=tcp&security=tls&sni=relaxed-jaybird.treefrog761.one#%40Hope_Net-join-us-on-Telegram
 trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?path=/@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-&security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@V2ynpv
@@ -695,3 +692,7 @@ trojan://Aimer@167.68.5.248:2087/?type=tcp&security=tls&sni=epcca.ambercc.filege
 trojan://Aimer@172.245.156.126:2053/?type=ws&host=ageph.ambercc.filegear-sg.mehttp%2F1.1&path=%2F&security=tls&sni=ageph.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.64.33.110:443/?type=ws&host=ngepo.ambercc.filegear-sg.mehttp%2F1.1&path=%2F&security=tls&sni=ngepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.64.33.144:443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@172.64.33.69:2087/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B557%40oneclickvpnkeys
+trojan://Aimer@172.64.34.52:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@172.64.35.199:443/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@172.64.35.95:443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-172.64.35.95-1072
