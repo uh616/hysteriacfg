@@ -15,7 +15,7 @@ const translations = {
         lists: "📋 Списки",
         
         // Filters
-        searchPlaceholder: "🔍 Найти по протоколу или стране...",
+        searchPlaceholder: "🔍 Найти по протоколу...",
         all: "Все",
         recommended: "⭐ Рекомендованные",
         
@@ -61,7 +61,7 @@ const translations = {
         lists: "📋 Lists",
         
         // Filters
-        searchPlaceholder: "🔍 Search by protocol or country...",
+        searchPlaceholder: "🔍 Search by protocol...",
         all: "All",
         recommended: "⭐ Recommended",
         

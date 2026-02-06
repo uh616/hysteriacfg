@@ -2,6 +2,10 @@
 const REPO_NAME = 'uh616/REBORNCFG';
 const BRANCH = 'main';
 const PROTOCOLS = ['hysteria2', 'vless', 'vmess', 'shadowsocks', 'trojan'];
+
+// Кэш (чтобы не ждать каждый раз проверки 20 ссылок)
+const CONFIGS_CACHE_KEY = 'reborncfg:configs:v1';
+const CONFIGS_CACHE_TTL_MS = 60 * 60 * 1000; // 1 час
 function getProtocolNames() {
     const langData = translations[currentLang] || translations.ru;
     return {
@@ -15,6 +19,7 @@ function getProtocolNames() {
 
 // Состояние
 let allConfigs = [];
+let configItems = []; // базовые данные (без текстов), чтобы правильно переименовывать при смене языка
 let filteredConfigs = [];
 let currentFilter = 'all';
 let currentTab = 'lists';
@@ -28,6 +33,141 @@ document.addEventListener('DOMContentLoaded', () => {
     initSearch();
     loadConfigs();
 });
+
+function nowMs() {
+    return Date.now();
+}
+
+function readConfigsCache() {
+    try {
+        const raw = localStorage.getItem(CONFIGS_CACHE_KEY);
+        if (!raw) return null;
+        const parsed = JSON.parse(raw);
+        if (!parsed || typeof parsed !== 'object') return null;
+        if (!Array.isArray(parsed.items)) return null;
+        if (typeof parsed.savedAt !== 'number') return null;
+        return parsed;
+    } catch {
+        return null;
+    }
+}
+
+function writeConfigsCache(items) {
+    try {
+        localStorage.setItem(
+            CONFIGS_CACHE_KEY,
+            JSON.stringify({
+                savedAt: nowMs(),
+                items
+            })
+        );
+    } catch {
+        // ignore (storage может быть переполнен/запрещён)
+    }
+}
+
+function isCacheFresh(cache) {
+    if (!cache) return false;
+    return nowMs() - cache.savedAt < CONFIGS_CACHE_TTL_MS;
+}
+
+function buildDisplayConfigs(items) {
+    const PROTOCOL_NAMES = getProtocolNames();
+    const langData = translations[currentLang] || translations.ru;
+
+    let configId = 1;
+    return items.map(item => {
+        const protocolName = PROTOCOL_NAMES[item.protocol] || item.protocol;
+        let name = '';
+        if (item.type === 'recommended') {
+            name = `${protocolName} Best-${item.bestIndex}`;
+        } else {
+            name = `${protocolName} ${langData.allConfigs}`;
+        }
+
+        return {
+            id: configId++,
+            protocol: item.protocol,
+            protocolName,
+            url: item.url,
+            type: item.type,
+            name
+        };
+    });
+}
+
+function createLinkPlan() {
+    const items = [];
+    for (const protocol of PROTOCOLS) {
+        for (let i = 1; i <= 3; i++) {
+            items.push({
+                protocol,
+                type: 'recommended',
+                bestIndex: i,
+                url: `https://raw.githubusercontent.com/${REPO_NAME}/${BRANCH}/${protocol}/best-${i}.txt`
+            });
+        }
+
+        items.push({
+            protocol,
+            type: 'main',
+            url: `https://raw.githubusercontent.com/${REPO_NAME}/${BRANCH}/${protocol}/subscription.txt`
+        });
+    }
+    return items;
+}
+
+async function fetchWithTimeout(url, { method = 'GET', cache = 'no-store' } = {}, timeoutMs = 2500) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+
+    try {
+        const response = await fetch(url, {
+            method,
+            cache,
+            signal: controller.signal
+        });
+        return response;
+    } finally {
+        clearTimeout(timeoutId);
+    }
+}
+
+async function checkUrlExists(url) {
+    // HEAD быстрее и не качает файл целиком
+    try {
+        const head = await fetchWithTimeout(url, { method: 'HEAD', cache: 'no-store' }, 2500);
+        if (head.ok) return true;
+        if (head.status === 404) return false;
+    } catch {
+        // ignore
+    }
+
+    // fallback: GET (если HEAD вдруг не проходит)
+    try {
+        const get = await fetchWithTimeout(url, { method: 'GET', cache: 'no-store' }, 2500);
+        return get.ok;
+    } catch {
+        return false;
+    }
+}
+
+async function mapWithConcurrency(items, mapper, concurrency = 8) {
+    const results = new Array(items.length);
+    let i = 0;
+
+    async function worker() {
+        while (true) {
+            const idx = i++;
+            if (idx >= items.length) return;
+            results[idx] = await mapper(items[idx], idx);
+        }
+    }
+
+    const workers = Array.from({ length: Math.min(concurrency, items.length) }, () => worker());
+    await Promise.all(workers);
+    return results;
+}
 
 // Инициализация языка
 function initLanguage() {
@@ -105,9 +245,10 @@ function updateTranslations() {
         }
     });
     
-    // Обновляем конфиги если они уже загружены
-    if (allConfigs.length > 0) {
-        renderConfigs();
+    // Обновляем конфиги если они уже загружены (пересобираем тексты под выбранный язык)
+    if (configItems.length > 0) {
+        allConfigs = buildDisplayConfigs(configItems);
+        applyFilters();
     }
 }
 
@@ -173,59 +314,70 @@ async function loadConfigs() {
     grid.innerHTML = '';
     
     try {
-        allConfigs = [];
-        let configId = 1;
-        
-        // Загружаем конфиги для каждого протокола
-        const PROTOCOL_NAMES = getProtocolNames();
-        const langData = translations[currentLang] || translations.ru;
-        
-        for (const protocol of PROTOCOLS) {
-            // Основные подписки (best-1, best-2, best-3)
-            for (let i = 1; i <= 3; i++) {
-                const url = `https://raw.githubusercontent.com/${REPO_NAME}/${BRANCH}/${protocol}/best-${i}.txt`;
-                try {
-                    const response = await fetch(url);
-                    if (response.ok) {
-                        allConfigs.push({
-                            id: configId++,
-                            protocol: protocol,
-                            protocolName: PROTOCOL_NAMES[protocol],
-                            url: url,
-                            type: 'recommended',
-                            name: `${PROTOCOL_NAMES[protocol]} Best-${i}`
-                        });
-                    }
-                } catch (e) {
-                    console.error(`Ошибка загрузки ${url}:`, e);
-                }
-            }
-            
-            // Основная подписка
-            const mainUrl = `https://raw.githubusercontent.com/${REPO_NAME}/${BRANCH}/${protocol}/subscription.txt`;
-            try {
-                const response = await fetch(mainUrl);
-                if (response.ok) {
-                    allConfigs.push({
-                        id: configId++,
-                        protocol: protocol,
-                        protocolName: PROTOCOL_NAMES[protocol],
-                        url: mainUrl,
-                        type: 'main',
-                        name: `${PROTOCOL_NAMES[protocol]} ${langData.allConfigs}`
-                    });
-                }
-            } catch (e) {
-                console.error(`Ошибка загрузки ${mainUrl}:`, e);
-            }
+        const cache = readConfigsCache();
+        const planned = createLinkPlan();
+
+        // 1) Если кэш свежий — показываем сразу, а обновляем тихо в фоне
+        if (isCacheFresh(cache)) {
+            configItems = cache.items;
+            allConfigs = buildDisplayConfigs(configItems);
+            loading.style.display = 'none';
+            applyFilters();
+
+            // Фоновое обновление: если список изменился — перерисуем и перезапишем кэш
+            void refreshConfigs(planned, { silent: true });
+            return;
         }
-        
-        loading.style.display = 'none';
-        applyFilters();
+
+        // 2) Если кэша нет/просрочен — грузим с проверкой существования ссылок (параллельно)
+        await refreshConfigs(planned, { silent: false });
     } catch (error) {
         console.error('Ошибка загрузки конфигов:', error);
         const langData = translations[currentLang] || translations.ru;
         loading.textContent = langData.loading || 'Ошибка загрузки конфигов';
+    }
+}
+
+async function refreshConfigs(plannedItems, { silent } = { silent: false }) {
+    const loading = document.getElementById('loading');
+
+    if (!silent) {
+        loading.style.display = 'block';
+    }
+
+    const existsList = await mapWithConcurrency(
+        plannedItems,
+        async (item) => {
+            const exists = await checkUrlExists(item.url);
+            return exists ? item : null;
+        },
+        8
+    );
+
+    const existing = existsList.filter(Boolean);
+
+    // Если вдруг GitHub недоступен и ничего не нашли — попробуем хотя бы показать старый кэш (если был)
+    if (existing.length === 0) {
+        const cache = readConfigsCache();
+        if (cache?.items?.length) {
+            allConfigs = buildDisplayConfigs(cache.items);
+            loading.style.display = 'none';
+            applyFilters();
+            return;
+        }
+    }
+
+    // Обновляем состояние и кэш
+    writeConfigsCache(existing);
+
+    configItems = existing;
+    const nextConfigs = buildDisplayConfigs(configItems);
+    const changed = JSON.stringify(nextConfigs.map(c => c.url)) !== JSON.stringify(allConfigs.map(c => c.url));
+
+    allConfigs = nextConfigs;
+    loading.style.display = 'none';
+    if (!silent || changed) {
+        applyFilters();
     }
 }
 
