@@ -1,3 +1,4 @@
+trojan://auto@104.26.9.160:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.27.206.92:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.27.207.92:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@108.162.195.148:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -467,4 +468,3 @@ trojan://dbbfbbb0-56e5-11ed-bd9e-1239d0255272@104.21.21.147:443/?type=tcp&securi
 trojan://dc21bdbf-04c0-4a7e-8cb4-3d5af39ddf13@t1.teslacdn1.live:443/?type=tcp&security=tls&sni=t1.teslacdn1.live#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://ddbe4c70-7a02-11ee-aef2-1239d0255272@15.204.240.119:443/?type=tcp&security=tls&sni=us1.test3.net#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://de5a47b3e2@198.244.252.93:443/?type=tcp&security=tls&sni=uk1.connecton.surf&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
-trojan://dee78410-ca13-11ed-852d-1239d0255272@179.61.251.158:443/?type=tcp&security=tls&sni=de-1.test3.net&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
