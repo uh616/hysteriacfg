@@ -3,8 +3,8 @@ hy2://9ijufI4LW_ehlst!Pho-@95.179.150.22:443?insecure=1&obfs=salamander&obfs-pas
 hy2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443/?mport=20000-50000&sni=🔒
 hy2://03e4fe32@ae-dubai-oracle-46ebed.ip1.shop:31452/?insecure=1&sni=www.bing.com#%E2%80%BC%EF%B8%8F5%40oneclickvpnkeys
 hysteria2://d5905353-0efe-47a0-90e8-276991af4c87@ae.1010520.xyz:1001?security=tls&insecure=1&sni=ae.1010520.xyz#🆔wxgmrjdcc%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21440?mport=21001-21999&insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20353563
-hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21654?mport=21001-21999&insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20419798
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21440?mport=21001-21999&insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20717429
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@agt.xn--mes13n8pi8x2b.shop:21654?mport=21001-21999&insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20384715
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@akile.nai3.cc:33133/?sni=akile.nai3.cc#%F0%9F%85%B0LL%20OPERATORS%20%20%20%F0%9F%94%B5%E2%9A%AA%F0%9F%94%B4%20%20%20%40V2RAYNPLUS%20%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://mTwkzEmNmip3wJ2ZilGwK7w2sYexYn@anymath.ir:443?sni=anymath.ir&alpn=h3&obfs=salamander&obfs-password=znpWJG0Kp5VZGbelhK56SqINeamjre#hysteria2
 hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#🆔appsooner%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
