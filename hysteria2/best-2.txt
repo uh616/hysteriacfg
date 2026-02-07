@@ -23,7 +23,7 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@132.226.0.78:30075?insecure=1&sni=www
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@132.226.162.10:30102?insecure=1&sni=br3.wish.ml#🔒
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102/?insecure=1#📟86@oneclickvpnkeys
 hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215?insecure=1&sni=shy35.zqjc.cloud#🔒
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20159772
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20363357
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=tls&amp;insecure=1#🇺🇸
 hy2://6ac9028082f11520@136.144.58.255:50288/?obfs=salamander&obfs-password=1f7caeaa&insecure=1#✅@RealMANI_IR
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20137.175.79.36%20%E2%97%88%20udp:8620%20%E2%97%88%20PEG%20TECH%20INC%20/%20Ni%20Ruhong%20%E2%97%88%2003b00
