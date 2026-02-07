@@ -1,3 +1,4 @@
+trojan://blue2024@141.101.113.195:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@141.101.114.139:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@141.101.115.163:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@141.101.115.240:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
@@ -686,4 +687,3 @@ trojan://f0ee7e4a-a550-3283-ba18-13cb6bbb7836@43.206.140.0:443/?type=tcp&securit
 trojan://f0ee7e4a-a550-3283-ba18-13cb6bbb7836@52.34.94.52:443/?type=tcp&security=tls&sni=www.microsoft365.com&allowInsecure=1#us
 trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@103.224.182.251:443/?type=tcp&security=tls&sni=us1.jjzgy.live&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@sg2.jjzgy.live:443/?type=tcp&security=tls&sni=sg2.jjzgy.live&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz#%40Hope_Net-join-us-on-Telegram
