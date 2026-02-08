@@ -1,3 +1,5 @@
+trojan://3723507166611775488@smiling-marmoset.boa152.lol:443/?type=tcp&security=tls&sni=smiling-marmoset.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@social-bream.boa152.lol:443/?type=tcp&security=tls&sni=social-bream.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@super-goblin.treefrog761.one:443/?type=tcp&security=tls&sni=super-goblin.treefrog761.one&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@tight-clam.boa152.lol:443/?type=tcp&security=tls&sni=tight-clam.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@unbiased-manatee.boa152.lol:443/?type=tcp&security=tls&sni=unbiased-manatee.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -9,7 +11,7 @@ trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=
 trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=dear-sunbeam.treefrog761.one#%40Hope_Net-join-us-on-Telegram
 trojan://3763495982449565696@77.73.70.64:443/?type=tcp&security=tls&sni=
 trojan://3763495982449565696@77.73.70.64:443/?type=tcp&security=tls&sni=relaxed-jaybird.treefrog761.one#%40Hope_Net-join-us-on-Telegram
-trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?path=/@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-&security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?path=/@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-@V2YNPV-&security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@V2ynpv
 trojan://3792b958-c945-4a40-a2ad-586070c3a82a@104.21.71.83:443/?type=grpc&serviceName=pEbwh6Px7dQGOpufnxBjUe&security=tls&sni=
 trojan://3792b958-c945-4a40-a2ad-586070c3a82a@104.21.71.83:443/?type=ws&host=c5011f7d-70a0-6c6f-cf8c-7fb77fcc4a23.777162.xyz&path=
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@45.158.22.33:443/?type=tcp&security=tls&sni=us2.vpn.ong&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
@@ -143,7 +145,7 @@ trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443/?type=grpc&secu
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@www.speedtest.net:8443/?type=grpc&security=tls&sni=13l1.diginoshops10.ir#%40Hope_Net-join-us-on-Tel
 trojan://58e0f26f-67c7-4d13-a90f-d31679097bc6@us2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&amp;security=tls&amp;sni=green2.cdntencentmusic.com#🇭🇰
-trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰
 trojan://5A%7Cqwun(Ne*!6%7CQo@172.66.47.95:443/?type=tcp&security=tls&sni=joInMahdISeRVeR-71l.PAGEs.dev
 trojan://5A%7Cqwun(Ne*!6%7CQo@172.66.47.95:443/?type=tcp&security=tls&sni=joInMahdISeRVeR-71l.PAGEs.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://5a2c16f9@103.53.81.139:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-103.53.81.139-1730
@@ -170,7 +172,7 @@ trojan://5a2c16f9@57.129.137.49:8443/?type=tcp&security=tls&sni=snippets.kkii.eu
 trojan://5a2c16f9@57.129.137.60:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
 trojan://5a2c16f9@59.6.239.208:12203/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR-59.6.239.208-1762
 trojan://5a2c16f9@94.140.0.238:2096/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-94.140.0.238-1773
-trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443/?path=/&security=tls&host=snippets.kkii.eu.org&type=ws&sni=snippets.kkii.eu.org#🔥Join+Telegram:@Farah_VPN🟣
+trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443/?path=/&security=tls&host=snippets.kkii.eu.org&type=ws&sni=snippets.kkii.eu.org#@v2rays_ha
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443/?type=ws&host=snippets.kkii.eu.org&path=%2F&security=tls&sni=snippets.kkii.eu.org&allowInsecure=1#%20%F0%9F%8E%A729%40oneclickvpnkeys
 trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@sg007.421421.xyz:20230/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443/?type=tcp&security=tls&sni=wel-jp.optage.moe&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -296,7 +298,7 @@ trojan://7743e1b5-d301-4a66-b765-17094890fae2@190.93.244.105:443/?type=tcp&secur
 trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443/?type=tcp&security=tls&sni=download2hkt.windowsupdate.lol#%40Hope_Net-join-us-on-Telegram
 trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://77891e6750@27.0.232.204:443/?type=tcp&security=tls&sni=hk1.connecton.surf&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
-trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.124.55:4054/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.55-1283
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.130.66:3093/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.130.66-0990
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.144.208-1594
@@ -686,6 +688,3 @@ trojan://Aimer@176.124.223.92:443/?type=tcp&security=tls&sni=epccx.ambercc.fileg
 trojan://Aimer@188.164.159.107:2096/?type=tcp&security=tls&sni=ngep.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@188.164.159.138:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.138-1497
 trojan://Aimer@188.164.159.171:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.171-2039
-trojan://Aimer@188.164.159.174:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@188.164.159.175:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@188.164.159.185:8443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8C%BD92%40oneclickvpnkeys
