@@ -1,3 +1,4 @@
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.38.213:3093/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.38.213-0363
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.45.139:3169/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0375
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.144.208-5056
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1281/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-1763
@@ -39,7 +40,6 @@ trojan://humanity@104.18.32.47:443/?sni=www.calmlunch.com&allowInsecure=1&type=w
 trojan://humanity@104.18.32.47:443/?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha
 trojan://humanity@104.18.32.47:443/?type=ws&amp;host=www.multiplydose.com&amp;path=%2Fassignment&amp;security=tls&amp;sni=www.multiplydose.com&amp;allowInsecure=1&amp;fp=chrome#%E2%98%AE%EF%B8%8F44%40oneclickvpnkeys
 trojan://humanity@104.18.32.47:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%F0%9F%9B%A984%40oneclickvpnkeys
-trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@104.18.7.147:443/?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#@v2rays_ha
 trojan://humanity@104.21.40.34:443/?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#@v2rays_ha
 trojan://humanity@104.21.40.34:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#https%3A%2F%2Ft.me%2Fallproconf
