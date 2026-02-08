@@ -1,3 +1,5 @@
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.94:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B021%40oneclickvpnkeys
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.95:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.95:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B026%40oneclickvpnkeys
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@60.249.35.96:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.96:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B024%40oneclickvpnkeys
@@ -45,7 +47,7 @@ hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@68.183.199.224:10001?sni=CA.1010520.s
 hy2://d2e21fabfe6ddb83@70.34.205.24:443?obfs=salamander&obfs-password=ca39a177&insecure=1&sni=www.apple.com#🔒
 hy2://18240b2dfdd76484@70.34.207.153:443?obfs=salamander&obfs-password=d2648ec2&insecure=1&sni=70.34.207.153#🔒
 hy2://18240b2dfdd76484@70.34.207.153:443/?obfs=salamander&obfs-password=d2648ec2&insecure=1#CPI4
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20254141
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA%20ShatakVPN%20392496
 hy2://4328e5a3-b325-4154-9e7d-508e16962e40@70.39.99.160:8443?insecure=1&sni=hy18.abyssvpn.com#🔒
 hy2://sysadmin.sysadmin@74.48.174.109:52222?insecure=1#🔒
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@74.48.56.139:30102/?insecure=1#🎡78@oneclickvpnkeys
@@ -88,5 +90,3 @@ hy2://04979c3cfe2a7945@92.246.139.15:443?insecure=1&sni=www.google.com&obfs=sala
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@92.5.59.208:30000/?insecure=1&amp;sni=bing.com#📟2@oneclickvpnkeys
 hy2://StormXVPN@93.127.222.197:443?obfs=salamander&obfs-password=https://t.me/StormXVPN&insecure=1&sni=www.google.com#🔒
 hy2://7bcb0e26-eb0a-4658-abfc-b808c3744c9d@94.131.122.35:53040?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=myket.ir#🔒
-hy2://9ijufI4LW_ehlst!Pho-@95.179.150.22:443?insecure=1&obfs=salamander&obfs-password=9ijufI4LW_ehlst%21Pho-&sni=google.com#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2095.179.150.22%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%20494ef
-hy2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443/?mport=20000-50000&sni=🔒
