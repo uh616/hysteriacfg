@@ -1,4 +1,3 @@
-trojan://3747000103274291200@195.133.93.135:443/?type=tcp&security=tls&sni=epic-weasel.treefrog761.one#%F0%9F%9A%8037%40oneclickvpnkeys
 trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=
 trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=dear-sunbeam.treefrog761.one#%40Hope_Net-join-us-on-Telegram
 trojan://3763495982449565696@77.73.70.64:443/?type=tcp&security=tls&sni=
@@ -110,7 +109,9 @@ trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.19.235.14:443/?type=tcp&securi
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&security=tls#%F0%9F%87%B2%F0%9F%87%B3MN-103.168.56.77-2099
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@esjs.liangyuandiancloud.com:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@lu.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@104.21.26.17:443/?type=tcp&security=tls&sni=
 trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@104.21.26.17:443/?type=tcp&security=tls&sni=m9rrrfgh.459.pp.ua#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@172.67.135.37:443/?type=ws&path=
 trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@172.67.135.37:443/?type=ws&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&security=tls&sni=m9rrrfgh.459.pp.ua#%F0%9F%8F%81RELAY-172.67.135.37-1352
 trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443/?type=ws&host=Noshteri.hooplnqpb.ir&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=Noshteri.hooplnqpb.ir#%40Hope_Net-join-us-on-Telegram
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443/?type=ws&path=%2F5.223.47.32%3D443&security=tls&sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.250-0980
@@ -188,7 +189,7 @@ trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443/?type=tcp&security=t
 trojan://5fb072e0ddd631cf66cf752b09210480@54.168.105.60:4006/?type=tcp&security=tls&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&amp;serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=www.nintendogames.net#@icv2ray
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#4Jadi-3757
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#4Kian-3758
 trojan://5hCxHlz6vcD/ufcMwx0P1YYIDYALVUBQTdMKUcN3JYTkOYp87OiTyGWTPQuqf4TLWatr9uv9Uec05ZI7+OfiiRD85yj7oUwtRDJQNNtvwL6vMR8KY2UnX6cTLaRET6kg/MG77Fh2e5ZUcKXKgVe5zU0Z+qQzwtJvS/zv/G9hWdI=📥لینک
 trojan://5Va4g9kI9!WY@104.21.71.8:2087/?type=tcp&security=tls
 trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443/?type=ws&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=uK803.890689.Xyz#%F0%9F%8F%81RELAY-104.21.21.226-1450
@@ -688,5 +689,3 @@ trojan://Aimer@188.164.159.185:8443/?type=ws&host=epml.ambercc.filegear-sg.me&pa
 trojan://Aimer@188.164.159.18:443/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epmk.ambercc.filegear-sg.me#%F0%9F%8C%BD95%40oneclickvpnkeys
 trojan://Aimer@188.164.159.220:2083/?type=tcp&security=tls&sni=epccn.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@188.164.159.22:2096/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.22-2007
-trojan://Aimer@188.164.159.234:2083/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epmk.ambercc.filegear-sg.me#%F0%9F%8C%BD86%40oneclickvpnkeys
-trojan://Aimer@188.164.159.246:2096/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.246-2213
