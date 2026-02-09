@@ -1,3 +1,14 @@
+trojan://3723507166611775488@profound-anemone.boa152.lol:443/?type=tcp&security=tls&sni=profound-anemone.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@profound-elk.boa152.lol:443/?type=tcp&security=tls&sni=profound-elk.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@pumped-stingray.boa152.lol:443/?type=tcp&security=tls&sni=pumped-stingray.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@relative-monkey.boa152.lol:443/?type=tcp&security=tls&sni=relative-monkey.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@relative-rhino.boa152.lol:443/?type=tcp&security=tls&sni=relative-rhino.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@sacred-guppy.boa152.lol:443/?type=tcp&security=tls&sni=sacred-guppy.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@smiling-marmoset.boa152.lol:443/?type=tcp&security=tls&sni=smiling-marmoset.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@social-bream.boa152.lol:443/?type=tcp&security=tls&sni=social-bream.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@super-goblin.treefrog761.one:443/?type=tcp&security=tls&sni=super-goblin.treefrog761.one&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@tight-clam.boa152.lol:443/?type=tcp&security=tls&sni=tight-clam.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@unbiased-manatee.boa152.lol:443/?type=tcp&security=tls&sni=unbiased-manatee.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@wise-cowbird.boa152.lol:443/?type=tcp&security=tls&sni=wise-cowbird.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3747000103274291200@154.205.151.46:443/?type=tcp&security=tls&sni=
@@ -116,7 +127,6 @@ trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@esjs.liangyuandiancloud.com:443/?t
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@lu.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@104.21.26.17:443/?type=tcp&security=tls&sni=
 trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@104.21.26.17:443/?type=tcp&security=tls&sni=m9rrrfgh.459.pp.ua#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@172.67.135.37:443/?type=ws&path=
 trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@172.67.135.37:443/?type=ws&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&security=tls&sni=m9rrrfgh.459.pp.ua#%F0%9F%8F%81RELAY-172.67.135.37-1352
 trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443/?type=ws&host=Noshteri.hooplnqpb.ir&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=Noshteri.hooplnqpb.ir#%40Hope_Net-join-us-on-Telegram
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443/?type=ws&path=%2F5.223.47.32%3D443&security=tls&sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.250-0980
@@ -684,12 +694,3 @@ trojan://Aimer@173.245.59.109:2087/?type=tcp&security=tls&sni=ngepx.ambercc.file
 trojan://Aimer@173.245.59.128:443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@173.245.59.202:2083/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-173.245.59.202-1077
 trojan://Aimer@173.245.59.203:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@176.124.223.133:2096/?type=tcp&security=tls&sni=epccj.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-176.124.223.133-1517
-trojan://Aimer@176.124.223.40:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-176.124.223.40-1370
-trojan://Aimer@176.124.223.92:443/?type=tcp&security=tls&sni=epccx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-176.124.223.92-1461
-trojan://Aimer@188.164.159.107:2096/?type=tcp&security=tls&sni=ngep.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@188.164.159.138:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.138-1497
-trojan://Aimer@188.164.159.171:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.171-2039
-trojan://Aimer@188.164.159.174:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@188.164.159.175:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@188.164.159.185:8443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8C%BD92%40oneclickvpnkeys
