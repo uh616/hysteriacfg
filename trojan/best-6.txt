@@ -1,3 +1,4 @@
+trojan://3723507166611775488@allowed-primate.boa152.lol:443/?type=tcp&security=tls&sni=allowed-primate.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@ample-cockatoo.boa152.lol:443/?type=tcp&security=tls&sni=ample-cockatoo.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@boss-hound.boa152.lol:443/?type=tcp&security=tls&sni=boss-hound.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@concrete-buzzard.boa152.lol:443/?type=tcp&security=tls&sni=concrete-buzzard.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -694,5 +695,3 @@ trojan://Aimer@172.66.207.17:2083/?type=tcp&security=tls&sni=epmf.ambercc.filege
 trojan://Aimer@172.66.46.66:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.67.135.23:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=agepa.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-172.67.135.23-0806
 trojan://Aimer@172.67.172.63:2087/?type=tcp&security=tls&sni=ameqo.esslh.file
-trojan://Aimer@172.67.65.113:2083/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@172.67.68.56:2096/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B561%40oneclickvpnkeys
