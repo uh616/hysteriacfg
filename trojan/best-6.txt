@@ -209,6 +209,7 @@ trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443/?type=tcp&securi
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443/?type=ws&path=%2FhV829BTVzg35A6ueyyZnWd&security=tls&sni=bBbNmKl.TAIwAn2028.IndEvs.In#%F0%9F%8F%81RELAY-172.67.175.152-0935
 trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1&fp=chrome#https%3A%2F%2Ft.me%2Fallproconf
 trojan://5fb072e0ddd631cf66cf752b09210480@153.121.38.213:276/?type=tcp&security=tls&sni=www.nintendogames.net#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-762
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.1#4Sarina-3772
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.106.99:3901/?type=tcp&security=tls&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.17:544/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.214.104:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0900
@@ -692,4 +693,3 @@ trojan://Aimer@167.68.4.199:2053/?type=ws&path=%2F&security=tls&sni=epge.muarua.
 trojan://Aimer@167.68.4.223:2096/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@167.68.4.58:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@167.68.4.7:2053/?type=ws&host=ageph.ambercc.filegear-sg.mehttp%2F1.1&path=%2F&security=tls&sni=ageph.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@167.68.5.248:2087/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
