@@ -70,7 +70,7 @@ hy2://sTeki1$re5!8swohopro@hys9.freelines.net:443/?insecure=1&sni=google.com&obf
 hy2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#%E2%9A%934%40oneclickvpnkeys
 hysteria2://b96f116d-f578-4eaa-aedd-8fb138d3826c@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=0&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Osaka%20%5BBL%5D
 hysteria2://c7730b65-c3c7-44a6-b1be-9d72d36679d1@is.pddwdf.store:2374?insecure=1&sni=is.pddwdf.store&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#IS1%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#IR-%40V2rayAlpha--5
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:443?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%E2%98%BA%EF%B8%8F47%40oneclickvpnkeys
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@bored_vpn
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#@V2rayNG3
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=jnir.pichondan.com#@V2rayNG3
