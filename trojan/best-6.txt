@@ -1,3 +1,4 @@
+trojan://3723507166611775488@eternal-tadpole.boa152.lol:443/?type=tcp&security=tls&sni=eternal-tadpole.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@fitting-ox.boa152.lol:443/?type=tcp&security=tls&sni=fitting-ox.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@fleet-weevil.boa152.lol:443/?type=tcp&security=tls&sni=fleet-weevil.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@golden-krill.treefrog761.one:443/?type=tcp&security=tls&sni=golden-krill.treefrog761.one#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -115,10 +116,13 @@ trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@108.162.198.165:443/?type=tcp&secu
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443/?type=tcp&security=tls&sni=
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443/?type=tcp&security=tls&sni=ssp2.100896.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@172.67.153.59:443/?type=tcp&security=tls&sni=ssp1.100896.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@188.114.97.58:443/?type=tcp&security=tls&sni=
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@188.114.97.58:443/?type=tcp&security=tls&sni=ssp1.100896.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@198.41.220.125:443/?type=tcp&security=tls&sni=ssp2.100896.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.147.22:2052/?type=httpupgrade&host=www-domain.ua1.vless.sitespeedtest.net&path=
 trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.147.22:2052/?type=httpupgrade&host=www-domain.ua1.vless.sitespeedtest.net&path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560&security=tls&sni=www-domain.ua1.vless.sitespeedtest.net#%40Hope_Net-join-us-on-Telegram
 trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.148.22:2052/?type=httpupgrade&host=www-domain.ua1.vless.sitespeedtest.net&security=tls&sni=www-domain.ua1.vless.sitespeedtest.net#%40Hope_Net-join-us-on-Telegram
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.7.147:443/?type=tcp&security=tls&sni=
 trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.7.147:443/?type=tcp&security=tls&sni=44444444.HuanGShANG.DPDNs.oRG#%F0%9F%8F%81RELAY-104.21.7.147-0189
 trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.7.147:443/?type=tcp&security=tls&sni=44444444.HuanGShANG.DPDNs.oRG&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@172.67.214.21:443/?type=ws&path=%2F%2FtvowuLtlha3zxRV9PS&security=tls&sni=8fg.191268.xyz#%F0%9F%8F%81RELAY-172.67.214.21-3192
@@ -404,7 +408,6 @@ trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443/?type=tcp&securi
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
 trojan://8ecdaae7-1334-59a0-91e3-cdb9f315626f@162.159.137.232:443/?type=ws&host=www.ocean12.WorkER...&security=tls&sni=www.ocean12.WorkERs.dEv
 trojan://8QOe
-trojan://8r
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443/?type=ws&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%81RELAY-172.66.44.230-0621
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.47.26:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://90580010-d84f-11ef-8489-1239d0255272@15.204.234.166:443/?type=tcp&security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%40Hope_Net-join-us-on-Telegram
@@ -688,6 +691,3 @@ trojan://Aimer@172.64.33.144:443/?type=tcp&security=tls&sni=ngepz.ambercc.filege
 trojan://Aimer@172.64.33.69:2087/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B557%40oneclickvpnkeys
 trojan://Aimer@172.64.34.52:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.64.35.199:443/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@172.64.35.95:443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-172.64.35.95-1072
-trojan://Aimer@172.66.206.205:8443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@172.66.206.60:2087/?type=ws&host=epccj.ambercc.filegear-sg.me&path=%2F&security=tls&sni=epccj.ambercc.filegear-sg.me#59%F0%9F%8E%89%40oneclickvpnkeys
