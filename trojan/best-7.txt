@@ -691,4 +691,3 @@ trojan://blue2024@104.27.55.88:443/?type=ws&host=hb.lii2010.us.kg&security=tls&s
 trojan://blue2024@104.27.61.81:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.27.98.104:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@108.162.193.55:443/?type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=td.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@108.162.195.110:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
