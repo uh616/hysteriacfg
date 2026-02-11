@@ -2,7 +2,7 @@ hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@1.162.146.24:51057?insecure=1&sni=tw.
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@1.162.146.24:51373?insecure=1&sni=hkt.trojan.tel#🔒
 hy2://9a714ec6-40b8-4ab6-9e95-05846c812661@1.170.221.9:24231?insecure=1&sni=ddns.200566.xyz#🔒
 hy2://453D99CE-725A-4595-8E41-0661AB2C8FBB@1.36.166.125:1250?insecure=1#🔒
-hysteria2://dd7519c3-b4c6-4f24-80d9-434ae26675ed@1.6rguyesfdhvbz.uk:14030?insecure=0&obfs=salamander&obfs-password=salamander&sni=6rguyesfdhvbz.uk#%E6%97%A5%E6%9C%AC_021118256
+hysteria2://dd7519c3-b4c6-4f24-80d9-434ae26675ed@1.6rguyesfdhvbz.uk:14030?insecure=0&obfs=salamander&obfs-password=salamander&sni=6rguyesfdhvbz.uk#%E6%97%A5%E6%9C%AC_021123217
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052?insecure=1&sni=hk2.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052/?insecure=1&sni=hk2.xiaoliyu.us#hk2%40oneclickvpnkeys
 hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&amp;sni=google.com#Hysteria
@@ -15,10 +15,9 @@ hy2://148097c2-cd69-4015-992f-5939c08b9ab8@103.241.65.25:443?mport=22000-22999#�
 hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
 hy2://9d765687-536c-4626-a2e2-6a403219e381@103.253.36.252:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
 hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@103.62.49.132:50000?sni=www.bing.com&insecure=1#JP
-hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@103.62.49.132:55000?insecure=1&sni=fastcdn.hoyoverse.com&mport=55000-56000#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2016
 hy2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=google.com#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443/?insecure=1&amp;sni=google.com#Hysteria
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@103.75.117.242:24591?insecure=1&sni=hk1.shiyuandian.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20438699
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@103.75.117.242:24591?insecure=1&sni=hk1.shiyuandian.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20662547
 hy2://sysadmin.sysadmin@104.168.102.17:443?insecure=1#🔒
 hy2://910398c0493d2d9d@104.168.128.162:57635?insecure=1#🔒
 hy2://public.vahshiestmeow3@104.168.128.173:443?insecure=1&sni=google.com#🔒
@@ -36,7 +35,7 @@ hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443?sni=dxobg4azmk.g
 hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://sysadmin.sysadmin@107.172.5.215:443?insecure=1#🔒
 hy2://sysadmin.sysadmin@107.172.83.214:8443?insecure=1&sni=a.jcchen.cfd#🔒
-hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20235308
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20626147
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@107.175.34.118:10003?sni=US.1010520.shop#🔒
 hy2://sharecentrepro@107.175.54.114:4433?insecure=1&sni=#🔒
 hy2://sharecentrepro@107.175.54.114:4433/?insecure=1&sni=us.sharecentrepro.link#%40v2rayserverfreenet%20
@@ -81,7 +80,6 @@ hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@129.146.48.224:2052?insecure=1&sni=us
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@129.146.48.224:2052/?insecure=1&sni=us2.eyujichang.xyz#%40An0nymousteam-H8
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@129.146.62.112:52773?insecure=1&sni=ssrsub.h01.trojan.tel#🔒
 hy2://maniubi@129.148.33.28:60800?insecure=1&sni=www.bing.com#🔒
-hysteria2://f7a279b7-fe93-4410-b071-861682f7fc0e@129.148.39.249:20000?sni=www.bing.com&insecure=1#BR
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.36.216:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.37.121:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@129.150.38.200:23729?insecure=1#🔒
@@ -92,3 +90,4 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@129.150.55.250:2052?insecure=1&sni=xj
 hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@129.151.169.64:65535?sni=www.microsoft.com&insecure=1#ZA
 hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@129.151.193.163:50000?sni=www.microsoft.com&insecure=1#SE
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000?insecure=1&sni=www.apple.com#🔒
+hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒
