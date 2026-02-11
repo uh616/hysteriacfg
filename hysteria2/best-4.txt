@@ -1,4 +1,4 @@
-hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@158.179.214.33:50000?insecure=1&sni=fastcdn.hoyoverse.com&mport=50000-53000#%F0%9F%87%AA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%A5%BF%E7%8F%AD%E7%89%99%2005
+hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@158.179.214.33:50000?sni=fastcdn.hoyoverse.com&insecure=1#ES
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@158.180.69.174:52773?insecure=1&sni=h02.trojan.tel#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@158.180.69.229:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773?insecure=1&sni=h01.trojan.tel#%F0%9F%87%B0%F0%9F%87%B7%20Korea,%20Republic%20of%20-%20Chuncheon%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
@@ -21,13 +21,13 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052?insecure=1&sni=fr
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052/?insecure=1&sni=fr1.xiaoliyu.us#fr%40oneclickvpnkeys
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒
 hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com#🔒
-hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@167.234.222.167:50000?insecure=1&sni=fastcdn.hoyoverse.com&mport=50000-53000#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2003
+hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@167.234.222.167:50000?sni=fastcdn.hoyoverse.com&insecure=1#US
 hy2://sysadmin.sysadmin@167.234.249.46:444?insecure=1&sni=a.961229.xyz#🔒
 hy2://364e8db7a2d57e32@167.253.152.235:46600?insecure=1&sni=www.bing.com#🔒
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000/?insecure=1&amp;sni=bing.com#🎡68@oneclickvpnkeys
-hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@168.138.109.21:50000?insecure=1&sni=fastcdn.hoyoverse.com&mport=50000-53000#%F0%9F%87%A6%F0%9F%87%BA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2003
+hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@168.138.109.21:50000?sni=fastcdn.hoyoverse.com&insecure=1#AU
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@168.138.176.6:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
-hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@168.138.233.67:50000?insecure=1&sni=fastcdn.hoyoverse.com&mport=50000-53000#%F0%9F%87%A7%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%B7%B4%E8%A5%BF%2003
+hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@168.138.233.67:50000?sni=fastcdn.hoyoverse.com&insecure=1#BR
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@168.75.103.205:2025?insecure=1&sni=sbl1.eyujichang.xyz#🔒
 hy2://maniubi@168.75.65.36:60800?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi@168.75.65.36:60800/?insecure=1&sni=www.bing.com#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
