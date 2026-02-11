@@ -91,3 +91,4 @@ hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@129.151.169.64:65535?sni=www.mi
 hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@129.151.193.163:50000?sni=www.microsoft.com&insecure=1#SE
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000?insecure=1&sni=www.apple.com#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒
+hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.249.89:35000?insecure=1&sni=www.apple.com#🔒
