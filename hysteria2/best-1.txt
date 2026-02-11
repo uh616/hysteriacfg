@@ -18,7 +18,7 @@ hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@103.62.49.132:50000?insecure=1&
 hysteria2://0e11b147-194b-443b-9eb1-dd1a20264b6b@103.62.49.132:55000?insecure=1&sni=fastcdn.hoyoverse.com&mport=55000-56000#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2016
 hy2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=google.com#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443/?insecure=1&amp;sni=google.com#Hysteria
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@103.75.117.242:24591?insecure=1&sni=hk1.shiyuandian.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20483609
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@103.75.117.242:24591?insecure=1&sni=hk1.shiyuandian.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20438699
 hy2://sysadmin.sysadmin@104.168.102.17:443?insecure=1#🔒
 hy2://910398c0493d2d9d@104.168.128.162:57635?insecure=1#🔒
 hy2://public.vahshiestmeow3@104.168.128.173:443?insecure=1&sni=google.com#🔒
@@ -36,7 +36,7 @@ hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443?sni=dxobg4azmk.g
 hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://sysadmin.sysadmin@107.172.5.215:443?insecure=1#🔒
 hy2://sysadmin.sysadmin@107.172.83.214:8443?insecure=1&sni=a.jcchen.cfd#🔒
-hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20823741
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20235308
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@107.175.34.118:10003?sni=US.1010520.shop#🔒
 hy2://sharecentrepro@107.175.54.114:4433?insecure=1&sni=#🔒
 hy2://sharecentrepro@107.175.54.114:4433/?insecure=1&sni=us.sharecentrepro.link#%40v2rayserverfreenet%20
