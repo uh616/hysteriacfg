@@ -693,4 +693,3 @@ trojan://blue2024@108.162.195.161:443/?type=tcp&security=tls&sni=tb.promote.icu#
 trojan://blue2024@108.162.195.173:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@108.162.195.192:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@108.162.195.194:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@108.162.195.202:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
