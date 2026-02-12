@@ -1,4 +1,3 @@
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#%F0%9F%8E%B513%40oneclickvpnkeys
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.38.213:3093/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.38.213-0363
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.45.139:3169/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0375
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.144.208-5056
@@ -637,6 +636,7 @@ trojan://pUF+zmIw0QuRESBPLofx7eOj6Xc49@38.54.82.205:27877/?type=tcp&security=tls
 trojan://puwRcQ88qrtFVVxgvjamTCl9FI59TEgpy5q04rU21FhktFr53aoEZV7NIkIhcneaSRQXG5H8kiTUhu0xeS6zUZ5Rd3trhPeG3fbrEXOKWkUvO+UCOGSTdPtszTYxEhR4Wuos8L1kCwZldNB1irpxjrNnujNFBLf1KB+mZgFyS2c=
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=ws&amp;host=free-de-2.undef.network&amp;path=/f2fc2a1f&amp;security=tls&amp;sni=free-de-2.undef.network&amp;allowInsecure=1#💫24@oneclickvpnkeys
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=ws&host=free-de-2.undef.network&path=%2Ff2fc2a1f&security=tls&sni=free-de-2.undef.network&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9367
+trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=ws&host=free-de-2.undef.network&path=/f2fc2a1f&security=tls&sni=free-de-2.undef.network&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&amp;serviceName=&amp;authority=&amp;security=reality&amp;pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&amp;fp=chrome&amp;sni=www.amazon.com&amp;sid=803975&amp;spx=/#SCP|HK
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-119
 trojan://q5r6s7t8-9012-3bcd-4abc-5678abcdef90@104.21.25.190:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
