@@ -1,5 +1,3 @@
-trojan://3723507166611775488@nearby-hedgehog.boa152.lol:443/?type=tcp&security=tls&sni=nearby-hedgehog.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://3723507166611775488@organic-hare.boa152.lol:443/?type=tcp&security=tls&sni=organic-hare.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@oriented-terrier.boa152.lol:443/?type=tcp&security=tls&sni=oriented-terrier.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@pleased-airedale.boa152.lol:443/?type=tcp&security=tls&sni=pleased-airedale.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@pleased-slug.boa152.lol:443/?type=tcp&security=tls&sni=pleased-slug.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -488,7 +486,7 @@ trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&amp;secu
 trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls#%F0%9F%9F%A934%40oneclickvpnkeys
 trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&allowInsecure=1#🌐سرور
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&amp;security=tls&amp;allowInsecure=1#خرید
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&allowInsecure=1#🦚91@oneclickvpnkeys
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@hdfy8d1.cpi1.eu.org:443/?type=grpc&amp;serviceName=8bHUAD5IX0lC5KffvrsN6rqb&amp;security=tls&amp;sni=hdfy8d1.cpi1.eu.org&amp;alpn=h2&amp;fp=chrome#d4
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@mci.filna.cloud:443/?type=grpc&amp;serviceName=8bHUAD5IX0lC5KffvrsN6rqb&amp;security=tls&amp;sni=hdfy8c1.foriran.me&amp;alpn=h2&amp;fp=chrome#c2
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443/?type=tcp&security=tls&sni=iSaa1.PAGeS.DeV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -693,3 +691,5 @@ trojan://Aimer@172.67.172.63:2087/?type=tcp&security=tls&sni=ameqo.esslh.file
 trojan://Aimer@172.67.65.113:2083/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.67.68.56:2096/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B561%40oneclickvpnkeys
 trojan://Aimer@172.67.77.127:443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-172.67.77.127-1068
+trojan://Aimer@173.245.59.109:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-173.245.59.109-1397
+trojan://Aimer@173.245.59.128:443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
