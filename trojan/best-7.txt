@@ -1,3 +1,8 @@
+trojan://Aimer@172.67.65.113:2083/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@172.67.68.56:2096/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B561%40oneclickvpnkeys
+trojan://Aimer@172.67.77.127:443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-172.67.77.127-1068
+trojan://Aimer@173.245.59.109:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-173.245.59.109-1397
+trojan://Aimer@173.245.59.128:443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@173.245.59.202:2083/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-173.245.59.202-1077
 trojan://Aimer@173.245.59.203:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@176.124.223.133:2096/?type=tcp&security=tls&sni=epccj.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-176.124.223.133-1517
@@ -689,5 +694,3 @@ trojan://blue2024@108.162.195.161:443/?type=tcp&security=tls&sni=tb.promote.icu#
 trojan://blue2024@108.162.195.173:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@108.162.195.192:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@108.162.195.194:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@108.162.195.202:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@108.162.195.217:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
