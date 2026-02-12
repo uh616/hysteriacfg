@@ -1,3 +1,13 @@
+trojan://f0eb8c92ce8946aaba856569cff1a16b@142.202.48.220:443/?type=tcp&security=tls&sni=sherasheba.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+trojan://f0eb8c92ce8946aaba856569cff1a16b@sherasheba.com:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://f0ee7e4a-a550-3283-ba18-13cb6bbb7836@103.136.185.28:3516/?type=tcp&security=tls&sni=origin-a.akamaihd.net&allowInsecure=1#us
+trojan://f0ee7e4a-a550-3283-ba18-13cb6bbb7836@35.78.173.41:443/?type=tcp&security=tls&sni=upos-hz-mirrorakam.akamaized.net&allowInsecure=1#jp
+trojan://f0ee7e4a-a550-3283-ba18-13cb6bbb7836@43.206.140.0:443/?type=tcp&security=tls&sni=fastly.cdn.steampipe.steamcontent.com&allowInsecure=1#jp
+trojan://f0ee7e4a-a550-3283-ba18-13cb6bbb7836@52.34.94.52:443/?type=tcp&security=tls&sni=www.microsoft365.com&allowInsecure=1#us
+trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@103.224.182.251:443/?type=tcp&security=tls&sni=us1.jjzgy.live&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@sg2.jjzgy.live:443/?type=tcp&security=tls&sni=sg2.jjzgy.live&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz#%40Hope_Net-join-us-on-Telegram
+trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://f2191442-1436-3d79-801e-80d8de896c73@172.67.164.181:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id#%40V2rayNGVPN
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40manzariyeh_rasht%20%5B16%5D
@@ -94,14 +104,6 @@ trojan://mainssh-niwrhf87@95.179.246.122:443/?type=grpc&serviceName=trojangrpc&s
 trojan://mainssh-opoksjhh@172.67.73.39:443/?type=tcp&security=tls&sni=sg3tws.mainssh.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://McCPa4vups6yAdDbGokjPA@104.21.22.66:2096/?type=tcp&security=tls
 trojan://McCPa4vups6yAdDbGokjPA@172.67.203.79:2096/?type=ws&host=ge1.pandaservice.info&security=tls&sni=ge1.pandaservice.info&fp=chrome
-trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@de4.nnvpn.io:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9230
-trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@de4.nnvpn.io:443/?type=tcp&security=tls&sni=de4.nnvpn.io&alpn=h2%2Chttp/1.1#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9132
-trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@ee2.nnvpn.io:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-64
-trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@ee2.nnvpn.io:443/?type=tcp&security=tls&sni=ee2.nnvpn.io&alpn=h2%2Chttp/1.1&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-63
-trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@fi.nnvpn.io:443/?type=tcp&security=tls&sni=fi.nnvpn.io&alpn=h2%2Chttp/1.1#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-534
-trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@lv.nnvpn.io:443/?type=tcp&security=tls&sni=lv.nnvpn.io&alpn=h2%2Chttp/1.1#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-212
-trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@pl.nnvpn.io:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-392
-trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@ru2.nnvpn.io:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-4646
 trojan://mVaHDDWsvC@104.21.43.168:443/?type=tcp&security=tls&sni=us-ashburn.wealthpost.ca#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://n875vm39ii96@104.17.163.123:8443/?type=ws&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&alpn=http%2F1.1&fp=random#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://naEX%5Dg*qw%40MT&lFz@104.21.96.1:2087/?type=tcp&security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev#%40Hope_Net-join-us-on-Telegram
@@ -691,6 +693,3 @@ trojan://slch2024@185.238.228.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%
 trojan://slch2024@185.251.80.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.80.195-0657
 trojan://slch2024@185.251.81.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.81.195-0656
 trojan://slch2024@185.7.240.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.7.240.195-0690
-trojan://slch2024@188.164.158.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.158.195-0650
-trojan://slch2024@188.164.158.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.158.87-0754
-trojan://slch2024@188.164.159.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.159.195-0649
