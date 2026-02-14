@@ -709,7 +709,7 @@ hy2://9d765687-536c-4626-a2e2-6a403219e381@91.192.81.34:30103?insecure=1&sni=35a
 hy2://04979c3cfe2a7945@92.246.139.15:443?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=205ef172277d3292#🔒
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@92.5.59.208:30000/?insecure=1&amp;sni=bing.com#📟2@oneclickvpnkeys
 hy2://StormXVPN@93.127.222.197:443?obfs=salamander&obfs-password=https://t.me/StormXVPN&insecure=1&sni=www.google.com#🔒
-hy2://41aec03d-4345-4bff-9bab-69d36d80033c@94.103.3.40:2056/?insecure=1&sni=ru.eyucdn.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20908994
+hy2://41aec03d-4345-4bff-9bab-69d36d80033c@94.103.3.40:2056/?insecure=1&sni=ru.eyucdn.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20613778
 hy2://7bcb0e26-eb0a-4658-abfc-b808c3744c9d@94.131.122.35:53040?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=myket.ir#🔒
 hy2://9ijufI4LW_ehlst!Pho-@95.179.150.22:443?insecure=1&obfs=salamander&obfs-password=9ijufI4LW_ehlst%21Pho-&sni=google.com#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2095.179.150.22%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%20494ef
 hy2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443/?mport=20000-50000&sni=🔒
@@ -847,6 +847,7 @@ hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1002?security=tl
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
+hysteria2://e4543370-0591-45c5-ba43-14f53fd58b4c@twneko.jjxcloud.xyz:8443?sni=twneko.jjxcloud.xyz#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C3.5MB%2Fs
 hy2://ad90f973-ac78-4161-8601-28c44b37b34b@us-01.worldfirst.eu.org:44300/?insecure=1&sni=us-01.worldfirst.eu.org#us%40oneclickvpnkeys
 hysteria2://35295012-e8a6-4f7a-b372-9bb21b6cbc2b@us-ak.raygo01.top:30002?sni=us-ak.raygo01.top&insecure=0#US
 hysteria2://35295012-e8a6-4f7a-b372-9bb21b6cbc2b@us-ak1.smt001.top:30000?sni=us-ak1.smt001.top&insecure=0#US
