@@ -65,13 +65,13 @@ hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F9%40oneclickvpnkeys
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=🔒
-hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%E8%8D%B7%E5%85%B0_021418989
+hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%E8%8D%B7%E5%85%B0_021423942
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2056?security=tls&insecure=1&sni=hdlb1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2052/?insecure=1&sni=hdlb1.mangshe.xyz#%F0%9F%94%B028%40oneclickvpnkeys
 hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34006/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1#%40V2rayMiner
 hysteria2://67e1eb33-4ad4-4301-b066-38c4175ca5e6@hk.vvcloud.us.kg:443?security=tls&insecure=0&mport=20901-20999#MCI--%40V2ray_Alpha--07
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
-hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#%E9%A6%99%E6%B8%AF_021418309
+hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#%E9%A6%99%E6%B8%AF_021423283
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
