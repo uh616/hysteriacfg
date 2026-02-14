@@ -1,3 +1,6 @@
+trojan://blue2024@108.162.198.167:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@108.162.198.6:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@108.165.216.212:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://blue2024@108.165.216.88:443/?type=ws&host=tb.promote.icu&path=%2F%3Fed&security=tls&sni=b.promote.icu#%40Hope_Net-join-us-on-Tel
 trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=b.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@141.101.113.195:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
@@ -691,6 +694,3 @@ trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443/?type=tcp&securi
 trojan://f2191442-1436-3d79-801e-80d8de896c73@172.67.164.181:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id#%40V2rayNGVPN
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40manzariyeh_rasht%20%5B16%5D
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=tcp&security=tls&sni=vpn.stupidworld.web.id#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#%F0%9F%8E%B513%40oneclickvpnkeys
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.38.213:3093/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.38.213-0363
