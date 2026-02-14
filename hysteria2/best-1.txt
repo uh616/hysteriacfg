@@ -29,7 +29,7 @@ hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443?sni=dxobg4azmk.g
 hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://sysadmin.sysadmin@107.172.5.215:443?insecure=1#🔒
 hy2://sysadmin.sysadmin@107.172.83.214:8443?insecure=1&sni=a.jcchen.cfd#🔒
-hysteria2://0e1a66ab-5313-45b3-90e8-ab2a62ff1bdf@107.175.194.57:8882?sni=cn.bing.com&amp;alpn=h3&amp;insecure=1#RN-3T3天
+hysteria2://0e1a66ab-5313-45b3-90e8-ab2a62ff1bdf@107.175.194.57:8882?insecure=1&sni=cn.bing.com#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.1MB%2Fs
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@107.175.34.118:10003?sni=US.1010520.shop#🔒
 hy2://sharecentrepro@107.175.54.114:4433?insecure=1&sni=#🔒
 hy2://sharecentrepro@107.175.54.114:4433/?insecure=1&sni=us.sharecentrepro.link#%40v2rayserverfreenet%20
@@ -42,6 +42,7 @@ hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=109.104.152.89#%F0%9F%
 hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=ELiV2ray.Elena.expert#🇳🇱MTN-ELi
 hy2://0e2c8be1-f36b-477c-b808-8e429fa6357b@112.120.131.125:543/?insecure=1&amp;sni=hktv03.outleft-hy.xyz&amp;obfs=salamander&amp;obfs-password=YjcwMDNiMDhhZWU1OTU4MA==#🎡64@oneclickvpnkeys
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@112.120.54.171:443?mport=22000-22999#🔒
+hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇺🇸
 hy2://9a714ec6-40b8-4ab6-9e95-05846c812661@114.41.2.71:24231?insecure=1&sni=ddns.200566.xyz#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@118.163.179.137:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@118.163.179.137:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_137%20%40WangCai_8
