@@ -99,7 +99,7 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@130.61.135.188:30002?insecure=1&sni=w
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@130.61.24.219:2052?insecure=1&sni=de1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@130.61.24.219:2052/?insecure=1&sni=de1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%A9%F0%9F%87%AA
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@130.61.37.140:30001?insecure=1&sni=frankfurt1.nodes.lanmaoyun.icu#🔒
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%E5%BE%B7%E5%9B%BD%20%E9%BB%91%E6%A3%AE%E5%B7%9E%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%20%E2%80%94%20%E7%94%B2%E9%AA%A8%E6%96%87%E4%BA%91
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%92%9E2%40oneclickvpnkeys
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%92%9E2%40oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@130.61.84.98:2052?insecure=1&sni=flkf1.mangshe.xyz#🔒
 hy2://966b38ef-3d70-4d4e-8e0f-179bf6f5533a@130.61.92.212:443?insecure=1&sni=www.bing.com#🔒
@@ -727,7 +727,7 @@ hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2056?security=t
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2052/?insecure=1&sni=bl2.mangshe.xyz#%F0%9F%94%B04%40oneclickvpnkeys
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1001?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1002?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=🔒#%40vpnbaz%F0%9F%94%AE
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=🔒#%40Trick_mobil%20%232
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒
 hysteria2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882?hiddify=1&obfs=salamander&obfs-password=xYGLQEJbZmUz&sni=ramzinex.com&insecure=1#Ipv6%20Hysteria2
 hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#%E2%9A%933%40oneclickvpnkeys
@@ -756,7 +756,7 @@ hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhu
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2056?security=tls&insecure=1&sni=fhc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#%F0%9F%94%B020%40oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sni=flkf1.mangshe.xyz#%F0%9F%94%B03%40oneclickvpnkeys
-hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@flkf2.mangshe.xyz:2056?insecure=1&sni=flkf2.mangshe.xyz#@V2raysCollector
+hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@flkf2.mangshe.xyz:2056?insecure=1&sni=flkf2.mangshe.xyz#%E2%9A%A1Telegram%20%3D%20%40SOSkeyNET%20%232
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&sni=138.197.44.181#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20138.197.44.181%20%E2%97%88%20udp:46160%20%E2%97%88%20DigitalOcean%20/%20DigitalOcean%20%E2%97%88%2084a50
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F9%40oneclickvpnkeys
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--
@@ -815,7 +815,7 @@ hy2://@ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489@193.38.54.48:443/?sni=let-him
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&amp;sni=🔒#📟50@oneclickvpnkeys
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%E7%BE%8E%E5%9B%BD2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#美国2
-hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@mg5.mangshe.xyz:2056?insecure=1&sni=mg5.mangshe.xyz#@V2raysCollector
+hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@mg5.mangshe.xyz:2056?insecure=1&sni=mg5.mangshe.xyz#%E2%9A%A1Telegram%20%3D%20%40SOSkeyNET%20%233
 hysteria2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy1.xiaoliyu.us:2056?insecure=1&sni=mlxy1.xiaoliyu.us#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%F0%9F%8C%8B%40
 hy2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy1.xiaoliyu.us:2056/?insecure=1&sni=mlxy1.xiaoliyu.us#@Trick_mobil
 hysteria2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy2.xiaoliyu.us:2056?insecure=1&sni=mlxy2.xiaoliyu.us#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%86%D9%84%F0%9F%8C%8B%40...%20%231
@@ -829,7 +829,7 @@ hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG
-hysteria2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056?insecure=1&sni=ru.eyucdn.xyz#%F0%9F%AA%9D84%40oneclickvpnkeys
+hysteria2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056?insecure=1&sni=ru.eyucdn.xyz#%E2%9A%A1Telegram%20%3D%20%40SOSkeyNET%20%231
 hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#%3E%3E%40oneclickvpnkeys%3A%3ARU
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sb1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟10@oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sbl.mangshe.xyz:2056?security=tls&insecure=1&sni=sbl.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇧🇷%20BR%20down
