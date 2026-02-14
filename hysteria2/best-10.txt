@@ -64,6 +64,7 @@ hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1002?security=tl
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
+hysteria2://e4543370-0591-45c5-ba43-14f53fd58b4c@twneko.jjxcloud.xyz:8443?sni=twneko.jjxcloud.xyz#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C3.5MB%2Fs
 hy2://ad90f973-ac78-4161-8601-28c44b37b34b@us-01.worldfirst.eu.org:44300/?insecure=1&sni=us-01.worldfirst.eu.org#us%40oneclickvpnkeys
 hysteria2://35295012-e8a6-4f7a-b372-9bb21b6cbc2b@us-ak.raygo01.top:30002?sni=us-ak.raygo01.top&insecure=0#US
 hysteria2://35295012-e8a6-4f7a-b372-9bb21b6cbc2b@us-ak1.smt001.top:30000?sni=us-ak1.smt001.top&insecure=0#US
