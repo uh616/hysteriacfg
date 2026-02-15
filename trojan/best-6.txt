@@ -424,6 +424,8 @@ trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@hinet.mjt000.com:443/?type=tcp&sec
 trojan://9289873b-bdb1-43e7-86c2-5622ad5ce862@cdnfire.xiaomispeed.com:25502/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#https%3A%2F%2Ft.me%2Fallproconf
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443/?type=ws&host=md1.safecdn.site&path=%2FChannel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&security=tls&sni=md1.safecdn.site#%40Hope_Net-join-us-on-Telegram
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281/?type=tcp&amp;security=tls&amp;sni=www.nintendogames.net&amp;allowInsecure=1#🅿️55@oneclickvpnkeys
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🌐سرور
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281/?type=tcp&security=tls&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901/?type=tcp&security=tls&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@35.77.86.187:1281/?type=tcp&security=tls&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
@@ -696,4 +698,3 @@ trojan://Aimer@172.245.156.126:2053/?type=ws&host=ageph.ambercc.filegear-sg.meht
 trojan://Aimer@172.64.33.110:443/?type=ws&host=ngepo.ambercc.filegear-sg.mehttp%2F1.1&path=%2F&security=tls&sni=ngepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.64.33.144:443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.64.33.69:2087/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B557%40oneclickvpnkeys
-trojan://Aimer@172.64.34.52:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
