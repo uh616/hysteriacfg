@@ -1,3 +1,10 @@
+trojan://Aimer@162.159.44.236:443/?type=ws&host=ngepz.ambercc.filegear-sg.me&security=tls&sni=sage.ns.cloudflare.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@162.159.44.50:2087/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@162.159.44.78:2096/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@162.159.45.156:8443/?type=tcp&security=tls&sni=agepu.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@167.68.4.10:2096/?type=tcp&security=tls&sni=epccj.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.10-1556
+trojan://Aimer@167.68.4.131:8443/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.131-1435
+trojan://Aimer@167.68.4.199:2053/?type=ws&path=%2F&security=tls&sni=epge.muarua.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-0919
 trojan://Aimer@167.68.4.223:2096/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@167.68.4.58:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@167.68.4.7:2053/?type=ws&host=ageph.ambercc.filegear-sg.mehttp%2F1.1&path=%2F&security=tls&sni=ageph.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
@@ -695,9 +702,3 @@ trojan://blue2024@104.26.7.89:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%4
 trojan://blue2024@104.27.116.34:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.27.116.34:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.27.125.51:443/?type=ws&host=hb.lii2010.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.27.206.92:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.27.206.92:443/?type=tcp&security=tls&sni=tb.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.27.207.92:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.27.41.214:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.27.45.137:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.27.55.88:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
