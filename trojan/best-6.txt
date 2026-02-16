@@ -1,3 +1,8 @@
+trojan://3723507166611775488@95.111.217.55:443/?type=tcp&security=tls&sni=pumped-stingray.boa152.lol&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BAAU%28AzadNet.t.me%29
+trojan://3723507166611775488@allowed-primate.boa152.lol:443/?type=tcp&security=tls&sni=allowed-primate.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@ample-cockatoo.boa152.lol:443/?type=tcp&security=tls&sni=ample-cockatoo.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@boss-hound.boa152.lol:443/?type=tcp&security=tls&sni=boss-hound.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@concrete-buzzard.boa152.lol:443/?type=tcp&security=tls&sni=concrete-buzzard.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@correct-redbird.boa152.lol:443/?type=tcp&security=tls&sni=correct-redbird.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@devoted-starfish.boa152.lol:443/?type=tcp&security=tls&sni=devoted-starfish.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@eternal-tadpole.boa152.lol:443/?type=tcp&security=tls&sni=eternal-tadpole.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -691,9 +696,3 @@ trojan://Aimer@162.159.44.236:443/?type=ws&host=ngepz.ambercc.filegear-sg.me&sec
 trojan://Aimer@162.159.44.50:2087/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@162.159.44.78:2096/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@162.159.45.156:8443/?type=tcp&security=tls&sni=agepu.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@167.68.4.10:2096/?type=tcp&security=tls&sni=epccj.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.10-1556
-trojan://Aimer@167.68.4.131:8443/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.131-1435
-trojan://Aimer@167.68.4.199:2053/?type=ws&path=%2F&security=tls&sni=epge.muarua.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-0919
-trojan://Aimer@167.68.4.223:2096/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@167.68.4.58:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@167.68.4.7:2053/?type=ws&host=ageph.ambercc.filegear-sg.mehttp%2F1.1&path=%2F&security=tls&sni=ageph.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
