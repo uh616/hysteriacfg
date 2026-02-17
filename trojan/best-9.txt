@@ -401,7 +401,7 @@ trojan://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.177.109:443/?type=tcp&secur
 trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@guolicheng.cc:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://c4b5b500-d9f2-11ed-aa52-1239d0255272@172.64.145.223:443/?type=tcp&security=tls&sni=tr.test3.net#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://c4b5b500-d9f2-11ed-aa52-1239d0255272@172.64.145.223:443/?type=tcp&security=tls&sni=tr.test3.net&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@zzs.222856.xyz:443/?type=ws&security=tls&path=/ks4McWjhV7bXNC0BXGtJ&host=zzs.222856.xyz&sni=zzs.222856.xyz&alpn=http%2F1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://c558328b-eb46-424c-b9e0-574770f0b072@zzs.222856.xyz:443/?type=ws&security=tls&path=/ks4McWjhV7bXNC0BXGtJ&host=zzs.222856.xyz&sni=zzs.222856.xyz&alpn=http%2F1.1&allowInsecure=1#@v2rays_ha
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443/?type=tcp&security=tls&sni=customer-45-67-229-222.stark-industries.solutions#%F0%9F%87%B2%F0%9F%87%A9MD%28AzadNet.t.me%29
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443/?type=tcp&security=tls&sni=customer-77-91-72-197.stark-industries.solutions#%F0%9F%87%AD%F0%9F%87%BAHU%28AzadNet.t.me%29
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.38.151:443/?type=tcp&security=tls&sni=customer-95-164-38-151.stark-industries.solutions#%F0%9F%87%B3%F0%9F%87%B4NO%28AzadNet.t.me%29
