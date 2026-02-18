@@ -1,3 +1,8 @@
+hy2://y0qochAspE+u-HLfrip-@hys23.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2
+hy2://y0qochAspE+u-HLfrip-@hys231.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2-1
+hy2://4a52c165e81fa8fc@hys3.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=a16d0be0#irancpihys3
+hy2://f6e4b19a3110d19d@hys4.cpionline.us:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=eliv2ray.eliv2.top#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2066.135.28.59%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vivint%20Wireless,%20Inc.%20%E2%97%88%20a0d3c
+hy2://f6e4b19a3110d19d@hys4.cpionline.us:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%85%B0LL%20OPERATORS%20%20%20%F0%9F%94%B5%E2%9A%AA%F0%9F%94%B4%20%20%20%40V2RAYNPLUS%F0%9F%87%BA%F0%9F%87%B2
 hy2://f6e4b19a3110d19d@hys4.freelines.net:443?insecure=1&obfs=salamander&obfs-password=8c3ce17b&sni=google.com#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2066.135.28.59%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vivint%20Wireless,%20Inc.%20%E2%97%88%200de51
 hy2://f6e4b19a3110d19d@hys4.freelines.net:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%E2%9A%9C%EF%B8%8F5%40oneclickvpnkeys
 hy2://cih$phu-rlMofru7i4r9@hys6.freelines.net:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=cih%24phu-rlMofru7i4r9#irancpi_hys6
@@ -24,7 +29,9 @@ hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#@Tri
 hysteria2://2a1a0537-717c-402e-8e4f-7e81369997bd@jpzl2.stardad.lol:48512?security=tls&insecure=1&sni=https%3A%2F%2Fbing.com#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://f3182d97-8472-4433-8d75-7598d6978364@kaikaixinxin-ca.legeth.xyz:443?security=tls&insecure=0&mport=61001-61999&sni=kaikaixinxin-ca.legeth.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇨🇦%20CA%20down
 hysteria2://Telegram%3A%40KevinZakarian@kevin.iserver.store:8443?security=tls&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1#🆔v2rayngrit%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
+hysteria2://KevinZakarian@kevin.serverv.net:443?obfs=salamander&amp;obfs-password=KevinZakarian&amp;insecure=1#KevinVPN
 hysteria2://KevinZakarian@kevin.serverv.net:8443?&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=KevinZakarian#KevinVPN
+hysteria2://KevinZakaria…
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@kr.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2056?security=tls&insecure=1&sni=ld1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇬🇧%20GB%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2052/?insecure=1&sni=ld1.mangshe.xyz#%F0%9F%94%B02%40oneclickvpnkeys
@@ -43,6 +50,7 @@ hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG
+hysteria2://28c05d48e2f470d07a4c392c9bd43849@quran.mci.ai:443?security=tls&amp;insecure=0&amp;sni=quran.mci.ai#https://t.me/v2roay
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&amp;obfs=salamander&amp;obfs-password=khameniiko@smad@ret&amp;insecure=1&amp;sni=kotlet.arshiacomplus.dpdns.org#🇬🇧
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sb1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟10@oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sbl.mangshe.xyz:2056?security=tls&insecure=1&sni=sbl.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇧🇷%20BR%20down
