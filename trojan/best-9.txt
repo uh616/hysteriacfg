@@ -390,7 +390,7 @@ trojan://byDSOLVPDd@47.245.158.76:49147?security=reality&pbk=kC0ruZ1MPr6xJlqxtX0
 trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&amp;serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=play.google.com&amp;sid=848ecf47e1b2#@icv2ray
 trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=848ecf47e1b2&note=@FreeOnlineVPN#🇩🇪
 trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=848ecf47e1b2#@icv2ray
-trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80/?type=tcp&path=/#🔥Join+Telegram:@Farah_VPN🟣
+trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80/?type=tcp&path=/#@v2rays_ha
 trojan://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.177.109:443/?type=tcp&security=tls&sni=sssxXZAw.666461.xYz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@guolicheng.cc:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://c4b5b500-d9f2-11ed-aa52-1239d0255272@172.64.145.223:443/?type=tcp&security=tls&sni=tr.test3.net#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -478,3 +478,6 @@ trojan://f0ee7e4a-a550-3283-ba18-13cb6bbb7836@52.34.94.52:443/?type=tcp&security
 trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@103.224.182.251:443/?type=tcp&security=tls&sni=us1.jjzgy.live&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@sg2.jjzgy.live:443/?type=tcp&security=tls&sni=sg2.jjzgy.live&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://f2191442-1436-3d79-801e-80d8de896c73@172.67.164.181:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=tcp&security=tls&sni=vpn.stupidworld.web.id#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
