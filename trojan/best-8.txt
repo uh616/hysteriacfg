@@ -1,5 +1,3 @@
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:444/?type=tcp&security=tls&sni=
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:447/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:461/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.67:22006/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409/?type=tcp&security=tls&sni=
@@ -479,3 +477,5 @@ trojan://auto@108.162.195.154:443/?type=tcp&security=tls&sni=trojanfree-76s.page
 trojan://auto@108.162.195.159:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@108.162.195.202:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@108.162.195.209:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@108.162.195.217:443/?type=tcp&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
+trojan://auto@159.246.55.132:443/?type=tcp&security=tl...%20#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
