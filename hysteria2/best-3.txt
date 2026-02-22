@@ -1,5 +1,4 @@
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@142.93.39.217:10001?sni=uk.1010520.shop#🔒
-hysteria2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@143.47.32.143:35000?insecure=1&sni=www.lamer.com.hk#%F0%9F%93%A457%40oneclickvpnkeys
 hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@143.47.32.143:35000/?insecure=1&sni=www.lamer.com.hk#%3E%3E%40oneclickvpnkeys%3A%3AES
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052?insecure=1&sni=es1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052/?insecure=1&sni=es1.xiaoliyu.us#es%40oneclickvpnkeys
