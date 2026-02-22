@@ -1,9 +1,7 @@
-hy2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#%E2%9A%934%40oneclickvpnkeys
 hysteria2://b96f116d-f578-4eaa-aedd-8fb138d3826c@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=0&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Osaka%20%5BBL%5D
 hysteria2://0b81724c-ad85-4ece-9c83-1e3990d86a59@in-loc01.lada.mom:48801?sni=in-loc01.lada.mom#%F0%9F%87%AE%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8D%B0%E5%BA%A6%2001
 hysteria2://c7730b65-c3c7-44a6-b1be-9d72d36679d1@is.pddwdf.store:2374?insecure=1&sni=is.pddwdf.store&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#IS7%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 hysteria2://75193bef8d8fe82341e02dd083dc1399@dd.openaccessnode.com:989?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#%F0%9F%93%A438%40oneclickvpnkeys
-hysteria2://75193bef8d8fe82341e02dd083dc1399@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0&sni=dd.ircybersec.org#Telegram=
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#HP71%20%285%29
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@ConfigV2RayNG
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=jnir.pichondan.com#@FarazV2ray
@@ -61,7 +59,6 @@ hy2://1ea621651a6c247a@sh.netmh9.xyz:443?insecure=1&obfs=salamander&obfs-passwor
 hy2://1ea621651a6c247a@sh.netmh9.xyz:443/?obfs=salamander&obfs-password=d6da8047&insecure=1#3days
 hy2://rs3h2c9n8X@65.21.158.249:2096?obfs=salamander&obfs-password=Vk@l@b@shV&insecure=1#🔒
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sr1.mangshe.xyz:2056?security=tls&insecure=1&sni=sr1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
-hysteria2://1y4HweESOT@sss.ikun6.dpdns.org:27995?insecure=1&sni=azure.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.2MB%2Fs
 hysteria2://Telegram--
 hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?security=tls&amp;obfs=salamander&amp;obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&amp;insecure=1&amp;sni=teq.dport.top#@v2rayCrow
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1001?security=tls&insecure=0&sni=th.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
