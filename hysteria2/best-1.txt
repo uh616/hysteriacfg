@@ -87,4 +87,4 @@ hy2://f40ca239-4a76-4808-b56c-84d4e9969939@129.151.193.163:50000/?insecure=1&sni
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000?insecure=1&sni=www.apple.com#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.249.89:35000?insecure=1&sni=www.apple.com#🔒
-hysteria2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.151.251.122:35000?insecure=1&sni=www.lamer.com.hk#%F0%9F%93%A444%40oneclickvpnkeys
+hysteria2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.151.251.122:35000?insecure=1&sni=www.lamer.com.hk#%40Trick_mobil%20%232
