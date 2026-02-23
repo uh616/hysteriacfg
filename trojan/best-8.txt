@@ -1,7 +1,3 @@
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us02.trojanyyds.xyz:443/?type=tcp&security=tls&sni=us02.trojanyyds.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=
-trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:1256/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:347/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:406/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:444/?type=tcp&security=tls&sni=
@@ -272,7 +268,7 @@ trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443/?type=tcp&s
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.18.118.51:443/?type=tcp&security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.19.235.14:443/?type=tcp&security=tls&sni=
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.19.235.14:443/?type=tcp&security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&security=tls
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&security=tls#%F0%9F%87%B2%F0%9F%87%B3MN%28AzadNet.t.me%29
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@esjs.liangyuandiancloud.com:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@lu.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443/?type=tcp&security=tls&sni=CcCVfGTyU.89060004.Xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -439,7 +435,7 @@ trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us05.ssr.ee:443/?type=tcp&security
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us08.ssr.ee:443/?type=tcp&security=tls&sni=us08.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us10.ssr.ee:443/?type=tcp&security=tls&sni=us10.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9e308743-bc58-4109-b8a8-c2c686959c65@sdfgtyu.0h0.ccwu.cc:443/?type=tcp&amp;security=tls&amp;allowInsecure=1#⭐23@oneclickvpnkeys
-trojan://9e308743-bc58-4109-b8a8-c2c686959c65@sdfgtyu.0h0.ccwu.cc:443/?type=tcp&security=tls&allowInsecure=1#4Mohsen-4253
+trojan://9e308743-bc58-4109-b8a8-c2c686959c65@sdfgtyu.0h0.ccwu.cc:443/?type=tcp&security=tls&allowInsecure=1#4FreeIran-4248
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443/?type=tcp&security=tls&sni=m2rrrty.777219.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9yu6m5okr@104.21.50.5:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9yu6m5okr@172.67.198.177:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -452,8 +448,8 @@ trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@mci.filna.cloud:443/?type=grpc&amp
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443/?type=tcp&security=tls&sni=iSaa1.PAGeS.DeV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443/?type=tcp&security=tls&sni=iSaA1.paGes.DEv#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://aa424865-2762-404c-b767-66c9f98e026b@172.67.219.54:443/?type=tcp&security=tls&sni=4RrrrRrrrRrRRRtTtTTTtTYyyYYYyYYiIIIiiiiOooOOoOoOoooO.hUaNgdI2031.DPDnS.orG#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://adb13850-7e70-492e-85b2-01184801d587@166.88.130.226:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20425797
-trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20284026
+trojan://adb13850-7e70-492e-85b2-01184801d587@166.88.130.226:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20146407
+trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20536950
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443/?type=tcp&amp;security=tls&amp;allowInsecure=1#%F0%9F%AA%A282%40oneclickvpnkeys
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ACA
 trojan://adb13850-7e70-492e-85b2-01184801d587@us08.oportal.cc:443/?type=tcp&amp;security=tls&amp;allowInsecure=1#%F0%9F%AA%A297%40oneclickvpnkeys
@@ -481,3 +477,8 @@ trojan://auto@104.21.35.43:443/?type=tcp&security=tls&sni=esetsecuritylicense3.w
 trojan://auto@104.21.35.43:443/?type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.21.72.108:443/?type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.21.90.210:443/?type=tcp&security=tls...%20#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@104.26.9.160:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@104.27.206.92:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@104.27.207.92:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@108.162.195.148:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@108.162.195.154:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
