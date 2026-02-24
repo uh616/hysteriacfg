@@ -277,7 +277,7 @@ trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.133.248:443/?type=tcp&secur
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443/?type=tcp&security=tls#%F0%9F%87%BB%F0%9F%87%B3VN%28AzadNet.t.me%29
 trojan://58e0f26f-67c7-4d13-a90f-d31679097bc6@us2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&amp;security=tls&amp;sni=green2.cdntencentmusic.com#🇭🇰
-trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰
+trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#ЁЯЗнЁЯЗ░
 trojan://5A%7Cqwun(Ne*!6%7CQo@172.66.47.95:443/?type=tcp&security=tls&sni=joInMahdISeRVeR-71l.PAGEs.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://5a2c16f9@104.17.167.134:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://5a2c16f9@104.19.220.22:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -427,7 +427,7 @@ trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us05.ssr.ee:443/?type=tcp&security
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us08.ssr.ee:443/?type=tcp&security=tls&sni=us08.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us10.ssr.ee:443/?type=tcp&security=tls&sni=us10.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9e308743-bc58-4109-b8a8-c2c686959c65@sdfgtyu.0h0.ccwu.cc:443/?type=tcp&amp;security=tls&amp;allowInsecure=1#%E2%AD%9023%40oneclickvpnkeys
-trojan://9e308743-bc58-4109-b8a8-c2c686959c65@sdfgtyu.0h0.ccwu.cc:443/?type=tcp&security=tls&allowInsecure=1#@AkbarConfig👈کانفیگ
+trojan://9e308743-bc58-4109-b8a8-c2c686959c65@sdfgtyu.0h0.ccwu.cc:443/?type=tcp&security=tls&allowInsecure=1#@AkbarConfigЁЯСИ┌й╪з┘Ж┘Б█М┌п
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443/?type=tcp&security=tls&sni=m2rrrty.777219.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9yu6m5okr@104.21.50.5:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9yu6m5okr@172.67.198.177:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
