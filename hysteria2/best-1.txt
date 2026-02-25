@@ -88,4 +88,3 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@129.150.55.250:2052?insecure=1&sni=xj
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000?insecure=1&sni=www.apple.com#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.249.89:35000?insecure=1&sni=www.apple.com#🔒
-hysteria2://9345f815-6ab0-4504-97f8-17539662676a@129.151.251.122:35000?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2003
