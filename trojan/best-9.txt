@@ -1,3 +1,8 @@
+trojan://auto@159.246.55.132:443/?type=tcp&security=tl...%20#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+trojan://auto@162.159.133.85:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@162.159.136.232:8443/?type=tcp&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@162.159.44.148:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@162.159.44.154:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@162.159.44.159:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@162.159.44.202:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@172.64.35.148:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -398,7 +403,6 @@ trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&sni=t.me%252Fripao
 trojan://BxceQaOe@38.180.191.251:443/?type=tcp&amp;security=tls&amp;sni=t.me%2Fripaojiedian#📟76@oneclickvpnkeys
 trojan://BxceQaOe@43.198.101.173:45947/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@43.198.101.173:504/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@43.198.227.190:15363/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1#@AkbarConfig👈کانفیگ
 trojan://BxceQaOe@58.152.25.208:443?allowInsecure=1&sni=58.152.25.208&note=@FreeOnlineVPN#🇭🇰
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&amp;security=tls&amp;allowInsecure=1#香港
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
@@ -407,8 +411,6 @@ trojan://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.177.109:443/?type=tcp&secur
 trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@guolicheng.cc:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://c4b5b500-d9f2-11ed-aa52-1239d0255272@172.64.145.223:443/?type=tcp&security=tls&sni=tr.test3.net#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://c4b5b500-d9f2-11ed-aa52-1239d0255272@172.64.145.223:443/?type=tcp&security=tls&sni=tr.test3.net&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@zzs.222856.xyz:443/?type=ws&security=tls&path=/ks4McWjhV7bXNC0BXGtJ&host=zzs.222856.xyz&sni=zzs.222856.xyz&alpn=http%2F1.1&allowInsecure=1#@v2rays_ha
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@zzs.222856.xyz:443/?type=ws&security=tls&path=/ks4McWjhV7bXNC0BXGtJ&host=zzs.222856.xyz&sni=zzs.222856.xyz&alpn=http/1.1&allowInsecure=1#⚡Telegram
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443/?type=tcp&security=tls&sni=customer-45-67-229-222.stark-industries.solutions#%F0%9F%87%B2%F0%9F%87%A9MD%28AzadNet.t.me%29
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443/?type=tcp&security=tls&sni=customer-77-91-72-197.stark-industries.solutions#%F0%9F%87%AD%F0%9F%87%BAHU%28AzadNet.t.me%29
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.38.151:443/?type=tcp&security=tls&sni=customer-95-164-38-151.stark-industries.solutions#%F0%9F%87%B3%F0%9F%87%B4NO%28AzadNet.t.me%29
@@ -449,7 +451,6 @@ trojan://dbbfbbb0-56e5-11ed-bd9e-1239d0255272@104.21.21.147:443/?type=tcp&securi
 trojan://dc21bdbf-04c0-4a7e-8cb4-3d5af39ddf13@t1.teslacdn1.live:443/?type=tcp&security=tls&sni=t1.teslacdn1.live#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443/?type=ws&host=iiiiii9.HuANGShANg.uS.ci&path=%2FtSROScnWofV7ia41dH&security=tls&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%2F1.1#%40nekopingbot_194
 trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443/?type=ws&path=%2FtSROScnWofV7ia41dH&security=tls&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443/?type=ws&path=/tSROScnWofV7ia41dH&security=tls&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http/1.1&fp=chrome#⚡Telegram
 trojan://ddbe4c70-7a02-11ee-aef2-1239d0255272@15.204.240.119:443/?type=tcp&security=tls&sni=us1.test3.net#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://de5a47b3e2@198.244.252.93:443/?type=tcp&security=tls&sni=uk1.connecton.surf&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
 trojan://dee78410-ca13-11ed-852d-1239d0255272@179.61.251.158:443/?type=tcp&security=tls&sni=de-1.test3.net&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
@@ -480,7 +481,3 @@ trojan://eyJhZGQiOiIxOTQuODcuNjkuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9
 trojan://eyJhZGQiOiIxOTQuODcuNjkuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWM4ODNmOTktNzEwNS00ZTM5LTg3NmQtMTY3YzFhOTBmYmUwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyOTAyNSIsInBzIjoiSVItQFYycmF5X0FscGhhLTE0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://eyJhZGQiOiJ2dS1tdW1iYWktMDEudm5vZGUuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidnUtbXVtYmFpLTAxLnZub2RlLmluZm8iLCJpZCI6ImEwNDAwMWYzLTJkYmEtNDBlZC04YzJlLWQwYzc2NWQ5YWZhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MyIsInBzIjoiSVItQFYycmF5X0FscGhhLTEzIiwic2N5IjoiYXV0byIsInNuaSI6InZ1LW11bWJhaS0wMS52bm9kZS5pbmZvIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 trojan://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2k3aXA1a2JhZTdhLmxpYnJlb25lLmNvbSIsImlkIjoiY2M5YmUwOWUtYzA1ZS00ZjU0LTgzMWItOTY5ZWNiMTg1NjkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL25qYnZoZmd4ZGd0aGoiLCJwb3J0IjoiODA4MCIsInBzIjoiTUNJLUBWMnJheV9BbHBoYS0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==♾نامحدود
-trojan://eyJhZGQiOiJGTC5Nb24zdGVyLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUzNzgyYWU4LTc4ZjEtNDE4My1iM2JiLTUwYWNhZmZjYWE1ZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoiSVItQFYycmF5X0FscGhhLTEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://eyJhZGQiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiSVItQFYycmF5X0FscGhhLTExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://f0eb8c92ce8946aaba856569cff1a16b@142.202.48.220:443/?type=tcp&security=tls&sni=sherasheba.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
