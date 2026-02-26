@@ -35,7 +35,7 @@ trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?
 trojan://b80Iy90Fma@104.26.9.227:443/?type=tcp&security=tls&sni=usa03.rtx.al#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443/?type=tcp&security=tls&sni=ba24.ir#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443/?type=tcp&security=tls&sni=ba24.ir&allowInsecure=1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
-trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#@chatbuzz_serverbot
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36201/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://b9bb332d-5e0d-41af-adac-49362dde8661@hhhnmjk.191268.xyz:443/?type=ws&security=tls&sni=hhhnmjk.191268.xyz&host=hhhnmjk.191268.xyz&path=/QmR662lkasAQbt5Q2GkKGWRMg#%5BOpenRay%5D%20Dynamic-15713
 trojan://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443/?type=tcp&security=tls&sni=hdfy5persiaserverc1.afsharidempire.uk#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -400,13 +400,13 @@ trojan://BxceQaOe@13.115.229.23:445/?type=tcp&security=tls&sni=t.me%2Fripaojiedi
 trojan://BxceQaOe@13.192.185.89:9718/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://BxceQaOe@13.231.58.134:26378/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
+trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬
 trojan://BxceQaOe@38.180.191.251:443/?type=tcp&amp;security=tls&amp;sni=t.me%2Fripaojiedian#📟76@oneclickvpnkeys
 trojan://BxceQaOe@43.198.101.173:45947/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@43.198.101.173:504/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@58.152.25.208:443?allowInsecure=1&sni=58.152.25.208&note=@FreeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
+trojan://BxceQaOe@58.152.25.208:443?allowInsecure=1&sni=58.152.25.208&note=@FreeOnlineVPN#🇭🇰
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&amp;security=tls&amp;allowInsecure=1#香港
-trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
 trojan://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.177.109:443/?type=tcp&security=tls&sni=sssxXZAw.666461.xYz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@guolicheng.cc:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -440,7 +440,7 @@ trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2083/?type=tcp&securi
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&amp;security=tls&amp;sni=cdnfire.xiaomispeed.com&amp;allowInsecure=1#🇭🇰
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&amp;security=tls&amp;sni=cdnfire.xiaomispeed.com&amp;allowInsecure=1#🇸🇬
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬
 trojan://d4e41ff772c7fd45@23.247.137.70:3389/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://d4f4fb30-b95c-11ee-9937-1239d0255272@54.38.156.210:443/?type=tcp&security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://d76294c5-a31f-408d-ba0b-89880107cab5@5.75.152.12:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
@@ -457,7 +457,7 @@ trojan://de5a47b3e2@198.244.252.93:443/?type=tcp&security=tls&sni=uk1.connecton.
 trojan://dee78410-ca13-11ed-852d-1239d0255272@179.61.251.158:443/?type=tcp&security=tls&sni=de-1.test3.net&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://dns68@104.21.92.73:443/?type=tcp&security=tls&sni=trojan.putata.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://dQDQCtns4R@162.159.138.232:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir#🔥Join+Telegram:@Farah_VPN🟣
+trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir#🏁RELAY-104.21.44.185-4645
 trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://dTaXAtuoQF@185.143.235.200:443/?type=tcp&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7IR%28AzadNet.t.me%29
 trojan://dVqpmoYvWGuP@104.21.54.208:2087/?type=tcp&security=tls&sni=leader.andishehnegariran.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
