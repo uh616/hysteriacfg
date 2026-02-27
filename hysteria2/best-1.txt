@@ -87,3 +87,4 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@129.150.55.250:2052?insecure=1&sni=xj
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000?insecure=1&sni=www.apple.com#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.249.89:35000?insecure=1&sni=www.apple.com#🔒
+hy2://e169856c-7c19-4908-9bdf-448dc846163a@129.151.254.139:443?insecure=1&sni=www.bing.com#🔒
