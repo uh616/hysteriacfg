@@ -5,7 +5,6 @@ hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773/?insecure=1&sni=h
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
-hysteria2://81206489-BD9D-4916-B1F4-D1554689EEA5@160.16.104.77:443?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#%F0%9F%A5%BE60%40oneclickvpnkeys
 hysteria2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.143.152:443?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#%40Trick_mobil%20%232
 hy2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.143.152:443/?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#@Trick_mobil
 hysteria2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.208.122:443?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#%40Trick_mobil%20%233
@@ -87,3 +86,4 @@ hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.for
 hysteria2://a336317d-834f-4571-aca8-f9aa4a8b9d38@188.166.71.213:41086?insecure=1&sni=188.166.71.213&obfs=salamander&obfs-password=cBmQKpbjFLXRD00Gxam3OOklIs6#%40VPNFARDAD
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?insecure=1&sni=www.bing.com#🔒
+hy2://ffed9ff9-ec0f-4c97-854b-369e2931a777@192.124.176.87:9781?obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D&insecure=1#🔒
