@@ -21,6 +21,7 @@ hysteria2://zhangyang@130.61.50.75:6443?#%F0%9F%8D%AA4%40oneclickvpnkeys
 hy2://zhangyang@130.61.50.75:6443/#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@130.61.84.98:2052?insecure=1&sni=flkf1.mangshe.xyz#🔒
 hy2://966b38ef-3d70-4d4e-8e0f-179bf6f5533a@130.61.92.212:443?insecure=1&sni=www.bing.com#🔒
+hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@131.186.42.162:50000?insecure=1&sni=www.microsoft.com&mport=50000-53000#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2004
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052?insecure=1&sni=us1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052/?insecure=1&sni=us1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%BA%F0%9F%87%B2
 hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@132.145.28.17:65535?insecure=1&sni=www.microsoft.com#%F0%9F%87%AC%F0%9F%87%A7/%40en_vpn/%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
@@ -64,6 +65,7 @@ hy2://96cad374-7573-4463-8804-4665c2c3d932@140.245.55.241:5001?insecure=1&sni=d1
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.57.42:443?insecure=1&sni=www.bing.com#🔒
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@140.82.16.240:8080?sni=jp4.trojanws.xyz#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.84.168.166:443?insecure=1&sni=www.bing.com#🔒
+hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@140.84.178.54:50000?insecure=1&sni=www.microsoft.com&mport=50000-53000#%F0%9F%87%B2%F0%9F%87%BD%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%A2%A8%E8%A5%BF%E5%93%A5%2001
 hy2://4984806b-f0f9-4749-bdd5-ea38bd690270@141.11.125.225:17766?insecure=1#🔒
 hy2://bf88563e-86fc-4331-b165-1f85531b6c6a@141.11.217.113:8080?insecure=1&sni=www.bing.com#🔒
 hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@141.11.74.11:443?insecure=1&sni=us-hy2.org#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20141.11.74.11%20%E2%97%88%20udp:443%20%E2%97%88%20Landups%20Limited%20%E2%97%88%203c16e
@@ -88,4 +90,3 @@ hy2://b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:15090?insecure=1&sni=
 hy2://sysadmin.sysadmin@142.171.194.167:443?insecure=1#🔒
 hy2://4984806b-f0f9-4749-bdd5-ea38bd690270@142.171.30.222:19987?insecure=1#🔒
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@142.93.215.128:10001?sni=IN.1010520.shop#🔒
-hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@142.93.39.217:10001?sni=uk.1010520.shop#🔒
