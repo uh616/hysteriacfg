@@ -7,6 +7,8 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052?insecure=1&sni=h
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052/?insecure=1&sni=hk2.xiaoliyu.us#hk2%40oneclickvpnkeys
 hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&amp;sni=google.com#Hysteria
 hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@103.197.71.119:50000?insecure=1&sni=www.hoyoverse.com#HK12%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@103.197.71.97:50000?insecure=1&sni=www.hoyoverse.com&mport=50000-53000#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2002
+hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@103.197.71.98:50000?insecure=1&sni=www.hoyoverse.com&mport=50000-53000#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2001
 hy2://sysadmin.sysadmin@103.235.18.69:444?insecure=1&sni=tototel.dogpp.com#🔒
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@103.241.65.25:443?mport=22000-22999#🔒
 hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
@@ -85,6 +87,5 @@ hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.43.11:44300?insecure=1&sni=sg
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@129.150.46.132:30001?insecure=1&sni=main.nodes.lanmaoyun.icu#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.48.91:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@129.150.55.250:2052?insecure=1&sni=xjp3.mangshe.xyz#🔒
+hysteria2://cac966c1-b596-48ff-ab7c-6d58f8d6ca04@129.151.169.64:65535?insecure=1&sni=www.microsoft.com#%F0%9F%87%BF%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8D%97%E9%9D%9E%2001
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000?insecure=1&sni=www.apple.com#🔒
-hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒
-hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.249.89:35000?insecure=1&sni=www.apple.com#🔒
