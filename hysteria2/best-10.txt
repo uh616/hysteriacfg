@@ -89,6 +89,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp1.mangshe.xyz:2052/?insecure=1&sni
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#@Trick_mobil
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp3.mangshe.xyz:2052/?insecure=1&sni=xjp3.mangshe.xyz#%F0%9F%94%B038%40oneclickvpnkeys
 hysteria2://b96f116d-f578-4eaa-aedd-8fb138d3826c@xyhk34994.mggl.wang:35789?sni=xyhk34994.mggl.wang&insecure=0&allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%5BBL%5D
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%8C%8F13%40oneclickvpnkeys
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#%F0%9F%8C%8F13@oneclickvpnkeys
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@ynb.441122.xyz:443/?mport=40001-50000&insecure=1&sni=ynb.441122.xyz#%E2%99%BB%EF%B8%8F4%40oneclickvpnkeys
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@ynn.441166.xyz:443/?mport=40001-50000&insecure=1&sni=ynn.441166.xyz#%E2%99%BB%EF%B8%8F5%40oneclickvpnkeys
