@@ -74,7 +74,7 @@ trojan://blue2024@104.16.159.159:443?security=tls&sni=ta.promote.icu&type=ws&hos
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.159.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#US🇺🇸
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=tcp#🔒
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=tcp#🔒
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🩵+@Azarakhsh_Proxy+🩷
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&fp=safari&alpn=http%2F1.1#🔒
 trojan://NISHIKUITAN111@104.16.160.38:443?#🔒
 trojan://blue2024@104.16.160.4:443?sni=ta.promote.icu#🔒
@@ -85,8 +85,8 @@ trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&s
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=tcp#🔒
 trojan://bpb-trojan@104.16.193.133:443?sni=bpb.my79801.com#🔒
 trojan://NISHIKUITAN111@104.16.194.126:443?#🔒
-trojan://hp321456@104.16.197.19:443?path=/trII9RSBe2ThKBiV6r/UHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA==?ed=2560&host=hp71.pages.dev&type=ws&security=tls&sni=HP71.PAGes.DeV&fp=chrome&alpn=h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
-trojan://hp321456@104.16.197.19:2087?path=/trtbwJ2crKyymtBy0k/UHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA==?ed=2560&host=hp71.pages.dev&type=ws&security=tls&sni=Hp71.pAgeS.Dev&fp=chrome&alpn=h2,http/1.1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://hp321456@104.16.197.19:443?path=/trII9RSBe2ThKBiV6r/UHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA==?ed=2560&host=hp71.pages.dev&type=ws&security=tls&sni=HP71.PAGes.DeV&fp=chrome&alpn=h2,http/1.1#4Sarina-4586
+trojan://hp321456@104.16.197.19:2087?path=/trtbwJ2crKyymtBy0k/UHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA==?ed=2560&host=hp71.pages.dev&type=ws&security=tls&sni=Hp71.pAgeS.Dev&fp=chrome&alpn=h2,http/1.1#4Sarina-4585
 trojan://blue2024@104.16.20.118:443?sni=tb.promote.icu#🔒
 trojan://blue2024@104.16.208.241:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒
 trojan://blue2024@104.16.209.98:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒
@@ -97,7 +97,7 @@ trojan://NISHIKUITAN111@104.16.218.64:443?#🔒
 trojan://blue2024@104.16.219.82:443?sni=ta.promote.icu#🔒
 trojan://blue2024@104.16.22.141:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
 trojan://blue2024@104.16.221.250:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
-trojan://11fd7d06-a1fb-4a47-a490-e0a62d1e1c0e@104.16.223.200:443?path=/afrcloud4.mmv.kr/156.244.1.250:8443&security=tls&alpn=http/1.1&insecure=0&host=young-water-da76.shbanysrwsh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=young-water-da76.shbanysrwsh.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://11fd7d06-a1fb-4a47-a490-e0a62d1e1c0e@104.16.223.200:443?path=/afrcloud4.mmv.kr/156.244.1.250:8443&security=tls&alpn=http/1.1&insecure=0&host=young-water-da76.shbanysrwsh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=young-water-da76.shbanysrwsh.workers.dev#TG
 trojan://blue2024@104.16.223.254:443?security=tls&sni=hb.lii2010.us.kg&type=tcp&allowInsecure=1#🔒
 trojan://auto@104.16.224.104:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒
 trojan://NISHIKUITAN111@104.16.23.120:443?#🔒
@@ -284,13 +284,13 @@ trojan://91d237a0-8a03-11ee-b32f-1239d0255272@104.18.23.136:443?security=tls&sni
 trojan://NISHIKUITAN111@104.18.255.98:443?#🔒
 trojan://Telegram-DailyConfigs@104.18.3.11:2096?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir#🔒
 trojan://blue2024@104.18.31.239:443?sni=ta.promote.icu#🔒
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%3E%3E%40v2line%3A%3AFR
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20961385
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#2a36-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087?security=tls&sni=subhiddify.mmdv2.host&type=ws&host=subhiddify.mmdv2.host&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&type=ws&host=poORiaReD--PErsePOlIs.PagES.DEv#🔒
-trojan://1111@104.18.32.75:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://1111@104.18.32.75:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev#1
 trojan://bpb-trojan@104.18.34.21:2053?security=tls&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&fp=randomized&alpn=http/1.1#🔒
-trojan://1111@104.18.34.41:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev#🔥Join+Telegram:@Farah_VPN🟣
+trojan://1111@104.18.34.41:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev#5
 trojan://blue2024@104.18.35.253:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
 trojan://bpb-trojan@104.18.37.111:443?security=tls&sni=mindrOOm-5cz.pAgEs.dEV&type=ws&host=mindroom-5cz.pages.dev&path=%2FtrC8BM8bTsAF0AnLYL%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒
 trojan://blue2024@104.18.37.5:443?sni=ta.promote.icu#🔒
@@ -306,7 +306,7 @@ trojan://NISHIKUITAN111@104.18.58.44:443?#🔒
 trojan://humanity@104.18.6.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20318301
 trojan://blue2024@104.18.69.126:443?sni=ha.lii2010.us.kg#🔒
 trojan://humanity@104.18.7.147:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20759679
-trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#🔥Join+Telegram:@Farah_VPN🟣
+trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 trojan://blue2024@104.18.78.33:443?sni=td.promote.icu#🔒
 trojan://blue2024@104.18.79.171:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒
 trojan://bpb-trojan@104.18.8.215:443?security=tls&sni=fcspring.ggff.net&type=tcp#🔒
@@ -481,3 +481,4 @@ trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@104.21.60.120:443?security=tls&sni
 trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=%2F&fp=chrome#🔒
 trojan://blue2024@104.21.64.1:443?sni=ta.promote.icu&allowInsecure=0#🔒
 trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz#4Sarina-4522
+trojan://blue2024@104.21.66.241:443?sni=ta.promote.icu&allowInsecure=1#🔒
