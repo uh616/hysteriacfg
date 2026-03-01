@@ -1,3 +1,4 @@
+hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@143.47.56.230:35000?insecure=1&sni=www.lamer.com.hk&mport=35000-39000#%F0%9F%87%AA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%A5%BF%E7%8F%AD%E7%89%99%2001
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws.xyz#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.21.59.53:2052?insecure=1&sni=ld1.mangshe.xyz#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.22.132.212:2052?insecure=1&sni=sbl.mangshe.xyz#🔒
@@ -68,7 +69,7 @@ hy2://1bd496a4@154.16.27.143:5433?insecure=1&sni=www.bing.com#🔒
 hy2://1bd496a4@154.16.27.143:5433/?insecure=1&sni=ELiV2RAY.ELENA.expert#us-mci-eliv2ray
 hy2://sysadmin.sysadmin@154.201.76.131:444?insecure=1&sni=ss.wodeyumingliao.top#🔒
 hy2://sysadmin.sysadmin@154.23.175.126:6813?insecure=1#🔒
-hysteria2://CL8GvdZQ7RP4QLuT@154.36.179.18:54270?insecure=1&sni=ads.apple.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2010
+hysteria2://CL8GvdZQ7RP4QLuT@154.36.179.18:54270?sni=ads.apple.com&insecure=1#JP
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒
@@ -88,3 +89,4 @@ hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.101.4.24:443?security=tls&i
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@158.178.224.252:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@158.178.226.255:2052?insecure=1&sni=xjp1.mangshe.xyz#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@158.178.238.208:2052?insecure=1&sni=sg1.xiaoliyu.us#🔒
+hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@158.178.238.208:2052/?insecure=1&sni=sg1.xiaoliyu.us#sg%40oneclickvpnkeys
