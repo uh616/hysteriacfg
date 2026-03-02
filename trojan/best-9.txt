@@ -1,3 +1,8 @@
+trojan://auto@104.20.22.182:443/?type=tcp&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@104.20.22.31:443/?type=tcp&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@104.21.21.129:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@104.21.31.51:443/?type=tcp&security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@104.21.35.43:443/?type=tcp&security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.21.35.43:443/?type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.21.72.108:443/?type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.21.90.210:443/?type=tcp&security=tls...%20#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -484,10 +489,3 @@ trojan://e2afc128-ca51-39b6-897c-eb2649825df9@yn-zf.jiashumao.net:40375/?type=tc
 trojan://e30dbfd0-f15a-11ed-9080-1239d0255272@51.159.59.186:443/?type=tcp&security=tls&sni=fr.test3.net&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
 trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@104.21.14.54:443/?type=tcp&security=tls&sni=6666YHjU.777159.xYz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@172.67.157.220:443/?type=ws&host=6666yhju.777159.xyz&path=%2FdilyfCPEmLvYr5hYXD&security=tls&sni=6666YHjU.777159.xYz&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://e4f288433b@54.36.173.159:443/?type=tcp&security=tls&sni=pol1.connecton.surf#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
-trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443/?type=tcp&security=tls&sni=app.soft10.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:443/?type=tcp&security=tls&sni=app.soft10.ir&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443/?type=tcp&security=tls&sni=dc1bf227.vf-8co.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@nnmki9.8pp.ccwu.cc:443/?type=ws&security=tls&sni=nnmki9.8pp.ccwu.cc&host=nnmki9.8pp.ccwu.cc&path=/8uSIAS1cIyvZXFAbvQEN#%5BOpenRay%5D%20Dynamic-15712
-trojan://er668@104.21.32.1:443/?type=tcp&security=tls&sni=kfjdi.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
