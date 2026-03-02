@@ -69,14 +69,14 @@ hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=4616
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org@freenettir#کانال
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=🔒
-hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%E8%8D%B7%E5%85%B0_030213883
+hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%E8%8D%B7%E5%85%B0_030218895
 hysteria2://fa553c20-9b2f-4e25-b675-3e0bfc2f4106@h-vn.csyx.xyz:443?insecure=1&sni=s0.awsstatic.com#%F0%9F%87%BB%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%B6%8A%E5%8D%97%2004
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2056?security=tls&insecure=1&sni=hdlb1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2052/?insecure=1&sni=hdlb1.mangshe.xyz#%F0%9F%94%B028%40oneclickvpnkeys
 hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34006/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1#%40V2rayMiner
 hysteria2://67e1eb33-4ad4-4301-b066-38c4175ca5e6@hk.vvcloud.us.kg:443?security=tls&insecure=0&mport=20901-20999#MCI--%40V2ray_Alpha--07
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
-hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#%E9%A6%99%E6%B8%AF_030213417
+hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#%E9%A6%99%E6%B8%AF_030218433
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
