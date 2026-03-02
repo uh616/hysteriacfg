@@ -71,6 +71,7 @@ hy2://28c05d48e2f470d07a4c392c9bd43849@[2a0d:5940:44:301::]:443?sni=jostar-data.
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a0e:6a80:3:38c:0:1:2ef0:ff2a]:25002?insecure=1&sni=www.bing.com#🔒
 hy2://6d853bb9@[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631?insecure=1&sni=2a0e:dc0:5:2264:a:b:220e:a5c9#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a0f:5707:aaf1:122d:0:1:2b27:ef20]:25002?insecure=1&sni=www.bing.com#🔒
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:4d5b::1]:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#%F0%9F%90%BB58@oneclickvpnkeys
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@[2a11:840:67:1b::f4c2:ccfa]:81?insecure=1#🔒
 hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=%45%4C%69%56%32%72%61%79.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪-@Free_V2rng
 hy2://81ea378b37931b23@[2a12:5940:72da::2]:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=vkvd127.mycdn.me#🔒
@@ -87,4 +88,3 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@35.77.94.152:30
 hysteria2://461e8622-46fb-40ee-9d4b-ceaed42161e4@37.114.60.196:40443/?insecure=1&sni=dxobg4azmk.gafnode.sbs#DE-MmdV2
 hy2://sysadmin.sysadmin@37.123.193.73:443?insecure=1#🔒
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@37.187.197.252:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA1
-hy2://3119106b-df7c-4a28-af3d-88af9dbea193@38.114.100.138:9988?insecure=1#🔒
