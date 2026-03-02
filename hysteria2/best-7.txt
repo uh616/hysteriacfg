@@ -1,7 +1,7 @@
 hy2://3119106b-df7c-4a28-af3d-88af9dbea193@38.114.100.138:9988?insecure=1#🔒
 hy2://3119106b-df7c-4a28-af3d-88af9dbea193@38.114.100.138:9988/?insecure=1#%E2%80%BC%EF%B8%8F3%40oneclickvpnkeys
 hysteria2://4c0064e3-3ad6-4c96-bf21-4eb7ea4bbcb5@38.181.76.213:8882?security=tls&insecure=1#WiFi-%40V2ray_Alpha-09
-hysteria2://kOBLfeljn9TgUArD@38.224.132.101:29810?insecure=1&sni=videos.apple.com#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2003
+hysteria2://kOBLfeljn9TgUArD@38.224.132.101:29810?sni=videos.apple.com&insecure=1#HK
 hy2://9974b6a7-9c0e-423b-a77b-87ac90465d81@38.242.215.250:11924?obfs=salamander&obfs-password=HxAZoyubMe5ADvIs&sni=con.shellcorp.ir#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?insecure=1&sni=du.wish.ml#🔒
 hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979/?insecure=1&amp;sni=www.bing.com#📟80@oneclickvpnkeys
