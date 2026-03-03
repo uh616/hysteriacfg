@@ -1,5 +1,3 @@
-hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@142.93.215.128:10001?sni=IN.1010520.shop#🔒
-hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@142.93.39.217:10001?sni=uk.1010520.shop#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052?insecure=1&sni=es1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052/?insecure=1&sni=es1.xiaoliyu.us#es%40oneclickvpnkeys
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws.xyz#🔒
@@ -89,3 +87,6 @@ hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@157.254.158.7:33133?sni=akile.nai3.cc
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.101.159.25:30075?insecure=1&sni=www.bing.com#🔒
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@158.101.25.115:52773?insecure=1&sni=ssrsub.h03.trojan.tel#🔒
 hysteria2://df77b09e-a079-4a2d-a382-c1e0dae18107@158.101.37.59:443?security=tls&insecure=1&mport=50000-53000&sni=www.bing.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.101.4.24:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
+hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@158.178.224.252:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@158.178.226.255:2052?insecure=1&sni=xjp1.mangshe.xyz#🔒
