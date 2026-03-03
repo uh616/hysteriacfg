@@ -14,7 +14,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&type=hysteria&mport&security=tls&sni=api.kermanshahi.org&alpn=h3&allowInsecure=0#『♨️
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2056?security=tls&insecure=1&sni=jd1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇦%20SA%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
-hysteria2://6d68ba2c-89b9-475d-a193-1cd65571e037@jnd.dabache.top:443?insecure=1&sni=jnd.dabache.top#%E6%9C%AA%E7%9F%A5_0303188102
+hysteria2://6d68ba2c-89b9-475d-a193-1cd65571e037@jnd.dabache.top:443?insecure=1&sni=jnd.dabache.top#%E6%9C%AA%E7%9F%A5_0303238154
 hysteria2://aa509a7e-18da-4461-a48c-2a39441c58d2@jp.sanmaojichang.com:21042?sni=jp.sanmaojichang.com&mport=21001-21999#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2009
 hysteria2://d43e0ff6-5dd7-46c9-974b-8a2a16ba4b57@jp.sanmaojichang.com:21592?sni=jp.sanmaojichang.com&mport=21001-21999#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2008
 hysteria2://2ae0e286-03ec-48ed-8675-6462e4860cb5@jp.sanmaojichang.com:21797?sni=jp.sanmaojichang.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2006
