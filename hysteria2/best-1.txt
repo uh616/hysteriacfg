@@ -24,7 +24,6 @@ hy2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com
 hy2://dongtaiwang.com@104.192.224.140:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x3%40oneclickvpnkeys
 hy2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#🔒
 hy2://dongtaiwang.com@104.192.224.141:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x4%40oneclickvpnkeys
-hysteria2://f95eeec4-01fd-44a7-9e12-b217f41af26e@104.238.220.106:50133?insecure=1&sni=apps.apple.com#US113%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://Telegram%3A%40KevinZakarian@104.36.86.57:8443?security=tls&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1&sni=Telegram+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN#🆔v2rayngrit%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@107.167.18.123:1743?sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%5BBL%5D
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@107.167.18.123:1743/?insecure=1&sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%5BBL%5D
@@ -117,7 +116,7 @@ hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@131.186.42.162:50000?insecure=1
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052?insecure=1&sni=us1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052/?insecure=1&sni=us1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%BA%F0%9F%87%B2
 hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@132.145.28.17:65535?insecure=1&sni=www.microsoft.com#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2001
-hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@132.145.52.10:65535?insecure=1&sni=www.microsoft.com#%F0%9F%93%806%40oneclickvpnkeys
+hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@132.145.52.10:65535?insecure=1&sni=www.microsoft.com#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2002
 hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com#%F0%9F%93%806@oneclickvpnkeys
 hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443?mport=20001-25000&sni=1.nodes.yljc.online#🔒
 hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443/?mport=20001-25000&sni=1.nodes.yljc.online#%E2%84%B9%EF%B8%8F2%40oneclickvpnkeys
@@ -141,4 +140,3 @@ hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@139.162.119.212:3
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@139.162.15.99:443?mport=40001-50000&insecure=1&sni=ynn.441166.xyz#🔒
 hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@139.185.32.100:50000?insecure=1&sni=www.hoyoverse.com#%F0%9F%87%A6%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%98%BF%E8%81%94%E9%85%8B%2002
 hysteria2://df77b09e-a079-4a2d-a382-c1e0dae18107@139.185.34.29:443?security=tls&insecure=1&mport=50000-53000&sni=www.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇦🇪%20AE%20down
-hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@139.185.34.29:50000?insecure=1&sni=www.hoyoverse.com#%F0%9F%87%A6%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%98%BF%E8%81%94%E9%85%8B%2001
