@@ -1,3 +1,4 @@
+trojan://auto@104.21.90.210:443/?type=tcp&security=tls...%20#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.26.9.160:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.27.206.92:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.27.207.92:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -471,7 +472,7 @@ trojan://de5a47b3e2@198.244.252.93:443/?type=tcp&security=tls&sni=uk1.connecton.
 trojan://dee78410-ca13-11ed-852d-1239d0255272@179.61.251.158:443/?type=tcp&security=tls&sni=de-1.test3.net&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://dns68@104.21.92.73:443/?type=tcp&security=tls&sni=trojan.putata.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://dQDQCtns4R@162.159.138.232:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir#%F0%9F%8F%81RELAY-104.21.44.185-4645
+trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir#🏁RELAY-104.21.44.185-4645
 trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://dTaXAtuoQF@185.143.235.200:443/?type=tcp&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%F0%9F%87%AE%F0%9F%87%B7IR%28AzadNet.t.me%29
 trojan://dVqpmoYvWGuP@104.21.54.208:2087/?type=tcp&security=tls&sni=leader.andishehnegariran.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -489,4 +490,3 @@ trojan://eed4a583-b20e-4787-bbdb-09018156e53f@nnmki9.8pp.ccwu.cc:443/?type=ws&se
 trojan://er668@104.21.32.1:443/?type=tcp&security=tls&sni=kfjdi.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://eyJhZGQiOiI0NS4yMDUuMC4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGF4MS5pYmdmdy50b3AiLCJpZCI6IjE5MWJhYmM1LTJhYWYtNGZlNS1hNTYzLWYxNDI0NGFlZmI0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmVudndzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 trojan://eyJhZGQiOiI5NC4yNDIuMjMwLjExOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGF4MS5pYmdmdy50b3AiLCJpZCI6IjE5MWJhYmM1LTJhYWYtNGZlNS1hNTYzLWYxNDI0NGFlZmI0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmVudndzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS0xMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-trojan://eyJhZGQiOiIxMDQuMjEuODMuMTE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMwMi5meGlhb21pLnNicyIsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiJJUi1AVjJyYXlfQWxwaGEtMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=♾نامحدود
