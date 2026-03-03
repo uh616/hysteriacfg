@@ -76,7 +76,6 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.184.241:
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@18.183.245.244:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_244%20%40wangcai_8
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#%40V2RAYROZ%20%F0%9F%90%A5%F0%9F%8C%B7
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#%F0%9F%8C%B194@oneclickvpnkeys
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F1%40oneclickvpnkeys
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@185.14.47.28:30024?insecure=1&sni=www.bing.com#🔒
@@ -88,5 +87,6 @@ hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salam
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052?insecure=1&sni=jp1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052/?insecure=1&sni=jp1.xiaoliyu.us#jp1%40oneclickvpnkeys
 hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.foriran.trade&obfs=salamander&obfs-password=Y7aunTuPJZBCfiDIm#🔒
-hysteria2://a336317d-834f-4571-aca8-f9aa4a8b9d38@188.166.71.213:41086?security=tls&amp;obfs=salamander&amp;obfs-password=cBmQKpbjFLXRD00Gxam3OOklIs6&amp;insecure=1&amp;sni=188.166.71.213#@darktunnelvip1
+hysteria2://a336317d-834f-4571-aca8-f9aa4a8b9d38@188.166.71.213:41086?security=tls&obfs=salamander&obfs-password=cBmQKpbjFLXRD00Gxam3OOklIs6&insecure=1&sni=188.166.71.213#@FarazV2ray
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒
+hy2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?insecure=1&sni=www.bing.com#🔒
