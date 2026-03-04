@@ -1,3 +1,5 @@
+hysteria2://a787462d-1184-460d-86af-b87ecc919383@jp.sanmaojichang.com:21872?insecure=1&sni=jp.sanmaojichang.com#JP105%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://946bbc43-9652-453e-af55-fa190e150c98@jp.sanmaojichang.com:21873?insecure=1&sni=jp.sanmaojichang.com#JP269%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://c923b0b6-ccdc-455e-805b-9002bf02fabc@jp.sanmaojichang.com:21874?insecure=1&sni=jp.sanmaojichang.com#JP134%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://37005cad-6733-4ac5-850d-79b6ea09fc96@jp.sanmaojichang.com:21875?insecure=1&sni=jp.sanmaojichang.com#JP48%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://946bbc43-9652-453e-af55-fa190e150c98@jp.sanmaojichang.com:21877?insecure=1&sni=jp.sanmaojichang.com#JP300%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
