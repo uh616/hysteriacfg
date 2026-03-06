@@ -1,3 +1,8 @@
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us02.trojanyyds.xyz:443/?type=tcp&security=tls&sni=us02.trojanyyds.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=
+trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:1256/?type=tcp&security=tls&sni=
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:347/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:406/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:444/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:447/?type=tcp&security=tls&sni=
@@ -9,7 +14,7 @@ trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80/?type=tcp&secu
 trojan://261ccd4c-425d-43a2-bf2a-59c3d1f02e94@v02.gutingting.com:30006/?type=tcp&security=tls&sni=
 trojan://261ccd4c-425d-43a2-bf2a-59c3d1f02e94@v02.gutingting.com:30054/?type=tcp&security=tls&sni=
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419/?type=tcp&security=tls&sni=www.nintendogames.net#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-1117
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-1100
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🐯104@oneclickvpnkeys
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-8.mielink-dns2.com:443/?type=tcp&security=tls&sni=
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443/?type=tcp&security=tls&sni=
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-ru-2.mielink-dns2.com:443/?type=tcp&security=tls&sni=
@@ -441,9 +446,9 @@ trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@mci.filna.cloud:443/?type=grpc&amp
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443/?type=tcp&security=tls&sni=iSaa1.PAGeS.DeV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443/?type=tcp&security=tls&sni=iSaA1.paGes.DEv#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://aa424865-2762-404c-b767-66c9f98e026b@172.67.219.54:443/?type=tcp&security=tls&sni=4RrrrRrrrRrRRRtTtTTTtTYyyYYYyYYiIIIiiiiOooOOoOoOoooO.hUaNgdI2031.DPDnS.orG#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-68
+trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#🐯05@oneclickvpnkeys
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-15586
-trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-699
+trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#🐯96@oneclickvpnkeys
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.58:443/?type=tcp&security=tls&sni=pjp5.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.96:443/?type=tcp&security=tls&sni=pjp6.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443/?type=tcp&security=tls&sni=pus2.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
@@ -478,9 +483,3 @@ trojan://auto@108.162.195.209:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#
 trojan://auto@108.162.195.217:443/?type=tcp&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
 trojan://auto@159.246.55.132:443/?type=tcp&security=tl...%20#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-trojan://auto@162.159.133.85:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@162.159.136.232:8443/?type=tcp&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@162.159.44.148:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@162.159.44.154:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@162.159.44.159:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@162.159.44.202:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
