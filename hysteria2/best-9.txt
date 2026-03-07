@@ -23,6 +23,8 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2052/?insecure=1&sni=
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc2.mangshe.xyz:2056?security=tls&insecure=1&sni=cc2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hysteria2://8568c610-7aaa-4819-a2a4-963becd1f2dd@ch.xn--ehqa22b.site:21255?sni=ch.xn--ehqa22b.site&insecure=0#CH
 hysteria2://dc2cb9a3-1997-481e-a05e-1281b86661e3@ch.xn--ehqa22b.site:21385?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%AD%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%91%9E%E5%A3%AB%2005
+hysteria2://f6ac9393-ba3e-4d3d-bdde-ba4b351715af@ch.xn--ehqa22b.site:21419?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.3MB%2Fs
+hysteria2://bfebea8b-c7ad-4825-8c67-b0041243ed6a@ch.xn--ehqa22b.site:21875?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.5MB%2Fs
 hysteria2://78f60a9f-ea03-4f5f-b287-7261b0cbabc8@ch.xn--ehqa22b.site:21898?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%AD%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%91%9E%E5%A3%AB%2004
 hysteria2://ee1f7400-b7cb-4776-9e85-497965dfde00@dailyshop.pharmaweb.info:8080?peer=buildcenter.pharmaweb.info&insecure=0&sni=buildcenter.pharmaweb.info&alpn=h3#temp500-singbox_hysteria2
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#DE
@@ -57,7 +59,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2052/?insecure=1&sn
 hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34006/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1#%40V2rayMiner
 hysteria2://67e1eb33-4ad4-4301-b066-38c4175ca5e6@hk.vvcloud.us.kg:443?security=tls&insecure=0&mport=20901-20999#MCI--%40V2ray_Alpha--07
 hysteria2://55a07d61-12a1-4afd-8fbf-135df9a7f9c1@hk.xn--ehqa22b.site:21387?sni=hk.xn--ehqa22b.site&insecure=0#HK
-hysteria2://862dc140-a973-4ed2-b5fe-c1831f62a086@hk.xn--ehqa22b.site:21412?sni=hk.xn--ehqa22b.site#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2005
+hysteria2://862dc140-a973-4ed2-b5fe-c1831f62a086@hk.xn--ehqa22b.site:21412?sni=hk.xn--ehqa22b.site#%40filembad
 hysteria2://8568c610-7aaa-4819-a2a4-963becd1f2dd@hk.xn--ehqa22b.site:21674?sni=hk.xn--ehqa22b.site#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2008
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#%E9%A6%99%E6%B8%AF_030723464
@@ -87,5 +89,3 @@ hysteria2://b96f116d-f578-4eaa-aedd-8fb138d3826c@iij.mggl.wang:35789?sni=iij.mgg
 hysteria2://55a07d61-12a1-4afd-8fbf-135df9a7f9c1@in.xn--ehqa22b.site:21658?sni=in.xn--ehqa22b.site#%F0%9F%87%AE%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8D%B0%E5%BA%A6%2002
 hysteria2://ddd7262a-5e2e-49f9-b757-8d9203517d8a@in.xn--ehqa22b.site:21848?sni=in.xn--ehqa22b.site&insecure=0#IN
 hysteria2://dc2cb9a3-1997-481e-a05e-1281b86661e3@in.xn--ehqa22b.site:21868?sni=in.xn--ehqa22b.site#%F0%9F%87%AE%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8D%B0%E5%BA%A6%2001
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@bored_vpn
