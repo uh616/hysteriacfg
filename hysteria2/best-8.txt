@@ -12,7 +12,7 @@ hy2://4e9ee29b39a28277@66.135.11.68:443/?obfs=salamander&obfs-password=13f7ba5f&
 hy2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&amp;obfs-password=8c3ce17b&amp;insecure=1&amp;sni=ELiV2RAY.eliv2.top
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=www.apple.com
 hysteria2://ilikecs123%21@66.154.127.121:443?insecure=1&sni=cloudcone.wolfmoss.top#8%E2%9A%9B%EF%B8%8F%40oneclickvpnkeys
-hysteria2://ilikecs123%21@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hysteria2://ilikecs123!@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#8⚛️@oneclickvpnkeys
 hy2://d45e4297-0e1c-4e61-86e3-a2d18d3c2a0e@66.220.29.134:26873?sni=us.legeth.cc#🔒
 hy2://KevinZakarian@66.23.198.26:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
 hy2://KevinZakarian@66.23.198.26:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
@@ -69,7 +69,7 @@ hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&in
 hy2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🔒
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
 hysteria2://dongtaiwang.com@89.144.35.25:33550?insecure=1&amp;sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%5BBL%5D
-hysteria2://dongtaiwang.com@89.144.35.34:43608?insecure=1&sni=apple.com#🌐سرور
+hysteria2://dongtaiwang.com@89.144.35.34:43608?insecure=1&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.2MB%2Fs
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052?insecure=1&sni=fr1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%B5%F0%9F%87%AD
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@89.168.53.138:2052?insecure=1&sni=bl2.mangshe.xyz#🔒
