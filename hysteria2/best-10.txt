@@ -55,7 +55,6 @@ hysteria2://dc2cb9a3-1997-481e-a05e-1281b86661e3@sg.xn--ehqa22b.site:21064?sni=s
 hysteria2://ddd7262a-5e2e-49f9-b757-8d9203517d8a@sg.xn--ehqa22b.site:21698?sni=sg.xn--ehqa22b.site#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2013
 hysteria2://dc2cb9a3-1997-481e-a05e-1281b86661e3@sg.xn--ehqa22b.site:21945?sni=sg.xn--ehqa22b.site#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2018
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg.zhenshihui.one:48489/#%40V2rayMiner
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@sg1.shiyuandian.shop:2056?insecure=1&sni=sg1.shiyuandian.shop#%F0%9F%87%B8%F0%9F%87%ACSG_7%7C1.2MB%2Fs
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
