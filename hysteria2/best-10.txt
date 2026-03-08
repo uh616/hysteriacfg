@@ -6,7 +6,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=t
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@azdeltaghalam7🌵
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2056?security=tls&insecure=1&sni=jd1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇦%20SA%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
-hysteria2://6d68ba2c-89b9-475d-a193-1cd65571e037@jnd.dabache.top:443?insecure=1&sni=jnd.dabache.top#%E6%9C%AA%E7%9F%A5_0308048159
+hysteria2://6d68ba2c-89b9-475d-a193-1cd65571e037@jnd.dabache.top:443?insecure=1&sni=jnd.dabache.top#%E6%9C%AA%E7%9F%A5_0308098214
 hysteria2://862dc140-a973-4ed2-b5fe-c1831f62a086@jp.xn--ehqa22b.site:21243?sni=jp.xn--ehqa22b.site#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2003
 hysteria2://c08dc37f-d9f5-4d40-896a-a8327cb24536@jp.xn--ehqa22b.site:21461?sni=jp.xn--ehqa22b.site#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2002
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
@@ -51,7 +51,6 @@ hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@sg-02.worldfirst.eu.org:44300/?insecu
 hysteria2://f81b6c87-113f-4346-9836-631f49b4aaf3@sg.xn--ehqa22b.site:21440?sni=sg.xn--ehqa22b.site#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2011
 hysteria2://862dc140-a973-4ed2-b5fe-c1831f62a086@sg.xn--ehqa22b.site:21882?sni=sg.xn--ehqa22b.site#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2013
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg.zhenshihui.one:48489/#%40V2rayMiner
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@sg2.shiyuandian.shop:30000?insecure=1&obfs=salamander&obfs-password=Faf%5Efv%23mQCMKxxSM&sni=sg2.shiyuandian.shop#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C3.1MB%2Fs
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
