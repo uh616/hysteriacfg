@@ -1,3 +1,4 @@
+trojan://auto@172.67.75.208:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@185.146.173.158:443/?type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram%40proxy%5C_mtm%2F%3Fed%3D2560&security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29
 trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram@proxy#🔒
 trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram@proxy_mtm%2F%3Fed%3D2560#🔒
