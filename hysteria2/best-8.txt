@@ -76,7 +76,7 @@ hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&in
 hy2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🔒
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
 hysteria2://dongtaiwang.com@89.144.35.25:33550?insecure=1&amp;sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%5BBL%5D
-hysteria2://dongtaiwang.com@89.144.35.34:43608?insecure=1&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AADE_1%7C3.3MB%2Fs
+hysteria2://dongtaiwang.com@89.144.35.34:43608?insecure=1&sni=apple.com#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.5MB%2Fs
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052?insecure=1&sni=fr1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%B5%F0%9F%87%AD
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@89.168.53.138:2052?insecure=1&sni=bl2.mangshe.xyz#🔒
