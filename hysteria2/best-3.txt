@@ -39,6 +39,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.205.14:30075?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.222.130:30075?insecure=1&sni=www.bing.com#🔒
 hysteria2://c76f08e20fb6368b@150.241.77.182:11122?security=tls&obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
+hysteria2://hysteria2_fastlane_qdx4o19um@150.241.79.106:443?insecure=1&sni=de2.h.fastlanehosting.ru#%F0%9F%8C%BC13%40oneclickvpnkeys
 hysteria2://germany_hysteria2_fastlane_wxue2k6d6:3Vbo9kzJszWmSzGIjnoytB2F98O023VD@150.241.79.106:1935?security=tls&amp;insecure=1&amp;sni=de2.h.fastlanehosting.ru#@darktunnelvip1
 hysteria2://hysteria2_fastlane_qdx4o19um:e6RGEpPpn2oiHxqlbReEFpJZr09OiVlb@150.241.79.106:1935/?insecure=1&amp;sni=de2.h.fastlanehosting.ru#🌼13@oneclickvpnkeys
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@150.66.12.23:443?mport=22000-22999#🔒
@@ -85,4 +86,3 @@ hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.101.4.24:443?security=tls&i
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@158.178.224.252:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@158.178.226.255:2052?insecure=1&sni=xjp1.mangshe.xyz#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@158.178.238.208:2052?insecure=1&sni=sg1.xiaoliyu.us#🔒
-hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@158.178.238.208:2052/?insecure=1&sni=sg1.xiaoliyu.us#sg%40oneclickvpnkeys
