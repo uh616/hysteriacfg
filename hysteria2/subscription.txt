@@ -30,7 +30,7 @@ hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443/?insecure=1&sni=
 hy2://sysadmin.sysadmin@107.172.5.215:443?insecure=1#🔒
 hy2://sysadmin.sysadmin@107.172.83.214:8443?insecure=1&sni=a.jcchen.cfd#🔒
 hysteria2://0b8a288c@107.174.181.241:65160?insecure=1&sni=en.snu.ac.kr#%40Trick_mobil
-hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20341288
 hysteria2://0e1a66ab-5313-45b3-90e8-ab2a62ff1bdf@107.175.194.57:8882?sni=cn.bing.com&amp;alpn=h3&amp;insecure=1#RN-3T3天
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@107.175.34.118:10003?sni=US.1010520.shop#🔒
 hy2://sharecentrepro@107.175.54.114:4433?insecure=1&sni=#🔒
@@ -102,7 +102,7 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@130.61.135.188:30002?insecure=1&sni=w
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@130.61.24.219:2052?insecure=1&sni=de1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@130.61.24.219:2052/?insecure=1&sni=de1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%A9%F0%9F%87%AA
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@130.61.37.140:30001?insecure=1&sni=frankfurt1.nodes.lanmaoyun.icu#🔒
-hy2://zhangyang@130.61.50.75:6443/
+hy2://zhangyang@130.61.50.75:6443/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972849
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@130.61.84.98:2052?insecure=1&sni=flkf1.mangshe.xyz#🔒
 hy2://966b38ef-3d70-4d4e-8e0f-179bf6f5533a@130.61.92.212:443?insecure=1&sni=www.bing.com#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052?insecure=1&sni=us1.eyujichang.xyz#🔒
@@ -187,7 +187,8 @@ hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.153.219:443?insecure=1&sni=www
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@144.24.79.114:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.93.108:2052?insecure=1&sni=cc1.mangshe.xyz#🔒
 hysteria2://hysteria2_fastlane_e4139zxuu@144.31.63.58:443?insecure=1&sni=de4.h.fastlanehosting.ru#%F0%9F%8C%BC66%40oneclickvpnkeys
-hysteria2://hysteria2_fastlane_e4139zxuu:v98M16cL2SxCumFUxZ6gwTRuniuT54lC@144.31.63.58:1935/?insecure=1&sni=de4.h.fastlanehosting.ru#🌼66@oneclickvpnkeys
+hysteria2://hysteria2_fastlane_e4139zxuu%3Av98M16cL2SxCumFUxZ6gwTRuniuT54lC@144.31.63.58:1935?sni=de4.h.fastlanehosting.ru&insecure=1#US
+hysteria2://hysteria2_fastlane_e4139zxuu%3Av98M16cL2SxCumFUxZ6gwTRuniuT54lC@144.31.63.58:1935/?insecure=1&sni=de4.h.fastlanehosting.ru#%F0%9F%8C%BC66@oneclickvpnkeys
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F2%40oneclickvpnkeys
 hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?insecure=1&sni=google.com#🔒
@@ -218,7 +219,8 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.205.14:30075?insecure=1&sni=w
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.222.130:30075?insecure=1&sni=www.bing.com#🔒
 hysteria2://c76f08e20fb6368b@150.241.77.182:11122?security=tls&obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://hysteria2_fastlane_81uqqeagr@150.241.78.128:443?insecure=1&sni=de3.h.fastlanehosting.ru#%F0%9F%8C%BC67%40oneclickvpnkeys
-hysteria2://hysteria2_fastlane_81uqqeagr:LepBwrE84qJQqGYctplZF35Z8cSmFDn6@150.241.78.128:1935/?insecure=1&sni=de3.h.fastlanehosting.ru#🌼67@oneclickvpnkeys
+hysteria2://hysteria2_fastlane_81uqqeagr%3ALepBwrE84qJQqGYctplZF35Z8cSmFDn6@150.241.78.128:1935?sni=de3.h.fastlanehosting.ru&insecure=1#SE
+hysteria2://hysteria2_fastlane_81uqqeagr%3ALepBwrE84qJQqGYctplZF35Z8cSmFDn6@150.241.78.128:1935/?insecure=1&sni=de3.h.fastlanehosting.ru#%F0%9F%8C%BC67@oneclickvpnkeys
 hysteria2://hysteria2_fastlane_qdx4o19um@150.241.79.106:443?insecure=1&sni=de2.h.fastlanehosting.ru#%F0%9F%8C%BC13%40oneclickvpnkeys
 hysteria2://germany_hysteria2_fastlane_wxue2k6d6:3Vbo9kzJszWmSzGIjnoytB2F98O023VD@150.241.79.106:1935?security=tls&amp;insecure=1&amp;sni=de2.h.fastlanehosting.ru#@darktunnelvip1
 hysteria2://hysteria2_fastlane_qdx4o19um%3Ae6RGEpPpn2oiHxqlbReEFpJZr09OiVlb@150.241.79.106:1935/?insecure=1&sni=de2.h.fastlanehosting.ru#%F0%9F%8C%BC13@oneclickvpnkeys
@@ -647,7 +649,7 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.96:3074
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Plaisir%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7h2%40oneclickvpnkeys
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1#62.210.124.146%3A22000
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%AA%B417@oneclickvpnkeys
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20977569
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@62.72.163.215:80?insecure=1#🔒
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=1&sni=www.bing.com#🔒
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@64.181.236.144:443?insecure=1&sni=www.bing.com#🔒
@@ -718,7 +720,6 @@ hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&in
 hy2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🔒
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
 hysteria2://dongtaiwang.com@89.144.35.25:33550?insecure=1&amp;sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%5BBL%5D
-hysteria2://dongtaiwang.com@89.144.35.34:43608?sni=apple.com&insecure=1#GB
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052?insecure=1&sni=fr1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%B5%F0%9F%87%AD
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@89.168.53.138:2052?insecure=1&sni=bl2.mangshe.xyz#🔒
@@ -770,7 +771,7 @@ hysteria2://tYVaOArhcupVmnYggzlDZOuxVceGOSUgpjNhrVkFXJpxmJWFoodlWDwYuFSLgbcoREqR
 hysteria2://e442664a-ff50#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@157.254.158.7:33133/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY?sni=akile.nai3.cc#🇺🇲@ELiV2ray
 hysteria2://a698c4a6-c3c9-11ee-9693-f23c91cfbbc9@f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com:443?sni=f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com&insecure=1&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%5BBL%5D
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?insecure=0&sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#8%7C%20HK
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2056?security=tls&insecure=1&sni=fhc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#%F0%9F%94%B020%40oneclickvpnkeys
