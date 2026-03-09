@@ -86,3 +86,4 @@ hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.48.91:44300?insecure=1&sni=sg
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@129.150.55.250:2052?insecure=1&sni=xjp3.mangshe.xyz#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000?insecure=1&sni=www.apple.com#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.242.47:35000?insecure=1&sni=www.apple.com#🔒
+hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.249.89:35000?insecure=1&sni=www.apple.com#🔒
