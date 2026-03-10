@@ -1,3 +1,6 @@
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@usa.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@usajs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443/?type=ws&path=
 trojan://27876_t7d7f4e3f@23.142.200.175:443/?type=tcp&security=tls
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=ws&path=
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.175.139:443/?type=tcp&security=tls&sni=
@@ -462,6 +465,3 @@ trojan://auto@172.67.213.48:443/?type=ws&host=esetsecuritylicense2.wawafec355.wo
 trojan://auto@172.67.75.208:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@185.146.173.158:443/?type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram%40proxy%5C_mtm%2F%3Fed%3D2560&security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29
 trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram@proxy#🔒
-trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram@proxy_mtm%2F%3Fed%3D2560#🔒
-trojan://auto@188.114.96.0:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@188.114.99.222:443/?type=tcp&security=tls&sni=migekehcode27.kiwaja6458.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
