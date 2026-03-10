@@ -45,7 +45,7 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.205.14:30075?insecure=1&sni=w
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.222.130:30075?insecure=1&sni=www.bing.com#🔒
 hysteria2://c76f08e20fb6368b@150.241.77.182:11122?security=tls&obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://hysteria2_fastlane_62hxzxhw6@150.241.78.128:443?insecure=0&sni=de3.h.fastlanehosting.ru#Telegram%3A%40config_proxy%20%F0%9F%98%8D%20%231
-hysteria2://hysteria2_fastlane_62hxzxhw6:gpjapMeYWiBsDR3KEun6DrwY0Is3gXay@150.241.78.128:1935?sni=de3.h.fastlanehosting.ru&insecure=0&allowInsecure=0#Telegram:@config_proxy
+hysteria2://hysteria2_fastlane_81uqqeagr%3ALepBwrE84qJQqGYctplZF35Z8cSmFDn6@150.241.78.128:1935?sni=de3.h.fastlanehosting.ru&insecure=1#SE
 hysteria2://hysteria2_fastlane_81uqqeagr:LepBwrE84qJQqGYctplZF35Z8cSmFDn6@150.241.78.128:1935/?insecure=1&sni=de3.h.fastlanehosting.ru#🌼67@oneclickvpnkeys
 hysteria2://germany_hysteria2_fastlane_m5o0jp14n@150.241.79.106:443?insecure=0&sni=de2.h.fastlanehosting.ru#Telegram%3A%40config_proxy%20%F0%9F%98%8D
 hysteria2://germany_hysteria2_fastlane_m5o0jp14n:z0DbuWO93ghrZg2Hn5Uk1HI7bjMPssbr@150.241.79.106:1935?sni=de2.h.fastlanehosting.ru&insecure=0&allowInsecure=0#Telegram:@config_proxy
