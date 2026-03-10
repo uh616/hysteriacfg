@@ -1,3 +1,4 @@
+trojan://27876_t7d7f4e3f@23.142.200.175:443/?type=tcp&security=tls
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=ws&path=
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.175.139:443/?type=tcp&security=tls&sni=
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.175.139:443/?type=tcp&security=tls&sni=cvFbghYU.859886.XYZ#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -464,4 +465,3 @@ trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.wo
 trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram@proxy_mtm%2F%3Fed%3D2560#🔒
 trojan://auto@188.114.96.0:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@188.114.99.222:443/?type=tcp&security=tls&sni=migekehcode27.kiwaja6458.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@188.114.99.81:443/?type=ws&host=mazq100za43.962dael.workers.dev&security=tls&sni=mazq100za43.962dael.workers.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
