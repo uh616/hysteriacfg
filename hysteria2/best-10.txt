@@ -43,6 +43,7 @@ hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2056?security=t
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2052/?insecure=1&sni=mm1.mangshe.xyz#%F0%9F%94%B034%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm2.mangshe.xyz:2056?security=tls&insecure=1&sni=mm2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm2.mangshe.xyz:2052/?insecure=1&sni=mm2.mangshe.xyz#%F0%9F%94%B030%40oneclickvpnkeys
+hysteria2://df1236a0-6caa-4078-96f2-88cd071c3970@my.xn--ehqa22b.site:21108?sni=my.xn--ehqa22b.site#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C1.3MB%2Fs
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh=TG
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG
@@ -78,9 +79,7 @@ hysteria2://ab602e02-624b-44f0-a51b-25ed53f70048@us.eaxeg.be:44110?hiddify=1&obf
 hy2://sharecentrepro@us.sharecentrepro.link:4433?insecure=1&sni=
 hy2://sharecentrepro@us.sharecentrepro.link:4433/#%F0%9F%9B%A1x%40oneclickvpnkeys
 hysteria2://e07e6bb4-1a55-4e5f-92c5-25585c9715b6@us.vvcloud.us.kg:443?security=tls&insecure=0&mport=20901-20999&sni=us.vvcloud.us.kg#🆔v2rayprotocol%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
-hysteria2://1f3a8f7a-ce7d-4005-81ba-44e03a0022aa@us.xn--ehqa22b.site:21209?sni=us.xn--ehqa22b.site&mport=21001-21999#%F0%9F%87%BA%F0%9F%87%B8US_15%7C1.5MB%2Fs
-hysteria2://df1236a0-6caa-4078-96f2-88cd071c3970@us.xn--ehqa22b.site:21604?sni=us.xn--ehqa22b.site#%F0%9F%87%BA%F0%9F%87%B8US_16%7C1.7MB%2Fs
-hysteria2://df1236a0-6caa-4078-96f2-88cd071c3970@us.xn--ehqa22b.site:21619?sni=us.xn--ehqa22b.site#%F0%9F%87%BA%F0%9F%87%B8US_7%7C2.6MB%2Fs
+hysteria2://df1236a0-6caa-4078-96f2-88cd071c3970@us.xn--ehqa22b.site:21604?sni=us.xn--ehqa22b.site#%F0%9F%87%BA%F0%9F%87%B8US_7%7C1.1MB%2Fs
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMiner
 hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
