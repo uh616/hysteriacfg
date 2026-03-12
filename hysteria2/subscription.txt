@@ -115,7 +115,9 @@ hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?security=t
 hy2://6ac9028082f11520@136.144.58.255:50288/?obfs=salamander&obfs-password=1f7caeaa&insecure=1#✅@RealMANI_IR
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20137.175.79.36%20%E2%97%88%20udp:8620%20%E2%97%88%20PEG%20TECH%20INC%20/%20Ni%20Ruhong%20%E2%97%88%2003b00
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-hysteria2://usa_hysteria2_fastlane_8f058mdni:MnvG1G7uEPzQXKinBIOyWPAwICrVq9x4@138.124.183.9:1935/?insecure=1&amp;sni=us1.h.smartaisupport.ru#📻87@oneclickvpnkeys
+hysteria2://usa_hysteria2_fastlane_8f058mdni@138.124.183.9:443?insecure=1&sni=us1.h.smartaisupport.ru#%F0%9F%93%BB87%40oneclickvpnkeys
+hysteria2://usa_hysteria2_fastlane_8f058mdni%3AMnvG1G7uEPzQXKinBIOyWPAwICrVq9x4@138.124.183.9:1935?sni=us1.h.smartaisupport.ru&insecure=1#US
+hysteria2://usa_hysteria2_fastlane_8f058mdni:MnvG1G7uEPzQXKinBIOyWPAwICrVq9x4@138.124.183.9:1935/?insecure=1&sni=us1.h.smartaisupport.ru#📻87@oneclickvpnkeys
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Clifton%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F8%40oneclickvpnkeys
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@138.2.111.116:30000/?insecure=1&amp;sni=bing.com#🎡61@oneclickvpnkeys
@@ -810,6 +812,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2056?security=tls&insecure=1&sni=jd1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇦%20SA%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
 hysteria2://6d68ba2c-89b9-475d-a193-1cd65571e037@jnd.dabache.top:443?insecure=1&sni=jnd.dabache.top#%E6%9C%AA%E7%9F%A5_0312238064
+hysteria2://b7d213b3-e039-4ffb-8a3e-278604c71cf3@jp.xn--ehqa22b.site:21047?sni=jp.xn--ehqa22b.site&mport=21001-21999#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.2MB%2Fs
 hysteria2://df1236a0-6caa-4078-96f2-88cd071c3970@jp.xn--ehqa22b.site:21350?sni=jp.xn--ehqa22b.site#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2004
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
@@ -865,8 +868,9 @@ hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?security=tl
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1001?security=tls&insecure=0&sni=th.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1002?security=tls&insecure=0&sni=th.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys
+hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150?insecure=1&sni=tr.xn--ehqa22b.site#%F0%9F%93%BB93%40oneclickvpnkeys
 hysteria2://524dcc20-caf6-4a93-b580-aa72f4e47a96@tr.xn--ehqa22b.site:21160?sni=tr.xn--ehqa22b.site&mport=21001-21999#%F0%9F%87%B9%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%9C%9F%E8%80%B3%E5%85%B6%2001
-hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150/?insecure=1&amp;sni=tr.xn--ehqa22b.site#📻93@oneclickvpnkeys
+hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150/?insecure=1&sni=tr.xn--ehqa22b.site#Telegram:@config_proxy
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
 hy2://ad90f973-ac78-4161-8601-28c44b37b34b@us-01.worldfirst.eu.org:44300/?insecure=1&sni=us-01.worldfirst.eu.org#us%40oneclickvpnkeys
