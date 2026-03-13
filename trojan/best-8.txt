@@ -1,3 +1,6 @@
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-ru-2.mielink-dns2.com:443/?type=tcp&security=tls&sni=
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-1.mielink-dns2.com:443/?type=tcp&security=tls&sni=
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-2.mielink-dns2.com:443/?type=tcp&security=tls&sni=
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-3.mielink-dns2.com:443/?type=tcp&security=tls&sni=
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-4.mielink-dns2.com:443/?type=tcp&security=tls&sni=
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-6.mielink-dns2.com:443/?type=tcp&security=tls&sni=
@@ -248,7 +251,6 @@ trojan://4c0064e3-3ad6-4c96-bf21-4eb7ea4bbcb5@38.181.76.213:8886/?type=tcp&secur
 trojan://4c205c81-5694-43fe-a287-af563a2ebc05@nhju.ae1autumn.indevs.in:443/?type=ws&path=
 trojan://4c205c81-5694-43fe-a287-af563a2ebc05@nhju.ae1autumn.indevs.in:443/?type=ws&path=%2FP23lDbkARo4gds7cXpDB5nO5&security=tls&sni=nhju.ae1autumn.indevs.in&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4c68fce6-2b72-4ab6-8dd4-8e07139e2b2e@15.235.163.26:443/?type=tcp&security=tls&sni=sgt1.sshocean.net&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
-trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443/?type=tcp&security=tls&sni=
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443/?type=tcp&security=tls&sni=zi.you.usdtvfk.top&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.18.118.51:443/?type=tcp&security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.19.235.14:443/?type=tcp&security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -465,6 +467,3 @@ trojan://auto@162.159.133.85:443/?type=tcp&security=tls&sni=trojanfree-76s.pages
 trojan://auto@162.159.136.232:8443/?type=tcp&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@162.159.44.148:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@162.159.44.154:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@162.159.44.159:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@162.159.44.202:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@172.64.35.148:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
