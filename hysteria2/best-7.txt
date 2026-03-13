@@ -1,3 +1,4 @@
+hy2://a2abd08c-bce1-436c-9008-4ba0ef210f6d@46.29.161.159:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://83d4edf5-8612-4b0f-8a82-33a211b3b179@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@46.29.161.228:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
@@ -93,4 +94,3 @@ hy2://KevinZakarian@66.23.198.29:8443?obfs=salamander&obfs-password=KevinZakaria
 hy2://KevinZakarian@66.23.198.30:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
 hy2://KevinZakarian@66.23.198.30:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
 hy2://KevinZakarian@66.23.198.31:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
-hy2://KevinZakarian@66.23.198.31:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
