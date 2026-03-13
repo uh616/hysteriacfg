@@ -65,6 +65,7 @@ hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1002?security=tl
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys
 hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150?insecure=1&sni=tr.xn--ehqa22b.site#%F0%9F%93%BB93%40oneclickvpnkeys
 hysteria2://524dcc20-caf6-4a93-b580-aa72f4e47a96@tr.xn--ehqa22b.site:21160?sni=tr.xn--ehqa22b.site&mport=21001-21999#%F0%9F%87%B9%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%9C%9F%E8%80%B3%E5%85%B6%2001
+hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@tr.xn--ehqa22b.site:21166?sni=tr.xn--ehqa22b.site&mport=21001-21999#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.6MB%2Fs
 hysteria2://43ddfbea-3378-4780-a01a-e8801a88b547@tr.xn--ehqa22b.site:21332?sni=tr.xn--ehqa22b.site&mport=21001-21999#%F0%9F%87%B9%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%9C%9F%E8%80%B3%E5%85%B6%2002
 hysteria2://e998e2a0-ce11-4475-bf5f-2de6e3dad046@tr.xn--ehqa22b.site:21677?sni=tr.xn--ehqa22b.site&mport=21001-21999#%F0%9F%87%B9%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%9C%9F%E8%80%B3%E5%85%B6%2003
 hysteria2://3418c21b-5f47-445f-9717-243625c803f2@tr.xn--ehqa22b.site:21827?sni=tr.xn--ehqa22b.site#%F0%9F%87%B9%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%9C%9F%E8%80%B3%E5%85%B6%2001
