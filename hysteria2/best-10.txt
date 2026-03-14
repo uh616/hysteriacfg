@@ -72,6 +72,7 @@ hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1001?security=tl
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1002?security=tls&insecure=0&sni=th.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys
 hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150?insecure=1&sni=tr.xn--ehqa22b.site#%F0%9F%93%BB93%40oneclickvpnkeys
+hysteria2://fe0fda62-79ff-467e-bef4-983322c1d21b@tw.ccwink.cc:30102?insecure=1&sni=tw.ccwink.cc#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C6.9MB%2Fs
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&amp;sni=bing.com#TW
 hysteria2://86bfdc9d-64b0-447b-9316-2e3cc8712690@uk01.nekocloud.top:65001?insecure=1&sni=buylite.music.apple.com&obfs=salamander&obfs-password=YxNSWNJUQkeKDiPc#%F0%9F%A7%BF19%40oneclickvpnkeys
 hysteria2://86bfdc9d-64b0-447b-9316-2e3cc8712690@uk01.nekocloud.top:65001/?insecure=1&obfs=salamander&obfs-password=YxNSWNJUQkeKDiPc&sni=buylite.music.apple.com#%F0%9F%A7%BF19@oneclickvpnkeys
