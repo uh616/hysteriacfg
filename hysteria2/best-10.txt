@@ -70,7 +70,7 @@ hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1002?security=tl
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys
 hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150?insecure=1&sni=tr.xn--ehqa22b.site#%F0%9F%93%BB93%40oneclickvpnkeys
 hysteria2://e998e2a0-ce11-4475-bf5f-2de6e3dad046@tr.xn--ehqa22b.site:21270?insecure=0&sni=tr.xn--ehqa22b.site#%E2%9A%A1Telegram%20-%20%40SOSkeyNET%20%237
-hysteria2://43ddfbea-3378-4780-a01a-e8801a88b547@tr.xn--ehqa22b.site:21314?sni=tr.xn--ehqa22b.site#Telegram%3A%40config_proxy%20%F0%9F%98%8D
+hysteria2://43ddfbea-3378-4780-a01a-e8801a88b547@tr.xn--ehqa22b.site:21314?insecure=0&sni=tr.xn--ehqa22b.site#%E2%9A%A1Telegram%20-%20%40SOSkeyNET%20%234
 hysteria2://e998e2a0-ce11-4475-bf5f-2de6e3dad046@tr.xn--ehqa22b.site:21677?insecure=0&sni=tr.xn--ehqa22b.site#%E2%9A%A1Telegram%20-%20%40SOSkeyNET%20%238
 hysteria2://3b31792b-59ec-498c-bb1b-a93061d1f0dd@tr.xn--ehqa22b.site:21731?insecure=0&sni=tr.xn--ehqa22b.site#%E2%9A%A1Telegram%20-%20%40SOSkeyNET%20%233
 hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150/?insecure=1&sni=tr.xn--ehqa22b.site#%F0%9F%93%BB93@oneclickvpnkeys
