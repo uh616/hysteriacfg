@@ -1,3 +1,4 @@
+hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@[2605:8340:0:b:a2e9:e4e1:3f0a:1]:443?insecure=1&sni=us-hy2.org#%E2%9A%939@oneclickvpnkeys
 hy2://KevinZakarian@[2606:a8c0:101:18::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
 hy2://KevinZakarian@[2606:a8c0:101:18::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
 hy2://KevinZakarian@[2606:a8c0:101:22::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
@@ -92,4 +93,3 @@ hy2://1f17cdf0578a2860@45.76.0.86:443?obfs=salamander&obfs-password=4b817757&ins
 hy2://1f17cdf0578a2860@45.76.0.86:443/?obfs=salamander&obfs-password=4b817757&insecure=1#CPI3
 hy2://f40b1e441addaec3@45.76.44.57:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@45.8.147.250:53038?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=mobile.ir#🔒
-hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@46.17.40.117:443?insecure=1&sni=music.apple.com#🔒
