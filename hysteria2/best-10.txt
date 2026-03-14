@@ -70,9 +70,9 @@ hysteria2://e998e2a0-ce11-4475-bf5f-2de6e3dad046@tr.xn--ehqa22b.site:21270?insec
 hysteria2://43ddfbea-3378-4780-a01a-e8801a88b547@tr.xn--ehqa22b.site:21314?insecure=0&sni=tr.xn--ehqa22b.site#%E2%9A%A1Telegram%20-%20%40SOSkeyNET%20%234
 hysteria2://e998e2a0-ce11-4475-bf5f-2de6e3dad046@tr.xn--ehqa22b.site:21677?insecure=0&sni=tr.xn--ehqa22b.site#%E2%9A%A1Telegram%20-%20%40SOSkeyNET%20%238
 hysteria2://3b31792b-59ec-498c-bb1b-a93061d1f0dd@tr.xn--ehqa22b.site:21731?insecure=0&sni=tr.xn--ehqa22b.site#%E2%9A%A1Telegram%20-%20%40SOSkeyNET%20%233
-hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150/?insecure=1&sni=tr.xn--ehqa22b.site#%F0%9F%93%BB93@oneclickvpnkeys
+hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150/?insecure=1&sni=tr.xn--ehqa22b.site#📻93@oneclickvpnkeys
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&amp;sni=bing.com#TW
-hysteria2://86bfdc9d-64b0-447b-9316-2e3cc8712690@uk01.nekocloud.top:65001/?insecure=1&amp;obfs=salamander&amp;obfs-password=YxNSWNJUQkeKDiPc&amp;sni=buylite.music.apple.com#🧿19@oneclickvpnkeys
+hysteria2://86bfdc9d-64b0-447b-9316-2e3cc8712690@uk01.nekocloud.top:65001/?insecure=1&obfs=salamander&obfs-password=YxNSWNJUQkeKDiPc&sni=buylite.music.apple.com#%F0%9F%A7%BF19@oneclickvpnkeys
 hy2://ad90f973-ac78-4161-8601-28c44b37b34b@us-01.worldfirst.eu.org:44300/?insecure=1&sni=us-01.worldfirst.eu.org#us%40oneclickvpnkeys
 hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@us-hy2.xlb8.eu.org:443?insecure=1&sni=us-hy2.org#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20141.11.74.11%20%E2%97%88%20udp:443%20%E2%97%88%201GSERVERS%20/%20Landups%20Limited%20%E2%97%88%204e6b7
 hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@us-hy2.xlb8.eu.org:443/?insecure=1&sni=us-hy2.org#%E2%9A%938%40oneclickvpnkeys
