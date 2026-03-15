@@ -1,3 +1,6 @@
+hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.1.18.178:2052?insecure=1&sni=us2.xiaoliyu.us#🔒
+hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.1.18.178:2052/?insecure=1&sni=us2.xiaoliyu.us#us%40oneclickvpnkeys
+hysteria2://95c2b673-d899-4ff4-a6c1-eafa74268a5e@166.1.18.244:26699?security=tls&insecure=1#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.164.181:2056?insecure=1&sni=bra1.xiaoliyu.us#🔒
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.164.187:2052?insecure=1&sni=us3.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒
@@ -6,7 +9,6 @@ hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr
 hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com#🔒
 hy2://sysadmin.sysadmin@167.234.249.46:444?insecure=1&sni=a.961229.xyz#🔒
 hy2://364e8db7a2d57e32@167.253.152.235:46600?insecure=1&sni=www.bing.com#🔒
-hysteria2://00a40f88-0900-4c29-9555-cf053a23071b@167.86.100.40:11801?insecure=1&sni=167.86.100.40&obfs=salamander&obfs-password=pGBT2RES32Gr7S8DQx#%40V2HUBIR
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000/?insecure=1&amp;sni=bing.com#🎡68@oneclickvpnkeys
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@168.138.176.6:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@168.75.103.205:2025?insecure=1&sni=sbl1.eyujichang.xyz#🔒
@@ -88,6 +90,3 @@ hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102?insecure=1&sni=du.wish.ml#🔒
 hy2://03e4fe32@193.123.95.157:31452?insecure=1&sni=www.bing.com#🔒
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&amp;insecure=1&amp;sni=hl01.mistea.top#🇬🇧
-hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&amp;sni=hl01.mistea.top#📟28@oneclickvpnkeys
-hy2://undefined@193.188.21.227:28188?insecure=1&sni=ir.ir.ir.speedtest.net.iririr.monster#🔒
-hy2://SaGzcLS4pP@193.233.115.211:443?obfs=salamander&obfs-password=3fhqoeu51pqm&insecure=1#hysteria2
