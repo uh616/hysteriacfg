@@ -336,7 +336,6 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.184.241:
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@18.183.245.244:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_244%20%40wangcai_8
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#%40V2RAYROZ%20%F0%9F%90%A5%F0%9F%8C%B7
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#%F0%9F%91%915@oneclickvpnkeys
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F1%40oneclickvpnkeys
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@185.14.47.28:30024?insecure=1&sni=www.bing.com#🔒
@@ -513,7 +512,6 @@ hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=%45%4C%69%56%32%7
 hy2://81ea378b37931b23@[2a12:5940:72da::2]:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=vkvd127.mycdn.me#🔒
 hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f809a60274316cdd&insecure=1&sni=www.google.com#🔒
 hysteria2://c05cbe97-937e-46bf-a12a-ba6c303ac85a@[2a13:edc0:21:c79e:6046:5ac5:d2a1:f453]:443?insecure=1&sni=www.bing.com#Telegram%3A%40config_proxy%20%F0%9F%98%8D%20%231
-hysteria2://c05cbe97-937e-46bf-a12a-ba6c303ac85a@[2a13:edc0:21:c79e:6046:5ac5:d2a1:f453]:30003/?insecure=1&sni=www.bing.com#Telegram:@config_proxy
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
@@ -755,7 +753,7 @@ hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@db1.mangshe.xyz:2056?insecure=1
 hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#DE
 hy2://sharecentrepro@de.sharecentrepro.link:4433?downmbps=1000&sni=de.sharecentrepro.link#%F0%9F%94%92%F0%9F%87%A9%F0%9F%87%AA%20DE%2051.68.169.215%20%E2%97%88%20udp:4433%20%E2%97%88%20OVH%20/%20Regxa%20%E2%97%88%2090b98
 hy2://%73%68%61%72%65%63%65%6E%74%72%65%70%72%6F@de.sharecentrepro.link:4433/#Free_V2rng
-hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927?insecure=1#de.xn--ehqa22b.site%3A21927
+hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927?insecure=1&sni=de.xn--ehqa22b.site#%F0%9F%9A%9C8%40oneclickvpnkeys
 hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927/?insecure=1&sni=de.xn--ehqa22b.site#%F0%9F%9A%9C8@oneclickvpnkeysvless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%F0%9F%9A%9C9@oneclickvpnkeysvless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F&security=none&type=ws#%F0%9F%9A%9C10@oneclickvpnkeysss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%F0%9F%9A%9C11@oneclickvpnkeysvless://d46f01f8-ce9a-4e1b-a4d6-1a4edb2332ad@144.31.14.130:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&security=reality&sid=dde66ef1&sni=store.steampowered.com&type=tcp#%F0%9F%9A%9C12@oneclickvpnkeysvless://b73855fb-2ec9-4039-935a-a206dda339f8@144.31.242.14:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zqpRqT4mXPEh8LEBDqSMmRRTrDT-pF6Idv2Z0NXGUCk&security=reality&sid=a1b223d4&sni=dk.darknet.run&type=tcp#%F0%9F%9A%9C13@oneclickvpnkeysvless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&security=reality&sid=1970a26157d7bf98&sni=nl.grizzlyvpn.work&type=tcp#%F0%9F%9A%9C14@oneclickvpnkeys
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟5@oneclickvpnkeys
 hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@debiantubelinux.space:443?obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW&sni=debiantubelinux.space#SMART
