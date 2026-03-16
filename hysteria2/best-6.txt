@@ -1,5 +1,3 @@
-hy2://de6eafd5-a11f-4e9c-b763-2d114fb97257@23.26.34.209:8080?insecure=1&sni=www.bing.com#🔒
-hy2://sysadmin.sysadmin@23.95.20.134:446?insecure=1#🔒
 hy2://18a720415df07a92@[2400:8a20:113:36::]:64321?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2401:b60:ffff:0:1:0:953c:8b7c]:20025?insecure=1&sni=www.bing.com#🔒
 hy2://96cad374-7573-4463-8804-4665c2c3d932@[2406:da14:536:647f:348d:e2a4:49b7:12ac]:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
@@ -49,6 +47,8 @@ hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@[2a11:840:67:1b::f4c2:ccfa]:81?insecu
 hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=%45%4C%69%56%32%72%61%79.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪-@Free_V2rng
 hy2://81ea378b37931b23@[2a12:5940:72da::2]:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=vkvd127.mycdn.me#🔒
 hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f809a60274316cdd&insecure=1&sni=www.google.com#🔒
+hysteria2://c05cbe97-937e-46bf-a12a-ba6c303ac85a@[2a13:edc0:21:c79e:6046:5ac5:d2a1:f453]:443?insecure=1&sni=www.bing.com#Telegram%3A%40config_proxy%20%F0%9F%98%8D%20%231
+hysteria2://c05cbe97-937e-46bf-a12a-ba6c303ac85a@[2a13:edc0:21:c79e:6046:5ac5:d2a1:f453]:30003/?insecure=1&sni=www.bing.com#Telegram:@config_proxy
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
@@ -91,3 +91,4 @@ hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@45.142.113.238:40443?sni=speedtest.re
 hysteria2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/?sni=speedtest.realityforus.com&insecure=0#%F0%9F%87%A9%F0%9F%87%AAHysteria2%2B%40Surfboardv2ray
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.144.2.154:52773?insecure=1&sni=ssrsub.h04.trojan.tel#🔒
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@45.144.2.154:52773/?insecure=1&sni=ssrsub.h04.trojan.tel#%E2%9A%935%40oneclickvpnkeys
+hy2://dongtaiwang.com@45.145.72.212:23520?insecure=1&sni=bing.com#🔒
