@@ -1,8 +1,3 @@
-hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#%E2%9A%933%40oneclickvpnkeys
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@ca-hy2.onetaplink.app:443?insecure=1&sni=hy2-ca.onetaplink.app#%E7%BE%8E%E5%9B%BD_0316185154
-hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2056?security=tls&insecure=1&sni=cc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2052/?insecure=1&sni=cc1.mangshe.xyz#%F0%9F%94%B040%40oneclickvpnkeys
-hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc2.mangshe.xyz:2056?security=tls&insecure=1&sni=cc2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hysteria2://ee1f7400-b7cb-4776-9e85-497965dfde00@dailyshop.pharmaweb.info:8080?peer=buildcenter.pharmaweb.info&insecure=0&sni=buildcenter.pharmaweb.info&alpn=h3#temp500-singbox_hysteria2
 hysteria2://8b39d955-b242-40f3-ba29-e558a9b7096b@db1.mangshe.xyz:2056?insecure=1&sni=db1.mangshe.xyz&obfs=none#Telegram%3A%40config_proxy%20%F0%9F%98%8D
 hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#DE
@@ -22,7 +17,7 @@ hysteria2://f593def0-fa12-4ff7-8857-85894fedcb5a@de.xn--ehqa22b.site:21731?insec
 hysteria2://e998e2a0-ce11-4475-bf5f-2de6e3dad046@de.xn--ehqa22b.site:21737?insecure=1&sni=de.xn--ehqa22b.site#DE4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://6e8aaa7f-56e4-451e-bb31-a9b2f8c8b38e@de.xn--ehqa22b.site:21816?insecure=1&sni=de.xn--ehqa22b.site#DE2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://f593def0-fa12-4ff7-8857-85894fedcb5a@de.xn--ehqa22b.site:21830?insecure=1&sni=de.xn--ehqa22b.site#DE27%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927?insecure=1&sni=de.xn--ehqa22b.site#%F0%9F%9A%9C8%40oneclickvpnkeys
+hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927?insecure=1#de.xn--ehqa22b.site%3A21927
 hysteria2://ff7393c0-e88a-4f93-afef-6e8151ebad53@de.xn--ehqa22b.site:21963?insecure=1&sni=de.xn--ehqa22b.site#DE29%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@de.xn--ehqa22b.site:21927/?insecure=1&sni=de.xn--ehqa22b.site#%F0%9F%9A%9C8@oneclickvpnkeys
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟5@oneclickvpnkeys
@@ -46,7 +41,7 @@ hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=4616
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=🔒#%40Trick_mobil%20%234
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=🔒
-hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%E8%8D%B7%E5%85%B0_031618927
+hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%E8%8D%B7%E5%85%B0_031700861
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2056?security=tls&insecure=1&sni=hdlb1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2052/?insecure=1&sni=hdlb1.mangshe.xyz#%F0%9F%94%B028%40oneclickvpnkeys
 hysteria2://f72fc7e7-f95c-4b67-9933-3d17af670102@helan.zuomomo.top:16666?sni=helan.zuomomo.top#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2006
@@ -86,9 +81,14 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=t
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@azdeltaghalam7🌵
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2056?security=tls&insecure=1&sni=jd1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇦%20SA%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
-hysteria2://6d68ba2c-89b9-475d-a193-1cd65571e037@jnd.dabache.top:443?insecure=1&sni=jnd.dabache.top#%E6%9C%AA%E7%9F%A5_0316188437
+hysteria2://6d68ba2c-89b9-475d-a193-1cd65571e037@jnd.dabache.top:443?insecure=1&sni=jnd.dabache.top#%E6%9C%AA%E7%9F%A5_0317008419
 hysteria2://aa98121d-728a-437c-a84f-99feb82a467f@jp.xn--ehqa22b.site:21108?insecure=1&sni=jp.xn--ehqa22b.site#JP7%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://9cf5c4ba-6939-40b2-a78a-98a582e233bc@jp.xn--ehqa22b.site:21118?insecure=1&sni=jp.xn--ehqa22b.site#JP9%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://b18a8d38-0005-415e-ad3a-fbdeaa7407c8@jp.xn--ehqa22b.site:21340?insecure=1&sni=jp.xn--ehqa22b.site#JP4%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://f593def0-fa12-4ff7-8857-85894fedcb5a@jp.xn--ehqa22b.site:21407?insecure=1&sni=jp.xn--ehqa22b.site#JP11%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
 hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@jp.xn--ehqa22b.site:21476?insecure=1&sni=jp.xn--ehqa22b.site#JP20%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://ff7393c0-e88a-4f93-afef-6e8151ebad53@jp.xn--ehqa22b.site:21520?insecure=1&sni=jp.xn--ehqa22b.site#JP5%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://727cd454-2df4-4ae9-9ad1-78f7d9823d30@jp.xn--ehqa22b.site:21522?insecure=1&sni=jp.xn--ehqa22b.site#JP12%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://6e8aaa7f-56e4-451e-bb31-a9b2f8c8b38e@jp.xn--ehqa22b.site:21556?insecure=1&sni=jp.xn--ehqa22b.site#JP6%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://e998e2a0-ce11-4475-bf5f-2de6e3dad046@jp.xn--ehqa22b.site:21761?insecure=1&sni=jp.xn--ehqa22b.site#JP10%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+hysteria2://ff7393c0-e88a-4f93-afef-6e8151ebad53@jp.xn--ehqa22b.site:21804?insecure=1&sni=jp.xn--ehqa22b.site#JP3%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
