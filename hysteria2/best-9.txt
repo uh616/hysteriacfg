@@ -2,7 +2,7 @@ hy2://f206702e@82.152.142.67:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.68:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.69:3341?insecure=1&sni=www.bing.com#🔒
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒
-hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@84.201.20.84:21927/?insecure=1&sni=de.xn--ehqa22b.site#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20587800
+hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@84.201.20.84:21927/?insecure=1&sni=de.xn--ehqa22b.site#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20201797
 hy2://03e4fe32@84.235.246.199:31452?insecure=1&sni=www.bing.com#🔒
 hy2://03e4fe32@84.235.248.145:31452?insecure=1&sni=www.bing.com#🔒
 hy2://4328e5a3-b325-4154-9e7d-508e16962e40@84.252.75.14:8443?insecure=1&sni=hy10.abyssvpn.com#🔒
