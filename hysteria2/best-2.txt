@@ -86,4 +86,3 @@ hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@142.93.215.128:10001?sni=IN.1010520.s
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@142.93.39.217:10001?sni=uk.1010520.shop#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052?insecure=1&sni=es1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052/?insecure=1&sni=es1.xiaoliyu.us#es%40oneclickvpnkeys
-hysteria2://6d31e562-2107-4531-bec5-5ed5b4af118c@143.47.56.230:35000?insecure=1&sni=www.lamer.com.hk&mport=35000-39000#%F0%9F%87%AA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%A5%BF%E7%8F%AD%E7%89%99%2001
