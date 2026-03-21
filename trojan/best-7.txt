@@ -86,7 +86,7 @@ trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:3052
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls#⚡
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#⚡
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@kr2.twincloud.xyz:443#Relay_🇰🇷KR-🇰🇷KR_89
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#Japan%20Klayer%20LLC
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=kuame.missionsec.us#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%20%40free4allvpn%20%231
 trojan://auto@kyree.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩
 trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443?type=tcp&allowInsecure=1#4Kian-3919
 trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?type=tcp&allowInsecure=1#4Kian-4511
@@ -94,7 +94,7 @@ trojan://2FlAxyOy3ScaC5xNOSFeRqZgASj73CpIlCYTE8p4DaBD3Rn3zXe9Y80uaZwD6K@levuior.
 trojan://auto@lewis.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩
 trojan://3555@link.5557.run:443?security=tls&headerType=none&type=tcp#HK🇭🇰
 trojan://ysStXdjqZJ@linux.seatech.ir:8080?security=tls&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE_Tel%3A%40shadowlinkserverrtrojan://6b0333aab4d046ebacc35e04f426cb82@hk01.shenzhouplus.cf:10005?security=tls&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0_Tel%3A%40shadowlinkserverrtrojan://6b0333aab4d046ebacc35e04f426cb82@sg01.shenzhouplus.cf:10005?security=tls&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8_Tel%3A%40shadowlinkserverrtrojan://cd27884b-c5af-34ec-b75f-8248077818fe@c.mg.us.cat77.cloud:8646?security=tls&headerType=none&type=tcp&sni=c.mg.us.cat77.cloud#%F0%9F%87%BA%F0%9F%87%B8_Tel%3A%40shadowlinkserverrtrojan://shefelnak@185.16.206.212:443?security=tls&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7_Tel%3A%40shadowlinkserverrtrojan://Sp3eDVp@185.212.200.75:443?security=tls&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1_Tel%3A%40shadowlinkserverrtrojan://4cfb5b98-5a9d-4c6d-8911-25deca297fa1@air-amsterdam13.900513.xyz:7758?security=tls&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1_Tel%3A%40shadowlinkserverrtrojan://123456@trojan-ctb-sg01.globalssh.xyz:443?security=tls&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC_Tel%3A%40shadowlinkserverrtrojan://0c6a3341e8d5ab17@103.172.116.214:3389?security=tls&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC_Tel%3A%40shadowlinkserverrtrojan://Lutsyy96g9@new.viporg12345.info:17742?security=tls&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7_Tel%3A%40shadowlinkserverr
-trojan://BWDcALS5TU@lllliraniv2rayllll.norooz.shop:2083?security=tls&amp;sni=lllliraniv2rayllll.norooz.shop&amp;alpn=h3,h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=iraniV2ray&amp;mode=multi#Tel:iraniV2ray
+trojan://BWDcALS5TU@lllliraniv2rayllll.norooz.shop:2083?sni=lllliraniv2rayllll.norooz.shop&peer=lllliraniv2rayllll.norooz.shop&security=tls#XX
 trojan://5af7fa3a-ad9c-4346-ba7f-184e89c91758@lm.kaiqsz.com:51075?security=tls&amp;sni=mmbiz10.redapricotcloud.com&amp;type=tcp&amp;headerType=none#%E5%85%8D%E8%B4%B9%E6%A2%AF%E5%AD%90https%3A%2F%2Ft.me%2Fmftizi
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls#⚡
 trojan://Gl123qwe@los2.playstone.info:23443?security=tls#⚡
@@ -267,7 +267,7 @@ trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10834?security=tls&
 trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@sg.stablize.top:443?security=tls
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg01.trojanyyds.xyz:443?security=tls#⚡
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&amp;type=tcp&amp;headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls#⚡
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=jsygouer.weixin-baidu-qq.com#%F0%9F%87%B8%F0%9F%87%AC%40FreakConfig
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#⚡
 trojan://26af88d0-fc72-43b3-8108-521a7b12aa45@sg1.421421.xyz:20230?type=tcp&sni=
