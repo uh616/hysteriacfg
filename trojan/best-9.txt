@@ -1,3 +1,7 @@
+trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
+trojan://auto@159.246.55.132:443/?type=tcp&security=tl...%20#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+trojan://auto@162.159.133.85:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://auto@162.159.136.232:8443/?type=tcp&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@162.159.44.148:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@162.159.44.154:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@162.159.44.159:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -464,7 +468,3 @@ trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443/?type=tcp&secu
 trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@104.21.14.54:443/?type=tcp&security=tls&sni=6666YHjU.777159.xYz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@172.67.157.220:443/?type=ws&host=6666yhju.777159.xyz&path=%2FdilyfCPEmLvYr5hYXD&security=tls&sni=6666YHjU.777159.xYz&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://e4f288433b@54.36.173.159:443/?type=tcp&security=tls&sni=pol1.connecton.surf#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
-trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443/?type=tcp&security=tls&sni=app.soft10.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:443/?type=tcp&security=tls&sni=app.soft10.ir&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443/?type=tcp&security=tls&sni=dc1bf227.vf-8co.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://er668@104.21.32.1:443/?type=tcp&security=tls&sni=kfjdi.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
