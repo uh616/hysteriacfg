@@ -57,8 +57,8 @@ hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.559
 hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=🔒
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20PORTAL%20Telegram%3A%40STR_BYPASS%20442279
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40%20%231
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20PORTAL%20Telegram%3A%40STR_BYPASS%20177824
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20PORTAL%20Telegram%3A%40STR_BYPASS%20784105
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40WedBaZTel%20%233
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=🔒
