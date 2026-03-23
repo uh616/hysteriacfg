@@ -73,7 +73,7 @@ hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f
 hysteria2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:443?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--
 hysteria2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#b@oneclickvpnkeysss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#%F0%9F%90%B82@oneclickvpnkeys
 hysteria2://dongtaiwang.com@[2a14:7583:295c::a]:7583?insecure=1&sni=www.microsoft.com#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F47%40oneclickvpnkeys
-hy2://dongtaiwang.com@[2a14:7583:295c::a]:11130/?insecure=1&sni=www.microsoft.com#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F47%40oneclickvpnkeys
+hy2://dongtaiwang.com@[2a14:7583:295c::a]:11130/?insecure=1&sni=www.microsoft.com#👁️‍🗨️47@oneclickvpnkeys
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
