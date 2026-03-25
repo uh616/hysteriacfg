@@ -571,7 +571,7 @@ hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.74.42.113:6588?obfs=salamander&obf
 hy2://sysadmin.sysadmin@47.76.80.29:2023?insecure=1#🔒
 hy2://sysadmin.sysadmin@47.81.8.60:7788?insecure=1&sni=tg.sdxlgj001.top#🔒
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.89.248.125:5113?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🔒
-hysteria2://auth@49.12.142.89:443?insecure=1&amp;sni=www.microsoft.com&amp;alpn=h3&amp;fastopen
+hysteria2://auth@49.12.142.89:443?insecure=1&amp;sni=www.microsoft.com&amp;alpn=h3&amp;fastopen=1&amp;up=50&amp;down=100#outline_ir
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%40V2RAYROZ%20%F0%9F%90%A5%F0%9F%8C%B7
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA4
@@ -734,9 +734,9 @@ hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@ca-hy2.onetaplink.app:443?insec
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2056?security=tls&insecure=1&sni=cc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2052/?insecure=1&sni=cc1.mangshe.xyz#%F0%9F%94%B040%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc2.mangshe.xyz:2056?security=tls&insecure=1&sni=cc2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
-hysteria2://e02ff406-4865-48d0-ad5d-40d6bd27014e@ch.xn--ehqa22b.site:21231?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.5MB%2Fs
-hysteria2://33f1c729-0616-4e53-a829-e8247e3eb8b5@ch.xn--ehqa22b.site:21376?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.2MB%2Fs
-hysteria2://33f1c729-0616-4e53-a829-e8247e3eb8b5@ch.xn--ehqa22b.site:21691?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C2.0MB%2Fs
+hysteria2://33f1c729-0616-4e53-a829-e8247e3eb8b5@ch.xn--ehqa22b.site:21044?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C2.2MB%2Fs
+hysteria2://33f1c729-0616-4e53-a829-e8247e3eb8b5@ch.xn--ehqa22b.site:21376?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.6MB%2Fs
+hysteria2://33f1c729-0616-4e53-a829-e8247e3eb8b5@ch.xn--ehqa22b.site:21691?sni=ch.xn--ehqa22b.site#%F0%9F%87%A8%F0%9F%87%ADCH_1%7C1.3MB%2Fs
 hysteria2://ee1f7400-b7cb-4776-9e85-497965dfde00@dailyshop.pharmaweb.info:8080?peer=buildcenter.pharmaweb.info&insecure=0&sni=buildcenter.pharmaweb.info&alpn=h3#temp500-singbox_hysteria2
 hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#DE
 hy2://sharecentrepro@de.sharecentrepro.link:4433?downmbps=1000&sni=de.sharecentrepro.link#%F0%9F%94%92%F0%9F%87%A9%F0%9F%87%AA%20DE%2051.68.169.215%20%E2%97%88%20udp:4433%20%E2%97%88%20OVH%20/%20Regxa%20%E2%97%88%2090b98
@@ -832,6 +832,7 @@ hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@sg-02.worldfirst.eu.org:44300?insecur
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@sg-02.worldfirst.eu.org:44300/?insecure=1&sni=sg-02.worldfirst.eu.org#%E2%9A%9C%EF%B8%8F1%40oneclickvpnkeys
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?sni=hy2-sg.onetaplink.app&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=OrT7yQQIMqcvKdet#🇸🇬新加坡直连
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg.zhenshihui.one:48489/#%40V2rayMiner
+hysteria2://f72fc7e7-f95c-4b67-9933-3d17af670102@sg.zuomomo.top:16667?sni=sg.zuomomo.top#%F0%9F%87%B8%F0%9F%87%ACSG_13%7C2.5MB%2Fs
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&amp;sni=bing.com#SG
 hy2://1ea621651a6c247a@sh.netmh9.xyz:443?insecure=1&obfs=salamander&obfs-password=d6da8047&sni=sh.netmh9.xyz#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20warpPlus%20%E2%97%88%20udp:443%20%E2%97%88%201faed
