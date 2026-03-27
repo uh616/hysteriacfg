@@ -10,7 +10,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.93.108:2052?insecure=1&sni=cc1
 hysteria2://hysteria2_fastlane_bi5ckyc9g@144.31.118.145:443?sni=de8.h.fastlanehosting.ru#%F0%9F%A7%AB35%40oneclickvpnkeys
 hysteria2://hysteria2_fastlane_bi5ckyc9g%3A6xXOTBmadP61nZ27MJH90ahkRhXVAe9H@144.31.118.145:1935?sni=de8.h.fastlanehosting.ru&insecure=0#US
 hysteria2://hysteria2_fastlane_bi5ckyc9g%3A6xXOTBmadP61nZ27MJH90ahkRhXVAe9H@144.31.118.145:1935/?sni=de8.h.fastlanehosting.ru#%F0%9F%A7%AB35@oneclickvpnkeys
-hysteria2://123456789StrongPass@144.31.224.14:443?sni=www.cloudflare.com&insecure=1&allowInsecure=1#%E7%BE%8E%E5%9B%BD_0327041125
+hysteria2://123456789StrongPass@144.31.224.14:443?sni=www.cloudflare.com&insecure=1&allowInsecure=1#%E7%BE%8E%E5%9B%BD_0327091121
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://hysteria2_fastlane_bwyx9htpr@144.31.63.58:443?sni=de4.h.fastlanehosting.ru#%F0%9F%A7%AB69%40oneclickvpnkeys
 hysteria2://hysteria2_fastlane_bwyx9htpr%3AoEo7UUYjxOcBooNu080XVIFCbge59vqG@144.31.63.58:1935?sni=de4.h.fastlanehosting.ru&insecure=0#US
