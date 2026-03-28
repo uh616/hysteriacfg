@@ -1,4 +1,3 @@
-hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@143.47.56.230:35000?insecure=1&sni=www.lamer.com.hk#%F0%9F%87%AA%F0%9F%87%B8ES_1%7C1.1MB%2Fs
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws.xyz#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.21.59.53:2052?insecure=1&sni=ld1.mangshe.xyz#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.22.132.212:2052?insecure=1&sni=sbl.mangshe.xyz#🔒
