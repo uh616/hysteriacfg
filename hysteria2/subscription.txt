@@ -117,7 +117,6 @@ hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Clifton%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F8%40oneclickvpnkeys
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@138.2.111.116:30000/?insecure=1&amp;sni=bing.com#🎡61@oneclickvpnkeys
-hysteria2://9fc87b20-8bd2-4b6e-aa29-dbb581a27262@138.2.182.211:50000?insecure=1&sni=fastcdn.hoyoverse.com#%F0%9F%87%A9%F0%9F%87%AADE_1%7C3.3MB%2Fs
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@138.2.28.145:443?insecure=1&sni=www.bing.com#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@138.2.86.137:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@138.2.90.199:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
@@ -356,7 +355,6 @@ hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@192.9.165.40:443/?mport=51000-53000&i
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@192.9.179.140:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@193.122.102.11:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@193.122.12.150:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇩🇪%20DE%20down
-hysteria2://9fc87b20-8bd2-4b6e-aa29-dbb581a27262@193.122.12.150:50000?insecure=1&sni=fastcdn.hoyoverse.com#%F0%9F%87%A9%F0%9F%87%AADE_2%7C3.3MB%2Fs
 hy2://sysadmin.sysadmin@193.123.229.162:8443?insecure=1#🔒
 hy2://ab228da0-a064-4381-8f81-d185b9c50d8a@193.123.229.26:443?insecure=1&sni=ftp.chillwaze.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.76.141:30102?insecure=1&sni=joinBede.ELiV2ray.net#🔒
@@ -383,7 +381,7 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052/?insecure=1&sni=d
 hy2://c8865525-d888-4318-aa77-44ca4c95e88b@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@194.87.69.42:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hysteria2://dongtaiwang.com@195.154.54.131:40022?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
-hysteria2://dongtaiwang.com@195.154.54.131:40022/?insecure=1&amp;sni=www.microsoft.com#✊8@oneclickvpnkeys
+hysteria2://dongtaiwang.com@195.154.54.131:40022/?insecure=1&sni=www.microsoft.com#%E2%9C%8A8@oneclickvpnkeys
 hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://sysadmin.sysadmin@20.14.96.63:443?insecure=1#🔒
@@ -705,7 +703,6 @@ hy2://4328e5a3-b325-4154-9e7d-508e16962e40@84.252.75.14:8443?insecure=1&sni=hy10
 hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&insecure=1#🔒
 hy2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🔒
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
-hysteria2://9fc87b20-8bd2-4b6e-aa29-dbb581a27262@89.168.32.96:50000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.3MB%2Fs
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052?insecure=1&sni=fr1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%B5%F0%9F%87%AD
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@89.168.53.138:2052?insecure=1&sni=bl2.mangshe.xyz#🔒
@@ -769,7 +766,6 @@ hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMine
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
-hysteria2://06bb0c42-9c60-4a2a-bc40-3e950d4c458b@hk3.jueduibupao.top:44072?insecure=1&sni=hk3.jueduibupao.top#%F0%9F%87%B2%F0%9F%87%BAMU_1%7C1.6MB%2Fs
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://d2e21fabfe6ddb83@hys1.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://d2e21fabfe6ddb83@hys11.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
@@ -852,9 +848,7 @@ hy2://sharecentrepro@us.sharecentrepro.link:4433?insecure=1&sni=
 hy2://sharecentrepro@us.sharecentrepro.link:4433/#%F0%9F%9B%A1x%40oneclickvpnkeys
 hysteria2://e07e6bb4-1a55-4e5f-92c5-25585c9715b6@us.vvcloud.us.kg:443?security=tls&insecure=0&mport=20901-20999&sni=us.vvcloud.us.kg#🆔v2rayprotocol%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMiner
-hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us1.dexlos.com:20193?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us1.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_1%7C5.0MB%2Fs
 hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys
-hysteria2://305C4972-F30D-4946-9B8B-6279A4928368@us2.dexlos.com:20278?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us2.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8US_2%7C4.2MB%2Fs
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
 hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/@warphiddify?sni=speedtest.realityforus.com#de-mtn-@warphiddify
