@@ -1,3 +1,4 @@
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@uk.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@ukjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@usa.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@usajs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -461,4 +462,3 @@ trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.96:443/?type=tcp&securit
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443/?type=tcp&security=tls&sni=pus2.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.89:443/?type=tcp&security=tls&sni=pus3.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
-trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
