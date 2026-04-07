@@ -458,4 +458,3 @@ trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443/?type=tcp&security
 trojan://Aimer@104.26.15.138:2053/?type=tcp&security=t...%20#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://Aimer@162.159.38.101:2096/?type=tcp&security=...#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://aTArbZ2F0E@172.66.168.223:443/?type=tcp&security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.18.1.89:443/?type=tcp&security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
