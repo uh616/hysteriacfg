@@ -78,9 +78,11 @@ hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMin
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@usa-hy2.onetaplink.app:443?obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-usa.onetaplink.app#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-006.fastervpn.world:443?insecure=1&sni=vpn-jp-006.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2002
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-012.fastervpn.world:443?sni=vpn-jp-012.fastervpn.world&insecure=1#JP
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-013.fastervpn.world:443?insecure=1&sni=vpn-jp-013.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C2.5MB%2Fs
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-018.fastervpn.world:443?insecure=1&sni=vpn-jp-018.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2004
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-013.fastervpn.world:443?insecure=1&sni=vpn-jp-013.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2001
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_5%7C1.7MB%2Fs
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-018.fastervpn.world:443?insecure=1&sni=vpn-jp-018.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_4%7C7.1MB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-008.fastervpn.world:443?sni=vpn-us-008.fastervpn.world&insecure=1#US
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-011.fastervpn.world:443?insecure=1&sni=vpn-us-011.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.6MB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-018.fastervpn.world:443?insecure=1&sni=vpn-us-018.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2010
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-019.fastervpn.world:443?sni=vpn-us-019.fastervpn.world&insecure=1#US
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
