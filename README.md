@@ -9,8 +9,8 @@
 ### ɪ ᴅɪᴇᴅ ꜱɪx ʜᴜɴᴅʀᴇᴅ ᴀɴᴅ ꜱɪxᴛᴇᴇɴ ᴍɪɴᴜᴛᴇꜱ ᴀɢᴏ.
 
 [![Auto Update](https://img.shields.io/badge/Auto-Update-brightgreen)](https://github.com/uh616/REBORNCFG/actions)
-[![Total Configs](https://img.shields.io/badge/Total-82697-blue)](./hysteria2/subscription.txt)
-[![Last Update](https://img.shields.io/badge/Last_Update-10.04.2026_22:09:39-orange)](./hysteria2/subscription.txt)
+[![Total Configs](https://img.shields.io/badge/Total-82706-blue)](./hysteria2/subscription.txt)
+[![Last Update](https://img.shields.io/badge/Last_Update-10.04.2026_23:55:02-orange)](./hysteria2/subscription.txt)
 
 </div>
 
@@ -32,8 +32,8 @@
 
 ### 📊 Статистика последнего обновления
 
-- **📅 Дата обновления:** `10.04.2026 22:09:39`
-- **📦 Всего конфигов:** `82697`
+- **📅 Дата обновления:** `10.04.2026 23:55:02`
+- **📦 Всего конфигов:** `82706`
 - **🔌 Протоколов:** `5`
 
 ---
@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**📦 Всего конфигов:** `19144`
+**📦 Всего конфигов:** `19151`
 
 </div>
 
@@ -130,7 +130,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 <div align="center">
 
-**📦 Всего конфигов:** `48275`
+**📦 Всего конфигов:** `48278`
 
 </div>
 
@@ -153,7 +153,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**📦 Всего конфигов:** `4569`
+**📦 Всего конфигов:** `4568`
 
 </div>
 
@@ -221,8 +221,8 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 ### 📊 Last Update Statistics
 
-- **📅 Update date:** `10.04.2026 22:09:39`
-- **📦 Total configs:** `82697`
+- **📅 Update date:** `10.04.2026 23:55:02`
+- **📦 Total configs:** `82706`
 - **🔌 Protocols:** `5`
 
 ---
@@ -273,7 +273,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/hysteria2/subscription.tx
 
 <div align="center">
 
-**📦 Total configs:** `19144`
+**📦 Total configs:** `19151`
 
 </div>
 
@@ -319,7 +319,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/vmess/subscription.txt
 
 <div align="center">
 
-**📦 Total configs:** `48275`
+**📦 Total configs:** `48278`
 
 </div>
 
@@ -342,7 +342,7 @@ https://raw.githubusercontent.com/uh616/REBORNCFG/main/shadowsocks/subscription.
 
 <div align="center">
 
-**📦 Total configs:** `4569`
+**📦 Total configs:** `4568`
 
 </div>
 
@@ -410,6 +410,6 @@ UQCU_NuO-7aKcYYiEsnkSd1rFpBtylB1C6upKWv7jY9r8ARe
 
 **⭐ If the project is useful, please give it a star!**
 
-*Last update: 10.04.2026 22:09:39*
+*Last update: 10.04.2026 23:55:02*
 
 </div>
