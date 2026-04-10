@@ -1,3 +1,7 @@
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:444/?type=tcp&security=tls&sni=
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:447/?type=tcp&security=tls&sni=
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:461/?type=tcp&security=tls&sni=
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.67:22006/?type=tcp&security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:409/?type=tcp&security=tls&sni=
 trojan://255a0a50-3f10-11f0-b0d6-1239d0255272@51.38.65.155:443/?type=tcp&security=tls
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80/?type=tcp&security=tls
@@ -452,6 +456,3 @@ trojan://Aimer@162.159.38.101:2096/?type=tcp&security=...#%F0%9F%87%BD%F0%9F%87%
 trojan://aTArbZ2F0E@172.66.168.223:443/?type=tcp&security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.18.1.89:443/?type=tcp&security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://auto@104.20.18.192:443/?type=tcp&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.20.20.213:443/?type=tcp&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.20.20.58:443/?type=tcp&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@104.20.22.182:443/?type=tcp&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
