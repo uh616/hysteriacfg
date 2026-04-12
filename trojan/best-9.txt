@@ -455,4 +455,3 @@ trojan://d4e41ff772c7fd45@23.247.137.70:3389/?type=tcp&security=tls#%F0%9F%87%BA
 trojan://d4f4fb30-b95c-11ee-9937-1239d0255272@54.38.156.210:443/?type=tcp&security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://d76294c5-a31f-408d-ba0b-89880107cab5@5.75.152.12:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://da88864b-6aa5-4d18-8e36-ac809a24c571@103.224.182.210:443/?type=tcp&security=tls&sni=usajs.stablize.top&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-trojan://Daily_Configs@104.17.91.181:2053/?type=tcp&security=tls
