@@ -81,5 +81,5 @@ hy2://f206702e@82.152.142.67:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.68:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.69:3341?insecure=1&sni=www.bing.com#🔒
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒
-hysteria2://github.com/Alvin9999-newpac/fanqiang@83.243.86.103:12855?security=tls&insecure=1&sni=www.microsoft.com#telegram
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@83.243.86.103:12855?sni=www.microsoft.com&insecure=1#DE
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@83.243.86.103:12855/?insecure=1&sni=www.microsoft.com#%F0%9F%87%A9%F0%9F%87%AA3090%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
