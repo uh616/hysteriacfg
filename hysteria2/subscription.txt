@@ -529,6 +529,7 @@ hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.144.2.154:52773?insecure=1&sni=ssr
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@45.144.2.154:52773/?insecure=1&sni=ssrsub.h04.trojan.tel#%E2%9A%935%40oneclickvpnkeys
 hy2://dongtaiwang.com@45.145.72.212:23520?insecure=1&sni=bing.com#🔒
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.145.74.180:52773?insecure=1&sni=ssrsub.h06.trojan.tel#🔒
+hysteria2://strong-secret-pass-777@45.15.171.80:444?sni=www.microsoft.com&insecure=1&obfs=salamander#CY
 hysteria2://strong-secret-pass-777@45.15.171.80:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#%F0%9F%87%A6%F0%9F%87%B13386%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.159:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.171:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA3
@@ -827,7 +828,6 @@ hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1001?security=tl
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1002?security=tls&insecure=0&sni=th.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&amp;sni=bing.com#TW
-hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@tw3.jueduibupao.top:41331?insecure=1&sni=tw3.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.2MB%2Fs
 hy2://ad90f973-ac78-4161-8601-28c44b37b34b@us-01.worldfirst.eu.org:44300/?insecure=1&sni=us-01.worldfirst.eu.org#us%40oneclickvpnkeys
 hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@us-hy2.xlb8.eu.org:443?insecure=1&sni=us-hy2.org#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20141.11.74.11%20%E2%97%88%20udp:443%20%E2%97%88%201GSERVERS%20/%20Landups%20Limited%20%E2%97%88%204e6b7
 hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@us-hy2.xlb8.eu.org:443/?insecure=1&sni=us-hy2.org#%E2%9A%938%40oneclickvpnkeys
