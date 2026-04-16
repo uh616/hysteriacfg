@@ -1,3 +1,4 @@
+trojan://299beacf-37f0-41c6-a122-9260c75731bf@hgc.node-is.green:42133/?type=tcp&security=tls&sni=hk12.bilibili.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://299beacf-37f0-41c6-a122-9260c75731bf@hgc.node-is.green:45374/?type=tcp&security=tls&sni=hk12.bilibili.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://299beacf-37f0-41c6-a122-9260c75731bf@hgc.node-is.green:49205/?type=tcp&security=tls&sni=hk12.bilibili.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.2.133:443/?type=ws&host=fonmelo.com&security=tls&sni=
@@ -296,7 +297,6 @@ trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443/?type=tcp&secu
 trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017/?type=tcp&security=tls&sni=
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/Tel-@V2rayAlpha&sni=sni.111000.dynv6.net&type=ws#🕳️29@oneclickvpnkeys
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?path=/Tel-@V2rayAlpha&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#All-@V2ray_Alpha-1
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://62313560-c059-11ee-b43c-1239d0255272@uk1.test3.net:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@65.108.205.61:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AEFI%28AzadNet.t.me%29
 trojan://62fe12a0-8a05-11ee-85b2-1239d0255272@104.16.125.175:443/?type=tcp&security=tls&sni=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -343,7 +343,6 @@ trojan://79770a32-9607-4919-9483-0f1794559390@172.67.177.123:443/?type=tcp&secur
 trojan://79770a32-9607-4919-9483-0f1794559390@188.114.97.3:443/?type=tcp&security=tls&sni=nika3hdfy2.foriran.trade&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://7ab18390-3449-4420-8893-290298ad8c20@188.114.98.0:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?ed=2560&security=tls&host=dark-silence-711e.amirtaja.workers.dev&fp=chrome&type=ws&sni=dark-silence-711e.amirtaja.workers.dev#@GozargahAzad|🏁
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=in.stablize.top#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=in.stablize.top&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10819/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%B3CN%28AzadNet.t.me%29
@@ -456,3 +455,5 @@ trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.58:443/?type=tcp&securit
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.96:443/?type=tcp&security=tls&sni=pjp6.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443/?type=tcp&security=tls&sni=pus2.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.89:443/?type=tcp&security=tls&sni=pus3.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
+trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
+trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
