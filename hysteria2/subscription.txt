@@ -548,8 +548,9 @@ hy2://a2abd08c-bce1-436c-9008-4ba0ef210f6d@46.29.161.159:1200?obfs=salamander&ob
 hy2://83d4edf5-8612-4b0f-8a82-33a211b3b179@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@46.29.161.228:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
-hysteria2://a722e51b-325e-4238-a480-02fe7d0dab28@46.38.157.183:10003?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2007
+hysteria2://a722e51b-325e-4238-a480-02fe7d0dab28@46.38.157.183:10003?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8US_4%7C1.3MB%2Fs
 hysteria2://fc4dd6fd-4a35-42f5-8208-bbb089747292@46.38.157.183:10004?sni=46.38.157.183&insecure=1#US
+hysteria2://ab077d22-f952-45dd-843d-46ce0c60de19@46.38.157.183:10005?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.5MB%2Fs
 hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379?insecure=1&sni=hsg.fobbc.xyz#🔒
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.243.88.31:6231?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.74.42.113:6588?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
@@ -829,6 +830,7 @@ hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMine
 hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://b02b9065-defa-495a-bef1-cd55c67dbdf6@usahy2.maocf1.top:20183?sni=usahy2.maocf1.top&insecure=1#US
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?insecure=1&sni=vpn-jp-001.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.0MB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1&amp;sni=vpn-sg-002.fastervpn.world#🇸🇬SG_1|7.0MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-019.fastervpn.world:443?insecure=1&sni=vpn-us-019.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2002
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-021.fastervpn.world:443?insecure=1&sni=vpn-us-021.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2013
