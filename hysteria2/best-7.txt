@@ -1,4 +1,4 @@
-hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@40.233.77.86:65535?insecure=1&sni=www.microsoft.com#%F0%9F%87%A8%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001
+hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@40.233.77.86:65535?sni=www.microsoft.com&insecure=1#CA
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@40.233.91.166:443?insecure=1&sni=www.bing.com#🔒
 hy2://96cad374-7573-4463-8804-4665c2c3d932@43.198.99.54:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@43.199.156.119:9270?sni=hk5.ddns-link-b5.uk#🔒
