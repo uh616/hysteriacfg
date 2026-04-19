@@ -1,6 +1,3 @@
-trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@b-corsairs.com:443/?type=ws&host=fonmelo.com&path=
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@104.21.39.134:443/?type=tcp&security=tls&sni=glc-tw1.windowsupdatea.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@172.67.146.22:443/?type=tcp&security=tls&sni=glc-tw1.windowsupdatea.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1hkt.windowsupdatea.com:443/?type=tcp&security=tls&sni=glc-hkt1.windowsupdatea.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443/?type=tcp&security=tls&sni=glc-tw1.windowsupdatea.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@104.21.41.21:443/?type=tcp&security=tls&sni=
@@ -351,7 +348,6 @@ trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@172.66.42.228:443/?type=tcp&securi
 trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@172.66.43.41:443/?type=tcp&security=tls&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.146.132:4674/?type=tcp&security=tls&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.246.132:3057/?type=tcp&security=tls&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.132.38:4674/?type=tcp&security=tls&sni=www.nintendogames.net#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-2008
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.85.33:4380/?type=tcp&security=tls&sni=www.nintendogames.net#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-2052
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.85.33:4937/?type=tcp&security=tls&sni=www.nintendogames.net#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-2073
 trojan://868ecdaf6aed618ec98cf78585672b2b@54.249.109.55:34818/?type=tcp&security=tls&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
@@ -455,3 +451,7 @@ trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443/?type=tcp&securit
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.89:443/?type=tcp&security=tls&sni=pus3.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
 trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
+trojan://af4d2493-9156-4514-9f6b-ee5d1a1e4713@15.197.162.184:443/?type=tcp&security=tls&sni=download2hkt.windowsupdate.lol&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B1PL%28AzadNet.t.me%29
+trojan://Aimer@104.26.15.138:2053/?type=tcp&security=t...%20#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://Aimer@162.159.38.101:2096/?type=tcp&security=...#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
