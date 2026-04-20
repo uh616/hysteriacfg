@@ -5,8 +5,8 @@ hy2://453D99CE-725A-4595-8E41-0661AB2C8FBB@1.36.166.125:1250?insecure=1#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052?insecure=1&sni=hk2.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052/?insecure=1&sni=hk2.xiaoliyu.us#hk2%40oneclickvpnkeys
 hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=google.com#🔒
-hysteria2://8e8f0173-6426-4fed-94f6-580847c744f1@103.197.71.119:50000?insecure=1&sni=www.hoyoverse.com#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C2.9MB%2Fs
-hysteria2://8e8f0173-6426-4fed-94f6-580847c744f1@103.197.71.97:50000?insecure=1&sni=www.hoyoverse.com#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.6MB%2Fs
+hysteria2://8e8f0173-6426-4fed-94f6-580847c744f1@103.197.71.119:50000?insecure=1&sni=www.hoyoverse.com#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1.7MB%2Fs
+hysteria2://8e8f0173-6426-4fed-94f6-580847c744f1@103.197.71.97:50000?insecure=1&sni=www.hoyoverse.com#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.0MB%2Fs
 hy2://sysadmin.sysadmin@103.235.18.69:444?insecure=1&sni=tototel.dogpp.com#🔒
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@103.241.65.25:443?mport=22000-22999#🔒
 hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
@@ -257,7 +257,7 @@ hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.b
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
 hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022,41000-42000#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C4.6MB%2Fs
+hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022,41000-42000#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.5MB%2Fs
 hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@164.92.254.56:10001?sni=de.1010520.shop#🔒
 hy2://sysadmin.sysadmin@165.1.76.128:444?insecure=1&sni=mg1.wtn.wang#🔒
