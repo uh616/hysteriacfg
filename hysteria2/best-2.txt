@@ -24,7 +24,7 @@ hy2://XvXbk2s6zvHzavka@137.175.79.36:8620?insecure=1&sni=https%3A%2F%2Fbing.com%
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Clifton%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F8%40oneclickvpnkeys
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@138.2.111.116:30000/?insecure=1&amp;sni=bing.com#рҹҺЎ61@oneclickvpnkeys
+hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@138.2.111.116:30000/?insecure=1&amp;sni=bing.com#🎡61@oneclickvpnkeys
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@138.2.28.145:443?insecure=1&sni=www.bing.com#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@138.2.86.137:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@138.2.90.199:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
