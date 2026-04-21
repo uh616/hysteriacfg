@@ -69,7 +69,7 @@ hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2056?security=tls&insecure=1&sni=hdlb1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2052/?insecure=1&sni=hdlb1.mangshe.xyz#%F0%9F%94%B028%40oneclickvpnkeys
 hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34006/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1#%40V2rayMiner
-hysteria2://6987a475-97a5-40ce-90fe-a59a21aa1c08@hjnd.0101.pw:8444?insecure=1&sni=hjnd.0101.pw#%F0%9F%87%A8%F0%9F%87%A6CA_1%7C4.1MB%2Fs
+hysteria2://6987a475-97a5-40ce-90fe-a59a21aa1c08@hjnd.0101.pw:8444?insecure=1&sni=hjnd.0101.pw#%F0%9F%87%A8%F0%9F%87%A6CA_1%7C3.3MB%2Fs
 hysteria2://67e1eb33-4ad4-4301-b066-38c4175ca5e6@hk.vvcloud.us.kg:443?security=tls&insecure=0&mport=20901-20999#MCI--%40V2ray_Alpha--07
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
