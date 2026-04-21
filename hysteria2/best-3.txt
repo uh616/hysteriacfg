@@ -6,7 +6,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.145.69:2052?insecure=1&sni=hdl
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.153.219:443?insecure=1&sni=www.bing.com#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@144.24.79.114:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.93.108:2052?insecure=1&sni=cc1.mangshe.xyz#🔒
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20103789
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F2%40oneclickvpnkeys
 hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?insecure=1&sni=google.com#🔒
@@ -49,7 +49,7 @@ hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@152.70.80.122:30001?insecure=1&sni=os
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@153.122.189.46:443?mport=30001-40000&insecure=1&sni=bing.com#🔒
 hy2://sysadmin.sysadmin@154.12.61.72:2053?insecure=1&sni=hk1.helima.net#🔒
 hy2://5d888ac5@154.12.93.29:23835?insecure=1#🔒
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@154.16.183.55:30102/?insecure=1#рҹҺЎ69@oneclickvpnkeys
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@154.16.183.55:30102/?insecure=1#🎡69@oneclickvpnkeys
 hy2://6cae5bc7-8832-45bd-809c-02ced9ce6172@154.16.248.155:22206?insecure=1#🔒
 hy2://1bd496a4@154.16.27.143:5433?insecure=1&sni=www.bing.com#🔒
 hy2://1bd496a4@154.16.27.143:5433/?insecure=1&sni=ELiV2RAY.ELENA.expert#us-mci-eliv2ray
