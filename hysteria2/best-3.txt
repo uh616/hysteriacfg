@@ -37,7 +37,7 @@ hy2://5c33a4b2-7768-4e6c-87a8-a1515d1de609@152.53.0.187:40443/?sni=speedtest.rea
 hy2://9d765687-536c-4626-a2e2-6a403219e381@152.53.54.139:30000?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://51ed158e-b95b-451b-a48b-60e356de287d@152.53.54.139:30001?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://91aa5eb5-e257-4885-a591-8ba742c4fcd2@152.53.54.139:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
-hysteria2://a50a83bd-1fe8-4dd4-ba55-48f80190f527@152.53.54.139:36002?insecure=1&sni=hk1.zongyunti.site#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C3.0MB%2Fs
+hysteria2://a50a83bd-1fe8-4dd4-ba55-48f80190f527@152.53.54.139:36002?insecure=1&sni=hk1.zongyunti.site#%F0%9F%87%A6%F0%9F%87%B9%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%A5%A5%E5%9C%B0%E5%88%A9%2001
 hy2://sysadmin.sysadmin@152.67.234.151:444?insecure=1&sni=mg2.wtn.wang#🔒
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@152.69.195.193:52773?insecure=1&sni=h06.trojan.tel#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Osaka%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@152.69.195.193:52773/?insecure=1&sni=h06.trojan.tel#%E2%9A%9310%40oneclickvpnkeys
