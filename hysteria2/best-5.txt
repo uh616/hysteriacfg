@@ -1,3 +1,12 @@
+hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
+hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
+hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
+hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443/?insecure=1&amp;sni=google.com#Hysteria
+hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052?insecure=1&sni=de1.xiaoliyu.us#🔒
+hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052/?insecure=1&sni=de1.xiaoliyu.us#de%40oneclickvpnkeys
+hy2://c8865525-d888-4318-aa77-44ca4c95e88b@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
+hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@194.87.69.42:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
+hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hysteria2://3260904a-10b2-4fe0-bb1e-579836ee1f53@1jp001.476579.xyz:8080?sni=1jp001.476579.xyz&insecure=0#JP
 hysteria2://3260904a-10b2-4fe0-bb1e-579836ee1f53@1jp003.156786.xyz:8081?sni=1jp003.156786.xyz&insecure=0#JP
@@ -80,14 +89,3 @@ hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@[2603:c024:4510:2769:4c5b:e9a0:2427:7
 hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@[2605:8340:0:b:a2e9:e4e1:3f0a:1]:443?insecure=1&sni=us-hy2.org#%E2%9A%939@oneclickvpnkeys
 hy2://KevinZakarian@[2606:a8c0:101:18::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
 hy2://KevinZakarian@[2606:a8c0:101:18::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
-hy2://KevinZakarian@[2606:a8c0:101:22::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
-hy2://KevinZakarian@[2606:a8c0:101:22::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
-hy2://KevinZakarian@[2606:a8c0:101:39::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
-hy2://KevinZakarian@[2606:a8c0:101:39::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
-hy2://KevinZakarian@[2606:a8c0:101:6d::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
-hy2://KevinZakarian@[2606:a8c0:101:6d::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
-hy2://KevinZakarian@[2606:a8c0:101:6e::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
-hy2://KevinZakarian@[2606:a8c0:101:6e::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
-hy2://KevinZakarian@[2606:a8c0:101:72::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
-hy2://KevinZakarian@[2606:a8c0:101:72::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
-hy2://KevinZakarian@[2606:a8c0:101:78::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
