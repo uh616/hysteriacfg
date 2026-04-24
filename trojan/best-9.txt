@@ -1,16 +1,3 @@
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443/?type=tcp&security=tls&sni=23sPT.pAGEs.dEV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.103:443/?type=tcp&security=tls&sni=jp5.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.15:443/?type=tcp&security=tls&sni=jp1.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.36:443/?type=tcp&security=tls&sni=jp2.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.75:443/?type=tcp&security=tls&sni=jp3.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.134.105:443/?type=tcp&security=tls&sni=jp4.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443/?type=tcp&security=tls&sni=sg1.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.235:443/?type=tcp&security=tls&sni=sg1.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.206:443/?type=tcp&security=tls&sni=jp61.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.18:443/?type=tcp&security=tls&sni=pjp2.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.76.251.170:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.74.102:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@23.102.238.146:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
 trojan://8QOe
@@ -70,7 +57,7 @@ trojan://a357e1c2-7b46-44ba-aee0-06451db94e06@in-full.privateip.net:443/?type=tc
 trojan://a3fa58b581353bb375d2ddad0f327938@72.167.45.6:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.172.71:443/?type=tcp&security=tls&sni=666666Y.999165.XYZ#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443/?type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://a5inYFE=JGV89
+trojan://a5inYFE=JGV89#4Nika-4775
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443/?type=tcp&security=tls&sni=iSaa1.PAGeS.DeV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443/?type=tcp&security=tls&sni=iSaA1.paGes.DEv#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://aa424865-2762-404c-b767-66c9f98e026b@172.67.219.54:443/?type=tcp&security=tls&sni=4RrrrRrrrRrRRRtTtTTTtTYyyYYYyYYiIIIiiiiOooOOoOoOoooO.hUaNgdI2031.DPDnS.orG#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -492,3 +479,10 @@ trojan://bpb-trojan@198.41.204.23:443/?type=tcp&security=tls&sni=bpb.my79801.com
 trojan://bpb-trojan@198.41.211.21:443/?type=tcp&security=tls&sni=bpb.my79801.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://bpb-trojan@198.41.215.216:443/?type=tcp&security=tls&sni=bpb.my79801.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://bpb-trojan@198.41.215.216:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://bpb-trojan@23.227.60.8:443/?type=tcp&security=...%20#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
+trojan://bpb-trojan@23.227.60.8:443/?type=tcp&security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
+trojan://bpb-trojan@45.131.209.114:443/?type=tcp&security=tls&sni=bpb.my79801.com#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
+trojan://bpb-trojan@45.80.111.9:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
+trojan://bpb-trojan@45.81.58.174:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29
+trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29
+trojan://bpb-trojan@89.117.112.181:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29
