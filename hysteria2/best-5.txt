@@ -1,3 +1,8 @@
+hy2://sysadmin.sysadmin@193.123.229.162:8443?insecure=1#🔒
+hy2://ab228da0-a064-4381-8f81-d185b9c50d8a@193.123.229.26:443?insecure=1&sni=ftp.chillwaze.com#🔒
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.76.141:30102?insecure=1&sni=joinBede.ELiV2ray.net#🔒
+hy2://2d347be7-909b-4410-af92-95a1abf7e531@193.123.76.84:35000?insecure=1&sni=www.apple.com#🔒
+hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102?insecure=1&sni=du.wish.ml#🔒
 hy2://03e4fe32@193.123.95.157:31452?insecure=1&sni=www.bing.com#🔒
 hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&amp;sni=hl01.mistea.top#📟28@oneclickvpnkeys
@@ -81,9 +86,3 @@ hy2://96cad374-7573-4463-8804-4665c2c3d932@217.142.191.118:5001?insecure=1&sni=d
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@217.142.225.38:443?insecure=1&sni=www.bing.com#🔒
 hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamander&obfs-password=vpnxw#🔒
 hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#🔒
-hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3041?sni=uk.bydk.xyz#🔒
-hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3043?sni=uk.bydk.xyz#🔒
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@23.247.137.67:3074?insecure=1&sni=TG.%40WangCai2#🔒
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@23.247.137.67:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B07%40oneclickvpnkeys
-hy2://de6eafd5-a11f-4e9c-b763-2d114fb97257@23.26.34.209:8080?insecure=1&sni=www.bing.com#🔒
-hy2://sysadmin.sysadmin@23.95.20.134:446?insecure=1#🔒
