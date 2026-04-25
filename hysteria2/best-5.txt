@@ -88,3 +88,5 @@ hy2://KevinZakarian@[2606:a8c0:101:18::a]:8443?insecure=1&sni=kevin.serverv.net&
 hy2://KevinZakarian@[2606:a8c0:101:22::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
 hy2://KevinZakarian@[2606:a8c0:101:22::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
 hy2://KevinZakarian@[2606:a8c0:101:39::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
+hy2://KevinZakarian@[2606:a8c0:101:39::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
+hy2://KevinZakarian@[2606:a8c0:101:6d::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
