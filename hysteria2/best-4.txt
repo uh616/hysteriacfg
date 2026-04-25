@@ -35,6 +35,7 @@ hy2://f5b598d8-234e-4142-b8e8-197c50b6c32c@176.32.35.198:8307?obfs=salamander&ob
 hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=www.bing.com#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@178.173.248.172:2052?insecure=1&sni=hk3.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@178.173.248.172:2052/?insecure=1&sni=hk3.xiaoliyu.us#hk%40oneclickvpnkeys
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#%F0%9F%87%A9%F0%9F%87%AADE_3%7C2.5MB%2Fs
 hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443?insecure=1&sni=google.com#🔒
 hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443/?insecure=1&amp;sni=google.com#Hysteria
 hy2://1ce3431c-4e12-432e-a336-ca20c47c2084@178.62.239.35:10001?sni=NL.1010520.shop#🔒
@@ -87,4 +88,3 @@ hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102?insecure=1&sni=du.wish.ml#🔒
 hy2://03e4fe32@193.123.95.157:31452?insecure=1&sni=www.bing.com#🔒
 hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&amp;sni=hl01.mistea.top#📟28@oneclickvpnkeys
-hy2://undefined@193.188.21.227:28188?insecure=1&sni=ir.ir.ir.speedtest.net.iririr.monster#🔒
