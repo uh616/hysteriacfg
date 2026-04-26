@@ -1,3 +1,4 @@
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#🌐سرور
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
