@@ -1,3 +1,4 @@
+hy2://96cad374-7573-4463-8804-4665c2c3d932@217.142.191.118:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@217.142.225.38:443?insecure=1&sni=www.bing.com#🔒
 hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamander&obfs-password=vpnxw#🔒
 hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#🔒
@@ -64,7 +65,7 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@35.72.184.29:30
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@35.74.239.19:3074?insecure=1#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@35.77.94.152:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_152%20%40wangcai_8
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20899544
 hysteria2://461e8622-46fb-40ee-9d4b-ceaed42161e4@37.114.60.196:40443/?insecure=1&sni=dxobg4azmk.gafnode.sbs#DE-MmdV2
 hy2://sysadmin.sysadmin@37.123.193.73:443?insecure=1#🔒
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@37.187.197.252:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA1
@@ -83,4 +84,3 @@ hy2://ca9a7225@44.200.17.3:58023?insecure=1&sni=www.bing.com#🔒
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG%20WangCai2@45.11.104.113:3074?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20@WangCai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40WangCai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.11.104.44:3074?insecure=1&sni=TG.%40WangCai2#🔒
-hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@45.11.104.44:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_044%20%40WangCai_8
