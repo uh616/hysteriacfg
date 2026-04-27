@@ -836,10 +836,10 @@ hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMin
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?sni=vpn-ca-002.fastervpn.world&insecure=1#CA
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?sni=vpn-de-001.fastervpn.world&insecure=1#DE
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-fr-001.fastervpn.world:443?sni=vpn-fr-001.fastervpn.world&insecure=1#FR
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-fr-002.fastervpn.world:443?insecure=1&fp=&sni=vpn-fr-002.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.9MB/s%7C2.8MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-fr-002.fastervpn.world:443?insecure=1&sni=vpn-fr-002.fastervpn.world#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?sni=vpn-jp-001.fastervpn.world&insecure=1#JP
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?insecure=1&sni=vpn-jp-003.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2002
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?insecure=1&fp=&sni=vpn-jp-004.fastervpn.world&obfs=&obfs-password=#%F0%9F%94%B4%F0%9F%87%AF%F0%9F%87%B5%5B%F0%9F%8E%AC%F0%9F%A4%96%F0%9F%93%BA%F0%9F%94%8D%5D_github.com/Ruk1ng001
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?insecure=1&sni=vpn-jp-004.fastervpn.world#%5B%F0%9F%8E%AC%F0%9F%A4%96%F0%9F%93%BA%F0%9F%94%8D%5D_github.com%2FRuk1ng001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443?insecure=1&sni=vpn-jp-011.fastervpn.world#JP_4%7C515KB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-003.fastervpn.world:443?sni=vpn-kr-003.fastervpn.world&insecure=1#KR
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&sni=vpn-tw-001.fastervpn.world#%F0%9F%87%A8%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8F%B0%E6%B9%BE%2001
@@ -849,8 +849,8 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.1MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-005.fastervpn.world:443?insecure=1&sni=vpn-us-005.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2005
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2002%20TG%3A%20%40nodpai
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-016.fastervpn.world:443?insecure=1&sni=vpn-us-016.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_11%7C1.7MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?sni=vpn-us-006.fastervpn.world&insecure=1#US
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-016.fastervpn.world:443?insecure=1&sni=vpn-us-016.fastervpn.world#US_11%7C1.7MB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-021.fastervpn.world:443?insecure=1&sni=vpn-us-021.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_13%7C2.0MB/s
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
 hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/@warphiddify?sni=speedtest.realityforus.com#de-mtn-@warphiddify
