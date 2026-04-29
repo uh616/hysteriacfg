@@ -1,3 +1,4 @@
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.15:443/?type=tcp&security=tls&sni=jp1.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.36:443/?type=tcp&security=tls&sni=jp2.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.75:443/?type=tcp&security=tls&sni=jp3.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.134.105:443/?type=tcp&security=tls&sni=jp4.pqjc.buzz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -492,5 +493,3 @@ trojan://bpb-trojan@23.227.60.8:443/?type=tcp&security=...%20#%F0%9F%87%A8%F0%9F
 trojan://bpb-trojan@23.227.60.8:443/?type=tcp&security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://bpb-trojan@45.131.209.114:443/?type=tcp&security=tls&sni=bpb.my79801.com#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
 trojan://bpb-trojan@45.80.111.9:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
-trojan://bpb-trojan@45.81.58.174:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29
-trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29
