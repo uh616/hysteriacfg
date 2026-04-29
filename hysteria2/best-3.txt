@@ -84,4 +84,4 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=w
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2002
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
