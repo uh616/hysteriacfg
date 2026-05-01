@@ -1,6 +1,6 @@
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
 hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://dongtaiwang.com@163.172.113.118:41273,41947,41283,41283,40022,41000-42000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.8MB/s
 hysteria2://dongtaiwang.com@163.172.113.118:41283,40022,41000-42000?insecure=1&sni=www.microsoft.com#A%20-%20%F0%9F%87%AB%F0%9F%87%B7%20FR%2001%20TG%3A%20%40nodpai
