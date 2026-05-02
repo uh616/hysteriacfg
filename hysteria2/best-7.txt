@@ -1,4 +1,3 @@
-hy2://ca9a7225@44.200.17.3:58023?insecure=1&sni=www.bing.com#🔒
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG%20WangCai2@45.11.104.113:3074?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20@WangCai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40WangCai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.11.104.44:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -29,7 +28,7 @@ hy2://1f17cdf0578a2860@45.76.0.86:443?obfs=salamander&obfs-password=4b817757&ins
 hy2://1f17cdf0578a2860@45.76.0.86:443/?obfs=salamander&obfs-password=4b817757&insecure=1#CPI3
 hy2://f40b1e441addaec3@45.76.44.57:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@45.8.147.250:53038?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=mobile.ir#🔒
-hysteria2://2nsMXDvFMF@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#%F0%9F%87%AE%F0%9F%87%B719966%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://DBUklcvOyH@45.81.19.251:443?insecure=1&sni=web.bale.ai#v2rayRoom
 hysteria2://2nsMXDvFMF@45.81.19.251:2087?security=tls&insecure=1&sni=web.rubika.ir#%F0%9F%87%AE%F0%9F%87%B719968%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@46.17.40.117:443?insecure=1&sni=music.apple.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@46.17.40.42:30102?insecure=1&sni=du.wish.ml#🔒
@@ -69,6 +68,7 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@52.194.254.229:
 hy2://96cad374-7573-4463-8804-4665c2c3d932@52.197.242.96:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.199.249.206:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_206%20%40wangcai_8
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.169.233.206:443/?insecure=1&sni=vpn-sg-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20905735
 hy2://96cad374-7573-4463-8804-4665c2c3d932@54.178.107.109:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@54.238.69.229:3074?insecure=1#🔒
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@54.249.79.143:3074?insecure=1&sni=TG.%40WangCai2#🔒
