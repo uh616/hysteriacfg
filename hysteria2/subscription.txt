@@ -177,7 +177,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.145.69:2052?insecure=1&sni=hdl
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.153.219:443?insecure=1&sni=www.bing.com#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@144.24.79.114:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.93.108:2052?insecure=1&sni=cc1.mangshe.xyz#🔒
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20662935
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F2%40oneclickvpnkeys
 hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?insecure=1&sni=google.com#🔒
@@ -261,7 +261,7 @@ hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=ww
 hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&fp=&sni=www.microsoft.com&obfs=&obfs-password=#🌐سرور
 hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com&mport=41283,41283,40022,41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2002
 hysteria2://dongtaiwang.com@163.172.113.118:41984?sni=www.microsoft.com&insecure=1#FR
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20848400
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://dongtaiwang.com@163.172.113.118:41590,41283,40022,41000-42000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.5MB/s
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@164.92.254.56:10001?sni=de.1010520.shop#🔒
 hy2://sysadmin.sysadmin@165.1.76.128:444?insecure=1&sni=mg1.wtn.wang#🔒
@@ -500,7 +500,7 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@35.72.184.29:30
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@35.74.239.19:3074?insecure=1#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@35.77.94.152:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_152%20%40wangcai_8
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20516042
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://461e8622-46fb-40ee-9d4b-ceaed42161e4@37.114.60.196:40443/?insecure=1&sni=dxobg4azmk.gafnode.sbs#DE-MmdV2
 hy2://sysadmin.sysadmin@37.123.193.73:443?insecure=1#🔒
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@37.187.197.252:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA1
@@ -839,17 +839,17 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?insecure=1&s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-003.fastervpn.world:443?insecure=1&amp;sni=vpn-kr-003.fastervpn.world#🇰🇷KR_1|3.2MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?sni=vpn-sg-001.fastervpn.world&insecure=1#SG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1#vpn-sg-002.fastervpn.world%3A443
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443/?insecure=1&sni=vpn-sg-002.fastervpn.world#%F0%9F%8E%8866@oneclickvpnkeys
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443/?insecure=1&sni=vpn-sg-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-001.fastervpn.world:443?insecure=1&amp;sni=vpn-us-001.fastervpn.world#🇺🇸US_2|2.9MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=vpn-us-002.fastervpn.world&obfs=&obfs-password=#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2028%20TG%3A%20%40nodpai
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2004
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-003.fastervpn.world:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8E%8869@oneclickvpnkeys
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-003.fastervpn.world:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2005
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-004.fastervpn.world:443/?insecure=1&sni=vpn-us-004.fastervpn.world#%F0%9F%8E%8867@oneclickvpnkeys
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-005.fastervpn.world:443?insecure=1&sni=vpn-us-005.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2012
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&amp;sni=vpn-us-006.fastervpn.world#🇺🇸US_6|2.9MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?insecure=1#vpn-vn-001.fastervpn.world%3A443
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443/?insecure=1&sni=vpn-vn-001.fastervpn.world#%F0%9F%8E%8868@oneclickvpnkeys
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443/?insecure=1&sni=vpn-vn-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AVN
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
 hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/@warphiddify?sni=speedtest.realityforus.com#de-mtn-@warphiddify
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp1.mangshe.xyz:2052?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%94%B037@oneclickvpnkeys
