@@ -59,6 +59,7 @@ hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F9%40oneclickvpnkeys
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=🔒
 hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%E8%8D%B7%E5%85%B0_050318779
+hysteria2://DBUklcvOyH@45.81.19.251:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=1&sni=web.bale.ai#@GozargahAzad|🇮🇷
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2056?security=tls&insecure=1&sni=hdlb1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2052/?insecure=1&sni=hdlb1.mangshe.xyz#%F0%9F%94%B028%40oneclickvpnkeys
 hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34006/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1#%40V2rayMiner
@@ -83,4 +84,3 @@ hy2://f6e4b19a3110d19d@hys4.freelines.net:443?insecure=1&obfs=salamander&obfs-pa
 hy2://f6e4b19a3110d19d@hys4.freelines.net:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%E2%9A%9C%EF%B8%8F5%40oneclickvpnkeys
 hy2://cih$phu-rlMofru7i4r9@hys6.freelines.net:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=cih%24phu-rlMofru7i4r9#irancpi_hys6
 hy2://9ijufI4LW_ehlst!Pho-@hys7.freelines.net:443?insecure=1&obfs=salamander&obfs-password=9ijufI4LW_ehlst%21Pho-&sni=google.com#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2095.179.150.22%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%2087bd9
-hy2://9ijufI4LW_ehlst!Pho-@hys7.freelines.net:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=9ijufI4LW_ehlst%21Pho-#Irancpi_hys7
