@@ -1,3 +1,5 @@
+hy2://96cad374-7573-4463-8804-4665c2c3d932@217.142.191.118:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@217.142.225.38:443?insecure=1&sni=www.bing.com#🔒
 hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamander&obfs-password=vpnxw#🔒
 hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#🔒
 hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3041?sni=uk.bydk.xyz#🔒
@@ -58,8 +60,6 @@ hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a:36400]:443?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20882252
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a:35000]:443?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20350739
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.133.160.228:443?insecure=1&fp=&sni=vpn-us-003.fastervpn.world&obfs=&obfs-password=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20652508%7C1.1MB/s
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.139.104.42:443?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%81%20%E6%9C%AA%E7%9F%A5-5332D214%7C1.0MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.147.128.254:443?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.2MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.148.210.38:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20640632
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
