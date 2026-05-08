@@ -26,7 +26,7 @@ hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443?sni=dxobg4azmk.g
 hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://sysadmin.sysadmin@107.172.5.215:443?insecure=1#🔒
 hy2://sysadmin.sysadmin@107.172.83.214:8443?insecure=1&sni=a.jcchen.cfd#🔒
-hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20697499
+hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20952777
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@107.175.34.118:10003?sni=US.1010520.shop#🔒
 hy2://sharecentrepro@107.175.54.114:4433?insecure=1&sni=#🔒
 hy2://sharecentrepro@107.175.54.114:4433/?insecure=1&sni=us.sharecentrepro.link#%40v2rayserverfreenet%20
@@ -88,4 +88,3 @@ hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.154.233.123:35000?insecure=1&sni=
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@129.154.234.42:30102?insecure=1&sni=in5.wish.ml#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒
-hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
