@@ -75,7 +75,7 @@ hy2://3119106b-df7c-4a28-af3d-88af9dbea193@141.195.112.28:9988?insecure=1#🔒
 hy2://3119106b-df7c-4a28-af3d-88af9dbea193@141.195.112.28:9988/?insecure=1#%E2%80%BC%EF%B8%8F4%40oneclickvpnkeys
 hy2://b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:15090?insecure=1&sni=www.bing.com#🇺🇸US%20|%20hy2%20|%20@TUICity%20|%201
 hy2://sysadmin.sysadmin@142.171.194.167:443?insecure=1#🔒
-hysteria2://cca70979-4f99-449b-9a01-a3ad8d3d4481@142.171.241.143:41555?insecure=1#🌐سرور
+hysteria2://cca70979-4f99-449b-9a01-a3ad8d3d4481@142.171.241.143:41555?insecure=1#
 hy2://4984806b-f0f9-4749-bdd5-ea38bd690270@142.171.30.222:19987?insecure=1#🔒
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@142.93.215.128:10001?sni=IN.1010520.shop#🔒
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@142.93.39.217:10001?sni=uk.1010520.shop#🔒
