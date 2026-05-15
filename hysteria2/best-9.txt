@@ -51,7 +51,7 @@ hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMin
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hkmax01.376897.xyz:8080?sni=hkmax01.376897.xyz#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2003%20TG%3A%20%40nodpai
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hkmax02.352343.cc:8080?insecure=1&sni=hkmax02.352343.cc#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2005%20TG%3A%20%40nodpai
-hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hkmax03.476579.xyz:8080?sni=hkmax03.476579.xyz#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2003%20TG%3A%20%40nodpai
+hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hkmax03.476579.xyz:8080?sni=hkmax03.476579.xyz#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C1.1MB%2Fs%7CGPT%E2%81%BA%7CYT-SG%7CNF%7CGM%7C1%25
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hkmax06.767887.xyz:8080?sni=hkmax06.767887.xyz#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2003%20TG%3A%20%40nodpai
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2001
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hyfnjp01.156786.xyz:60000?sni=hyfnjp01.156786.xyz&obfs=salamander&obfs-password=ZTBjNDA0YTVhNTFkMzFlOQ==#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2002%20TG%3A%20%40nodpai
