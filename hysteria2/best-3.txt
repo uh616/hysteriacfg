@@ -52,7 +52,6 @@ hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://sysadmin.sysadmin@154.7.183.57:443?insecure=1#🔒
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@154.83.84.58:443?sni=s488.ccgfw.online#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1.5MB%2Fs%7CGPT%E2%81%BA%7CYT-HK%7CNF%7CD%2B%7C5%25
 hy2://a741df90@156.229.163.98:22222?insecure=1&sni=www.bing.com#🔒
 hy2://HK-CN2.2454lksdgfhdkgndh@156.251.248.197:443?sni=hk.world--speed.com#🔒
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒
@@ -91,3 +90,4 @@ hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.164.187:2052?insecure=1&sni=us
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052/?insecure=1&sni=fr1.xiaoliyu.us#fr%40oneclickvpnkeys
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒
+hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com#🔒
