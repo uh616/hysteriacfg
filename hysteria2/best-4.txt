@@ -54,7 +54,7 @@ hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=sala
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.102.14:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8%20%231
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.102.14:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.102.14:443/?insecure=1&sni=https://t.me/WangCai2#SG_@WangCai_8
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@18.179.16.135:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_135%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@18.179.58.237:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.179.58.237:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_237%20%40wangcai_8
