@@ -40,7 +40,7 @@ hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=ELiV2ray.Elena.expert
 hy2://0e2c8be1-f36b-477c-b808-8e429fa6357b@112.120.131.125:543/?insecure=1&amp;sni=hktv03.outleft-hy.xyz&amp;obfs=salamander&amp;obfs-password=YjcwMDNiMDhhZWU1OTU4MA==#🎡64@oneclickvpnkeys
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@112.120.54.171:443?mport=22000-22999#🔒
 hy2://9a714ec6-40b8-4ab6-9e95-05846c812661@114.41.2.71:24231?insecure=1&sni=ddns.200566.xyz#🔒
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?insecure=1&sni=116.206.92.109#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2019%20TG%3A%20%40nodpai
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?insecure=1&sni=116.206.92.109#%E6%97%A5%E6%9C%AC_051704022
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@118.163.179.137:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@118.163.179.137:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_137%20%40WangCai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@118.163.179.138:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -91,3 +91,4 @@ hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.112.138.56:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.112.138.56:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇯🇵JP_@WangCai_8
