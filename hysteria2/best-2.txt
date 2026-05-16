@@ -11,7 +11,7 @@ hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.231.162.174:443/?insecure=1&sni=https://t.me/W
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.231.21.110:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8%20%233
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.231.21.110:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇯🇵JP_@WangCai_8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.58.52:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.58.52:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.58.52:443/?insecure=1&sni=https://t.me/WangCai2#SG_@WangCai_8
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@130.162.250.164:443?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@130.61.135.188:30002?insecure=1&sni=www.bing.com#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@130.61.24.219:2052?insecure=1&sni=de1.eyujichang.xyz#🔒
