@@ -19,7 +19,7 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052?insecure=1&sni=de
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052/?insecure=1&sni=de1.xiaoliyu.us#de%40oneclickvpnkeys
 hy2://c8865525-d888-4318-aa77-44ca4c95e88b@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@194.87.69.42:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top&obfs=&obfs-password=#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_051704003
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top&obfs=&obfs-password=#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.6MB/s
 hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20551486
