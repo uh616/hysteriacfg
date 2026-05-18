@@ -3,6 +3,8 @@ hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.201.62.194:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AE%F0%9F%87%B3IN_1%7C1.4MB/s
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.207.27.232:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AE%F0%9F%87%B3IN_%40WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.207.27.232:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.112.192:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@13.231.105.239:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B56%40Antifilterjadid
@@ -89,5 +91,3 @@ hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.21.59.53:2052?insecure=1&sni=ld1.mangshe.xyz#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.22.132.212:2052?insecure=1&sni=sbl.mangshe.xyz#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.22.187.105:30102?insecure=1&sni=br.wish.ml#🔒
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.22.223.153:30102?insecure=1&sni=br2.wish.ml#🔒
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.223.153:30102/?insecure=1#📟87@oneclickvpnkeys
