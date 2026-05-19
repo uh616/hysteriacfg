@@ -1,6 +1,5 @@
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@13.231.105.239:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B56%40Antifilterjadid
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.233.127.26:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AE%F0%9F%87%B3IN_%40WangCai_8
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.233.127.26:443?insecure=1&sni=https://t.me/WangCai2#%F0%9F%87%AE%F0%9F%87%B3IN_%40WangCai_8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.233.132.27:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AE%F0%9F%87%B3IN_%40WangCai_8
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.233.132.27:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@130.162.250.164:443?insecure=1&sni=www.bing.com#🔒
@@ -78,6 +77,7 @@ hy2://4984806b-f0f9-4749-bdd5-ea38bd690270@142.171.30.222:19987?insecure=1#🔒
 hysteria2://54407de7-ef98-4849-b1fb-837a5092d368@142.91.108.122:24869,20000-40000?insecure=1&sni=app-0i.yuetong.online#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2007%20TG%3A%20%40nodpai
 hysteria2://54407de7-ef98-4849-b1fb-837a5092d368@142.91.98.83:33653,20000-40000?insecure=1&sni=up-1mk.yuetong.online#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2001%20TG%3A%20%40nodpai
 hysteria2://54407de7-ef98-4849-b1fb-837a5092d368@142.91.98.83:36129,20000-40000?insecure=1&sni=up-1mk.yuetong.online#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2003%20TG%3A%20%40nodpai
+hysteria2://54407de7-ef98-4849-b1fb-837a5092d368@142.91.98.83:36129,36129,20000-40000?insecure=1&fp=&sni=up-1mk.yuetong.online&obfs=&obfs-password=#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C1.3MB/s
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@142.93.215.128:10001?sni=IN.1010520.shop#🔒
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@142.93.39.217:10001?sni=uk.1010520.shop#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052?insecure=1&sni=es1.xiaoliyu.us#🔒
@@ -89,3 +89,4 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.22.187.105:30102?insecure=1&sni=b
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.22.223.153:30102?insecure=1&sni=br2.wish.ml#🔒
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.223.153:30102/?insecure=1#📟87@oneclickvpnkeys
 hy2://01130e6dda139c1c@144.22.243.213:24749?insecure=1&sni=www.bing.com#🔒
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.24.101.176:30102?insecure=1&sni=in4.wish.ml#🔒
