@@ -213,12 +213,12 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.222.130:30075?insecure=1&sni=
 hysteria2://c76f08e20fb6368b@150.241.77.182:11122?security=tls&obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://hysteria2_fastlane_210pha9tw@150.241.79.106:443?sni=de2.h.fastlanehosting.ru#%F0%9F%AA%B231%40oneclickvpnkeys
 hysteria2://hysteria2_fastlane_210pha9tw%3AvpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935?sni=de2.h.fastlanehosting.ru&insecure=0#
-hysteria2://hysteria2_fastlane_210pha9tw%3AvpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935/?sni=de2.h.fastlanehosting.ru#
+hysteria2://hysteria2_fastlane_210pha9tw%3AvpgCasGegr3TmyztgCbfrGSR2wVre8Rt@150.241.79.106:1935/?sni=de2.h.fastlanehosting.ru#%F0%9F%AA%B231@oneclickvpnkeys
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@150.66.12.23:443?mport=22000-22999#🔒
 hy2://09f8d33b-62ae-4cb4-89eb-00e9570f30a6@151.249.104.35:34623?insecure=1&sni=zula.ir#Rayan%20-%20GAFN%20-%20Hys2%20-%20P1
 hy2://5c33a4b2-7768-4e6c-87a8-a1515d1de609@152.53.0.187:40443/?sni=speedtest.realityforus.com#%F0%9F%87%A6%F0%9F%87%B9Vienna%2B%40Surfboardv2ray
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@152.53.12.152:4433?insecure=1&sni=de3.xiaoliyu.cyou#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2001
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@152.53.12.152:4433/?insecure=1&sni=de3.xiaoliyu.cyou#
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@152.53.12.152:4433/?insecure=1&sni=de3.xiaoliyu.cyou#%F0%9F%9B%A1%EF%B8%8F5@oneclickvpnkeys
 hy2://9d765687-536c-4626-a2e2-6a403219e381@152.53.54.139:30000?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://51ed158e-b95b-451b-a48b-60e356de287d@152.53.54.139:30001?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://91aa5eb5-e257-4885-a591-8ba742c4fcd2@152.53.54.139:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
@@ -313,7 +313,7 @@ hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=www.bing.com#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@178.173.248.172:2052?insecure=1&sni=hk3.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@178.173.248.172:2052/?insecure=1&sni=hk3.xiaoliyu.us#hk%40oneclickvpnkeys
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?sni=www.microsoft.com&insecure=1#DE
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900/?insecure=1&sni=www.microsoft.com#
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900/?insecure=1&sni=www.microsoft.com#%F0%9F%AA%B21@oneclickvpnkeys
 hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443?insecure=1&sni=google.com#🔒
 hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443/?insecure=1&amp;sni=google.com#Hysteria
 hy2://1ce3431c-4e12-432e-a336-ca20c47c2084@178.62.239.35:10001?sni=NL.1010520.shop#🔒
@@ -342,7 +342,7 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=sala
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@185.204.0.117:443?mport=50000-50500&insecure=1&sni=hk1.pithecia.com#🔒
 hy2://782efefcaac2a7f26e2be42f7bc5d75a@185.219.132.29:443?insecure=1&sni=quran.mci.ai#🔒
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%9B%A1%EF%B8%8F7%40oneclickvpnkeys
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%9B%A1%EF%B8%8F7@oneclickvpnkeys
 hy2://w1WaL8WbZf@185.254.96.99:29814?obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej(jshGS5%5E776&insecure=1#🔒
 hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26#%40V2rayMiner
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052?insecure=1&sni=jp1.xiaoliyu.us#🔒
@@ -408,7 +408,7 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&amp;insecure=1&amp;sni=apple.com#🇫🇷
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11:20088]:443?security=tls&insecure=1&sni=apple.com#
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%9B%A1%EF%B8%8F18%40oneclickvpnkeys
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%9B%A1%EF%B8%8F18@oneclickvpnkeys
 hy2://sysadmin.sysadmin@204.216.108.5:2024?insecure=1&sni=204-216-108-5.nip.io#🔒
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?insecure=1&sni=apps.apple.com#🔒
 hy2://sysadmin.sysadmin@206.237.0.170:443?insecure=1#🔒
