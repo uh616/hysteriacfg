@@ -29,7 +29,6 @@ hysteria2://505cb813-5647-4898-918c-cde760d515a8@sg03.459292.xyz:8080?insecure=1
 hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg04.459292.xyz:8080?insecure=1&sni=sg04.459292.xyz#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2006
 hysteria2://10f02d23-1d74-4b6e-b830-815be053281d@sg05.453521.xyz:8080?sni=sg05.453521.xyz#
 hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg06.453521.xyz:8080?insecure=1&sni=sg06.453521.xyz#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2008
-hysteria2://39c2e591-2ebe-4a6f-bea4-803783cd5183@sg11.769970.xyz:8080?insecure=1&sni=sg11.769970.xyz#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai
 hysteria2://c90cedc3-8d7f-4c7d-8bd7-d011d694aef3@sg12.769970.xyz:8080?insecure=1&sni=sg12.769970.xyz#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2005
 hysteria2://3f2d3497-6843-46f1-aa34-5469dc953259@sg13.769970.xyz:8080?insecure=1&sni=sg13.769970.xyz#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2012%20TG%3A%20%40nodpai
 hysteria2://15893455-4d21-4338-a273-01aed1d77fa2@sg15.769970.xyz:8080?insecure=1&sni=sg15.769970.xyz#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
@@ -92,7 +91,6 @@ hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfde.9966690.xyz:60005?insecure
 hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfde.9966690.xyz:60010?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2006%20TG%3A%20%40nodpai
 hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfde.9966690.xyz:60020?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A==#B%20-%20%F0%9F%87%AF%F0%9F%87%B5%20JP%2007%20TG%3A%20%40nodpai
 hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfde.9966690.xyz:60045?insecure=1&sni=zfde.9966690.xyz&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A==#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2008%20TG%3A%20%40nodpai
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfin.9966690.xyz:60008?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2010%20TG%3A%20%40nodpai
 hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfin.9966690.xyz:60043?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A==#B%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2035%20TG%3A%20%40nodpai
 hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfusp.9966690.xyz:60004?insecure=1&sni=zfusp.9966690.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZFAwYjIwNA==#C%20-%20%F0%9F%87%BA%F0%9F%87%B8%20US%2046%20TG%3A%20%40nodpai
 hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfusp.9966690.xyz:60009?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zfusp.9966690.xyz#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2024
