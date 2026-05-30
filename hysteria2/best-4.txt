@@ -1,3 +1,4 @@
+hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
@@ -85,4 +86,3 @@ hy2://sysadmin.12345678@192.227.247.92:2025?insecure=1#🔒
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.130.218:443?insecure=1&sni=www.bing.com#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@192.9.159.141:30001?insecure=1&sni=san-jose2.nodes.lanmaoyun.icu#🔒
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.164.54:443?insecure=1&sni=www.bing.com#🔒
