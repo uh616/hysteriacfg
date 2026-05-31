@@ -17,7 +17,7 @@ hysteria2://KevinZakarian@kevin.serverv.net:443?obfs=salamander&amp;obfs-passwor
 hysteria2://KevinZakarian@kevin.serverv.net:8443?&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=KevinZakarian#KevinVPN
 hysteria2://KevinZakaria#
 hysteria2://KevinZakaria…#
-hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@kh2.yuntong.click:443?insecure=0&fp=&sni=kh2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E6%9F%AC%E5%9F%94%E5%AF%A8_053119001
+hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@kh2.yuntong.click:443?insecure=0&fp=&sni=kh2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@kr.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2056?security=tls&insecure=1&sni=ld1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇬🇧%20GB%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2052/?insecure=1&sni=ld1.mangshe.xyz#%F0%9F%94%B02%40oneclickvpnkeys
@@ -46,7 +46,6 @@ hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@sg-02.worldfirst.eu.org:44300?insecur
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@sg-02.worldfirst.eu.org:44300/?insecure=1&sni=sg-02.worldfirst.eu.org#%E2%9A%9C%EF%B8%8F1%40oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://10f02d23-1d74-4b6e-b830-815be053281d@sg05.453521.xyz:8080?sni=sg05.453521.xyz#
-hysteria2://d71ef28f-e643-4180-a71c-a6287fb362da@sg06.453521.xyz:8080?sni=sg06.453521.xyz#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C2.5MB%2Fs%7CGPT%E2%81%BA%7CYT-SG%7CNF%7CGM%7C3%25
 hysteria2://73e2715b-9f07-41ae-a134-8d5ef82cd01d@sg2.yuntong.click:443?insecure=0&sni=sg2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://15893455-4d21-4338-a273-01aed1d77fa2@sg21.453521.xyz:8080?sni=sg21.453521.xyz#
@@ -78,7 +77,7 @@ hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMine
 hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://xyk5qkzq731vqp6n@uswp.zlr.dpdns.org:15861?sni=uswp.zlr.dpdns.org#
-hysteria2://t8667063839@vids.jibijij.top:443?insecure=1&sni=bts.com&obfs=salamander&obfs-password=OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2#
+hysteria2://t8667063839@vids.jibijij.top:443?insecure=1&sni=bts.com&obfs=salamander&obfs-password=OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2#IPv4.%40Vasl_b
 hy2://t8667063839:6vKyNTx3vuJeAGEpoJtE6gauKZ5OPiok@vids.jibijij.top:27039?obfs=salamander&obfs-password=OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2&pinSHA256=D4:21:07:A8:C0:73:FB:35:55:78:4A:82:CD:26:20:A5:1B:81:1F:92:56:EB:39:B1:B9:65:4A:39:B5:95:06:58&sni=bts.com&insecure=1#IPv4.@Vasl_b
 hysteria2://5bd0aef8-00b2-42c2-b3af-15fe0a07e6ed@vn2.yuntong.click:443?insecure=0&sni=vn2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
