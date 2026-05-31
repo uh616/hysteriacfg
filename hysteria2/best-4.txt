@@ -51,12 +51,12 @@ hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-
 hysteria2://Masir_Sefid@18.157.100.78:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#
 hysteria2://Masir_Sefid@18.157.100.78:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#
 hysteria2://Masir_Sefid@18.157.100.78:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#
-hysteria2://Masir_Sefid@18.157.100.78:4040?security=tls&insecure=0&obfs=salamander&obfs-password=Masir_Sefid#
+hysteria2://Masir_Sefid@18.157.100.78:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#
 hysteria2://Masir_Sefid@18.157.100.78:8880?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
-hysteria2://Masir_Sefid@18.157.100.78:54040?security=tls&insecure=0&obfs=salamander&obfs-password=Masir_Sefid#
+hysteria2://Masir_Sefid@18.157.100.78:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#
 hysteria2://Masir_Sefid@18.159.104.97:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
-hysteria2://Masir_Sefid@18.159.104.97:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#
-hysteria2://Masir_Sefid@18.159.104.97:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#
+hysteria2://Masir_Sefid@18.159.104.97:444?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#
+hysteria2://Masir_Sefid@18.159.104.97:1040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@18.159.104.97:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#
 hysteria2://Masir_Sefid@18.159.104.97:8880?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@18.159.104.97:54040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
