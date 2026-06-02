@@ -1,3 +1,12 @@
+hysteria2://Masir_Sefid@18.194.238.82:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%F0%9F%8C%90All--%40V2rayAlpha--4
+hysteria2://Masir_Sefid@18.194.238.82:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%F0%9F%8C%90All--%40V2rayAlpha--5
+hysteria2://Masir_Sefid@18.194.238.82:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%F0%9F%8C%90All--%40V2rayAlpha--3
+hysteria2://Masir_Sefid@18.194.238.82:54040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#Echo_Center
+hysteria2://Masir_Sefid@18.196.180.90:444?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%9A%80%40V2ray_official
+hysteria2://Masir_Sefid@18.198.106.153:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA43362%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO
+hysteria2://Masir_Sefid@18.198.106.153:444?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA43363%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO
+hysteria2://Masir_Sefid@18.198.106.153:1040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA43365%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO
+hysteria2://Masir_Sefid@18.198.106.153:4040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA43366%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO
 hysteria2://Masir_Sefid@18.198.106.153:8880?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA43364%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO
 hysteria2://Masir_Sefid@18.198.106.153:54040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA43367%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
@@ -7,6 +16,7 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@185.14.47.28:30024?insecure=1&sni=www
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@185.204.0.117:443?mport=50000-50500&insecure=1&sni=hk1.pithecia.com#🔒
 hy2://782efefcaac2a7f26e2be42f7bc5d75a@185.219.132.29:443?insecure=1&sni=quran.mci.ai#🔒
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20753960
 hy2://w1WaL8WbZf@185.254.96.99:29814?obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej(jshGS5%5E776&insecure=1#🔒
 hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26#%40V2rayMiner
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052?insecure=1&sni=jp1.xiaoliyu.us#🔒
@@ -66,7 +76,6 @@ hy2://scWFJKJ5Y6Ly@[2001:41d0:c:fdb::e9]:443?insecure=1&sni=yahoo.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1640:177d:dc00:ff:fe22:b443]:34975?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:29820?insecure=1&sni=www.bing.com#🔒
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&amp;insecure=1&amp;sni=apple.com#🇫🇷
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20566105
 hy2://sysadmin.sysadmin@204.216.108.5:2024?insecure=1&sni=204-216-108-5.nip.io#🔒
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?insecure=1&sni=apps.apple.com#🔒
 hy2://sysadmin.sysadmin@206.237.0.170:443?insecure=1#🔒
@@ -77,11 +86,3 @@ hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afs
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 hy2://9bb452b106ffc217@207.148.22.93:443?obfs=salamander&obfs-password=cd29099d&insecure=1#🔒
-hy2://9bb452b106ffc217@207.148.22.93:443/?obfs=salamander&obfs-password=cd29099d&insecure=1#CPI2
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.164.255:30102?insecure=1&sni=us11.wish.ml#🔒
-hy2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.166.131:443?insecure=1&sni=www.bing.com#🔒
-hy2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.175.16:443?insecure=1&sni=www.bing.com#🔒
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.176.63:30102?insecure=1&sni=us13.wish.ml#🔒
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.178.161:30102?insecure=1&sni=us6.wish.ml#🔒
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.189.252:30102?insecure=1&sni=us12.wish.ml#🔒
-hy2://f6e4b19a3110d19d@207.246.124.135:443?insecure=1&obfs=salamander&obfs-password=8c3ce17b&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2066.135.28.59%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vivint%20Wireless,%20Inc.%20%E2%97%88%20cd010
