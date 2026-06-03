@@ -1,3 +1,4 @@
+hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443/?insecure=1&amp;sni=google.com#Hysteria
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@146.56.112.227:37894?insecure=1&sni=www.bing.com#🔒
 hy2://f0c28384-b2bd-4911-be81-0f2a3131b9ea@146.56.116.145:55228?insecure=1&sni=bing.com#🔒
 hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@146.56.164.36:443?security=tls&amp;insecure=1&amp;mport=35000-39000&amp;sni=api.push.apple.com#All-@ARGO_VPN1
@@ -15,7 +16,7 @@ hy2://sysadmin.sysadmin@148.135.59.9:446?insecure=1#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102?insecure=1&sni=us9.wish.ml#🔒
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@149.28.71.141:8080?sni=jp1.trojanws.xyz#🔒
 hysteria2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@14in.prometheusnet01.xyz:24149?insecure=1&obfs=none&mport=21000-26000&fastopen=1#🆔freev2rayi%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
-hysteria2://bc7c7c10-8f24-332e-b303-fb3c8943c24f@150.129.10.140:443?sni=u712927us614.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_060306033
+hysteria2://bc7c7c10-8f24-332e-b303-fb3c8943c24f@150.129.10.140:443?sni=u712927us614.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_060311010
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.136.65.4:2052?insecure=1&sni=asb1.mangshe.xyz#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@150.230.192.191:30001?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj1.mangshe.xyz#🔒
@@ -50,13 +51,12 @@ hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://sysadmin.sysadmin@154.7.183.57:443?insecure=1#🔒
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20661803
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20824559
 hy2://a741df90@156.229.163.98:22222?insecure=1&sni=www.bing.com#🔒
 hy2://HK-CN2.2454lksdgfhdkgndh@156.251.248.197:443?sni=hk.world--speed.com#🔒
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒
 hy2://a7a51295@156.254.115.124:55134?insecure=1&sni=www.bing.com#🔒
 hy2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=con.bitplatform-servers.com#🔒
-hysteria2://68cf2e7761c240d9ba4c31f99ab37a9f@157.22.241.242:443?security=tls&amp;insecure=0&amp;sni=157.22.241.242#%E7%BE%8E%E5%9B%BD_0603063057
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@157.245.198.38:10001?sni=AU.1010520.shop#🔒
 hy2://18d4bcb1-dfab-4af2-b2cb-f8e61384da22@157.254.158.7:10429?sni=gpt.nai3.cc#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-157.254.158.7:10429
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@157.254.158.7:33133?sni=akile.nai3.cc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
@@ -76,6 +76,7 @@ hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773?insecure=1&sni=h0
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773/?insecure=1&sni=h01.trojan.tel#%E2%9A%9312%40oneclickvpnkeys
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
+hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@158.247.196.19:443?sni=u716087us1311.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E9%9F%A9%E5%9B%BD_060311277
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
