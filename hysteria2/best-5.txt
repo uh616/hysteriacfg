@@ -35,11 +35,11 @@ hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@194.87.69.42:7660?obfs=salamander&obf
 hysteria2://Masir_Sefid@195.15.201.177:443?insecure=1&sni=free2.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A8%F0%9F%87%ADCH-%F0%9F%9A%80%40VPNine1
 hysteria2://Masir_Sefid@195.15.253.119:443?insecure=0&sni=free2.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%40vmesskhodam%20%231
 hysteria2://Masir_Sefid@195.15.253.119:444?insecure=0&fp=&sni=free2.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A8%F0%9F%87%ADCH_3%7C2.5MB/s
-hysteria2://Masir_Sefid@195.15.253.119:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20535399
-hysteria2://Masir_Sefid@195.15.253.119:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20721621
+hysteria2://Masir_Sefid@195.15.253.119:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#%40%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AB_%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9D%F0%9F%95%8A%F0%9F%87%A8%F0%9F%87%AD%284%29
+hysteria2://Masir_Sefid@195.15.253.119:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#%40%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AB_%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9D%F0%9F%95%8A%F0%9F%87%A8%F0%9F%87%AD%285%29
 hysteria2://Masir_Sefid@195.15.253.119:8880?insecure=0&fp=&sni=free2.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A8%F0%9F%87%ADCH_2%7C1.8MB/s
-hysteria2://Masir_Sefid@195.15.253.119:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20526496
-hysteria2://Masir_Sefid@195.15.253.119:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20135870
+hysteria2://Masir_Sefid@195.15.253.119:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#%40%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AB_%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9D%F0%9F%95%8A%F0%9F%87%A8%F0%9F%87%AD%287%29
+hysteria2://Masir_Sefid@195.15.253.119:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free2.masir-sefid-1.my#%40%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AB_%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9D%F0%9F%95%8A%F0%9F%87%A8%F0%9F%87%AD%286%29
 hysteria2://Masir_Sefid@195.15.254.245:443?insecure=0&sni=free.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#internet_azad_2026
 hysteria2://Masir_Sefid@195.15.254.245:444?insecure=0&sni=free.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%237
 hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
