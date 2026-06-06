@@ -52,7 +52,6 @@ hy2://sysadmin.sysadmin@154.12.61.72:2053?insecure=1&sni=hk1.helima.net#🔒
 hy2://5d888ac5@154.12.93.29:23835?insecure=1#🔒
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@154.16.183.55:30102/?insecure=1#🎡69@oneclickvpnkeys
 hy2://6cae5bc7-8832-45bd-809c-02ced9ce6172@154.16.248.155:22206?insecure=1#🔒
-hysteria2://72aaf68b-fca5-48fa-9ba3-b0a6fb9990d2@154.16.248.199:37292?insecure=1&sni=akjp.fe-9.top&fastopen=1#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.5MB%2Fs%7CGPT%E2%81%BA%7CYT-JP%7CGM%7C0%25
 hy2://1bd496a4@154.16.27.143:5433?insecure=1&sni=www.bing.com#🔒
 hy2://1bd496a4@154.16.27.143:5433/?insecure=1&sni=ELiV2RAY.ELENA.expert#us-mci-eliv2ray
 hy2://sysadmin.sysadmin@154.201.76.131:444?insecure=1&sni=ss.wodeyumingliao.top#🔒
@@ -86,3 +85,4 @@ hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773?insecure=1&sni=h0
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773/?insecure=1&sni=h01.trojan.tel#%E2%9A%9312%40oneclickvpnkeys
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
+hysteria2://1c65bee4-bc54-364c-8988-6a5912fda891@158.247.196.19:443?sni=u723829us1311.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E9%9F%A9%E5%9B%BD_060615270
