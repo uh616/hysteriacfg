@@ -21,7 +21,7 @@ hy2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com
 hy2://dongtaiwang.com@104.192.224.140:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x3%40oneclickvpnkeys
 hy2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#🔒
 hy2://dongtaiwang.com@104.192.224.141:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x4%40oneclickvpnkeys
-hysteria2://1g4quompn4f49wn9@104.253.25.160:8443?alpn=h2%2Chttp%2F1.1%2Ch3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22hnig8m946a2rl0ll%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=random&obfs=salamander&obfs-password=hnig8m946a2rl0ll&security=tls&sni=104.253.25.160#
+hysteria2://1g4quompn4f49wn9@104.253.25.160:8443?alpn=h2%2Chttp/1.1%2Ch3&fp=chrome&sni=104.253.25.160&obfs=salamander&obfs-password=hnig8m946a2rl0ll#%F0%9F%87%BA%F0%9F%87%B857237%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO
 hysteria2://Telegram%3A%40KevinZakarian@104.36.86.57:8443?security=tls&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1&sni=Telegram+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN#🆔v2rayngrit%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@107.172.235.75:40443?sni=speedtest.realityforus.com#🔒
 hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443?sni=dxobg4azmk.gafnode.sbs#🔒
