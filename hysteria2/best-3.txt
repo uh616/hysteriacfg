@@ -1,3 +1,4 @@
+hy2://01130e6dda139c1c@144.22.243.213:24749?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.24.101.176:30102?insecure=1&sni=in4.wish.ml#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@144.24.129.30:2052?insecure=1&sni=ch1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@144.24.129.30:2052/?insecure=1&sni=ch1.xiaoliyu.us#ch%40oneclickvpnkeys
@@ -27,7 +28,7 @@ hy2://sysadmin.sysadmin@148.135.59.9:446?insecure=1#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102?insecure=1&sni=us9.wish.ml#🔒
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@149.28.71.141:8080?sni=jp1.trojanws.xyz#🔒
 hysteria2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@14in.prometheusnet01.xyz:24149?insecure=1&obfs=none&mport=21000-26000&fastopen=1#🆔freev2rayi%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
-hysteria2://1c65bee4-bc54-364c-8988-6a5912fda891@150.129.10.140:443?sni=u723829us614.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_060805607
+hysteria2://1c65bee4-bc54-364c-8988-6a5912fda891@150.129.10.140:443?sni=u723829us614.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_060811612
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.136.65.4:2052?insecure=1&sni=asb1.mangshe.xyz#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@150.230.192.191:30001?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj1.mangshe.xyz#🔒
@@ -63,6 +64,7 @@ hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://sysadmin.sysadmin@154.7.183.57:443?insecure=1#🔒
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#US
+hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?insecure=1#%F0%9F%87%BA%F0%9F%87%B8US%20%20ROSE%E2%80%9
 hy2://a741df90@156.229.163.98:22222?insecure=1&sni=www.bing.com#🔒
 hy2://HK-CN2.2454lksdgfhdkgndh@156.251.248.197:443?sni=hk.world--speed.com#🔒
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒
@@ -83,6 +85,3 @@ hy2://2d347be7-909b-4410-af92-95a1abf7e531@158.179.18.251:35000?insecure=1&sni=a
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.179.214.33:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇪🇸%20ES%20down
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@158.180.69.174:52773?insecure=1&sni=h02.trojan.tel#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@158.180.69.229:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
-hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773?insecure=1&sni=h01.trojan.tel#%F0%9F%87%B0%F0%9F%87%B7%20Korea,%20Republic%20of%20-%20Chuncheon%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
-hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773/?insecure=1&sni=h01.trojan.tel#%E2%9A%9312%40oneclickvpnkeys
-hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#🔒
