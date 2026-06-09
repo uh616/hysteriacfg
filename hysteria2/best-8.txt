@@ -15,7 +15,6 @@ hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20F
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7h2%40oneclickvpnkeys
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.29.98:64772?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C1.0MB/s
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@62.72.163.215:80?insecure=1#🔒
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=1&sni=www.bing.com#🔒
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@64.181.236.144:443?insecure=1&sni=www.bing.com#🔒
@@ -87,3 +86,4 @@ hysteria2://Masir_Sefid@84.234.31.190:1040?insecure=0&sni=free3.masir-sefid-1.my
 hysteria2://Masir_Sefid@84.234.31.190:4040?insecure=0&sni=free3.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@84.234.31.190:8880?insecure=0&sni=free3.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@84.234.31.190:54040?insecure=0&sni=free3.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
+hy2://03e4fe32@84.235.246.199:31452?insecure=1&sni=www.bing.com#🔒
