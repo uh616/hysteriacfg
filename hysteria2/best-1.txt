@@ -37,7 +37,7 @@ hy2://sysadmin.sysadmin@108.174.197.101:443?insecure=1#🔒
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@108.181.23.231:443?security=tls&insecure=1&mport=50000-53000&sni=www.microsoft.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=109.104.152.89#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20109.104.152.89%20%E2%97%88%20udp:22441%20%E2%97%88%20BrainStorm%20Network,%20Inc%20/%20Oneprovider.com%20%E2%97%88%20c1a9e
 hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=ELiV2ray.Elena.expert#🇳🇱MTN-ELi
-hy2://0e2c8be1-f36b-477c-b808-8e429fa6357b@112.120.131.125:543/?insecure=1&amp;sni=hktv03.outleft-hy.xyz&amp;obfs=salamander&amp;obfs-password=YjcwMDNiMDhhZWU1OTU4MA==#ūüé°64@oneclickvpnkeys
+hy2://0e2c8be1-f36b-477c-b808-8e429fa6357b@112.120.131.125:543/?insecure=1&amp;sni=hktv03.outleft-hy.xyz&amp;obfs=salamander&amp;obfs-password=YjcwMDNiMDhhZWU1OTU4MA==#🎡64@oneclickvpnkeys
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@112.120.54.171:443?mport=22000-22999#🔒
 hy2://9a714ec6-40b8-4ab6-9e95-05846c812661@114.41.2.71:24231?insecure=1&sni=ddns.200566.xyz#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@118.163.179.137:3074?insecure=1&sni=TG.%40WangCai2#🔒
