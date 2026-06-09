@@ -48,7 +48,7 @@ hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@152.70.80.122:30001?insecure=1&sni=os
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@153.122.189.46:443?mport=30001-40000&insecure=1&sni=bing.com#🔒
 hy2://sysadmin.sysadmin@154.12.61.72:2053?insecure=1&sni=hk1.helima.net#🔒
 hy2://5d888ac5@154.12.93.29:23835?insecure=1#🔒
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@154.16.183.55:30102/?insecure=1#ūüé°69@oneclickvpnkeys
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@154.16.183.55:30102/?insecure=1#🎡69@oneclickvpnkeys
 hy2://6cae5bc7-8832-45bd-809c-02ced9ce6172@154.16.248.155:22206?insecure=1#🔒
 hy2://1bd496a4@154.16.27.143:5433?insecure=1&sni=www.bing.com#🔒
 hy2://1bd496a4@154.16.27.143:5433/?insecure=1&sni=ELiV2RAY.ELENA.expert#us-mci-eliv2ray
