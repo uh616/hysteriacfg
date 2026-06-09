@@ -43,7 +43,7 @@ hy2://KevinZakarian@[2606:a8c0:101:86::a]:443?obfs=salamander&obfs-password=Kevi
 hy2://KevinZakarian@[2606:a8c0:101:86::a]:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=kevin.serverv.net#🔒
 hy2://8bd4cc567f2845c1@[2a01:4f8:200:8095::7]:45176?insecure=1&sni=www.bing.com#🔒
 hy2://7008iSe44g5ddtr4a5621r32o@[2a01:4f8:c012:1ec6::1]:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
-hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#ūüáęūüáģ
+hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇮
 hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@[2a01:4f9:c012:c28b::1]:34882?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#🔒
 hy2://1YyXyfUGI0@[2a03:6f00:a::2125]:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#🔒
 hy2://nRSmYP828VP1UwxlAnWEbmEtlLSH5SE7@[2a03:6f00:a::30d3]:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#🔒
@@ -61,7 +61,7 @@ hy2://81ea378b37931b23@[2a12:5940:72da::2]:7373?obfs=salamander&obfs-password=7d
 hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f809a60274316cdd&insecure=1&sni=www.google.com#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
-hysteria2://5z15av99psrlhdqp@32.195.51.20:39150?alpn=h3%2Chttp/1.1%2Ch2&fp=chrome&sni=&obfs=salamander&obfs-password=dlxmzvxvcp3i6v0e#%40GozargahAzad%7C%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://5z15av99psrlhdqp@32.195.51.20:39150?alpn=h3%2Chttp/1.1%2Ch2&fp=chrome&sni=32.195.51.20&obfs=salamander&obfs-password=dlxmzvxvcp3i6v0e#%F0%9F%87%BA%F0%9F%87%B859409%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@35.72.184.29:3074?insecure=1&sni=TG.%40WangCai2#🔒
