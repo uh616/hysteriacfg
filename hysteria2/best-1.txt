@@ -11,7 +11,7 @@ hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
 hy2://9d765687-536c-4626-a2e2-6a403219e381@103.253.36.252:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=google.com#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443/?insecure=1&amp;sni=google.com#Hysteria
-hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#%F0%9F%87%B7%F0%9F%87%BA61803%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#
 hy2://sysadmin.sysadmin@104.168.102.17:443?insecure=1#🔒
 hy2://910398c0493d2d9d@104.168.128.162:57635?insecure=1#🔒
 hy2://public.vahshiestmeow3@104.168.128.173:443?insecure=1&sni=google.com#🔒
@@ -94,4 +94,3 @@ hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@13.231.105.239:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B56%40Antifilterjadid
-hy2://e169856c-7c19-4908-9bdf-448dc846163a@130.162.250.164:443?insecure=1&sni=www.bing.com#🔒
