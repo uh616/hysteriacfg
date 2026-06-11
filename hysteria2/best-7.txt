@@ -47,8 +47,8 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salaman
 hysteria2://9f5ce1f6-d223-4f80-b848-72b7d662f189@5.39.202.94:443?sni=cz2.helper-internet.com&pinSHA256=random#
 hy2://4733f66a-4326-4046-b7b0-fc3f55c15283@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@5.39.254.34:5128?obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D&insecure=1#🔒
-hysteria2://miaoge110@5.45.100.100:51511?insecure=1&sni=www.bing.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20597020
-hysteria2://miaoge110@5.45.100.100:51511/?insecure=1&sni=www.bing.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20301985
+hysteria2://miaoge110@5.45.100.100:51511?insecure=1&sni=www.bing.com#
+hysteria2://miaoge110@5.45.100.100:51511/?insecure=1&sni=www.bing.com#
 hy2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&insecure=1&sni=vkvd127.mycdn.me#🔒
 hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#🔒
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com#⚡️
