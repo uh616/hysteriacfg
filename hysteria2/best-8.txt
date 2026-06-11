@@ -8,8 +8,8 @@ hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@60.249.35.96:3074
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.96:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B024%40oneclickvpnkeys
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Plaisir%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7h2%40oneclickvpnkeys
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20644913
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20584167
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@62.72.163.215:80?insecure=1#🔒
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=1&sni=www.bing.com#🔒
 hysteria2://80deaf6e-6747-35f1-848e-b8e8aeb8b2fa@64.177.68.199:443?sni=u727887us1687.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E7%BE%8E%E5%9B%BD_061202284
@@ -79,7 +79,7 @@ hy2://f206702e@82.152.142.68:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.69:3341?insecure=1&sni=www.bing.com#🔒
 hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@82.47.22.163:443?sni=u723828us372.okgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8B%B1%E5%9B%BD_061202909
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒
-hysteria2://Masir_Sefid@84.234.28.207:443?insecure=0&sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%236
+hysteria2://Masir_Sefid@84.234.28.207:443?insecure=0&sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@84.234.29.238:443?insecure=0&sni=Api.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%237
 hysteria2://Masir_Sefid@84.234.31.190:1040?insecure=0&sni=free3.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://Masir_Sefid@84.234.31.190:4040?insecure=0&sni=free3.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#
