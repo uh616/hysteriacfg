@@ -61,7 +61,7 @@ hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@31.56.197.205:13337?sni=h2.mtproxy-hub.org&obfs=salamander&obfs-password=killmebaby#
-hysteria2://80deaf6e-6747-35f1-848e-b8e8aeb8b2fa@31.59.129.225:443?sni=u727887us1218.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_061205035
+hysteria2://80deaf6e-6747-35f1-848e-b8e8aeb8b2fa@31.59.129.225:443?sni=u727887us1218.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_061210036
 hysteria2://5z15av99psrlhdqp@32.195.51.20:39150?alpn=h3%2Chttp%2F1.1%2Ch2&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22dlxmzvxvcp3i6v0e%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=dlxmzvxvcp3i6v0e&security=tls&sni=32.195.51.20#
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
