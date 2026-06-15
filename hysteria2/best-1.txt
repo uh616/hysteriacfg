@@ -17,7 +17,7 @@ hy2://910398c0493d2d9d@104.168.128.162:57635?insecure=1#🔒
 hy2://public.vahshiestmeow3@104.168.128.173:443?insecure=1&sni=google.com#🔒
 hy2://public.vahshiestmeow3@104.168.128.173:443/?insecure=1&amp;sni=google.com#@V2meowcf
 hy2://bc19ee74-433d-4c34-be4b-67f969a2bb57@104.168.128.219:10002?insecure=1#🔒
-hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@104.168.76.175:443?sni=u723828us175.ayxj.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E7%BE%8E%E5%9B%BD_0615113899
+hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@104.168.76.175:443?sni=u723828us175.ayxj.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E7%BE%8E%E5%9B%BD_0615183901
 hy2://dongtaiwang.com@104.192.224.140:40391?insecure=1&sni=www.bing.com
 hy2://dongtaiwang.com@104.192.224.140:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x3%40oneclickvpnkeys
 hy2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#🔒
