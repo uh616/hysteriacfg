@@ -1,3 +1,5 @@
+hy2://5046SHWqk6@91.132.51.160:844/#%F0%9F%87%A6%F0%9F%87%AAAE%28AzadNet.t.me%29
+hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@91.149.203.106:2056?insecure=1&sni=uk1.xiaoliyu.us#🔒
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@91.149.203.119:443?insecure=1&sni=api.push.apple.com#🔒
 hy2://p6FfuI684f@91.184.242.252:443?insecure=1&sni=www.whatsapp.com&obfs=salamander&obfs-password=ZHr2aBtNWmYGZ8NnBfjxU7A#🔒
 hy2://9d765687-536c-4626-a2e2-6a403219e381@91.192.81.34:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
@@ -41,8 +43,8 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj2.mangshe.xyz:2052/?insecure=1&sni=
 hysteria2://tYVaOArhcupVmnYggzlDZOuxVceGOSUgpjNhrVkFXJpxmJWFoodlWDwYuFSLgbcoREqRoxEajKiNzRHLIUxWlMtmNvalzYHNKyHS@duckduckv.online:443?sni=duckduckv.online&alpn=h3&obfs=salamander&obfs-password=GaQVRAuv3XIrFqKLqgwmIzTZA2UHX9cHvlicw1aScd9s8qEiRZlAq3UEQCGgkKJXBnIP3fCWHDIMi6CugM5x6ztRPYoqNlSWKVeZ&fastopen=1#@CHANGE_IP1
 hysteria2://e442664a-ff50#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@157.254.158.7:33133/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY?sni=akile.nai3.cc#🇺🇲@ELiV2ray
-hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?alpn=h3%2Ch2%2Chttp/1.1&fp=chrome&sni=www.microsoft.com&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#
+hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?alpn=h3%2Ch2%2Chttp/1.1&fp=chrome&sni=www.microsoft.com&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%E3%80%8E%20%F0%9F%9A%80%20%E3%80%8F
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2056?security=tls&insecure=1&sni=fhc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#%F0%9F%94%B020%40oneclickvpnkeys
@@ -92,5 +94,3 @@ hy2://sTeki1$re5!8swohopro@hys9.freelines.net:443/?insecure=1&sni=google.com&obf
 hy2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#%E2%9A%934%40oneclickvpnkeys
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@KAFING_2
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#@KAFING_2
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=jnir.pichondan.com#@rxv2ray
