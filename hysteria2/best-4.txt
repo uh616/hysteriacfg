@@ -93,4 +93,4 @@ hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102?insecure=1&sni=du.wish.ml#🔒
 hy2://03e4fe32@193.123.95.157:31452?insecure=1&sni=www.bing.com#🔒
 hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&amp;sni=hl01.mistea.top#📟28@oneclickvpnkeys
-hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@193.142.59.97:443?sni=u723828us1244.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_061606089
+hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@193.142.59.97:443?sni=u723828us1244.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_061611088
