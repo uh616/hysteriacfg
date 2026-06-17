@@ -80,7 +80,7 @@ hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🆔v2r
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.130.218:443?insecure=1&sni=www.bing.com#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@192.9.159.141:30001?insecure=1&sni=san-jose2.nodes.lanmaoyun.icu#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.164.54:443?insecure=1&sni=www.bing.com#🔒
-hysteria2://d1db0080-669a-4357-ab9f-ab16719ed736@192.9.165.40:51000?allowInsecure=1&insecure=1&sni=cn.cremedelamer.com#
+hysteria2://d1db0080-669a-4357-ab9f-ab16719ed736@192.9.165.40:51000?insecure=1&sni=cn.cremedelamer.com#%F0%9F%87%A6%F0%9F%87%BA75666%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hysteria2://d1db0080-669a-4357-ab9f-ab16719ed736@192.9.179.140:51000?allowInsecure=1&insecure=1&security=tls&sni=cn.cremedelamer.com#
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@192.9.179.140:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
@@ -94,5 +94,5 @@ hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102?insecure=1&sni=du.wish.ml#🔒
 hy2://03e4fe32@193.123.95.157:31452?insecure=1&sni=www.bing.com#🔒
 hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&amp;sni=hl01.mistea.top#📟28@oneclickvpnkeys
-hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@193.142.59.97:443?sni=u723828us1244.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_061721861
+hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@193.142.59.97:443?sni=u723828us1244.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_061801875
 hy2://undefined@193.188.21.227:28188?insecure=1&sni=ir.ir.ir.speedtest.net.iririr.monster#🔒
