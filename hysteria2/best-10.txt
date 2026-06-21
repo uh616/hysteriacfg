@@ -1,9 +1,3 @@
-hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2056?security=tls&insecure=1&sni=jd1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇦%20SA%20down
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
-hysteria2://C5FC4ED3-25A0-4ACC-9862-0B63EB7EAD54@jp2.dexlos.com:20253?insecure=0&sni=jp2.dexlos.com&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3#
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@jp4.oomz.ru:30000/?insecure=1&amp;sni=bing.com#🎡74@oneclickvpnkeys
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
 hysteria2://2a1a0537-717c-402e-8e4f-7e81369997bd@jpzl2.stardad.lol:48512?security=tls&insecure=1&sni=https%3A%2F%2Fbing.com#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
@@ -87,10 +81,9 @@ hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMine
 hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://C5FC4ED3-25A0-4ACC-9862-0B63EB7EAD54@us9.dexlos.com:21756?insecure=0&fp=&sni=us9.dexlos.com&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3#
-hysteria2://T%24me%24V2RayyNGvpn@70.34.206.217:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T$me$V2RayyNGVpn@V2RayyNGvpn#%F0%9F%87%B8%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%B8%F0%9F%87%AA
-hysteria2://wundefinedg2dqmQqM@82.47.63.181:443?security=tls&amp;obfs=salamander&amp;obfs-password=T$me$V2RayyNGvpn@V2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#🇵🇱@V2RayyNGvpn🇵🇱
+hysteria2://wundefinedg2dqmQqM@82.47.63.181:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T$me$V2RayyNGvpn@V2RayyNGvpn#%F0%9F%87%B5%F0%9F%87%B1%40V2RayyNGvpn%F0%9F%87%B5%F0%9F%87%B1
 hysteria2://wundefinedg2dqmQqM@82.47.63.181:443?security=tls&obfs=salamander&obfs-password=T$me$V2RayyNGvpn@V2RayyNGvpn&insecure=1&sni=www.wordreference.com#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1#%EF%B8%8F47%40NetFlowTools
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&amp;sni=vpn-de-002.fastervpn.world#🇩🇪DE_1|2.6MB/s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://C6TpRY6HyT@vps-orange-jpn.maze-maker.com:37749?insecure=0&sni=vps-orange-jpn.maze-maker.com#
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
