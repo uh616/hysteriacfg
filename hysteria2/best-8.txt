@@ -38,8 +38,8 @@ hy2://KevinZakarian@66.23.198.35:443?obfs=salamander&obfs-password=KevinZakarian
 hy2://KevinZakarian@66.23.198.35:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
 hy2://9f73c619627d6a5d@66.245.192.15:443?obfs=salamander&obfs-password=bd7f765e&insecure=1&sni=www.apple.com#🔒
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=bd7f765e#⚡️
-hysteria2://V2RayyNGvpn@66.92.161.94:80?insecure=1&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#%F0%9F%87%A8%F0%9F%87%A6%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%A6
-hysteria2://kjMoXj9ZxP@66.92.161.94:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#%F0%9F%87%A8%F0%9F%87%A6%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%A6%20%231
+hysteria2://V2RayyNGvpn@66.92.161.94:80?security=tls&obfs=salamander&obfs-password=T.me%2FV2RayyNGvpn&insecure=1#
+hysteria2://kjMoXj9ZxP@66.92.161.94:443?security=tls&obfs=salamander&obfs-password=T.me%2FV2RayyNGvpn&insecure=1&sni=www.wordreference.com#
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@68.183.199.224:10001?sni=CA.1010520.shop#🔒
 hysteria2://dd4xmofilrdbpqwx@696969696969.duckdns.org:443?alpn=h3&fp=chrome&security=tls&sni=104.248.149.145#
 hy2://d2e21fabfe6ddb83@70.34.205.24:443?obfs=salamander&obfs-password=ca39a177&insecure=1&sni=www.apple.com#🔒
@@ -58,7 +58,7 @@ hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&sni=google.com&obfs=sal
 hy2://de02ad7f-f076-4e8d-abe8-9f2b21a557b5@79.72.49.232:50000?insecure=1&sni=www.microsoft.com#🔒
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?security=tls&amp;insecure=1&amp;sni=www.apple.com#@V2ray_Alpha--IR-2
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@8.219.53.46:5552?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&security=tls&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#
 hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443/?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@80.92.205.219:53041?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=jobvision.ir#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@81.208.175.184:2052?insecure=1&sni=jd1.mangshe.xyz#🔒
@@ -80,7 +80,7 @@ hy2://4328e5a3-b325-4154-9e7d-508e16962e40@84.252.75.14:8443?insecure=1&sni=hy10
 hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&insecure=1#🔒
 hy2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🔒
 hysteria2://9f5ce1f6-d223-4f80-b848-72b7d662f189@88.119.176.134:443?sni=lit7.helper-internet.com&pinSHA256=random#
-hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@88.151.195.220:443?sni=u711540us282.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E4%B9%8C%E5%85%8B%E5%85%B0_062211008
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@88.151.195.220:443?sni=u711540us282.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E4%B9%8C%E5%85%8B%E5%85%B0_062218007
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@88.151.33.158:443?sni=u729792us504.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
 hysteria2://efe3901e-b309-43f3-843a-f4f871670cf3@888275.nl01-cherry.online:8449?insecure=0&sni=sni.nl01-cherry.online#
