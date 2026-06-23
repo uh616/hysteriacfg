@@ -1,3 +1,4 @@
+hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443/?insecure=1&amp;sni=google.com#Hysteria
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052?insecure=1&sni=de1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052/?insecure=1&sni=de1.xiaoliyu.us#de%40oneclickvpnkeys
 hy2://c8865525-d888-4318-aa77-44ca4c95e88b@194.87.68.196:13167?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
@@ -22,7 +23,7 @@ hy2://scWFJKJ5Y6Ly@[2001:41d0:c:fdb::e9]:443?insecure=1&sni=yahoo.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1640:177d:dc00:ff:fe22:b443]:34975?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:29820?insecure=1&sni=www.bing.com#🔒
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=0&security=tls&sni=de1.xiaoliyu.cyou#
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@203.27.106.139:51495?peer=www.bing.com&amp;insecure=1&amp;mport=50000-55000#🇸🇬新加坡专线2
 hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@203.27.106.139:53556?peer=www.bing.com&amp;insecure=1&amp;mport=50000-55000#🇸🇬新加坡专线3
 hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@203.27.106.139:54671?peer=www.bing.com&amp;insecure=1&amp;mport=50000-55000#🇸🇬新加坡专线
@@ -38,8 +39,6 @@ hysteria2://Masir_Sefid@206.189.58.246:54040?insecure=0&sni=Api1.masir-sefid-1.m
 hy2://sysadmin.sysadmin@206.237.0.170:443?insecure=1#🔒
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#@rxv2ray
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%232
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%233
 hy2://9bb452b106ffc217@207.148.22.93:443?obfs=salamander&obfs-password=cd29099d&insecure=1#🔒
 hy2://9bb452b106ffc217@207.148.22.93:443/?obfs=salamander&obfs-password=cd29099d&insecure=1#CPI2
 hysteria2://Masir_Sefid@207.154.242.160:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api.masir-sefid-1.my#
@@ -98,3 +97,4 @@ hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:1000:2ebf:5400:6ff:f
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:1c00:2b69:5400:6ff:fe40:9724]:443?sni=u729792us2836.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:1c01:1e6:5400:6ff:fe40:971f]:443?sni=u729792us2752.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:24ed:5400:6ff:fe40:7f4d]:443?sni=u729792us2727.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
+hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:284d:5400:6ff:fe42:b721]:443?sni=u729792us3207.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
