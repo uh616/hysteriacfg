@@ -1,3 +1,4 @@
+hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443/?insecure=1&amp;sni=google.com#Hysteria
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052?insecure=1&sni=de1.xiaoliyu.us#🔒
@@ -96,4 +97,3 @@ hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:1000:2ebf:5400:6ff:f
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:1c00:2b69:5400:6ff:fe40:9724]:443?sni=u729792us2836.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:1c01:1e6:5400:6ff:fe40:971f]:443?sni=u729792us2752.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:24ed:5400:6ff:fe40:7f4d]:443?sni=u729792us2727.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
-hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:284d:5400:6ff:fe42:b721]:443?sni=u729792us3207.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
