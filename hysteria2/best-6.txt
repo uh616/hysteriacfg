@@ -1,3 +1,4 @@
+hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:284d:5400:6ff:fe42:b721]:443?sni=u729792us3207.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:3c2b:5400:6ff:fe40:7f4a]:443?sni=u729792us2715.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:3efd:5400:6ff:fe40:972b]:443?sni=u729792us2784.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hy2://96cad374-7573-4463-8804-4665c2c3d932@[2406:da14:536:647f:348d:e2a4:49b7:12ac]:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
@@ -96,4 +97,3 @@ hy2://StormXVPN@45.129.185.4:443?obfs=salamander&obfs-password=MYGaMeOP&insecure
 hy2://sysadmin.sysadmin@45.130.146.21:443?insecure=1#🔒
 hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443?insecure=1&sni=google.com#🔒
 hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&amp;sni=google.com#Hysteria
-hysteria2://f8d473b9-5724-489e-8841-cf4565203c9e@45.140.169.231:8080?security=tls&insecure=1&sni=www.bing.com#MCI-%40V2ray_Alpha-05hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#MCI-%40V2ray_Alpha-06
