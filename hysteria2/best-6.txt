@@ -1,3 +1,4 @@
+hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:284d:5400:6ff:fe42:b721]:443?sni=u729792us3207.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:3c2b:5400:6ff:fe40:7f4a]:443?sni=u729792us2715.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:3efd:5400:6ff:fe40:972b]:443?sni=u729792us2784.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hy2://96cad374-7573-4463-8804-4665c2c3d932@[2406:da14:536:647f:348d:e2a4:49b7:12ac]:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
@@ -50,11 +51,11 @@ hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2a14:1ec7:1038:76ec::1]:443?sni=u729792us1221.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443?insecure=1#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443/?insecure=1#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.70.127.37:443?insecure=1#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.70.127.37:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.70.127.37:443/?insecure=1#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443?insecure=1#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443/?insecure=1#
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=se.esimpson.org#
