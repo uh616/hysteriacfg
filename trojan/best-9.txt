@@ -1,3 +1,7 @@
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://77891e6750@27.0.232.204:443/?type=tcp&security=tls&sni=hk1.connecton.surf&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29
+trojan://79770a32-9607-4919-9483-0f1794559390@172.67.177.123:443/?type=tcp&security=tls&sni=nika3hdfy2.foriran.trade&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://79770a32-9607-4919-9483-0f1794559390@188.114.97.3:443/?type=tcp&security=tls&sni=nika3hdfy2.foriran.trade&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=in.stablize.top&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
 trojan://7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7@45.67.228.199:443/?type=tcp&security=tls&sni=nl1.nodegz.top&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
 trojan://7d618f20-bbc7-11ee-a803-1239d0255272@104.16.149.118:443/?type=tcp&security=tls&sni=de1.test3.net&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -29,7 +33,7 @@ trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443/?type=tcp&securi
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
 trojan://8e107680-6844-11f1-a5dc-1239d0255272@news.microsoft.com:443/?type=ws&host=uk1.test3.net&path=%2Fhowdy&security=tls&sni=uk1.test3.net#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://8r
-trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20533781
+trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20706509
 trojan://8r@Ln2Ray@206.71.158.23:45000/?insecure=1&amp;sni=gavazn.55994421.xyz&amp;obfs=salamander&amp;obfs-password=Telegram--
 trojan://91d7b973-630c-492f-9600-719f6a70f01e@104.16.132.167:443/?type=tcp&security=tls&sni=e1.777655.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://91d7b973-630c-492f-9600-719f6a70f01e@172.64.166.58:443/?type=tcp&security=tls&sni=e2.777655.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -478,12 +482,7 @@ trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214/?type=tcp&security=tls&sn
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%282157%29
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@125.141.32.222:11371/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%281865%29
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%282882%29
-trojan://Go5e2nJM8U@45.85.119.0:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#4FreeIran-3672
+trojan://Go5e2nJM8U@45.85.119.0:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#4Kian-3679
 trojan://Go5e2nJM8U@45.85.119.179:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2ray_arوصل
-trojan://Go5e2nJM8U@45.85.119.29:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#4FreeIran-3674
+trojan://Go5e2nJM8U@45.85.119.29:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#4Kian-3681
 trojan://Go5e2nKO8U@45.85.119.179:8443?path=JoinUs@v2rayNG_VPNN&security=tls&host=cc.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2ray_arوصل
-trojan://HdsUZmsHQW@148.113.141.99:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
-trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443/?type=ws&host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&security=tls&sni=uk1.bw8848.org#%E2%9A%AA%20%281%29
-trojan://hmR46dYjqH@154.3.37.35:41916/?type=grpc&amp;serviceName=&amp;authority=&amp;security=reality&amp;pbk=NkBoOON_wUnunfFPyxfUj9Fy-4ytuGn82d6Kp-1LNk0&amp;fp=chrome&amp;sni=www.icloud.com&amp;sid=5db27b&amp;spx=/#SCP|HK
-trojan://hSA6YXe15O@104.11.86.252:443?security=tls&amp;sni=Telegram������������+@WangCai2&amp;insecure=1&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#📡🇺🇸®️🆔[t.me/WEBHUBE👉MCI
-trojan://humanity@104.16.117.43:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#CA-%3E%2B%28%40DeamNet_Proxy%29%20%282%29
