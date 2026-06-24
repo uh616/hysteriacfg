@@ -29,7 +29,7 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇭🇰HK_@WangCai_8
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=0&security=tls&sni=de1.xiaoliyu.cyou#
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#%3E%3E%40oneclickvpnkeys%3A%3AXX
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#
 hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@203.27.106.139:51495?peer=www.bing.com&amp;insecure=1&amp;mport=50000-55000#🇸🇬新加坡专线2
 hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@203.27.106.139:53556?peer=www.bing.com&amp;insecure=1&amp;mport=50000-55000#🇸🇬新加坡专线3
 hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@203.27.106.139:54671?peer=www.bing.com&amp;insecure=1&amp;mport=50000-55000#🇸🇬新加坡专线
