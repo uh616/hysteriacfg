@@ -89,7 +89,6 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052/?insecure=1&sni=f
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒
 hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com#🔒
 hysteria2://g00teh7gcl67irgs@167.172.93.124:443?alpn=h3&fm={
-hysteria2://ka4w34v5luuujxkj@167.233.87.60:39433?sni=play.google.com&insecure=1&obfs=salamander#DE
 hy2://sysadmin.sysadmin@167.234.249.46:444?insecure=1&sni=a.961229.xyz#🔒
 hy2://364e8db7a2d57e32@167.253.152.235:46600?insecure=1&sni=www.bing.com#🔒
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000/?insecure=1&amp;sni=bing.com#🎡68@oneclickvpnkeys
@@ -98,3 +97,4 @@ hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@168.138.184.187:42477?peer=www.
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@168.75.103.205:2025?insecure=1&sni=sbl1.eyujichang.xyz#🔒
 hy2://maniubi@168.75.65.36:60800?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi@168.75.65.36:60800/?insecure=1&sni=www.bing.com#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+hy2://853d4960-629a-4a65-9569-30349e006f2b@168.75.85.171:443?insecure=1&sni=www.microsoft.com#🔒
