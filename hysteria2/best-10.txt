@@ -12,7 +12,7 @@ hysteria2://f3182d97-8472-4433-8d75-7598d6978364@kaikaixinxin-ca.legeth.xyz:443?
 hysteria2://Telegram%3A%40KevinZakarian@kevin.iserver.store:8443?security=tls&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1#🆔v2rayngrit%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://KevinZakaria#
 hysteria2://KevinZakaria…#
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@kr.9966690.xyz:50000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNpk4ZTU2NTd65A%3D%3D&sni=kr.9966690.xyz#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.5MB%2Fs%7CGPT%E2%81%BA%7CYT-KR%7CNF%7CD%2B%7CGM
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@kr.9966690.xyz:50000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNpk4ZTU2NTd65A%3D%3D&sni=kr.9966690.xyz#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT-KR%7CNF%7CD%2B%7CGM
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@kr.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2056?security=tls&insecure=1&sni=ld1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇬🇧%20GB%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2052/?insecure=1&sni=ld1.mangshe.xyz#%F0%9F%94%B02%40oneclickvpnkeys
@@ -37,7 +37,6 @@ hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@nl.9966690.xyz:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkdNDk4ZTU2NTd65A%3D%3D&sni=nl.9966690.xyz#%F0%9F%87%B3%F0%9F%87%B1NL_2%7C2.5MB%2Fs%7CGPT%E2%81%BA%7CYT-NL%7CNF%7CD%2B
 hysteria2://7roz68utnk7wgogj@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#%E2%9B%B563%40oneclickvpnkeys
 hysteria2://7roz68utnk7wgogj@nrealistic.nn-foto.ru:1935/?obfs=salamander&obfs-password=lhfl2z9mjngb7csh&sni=nrealistic.nn-foto.ru#
 hy2://rstnnl2705:ZmRjX7MkeEqZ5GQUIT5VO53ARuy6nrmQ@nrealistic.nn-foto.ru:8932/?insecure=1&sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -45,7 +44,6 @@ hysteria2://Nrqyc1GkGr@panel.cobalttoolsgithub.online:54236?insecure=0&fp=&sni=p
 hysteria2://dfbxu5tmmnmf23u5@panel.riziro.ir:4526?alpn=h3&ech=AGH%2BDQBdAAAgACA%2FG%2BiJmvonLLbAR%2FqxdOJHr3YYz%2BcR14O4ZUJa9LQNBgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA5nZXIxLnJpemlyby5pcgAA&fp=chrome&security=tls&sni=ger1.riziro.ir#
 hysteria2://28c05d48e2f470d07a4c392c9bd43849@quran.mci.ai:443?security=tls&insecure=0&sni=quran.mci.ai#
 hy2://rstnnl2705:QtmSqzxgO95zXwNcgVYSjDl02aRsjrrl@reddeadfan.rd-team.ru:2026/?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%87%A7%F0%9F%87%ACBG%28AzadNet.t.me%29
-hysteria2://bmw32hjrgwaflcf1@rug.xxee.ru:443?headerType=none&encryption=none&sni=rug.xxee.ru&obfs=salamander&obfs-password=0c29f48eeaf23141&insecure=0#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s544.ccgfw.online:443?sni=u729792us544.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s662.ccgfw.top:443?sni=u729792us662.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s665.ccgfw.top:443?sni=u729792us665.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
@@ -88,8 +86,8 @@ hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;s
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://C5FC4ED3-25A0-4ACC-9862-0B63EB7EAD54@us9.dexlos.com:21756?insecure=0&fp=&sni=us9.dexlos.com&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&amp;sni=vpn-de-002.fastervpn.world#🇩🇪DE_1|2.6MB/s
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-jp-002.fastervpn.world:443?insecure=1&sni=vpn-jp-002.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C4.9MB%2Fs%7CGPT%E2%81%BA%7CYT-JP%7CNF%7CGM%7C0%25
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-sg-003.fastervpn.world:443?insecure=1&sni=vpn-sg-003.fastervpn.world#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.3MB%2Fs%7CGPT%E2%81%BA%7CYT-SG%7CNF%7CGM%7C4%25
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%E4%B8%AD%E5%9C%8B%E8%87%BA%E7%81%A3%E4%B8%A8yoyapai.com
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_7%7C2.2MB/s
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_8%7C2.6MB/s
 hysteria2://C6TpRY6HyT@vps-orange-jpn.maze-maker.com:37749?insecure=0&sni=vps-orange-jpn.maze-maker.com#
