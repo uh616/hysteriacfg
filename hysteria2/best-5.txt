@@ -1,3 +1,4 @@
+hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
 hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
 hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
@@ -24,8 +25,10 @@ hy2://c72ee44c@[2001:41d0:a:2a7a:a:b:df4e:2408]:35051?insecure=1&sni=2001:41d0:a
 hy2://scWFJKJ5Y6Ly@[2001:41d0:c:fdb::e9]:443?insecure=1&sni=yahoo.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1640:177d:dc00:ff:fe22:b443]:34975?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:29820?insecure=1&sni=www.bing.com#🔒
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=0&sni=de1.xiaoliyu.cyou#Tel-%40NapsterNetvIrani%F0%9F%AB%82%201
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇭🇰HK_@WangCai_8
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#%F0%9F%87%A9%F0%9F%87%AADE_41%7C1.7MB%2Fs%7CGPT%E2%81%BA%7C7%25
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#
 hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@203.27.106.139:51495?peer=www.bing.com&amp;insecure=1&amp;mport=50000-55000#🇸🇬新加坡专线2
 hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@203.27.106.139:53556?peer=www.bing.com&amp;insecure=1&amp;mport=50000-55000#🇸🇬新加坡专线3
 hysteria2://00bcc61f-f0a9-40ce-a07e-5ad2b17cac58@203.27.106.139:54671?peer=www.bing.com&amp;insecure=1&amp;mport=50000-55000#🇸🇬新加坡专线
@@ -91,9 +94,7 @@ hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@23.247.137.67:307
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@23.247.137.67:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B07%40oneclickvpnkeys
 hy2://de6eafd5-a11f-4e9c-b763-2d114fb97257@23.26.34.209:8080?insecure=1&sni=www.bing.com#🔒
 hy2://sysadmin.sysadmin@23.95.20.134:446?insecure=1#🔒
-hysteria2://g00teh7gcl67irgs@[2400:6180:0:d2:0:2:f776:2000]:443?alpn=h3&amp;fm={
+hysteria2://g00teh7gcl67irgs@[2400:6180:0:d2:0:2:f776:2000]:443?alpn=h3&fm={
 hy2://18a720415df07a92@[2400:8a20:113:36::]:64321?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2401:b60:ffff:0:1:0:953c:8b7c]:20025?insecure=1&sni=www.bing.com#🔒
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:1000:2ebe:5400:6ff:fe41:9eb1]:443?sni=u729792us2901.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
-hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:1000:2ebf:5400:6ff:fe3f:a52e]:443?sni=u729792us2530.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
-hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:1c00:2b69:5400:6ff:fe40:9724]:443?sni=u729792us2836.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
