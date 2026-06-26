@@ -27,6 +27,7 @@ hy2://MScgdxgGEW@179.61.251.214:44800?obfs=salamander&obfs-password=On0(hf$54%25
 hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.165.76:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#
 hysteria2://%40Masir_Sefid@18.157.222.169:443?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://%40Masir_Sefid@18.157.222.169:444?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://%40Masir_Sefid@18.157.222.169:1040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
@@ -100,4 +101,3 @@ hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-pass
 hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
 hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
-hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443/?insecure=1&amp;sni=google.com#Hysteria
