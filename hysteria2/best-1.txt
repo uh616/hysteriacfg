@@ -9,7 +9,7 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052/?insecure=1&sni=
 hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&amp;sni=google.com#Hysteria
 hy2://sysadmin.sysadmin@103.235.18.69:444?insecure=1&sni=tototel.dogpp.com#🔒
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@103.241.65.25:443?mport=22000-22999#🔒
-hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@103.251.165.57:443?sni=u691611uc19c1585s677.sspcccdn.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_062620910
+hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@103.251.165.57:443?sni=u691611uc19c1585s677.sspcccdn.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%E8%8D%B7%E5%85%B0_062700891
 hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?security=tls&obfs=salamander&obfs-password=2a7e8084206388f4&insecure=0&sni=gettestin.xxee.ru#
 hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443/?obfs=salamander&obfs-password=2a7e8084206388f4&sni=gettestin.xxee.ru#
 hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
