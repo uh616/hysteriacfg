@@ -2,6 +2,7 @@ hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2056?security=tls&insecure=1&sni=cc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2052/?insecure=1&sni=cc1.mangshe.xyz#%F0%9F%94%B040%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc2.mangshe.xyz:2056?security=tls&insecure=1&sni=cc2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@cl.9966690.xyz:30000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU25T365A%3D%3D&sni=cl.9966690.xyz#%F0%9F%87%A8%F0%9F%87%B1CL_1%7C2.3MB%2Fs%7CGPT%E2%81%BA%7CYT-CL%7CNF%7CD%2B%7CGM
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:443?sni=connect-ger2.gadmap.online#
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:443/?sni=connect-ger2.gadmap.online#
 hysteria2://ee1f7400-b7cb-4776-9e85-497965dfde00@dailyshop.pharmaweb.info:8080?peer=buildcenter.pharmaweb.info&insecure=0&sni=buildcenter.pharmaweb.info&alpn=h3#temp500-singbox_hysteria2
@@ -20,7 +21,6 @@ hysteria2://tYVaOArhcupVmnYggzlDZOuxVceGOSUgpjNhrVkFXJpxmJWFoodlWDwYuFSLgbcoREqR
 hysteria2://e442664a-ff50#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@157.254.158.7:33133/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY?sni=akile.nai3.cc#🇺🇲@ELiV2ray
 hysteria2://zZlPDO5jYeaE9rYtNnjlBI0igvbIdjRX@endpoint.neoservers.ir:30781?alpn=h3%2Ch2%2Chttp/1.1&fp=chrome&sni=www.microsoft.com&obfs=salamander&obfs-password=8s7t1sNDH36vU8_Ixd7MckIY#
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@ff2.yuntong.click:443?obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=ff2.yuntong.click#%F0%9F%87%A9%F0%9F%87%AADE_5%7C2.1MB%2Fs
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20HK
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#
 hysteria2://257e4c03-3e65-48da-b7a4-b08ddd996758@fh2984jgnuhop23.lt.mediavitrina.com:40443?sni=player.lt.mediavitrina.com#
@@ -52,7 +52,7 @@ hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=1&sni=hy2-new.aspidnet.xyz#🌐سرور
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=1&sni=hy2-new.aspidnet.xyz#
 hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?insecure=1&sni=hy2.123266.xyz#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 hysteria2://github.com/Alvin9999-newpac/fanqiang@hy2.313186.xyz:18066?insecure=0&sni=hy2.313186.xyz#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.1MB/s
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@hy2.313186.xyz:18066/?sni=hy2.313186.xyz#
