@@ -1,3 +1,6 @@
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2052/?insecure=1&sni=bl1.mangshe.xyz#%F0%9F%94%B01%40oneclickvpnkeys
+hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2056?security=tls&insecure=1&sni=bl2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇫🇷%20FR%20down
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2052/?insecure=1&sni=bl2.mangshe.xyz#%F0%9F%94%B04%40oneclickvpnkeys
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1001?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1002?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882?hiddify=1&obfs=salamander&obfs-password=xYGLQEJbZmUz&sni=ramzinex.com&insecure=1#Ipv6%20Hysteria2
@@ -97,7 +100,3 @@ hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
 hysteria2://2a1a0537-717c-402e-8e4f-7e81369997bd@jpzl2.stardad.lol:48512?security=tls&insecure=1&sni=https%3A%2F%2Fbing.com#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:37025?insecure=0&sni=&obfs=salamander&obfs-password=@JynMarket#
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:37025?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=@JynMarket&insecure=0&sni=#
-hysteria2://odnvqb4ihg396e5z@104.252.19.102:54040?security=tls&obfs=salamander&alpn=h3&obfs-password=@JynMarket&insecure=0&sni=104.252.19.102#
-hysteria2://f3182d97-8472-4433-8d75-7598d6978364@kaikaixinxin-ca.legeth.xyz:443?security=tls&insecure=0&mport=61001-61999&sni=kaikaixinxin-ca.legeth.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇨🇦%20CA%20down
-hysteria2://Telegram%3A%40KevinZakarian@kevin.iserver.store:8443?security=tls&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1#🆔v2rayngrit%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
-hysteria2://KevinZakaria#
