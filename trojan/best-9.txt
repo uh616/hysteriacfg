@@ -1,7 +1,5 @@
-trojan://8165e695-0746-4d45-ad56-24431b21f546@dl-us3.steamdownload.top:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://8165e695-0746-4d45-ad56-24431b21f546@dl-us4.steamdownload.top:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://85950277-f447-48f0-9ead-aaf6d5ff3cad@104.21.49.59:443/?type=tcp&security=tls&sni=fghklo5.890617.xyz#%40Hope_Net-join-us-on-Telegram
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fau-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:54.22ms
 trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%23ShineNET%20VPN%20%2828%29
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk1.sanfen001.pics:443/?type=tcp&security=tls&sni=hk1.sanfen001.pics#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -25,7 +23,7 @@ trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443/?type=tcp&securi
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
 trojan://8e107680-6844-11f1-a5dc-1239d0255272@news.microsoft.com:443/?type=ws&host=uk1.test3.net&path=%2Fhowdy&security=tls&sni=uk1.test3.net#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://8r
-trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20593218
+trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974309
 trojan://8r@Ln2Ray@206.71.158.23:45000/?insecure=1&amp;sni=gavazn.55994421.xyz&amp;obfs=salamander&amp;obfs-password=Telegram--
 trojan://91d7b973-630c-492f-9600-719f6a70f01e@104.16.132.167:443/?type=tcp&security=tls&sni=e1.777655.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://91d7b973-630c-492f-9600-719f6a70f01e@172.64.166.58:443/?type=tcp&security=tls&sni=e2.777655.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -50,7 +48,6 @@ trojan://a3ae1d68-4b0f-459f-9796-2c8d9d93a451@hkmax01.170203.xyz:443/?type=tcp&s
 trojan://a3fa58b581353bb375d2ddad0f327938@72.167.45.6:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://A4u%5Ep(_UR*F6@irancell.buzzmuzzpanel.online:443/?type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443/?type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&brand=@Arvand_soul#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:84.64ms
 trojan://a9m0e7cew1cisns5@37.156.43.207:2052?fp=chrome&headerType=http&host=www.yahoo.com&path=/TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&pbk=kazX7XZlJchPiRaFHo3IVPrEwfosszgCGHbe1W51On0&security=reality&sid=b6094d7c68f3&sni=yahoo.com&spx=/uSGpSp0w2M8QoOD&type=tcp#🇨🇭¹ALL👉@JKVPN
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#INT🌍
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#INT🌍
@@ -492,9 +489,9 @@ trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214/?type=tcp&security=tls&sn
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%282157%29
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@125.141.32.222:11371/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%281865%29
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%282882%29
-trojan://Go5e2nJM8U@45.85.119.0:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#4Mohsen-3859
+trojan://Go5e2nJM8U@45.85.119.0:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#4Nika-3860
 trojan://Go5e2nJM8U@45.85.119.179:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2ray_arوصل
-trojan://Go5e2nJM8U@45.85.119.29:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#4Mohsen-3861
+trojan://Go5e2nJM8U@45.85.119.29:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#4Nika-3862
 trojan://Go5e2nKO8U@45.85.119.179:8443?path=JoinUs@v2rayNG_VPNN&security=tls&host=cc.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2ray_arوصل
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@198.52.244.10:443/?type=tcp&security=tls&sni=198.52.244.10#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.162:443/?type=tcp&security=tls&sni=207.126.167.162#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -527,3 +524,5 @@ trojan://humanity@104.16.174.72:443/?type=ws&host=www.calmloud.com&path=%2Fassig
 trojan://humanity@104.16.62.25:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2816%29
 trojan://humanity@104.16.71.213:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://humanity@104.16.79.73:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2826%29
+trojan://humanity@104.16.89.120:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%282%29
+trojan://humanity@104.17.121.71:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2824%29
