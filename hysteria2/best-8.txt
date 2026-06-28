@@ -1,3 +1,4 @@
+hy2://4328e5a3-b325-4154-9e7d-508e16962e40@64.32.22.163:8443?insecure=1&sni=hy16.abyssvpn.com#🔒
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@64.71.152.247:443?mport=22000-22999#🔒
 hysteria2://V2RayyNgvpn@65.109.177.191:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20MTMVPN
 hysteria2://Masir_Sefid@65.109.216.181:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#
@@ -100,4 +101,3 @@ hysteria2://ef2297d0-9ccf-4dfd-a84f-287010c97659@akhk1.naicn.top:8443?sni=akhk1.
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@akile.nai3.cc:33133/?sni=akile.nai3.cc#%F0%9F%85%B0LL%20OPERATORS%20%20%20%F0%9F%94%B5%E2%9A%AA%F0%9F%94%B4%20%20%20%40V2RAYNPLUS%20%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://mTwkzEmNmip3wJ2ZilGwK7w2sYexYn@anymath.ir:443?sni=anymath.ir&alpn=h3&obfs=salamander&obfs-password=znpWJG0Kp5VZGbelhK56SqINeamjre#hysteria2
 hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#🆔appsooner%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@asb1.mangshe.xyz:2052/?insecure=1&sni=asb1.mangshe.xyz#%F0%9F%94%B06%40oneclickvpnkeys
