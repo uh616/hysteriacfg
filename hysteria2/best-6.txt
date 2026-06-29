@@ -1,5 +1,3 @@
-hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:24ed:5400:6ff:fe40:7f4d]:443?sni=u729792us2727.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
-hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:284d:5400:6ff:fe42:b721]:443?sni=u729792us3207.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:3c2b:5400:6ff:fe40:7f4a]:443?sni=u729792us2715.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2401:c080:3800:3efd:5400:6ff:fe40:972b]:443?sni=u729792us2784.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
 hy2://96cad374-7573-4463-8804-4665c2c3d932@[2406:da14:536:647f:348d:e2a4:49b7:12ac]:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
@@ -41,7 +39,7 @@ hy2://18240b2dfdd76484@[2a05:f480:2000:1384:5400:5ff:fe19:8b0a]:443/?obfs=salama
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a06:8184:2:1a::9d0f:5017]:32421?insecure=1&sni=www.bing.com#🔒
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@[2a0b:4140:925f::2]:81?insecure=1#🔒
 hysteria2://2bed923d-0204-4993-ae38-59281c98bfd9@[2a0b:4142:a86::2]:4142?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#%F0%9F%87%A9%F0%9F%87%AADE_%40WangCai_8
-hy2://2bed923d-0204-4993-ae38-59281c98bfd9@[2a0b:4142:a86::2]:28443/?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#🇩🇪DE_@WangCai_8
+hysteria2://2bed923d-0204-4993-ae38-59281c98bfd9@[2a0b:4142:a86::2]:28443/?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#%F0%9F%A6%9610@oneclickvpnk
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2a0b:8bc0:2:856::1]:443?sni=u729792us2060.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hy2://28c05d48e2f470d07a4c392c9bd43849@[2a0d:5940:44:301::]:443?sni=jostar-data.nl#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a0e:6a80:3:38c:0:1:2ef0:ff2a]:25002?insecure=1&sni=www.bing.com#🔒
@@ -55,10 +53,10 @@ hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2a14:1ec7:1038:76ec::1]:443?sn
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.49.205:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8%20%231
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.49.205:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇰🇷KR_@WangCai_8
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443?insecure=1#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443?insecure=1#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20946695
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443/?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20174750
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20715643
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443/?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20185232
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=se.esimpson.org#
@@ -101,3 +99,5 @@ hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@45.118.132.243:443?mport=40001-50000&
 hy2://StormXVPN@45.129.185.4:443?obfs=salamander&obfs-password=MYGaMeOP&insecure=1&sni=fast.com#🔒
 hy2://sysadmin.sysadmin@45.130.146.21:443?insecure=1#🔒
 hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443?insecure=1&sni=google.com#🔒
+hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&amp;sni=google.com#Hysteria
+hysteria2://f8d473b9-5724-489e-8841-cf4565203c9e@45.140.169.231:8080?security=tls&insecure=1&sni=www.bing.com#MCI-%40V2ray_Alpha-05hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#MCI-%40V2ray_Alpha-06
