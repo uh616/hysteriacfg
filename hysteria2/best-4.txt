@@ -25,11 +25,11 @@ hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=sala
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.233.65:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C7.9MB%2Fs%7CGPT%E2%81%BA%7CYT-SG%7CNF%7CGM%7C4%25
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.165.76:443?insecure=1&sni=vpn-sg-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C2.5MB/s
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.165.76:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%8770%40oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.143.178.20:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.143.178.20:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C4.8MB%2Fs%7CGPT%E2%81%BA%7CYT-SG%7CNF%7C4%25
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.143.178.20:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
 hysteria2://%40Masir_Sefid@18.157.222.169:443?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://%40Masir_Sefid@18.157.222.169:444?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
