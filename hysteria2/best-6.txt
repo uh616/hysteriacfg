@@ -1,3 +1,4 @@
+hy2://96cad374-7573-4463-8804-4665c2c3d932@[2406:da14:a84:307f:3f52:9439:2eb2:5ee3]:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hysteria2://57c0ba73-b381-4fa6-aad0-f87c72a4d2d1@[2407:3640:2185:9595:0:1:c2d0:9336]:59001?security=tls&insecure=1#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@24sg.prometheusnet01.xyz:23729?insecure=1&obfs=none&mport=21000-26000&fastopen=1#🆔freev2rayi%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hy2://490528890@[2602:fed2:770a::ea]:1850/?insecure=1&sni=www.bing.com
@@ -48,7 +49,6 @@ hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2a14:1ec7:1038:76ec::1]:443?sni=u729792us1221.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.49.205:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2003
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443?insecure=1#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443/?insecure=1#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443?insecure=1#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
