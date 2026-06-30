@@ -1,3 +1,5 @@
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.105.240.182:10001?sni=JP.1010520.shop#🔒
+hysteria2://few4139098219@172.172.36.217:7863?security=tls&insecure=1&sni=bing.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://1486bfa6-1c4c-456d-b055-c9760f911385@172.233.81.57:443/?mport=20000-50000&insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=YTVjNWFjYzExOTIzNzQyOQ%3D%3D#jp
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.236.149.43:10001?sni=SG3.1010520.shop#🔒
 hy2://d5537dd05904b6a6@173.199.70.234:443?insecure=1&obfs=salamander&obfs-password=d2b91736#🔒
@@ -25,7 +27,7 @@ hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%8762%40NetFlowTools
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#EPODONIOS
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.149.2:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20853793
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.149.2:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.165.76:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%8770%40NetFlowTools
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.165.76:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#EPODONIOS
 hysteria2://%40Masir_Sefid@18.157.222.169:443?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
@@ -100,6 +102,3 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@194.104.146.113:3
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
 hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
 hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
-hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
-hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
-hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443/?insecure=1&amp;sni=google.com#Hysteria
