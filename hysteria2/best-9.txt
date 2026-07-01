@@ -5,7 +5,7 @@ hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2056?security=tls&insecure=1&sni=cc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2052/?insecure=1&sni=cc1.mangshe.xyz#%F0%9F%94%B040%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc2.mangshe.xyz:2056?security=tls&insecure=1&sni=cc2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@clash-ip1.934618.xyz:18271?allowInsecure=0&insecure=0&security=tls&sni=clash-ip1.934618.xyz#
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@clash-ip1.934618.xyz:18271?allowInsecure=0&insecure=0&security=tls&sni=clash-ip1.934618.xyz#%E6%B3%95%E5%9B%BD+ONLINE+S.A.S.%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:443?sni=connect-ger2.gadmap.online#
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:443/?sni=connect-ger2.gadmap.online#
 hysteria2://ee1f7400-b7cb-4776-9e85-497965dfde00@dailyshop.pharmaweb.info:8080?peer=buildcenter.pharmaweb.info&insecure=0&sni=buildcenter.pharmaweb.info&alpn=h3#temp500-singbox_hysteria2
@@ -36,7 +36,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sn
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&sni=138.197.44.181#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20138.197.44.181%20%E2%97%88%20udp:46160%20%E2%97%88%20DigitalOcean%20/%20DigitalOcean%20%E2%97%88%2084a50
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F9%40oneclickvpnkeys
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=0&sni=fta.fontanvpn.com#
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com#%E5%A2%A8%E8%A5%BF%E5%93%A5_070110006
 hysteria2://dfbxu5tmmnmf23u5@ger1.riziro.ir:2087?alpn=h2%2Ch3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22xdbc2u01v1j9fhvv%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv&security=tls&sni=ger1.riziro.ir#
 hysteria2://5z15av99psrlhdqp@32.195.51.20:39150?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h3,http/1.1,h2&fm={#
 hysteria2://653m8mmiy7048p0f@nrealistic.nn-foto.ru:1935/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&obfs=salamander&obfs-password=lhfl2z9mjngb7csh&sni=#
